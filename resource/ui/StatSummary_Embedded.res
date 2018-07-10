@@ -10,7 +10,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"G_MenuBg"
+		"bgcolor_override"	"0 0 0 0"
 	}
 	"MainBackground"
 	{
@@ -24,7 +24,7 @@
 		"enabled"		"1"
 		"image"			""
 		"scaleImage"		"1"
-		"bgcolor_override"		"200 200 200 255"
+		"bgcolor_override"		"0 0 0 255"
 	}
 	"OnYourWayLabel" [$WINDOWS]
 	{
@@ -42,6 +42,8 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
 	}					
 	"MapLabel"
 	{
@@ -63,6 +65,8 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
 	}
 	"MapType" [$WINDOWS]
 	{
@@ -80,6 +84,8 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
 	}						
 	"StatData"
 	{

@@ -8,11 +8,11 @@
 "text_x" "0"
 "text_y" "0"
 "delta_item_end_y" "0"
-"PositiveColor" "255 255 255 255"
+"PositiveColor" "100 255 100 255"
 "NegativeColor" "255 255 255 255"
 "delta_lifetime" "3"
-"delta_item_font" "HudFontGiantOutline"
-"delta_item_font_big" "HudFontGiantOutline"
+"delta_item_font" "m0refont18"
+"delta_item_font_big" "m0refont22"
 }
 "DamageAccountValue" 
 {

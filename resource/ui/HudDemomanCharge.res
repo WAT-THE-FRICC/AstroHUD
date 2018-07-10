@@ -21,4 +21,24 @@
 "dulltext" "0"
 "brighttext" "0"
 }
+"ChargeLabel" 
+{
+"ControlName" "CExLabel"
+"fieldName" "ChargeLabel"
+"xpos" "c-50"
+"ypos" "324"
+"zpos" "3"
+"wide" "100"
+"tall" "7"
+"autoResize" "1"
+"pinCorner" "2"
+"visible" "1"
+"enabled" "1"
+"tabPosition" "0"
+"labelText" "#TF_Charge"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+"font" "TFFontSmall"
+}
 }

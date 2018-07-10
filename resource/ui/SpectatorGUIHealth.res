@@ -36,10 +36,10 @@
 "xpos" "0"
 "ypos" "2"
 "zpos" "2"
-"wide" "28"
-"tall" "28"
+"wide" "0"
+"tall" "0"
 "visible" "0"
-"enabled" "0"
+"enabled" "1"
 "image" "../hud/health_equip_bg"
 "scaleImage" "1"
 }
@@ -70,7 +70,7 @@
 "enabled" "1"
 "labeltext" "%Health%"
 "textAlignment" "north-west"
-"font" "m0refont16"
+"font" "m0refont15"
 "fgcolor_override" "SpecHealthNormal"
 }
 "PlayerStatusPlayerLevel" 

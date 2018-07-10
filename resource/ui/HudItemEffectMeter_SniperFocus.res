@@ -1,5 +1,4 @@
-///////////
-// TODO
+// Hitman's Heatmaker
 
 
 "Resource/UI/HudItemEffectMeter_SniperFocus.res"
@@ -33,41 +32,44 @@
 		"teambg_3"		"../hud/misc_ammo_area_horiz1_blue"
 		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
 	}
-	
-	"ItemEffectMeterLabel"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"			"ItemEffectMeterLabel"
-		"xpos"			"0"
-		"ypos"			"1"
-		"zpos"			"3"
-		"wide"			"118"
-		"tall"			"8"
-		"visible"				"1"
-		"enabled"				"1"
-		"labelText"			"#TF_Ball"
-		"fgcolor_override" "Metal"
-		"textAlignment"			"center"
-		"font"				"Regular9"
-	}
-
-	"ItemEffectMeter"
-	{	
-		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ItemEffectMeter"
-		"font"			"Default"
-		"xpos"			"0"
-		"ypos"			"1"
-		"zpos"			"2"
-		"wide"			"118"
-		"tall"			"9"				
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"Left"
-		"bgcolor_override" "0 0 0 175"
-		"dulltext"		"0"
-		"brighttext"	"0"
-	}			
+	"ItemEffectMeterLabel" 
+{
+"ControlName" "CExLabel"
+"fieldName" "ItemEffectMeterLabel"
+"xpos" "c-50"
+"ypos" "323"
+"zpos" "3"
+"wide" "100"
+"tall" "7"
+"autoResize" "1"
+"pinCorner" "2"
+"visible" "1"
+"enabled" "1"
+"tabPosition" "0"
+"labelText" "#TF_Ball"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+"font" "TFFontSmall"
+}
+"ItemEffectMeter" 
+{
+"ControlName" "ContinuousProgressBar"
+"fieldName" "ItemEffectMeter"
+"font" "m0refont10"
+"xpos" "c-50"
+"ypos" "330"
+"zpos" "2"
+"wide" "100"
+"tall" "3"
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"textAlignment" "north-west"
+"bgcolor_override" "QHUDChargeMeterBG"
+"fgcolor_override" "QHUDChargeMeterFG"
+"dulltext" "0"
+"brighttext" "0"
+}	
 }

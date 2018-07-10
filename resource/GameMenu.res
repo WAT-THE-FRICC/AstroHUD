@@ -7,10 +7,10 @@
 "OnlyInGame" "1"
 "subimage" "icon_resume"
 }
-"QuickplayButton"
+"QueueButton"
 {
 "label" "Queue for Casual"
-"actionsignallevel"	"1"
+"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" "glyph_multiplayer"
 "OnlyAtMenu" "1"
@@ -48,6 +48,12 @@
 "label" "Workshop"
 "command" "engine OpenSteamWorkshopDialog"
 "subimage" "glyph_steamworkshop"
+}
+"DemoUIButton"
+{
+"label" "DemoUI"
+"command" "engine demoui"
+"subimage" "glyph_tv"
 }
 "VRModeButton"
 {

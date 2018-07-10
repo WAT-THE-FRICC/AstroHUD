@@ -82,13 +82,13 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "PlayerStatusHealthValueShadow"
-"xpos" "9234"
-"ypos" "424"
+"xpos" "c-192"
+"ypos" "331" //423
 "zpos" "5"
 "wide" "100"
 "tall" "50"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
 "font" "SurfaceMedium50"

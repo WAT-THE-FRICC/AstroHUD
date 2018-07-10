@@ -1,4 +1,4 @@
-// everything Demoman that’s not the Eyelander
+// everything Demoman that's not the Eyelander
 
 "Resource/UI/HudDemomanPipes.res" 
 {
@@ -25,10 +25,10 @@
 "ControlName" "CExLabel"
 "fieldName" "ChargeLabel"
 "xpos" "c-50"
-"ypos" "330"
+"ypos" "334"
 "zpos" "3"
 "wide" "100"
-"tall" "6"
+"tall" "7"
 "autoResize" "1"
 "pinCorner" "2"
 "visible" "1"
@@ -90,8 +90,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "NumPipesLabel"
-"xpos" "c0" //c-44
-"ypos" "c-25" //260 //390
+"xpos" "c-25" //c-44
+"ypos" "c25" //260 //390
 "zpos" "2"
 "wide" "50"
 "tall" "20"

@@ -7,7 +7,7 @@
 "ControlName" "CExLabel"
 "fieldName" "ChargeLabel"
 "xpos" "c104"
-"ypos" "330"//407
+"ypos" "310"//407
 "zpos" "3"
 "wide" "100"
 "tall" "50"
@@ -28,7 +28,7 @@
 "ControlName" "CExLabel"
 "fieldName" "IndividualChargesLabel"
 "xpos" "c99"
-"ypos" "330"//408
+"ypos" "310"//408
 "zpos" "3"
 "wide" "100"
 "tall" "50"
@@ -128,7 +128,7 @@
 		"ypos"			"340"
 		"zpos"			"2"
 		"wide"			"20"
-		"tall"			"9"				
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -149,7 +149,7 @@
 		"ypos"			"340"
 		"zpos"			"2"
 		"wide"			"20"
-		"tall"			"9"				
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -170,7 +170,7 @@
 		"ypos"			"340"
 		"zpos"			"2"
 		"wide"			"20"
-		"tall"			"9"				
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -191,7 +191,7 @@
 		"ypos"			"340"
 		"zpos"			"2"
 		"wide"			"20"
-		"tall"			"9"				
+		"tall"			"6"				
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

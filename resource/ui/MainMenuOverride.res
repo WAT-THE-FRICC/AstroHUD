@@ -6,7 +6,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD a0.1.13 by exitiosius and astroyed. ALPHA BUILD"
+    "labelText"		"AstroHUD a0.2 by exitiosius and astroyed. ALPHA BUILD"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -1309,6 +1309,62 @@
 }
 }
 }
+"DemoUIButton" 
+{
+"ControlName" "EditablePanel"
+"fieldname" "DemoUIButton"
+"xpos" "40"
+"ypos" "329"
+"zpos" "11"
+"wide" "100"
+"tall" "14"
+"visible" "1"
+"PaintBackgroundType" "2"
+"SubButton" 
+{
+"ControlName" "CExImageButton"
+"fieldName" "SubButton"
+"xpos" "0"
+"ypos" "0"
+"wide" "f0"
+"tall" "480"
+"autoResize" "0"
+"pinCorner" "3"
+"visible" "1"
+"enabled" "1"
+"tabPosition" "0"
+"textinsetx" "0"
+"use_proportional_insets" "1"
+"font" "m0refont14"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+"default" "1"
+"sound_depressed" "UI/buttonclick.wav"
+"sound_released" "UI/buttonclickrelease.wav"
+"border_default" ""
+"border_armed" ""
+"paintbackground" "0"
+"defaultFgColor_override" "255 255 255 255"
+"armedFgColor_override" "125 225 30 255"
+"depressedFgColor_override" "125 225 30 255"
+"image_drawcolor" "117 107 94 255"
+"image_armedcolor" "235 226 202 255"
+"SubImage" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "SubImage"
+"xpos" "9999"
+"ypos" "9999"
+"zpos" "1"
+"wide" "14"
+"tall" "14"
+"visible" "1"
+"enabled" "1"
+"scaleImage" "1"
+}
+}
+}
 "VRModeButton" 
 {
 "ControlName" "EditablePanel"
@@ -1381,6 +1437,7 @@
 "visible" "1"
 "pinCorner" "0"
 "border" "MainMenuBGBorder"
+"bgcolor_override" "50 50 50 255"
 "TitleLabel" 
 {
 "ControlName" "CExLabel"
@@ -1845,12 +1902,12 @@
 // Originally multiplayer button
 // moved up and re-purposed as
 // instant casual queue 
-"QuickplayButton" 
+"QueueButton" 
 {
 "ControlName" "EditablePanel"
-"fieldname" "QuickplayButton"
+"fieldname" "QueueButton"
 "xpos" "40"
-"ypos" "105" //231
+"ypos" "105" //105//231
 "zpos" "11"
 "wide" "140"
 "tall" "20"
@@ -1886,8 +1943,6 @@
 "depressedFgColor_override" "125 225 30 255"
 "image_drawcolor" "117 107 94 255"
 "image_armedcolor" "235 226 202 255"
-"actionsignallevel"	"1"
-"Command"		"find_game"
 "SubImage" 
 {
 "ControlName" "ImagePanel"

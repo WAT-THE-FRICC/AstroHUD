@@ -134,7 +134,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"2"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Continue"
@@ -159,7 +159,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"2"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_WatchIntro"
@@ -185,7 +185,7 @@
 		"wide"			"150"
 		"tall"			"30"
 		"autoResize"	"0"
-		"pinCorner"		"2"
+		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"#TF_Back"
@@ -271,7 +271,8 @@
 		{
 			"name"		"intro"
 			"text"		"#TF_WatchIntro_360"
-			"icon"		"#GameUI_Icons_Y_BUTTON"	
+			"icon"		"#GameUI_Icons_Y_BUTTON"
+			"pinCorner"		"0"	
 		}
 		
 		"button"
@@ -279,6 +280,7 @@
 			"name"		"continue"
 			"text"		"#TF_Continue_360"
 			"icon"		"#GameUI_Icons_A_BUTTON"	
+			"pinCorner"		"0"
 "pinCorner" "0"
 		}
 	}	

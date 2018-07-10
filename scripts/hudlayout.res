@@ -270,7 +270,7 @@
 "xpos" "0"
 "ypos" "0"
 "wide" "f0"
-"tall" "318"
+"tall" "316"
 "priority" "40"
 }
 "CSpectatorTargetID" 
@@ -834,7 +834,7 @@
 "enabled" "1"
 "xpos" "10"
 "ypos" "275"
-"wide" "250"
+"wide" "200"
 "tall" "120"
 "PaintBackgroundType" "2"
 }
@@ -1177,10 +1177,11 @@
 "fieldName" "HudMenuTauntSelection"
 "visible" "1"
 "enabled" "1"
-"xpos" "c-235"
-"ypos" "c-42"
-"wide" "470"
-"tall" "200"
+"xpos" "r200"//c-235
+"ypos" "30"//c-42
+"zpos" "1"
+"wide" "200"
+"tall" "470"
 "PaintBackgroundType" "0"
 }
 "ItemAttributeTracker" 

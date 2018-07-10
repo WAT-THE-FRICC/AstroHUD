@@ -50,6 +50,22 @@
 "textAlignment" "north-west"
 "labelText" "%Ammo%"
 }
+"AmmoInClipShadow" 
+{
+"ControlName" "CExLabel"
+"fieldName" "AmmoInClipShadow"
+"font" "SurfaceMedium50"
+"fgcolor" "QHUDShadow"
+"xpos" "c105"
+"ypos" "331"//423
+"zpos" "5"
+"wide" "100"
+"tall" "50"
+"visible" "1"
+"enabled" "1"
+"textAlignment" "north-west"
+"labelText" "%Ammo%"
+}
 "AmmoInReserve" 
 {
 "ControlName" "CExLabel"
@@ -88,13 +104,13 @@
 "fieldName" "AmmonoClipshadow"
 "font" "SurfaceMedium50"
 "fgcolor" "QHUDShadow"
-"xpos" "9531"
-"ypos" "424"
+"xpos" "c104"
+"ypos" "330"//423
 "zpos" "5"
 "wide" "100"
 "tall" "50"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%Ammo%"
 }

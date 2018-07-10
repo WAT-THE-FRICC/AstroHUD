@@ -63,7 +63,7 @@
 			"tall"				"f0"
 			"visible"			"1"
 			"enabled"			"1"
-			"bgcolor_override"	"G_MenuBg"
+			"bgcolor_override"	"0 0 0 255"
 		}
 	
 		"Background"
@@ -104,8 +104,8 @@
 			"zpos"				"198"
 			"wide"				"600"
 			"tall"				"300"
-			"visible"			"1"
-			"enabled"			"1"
+			"visible"			"0"
+			"enabled"			"0"
 			"image"				"replay/thumbnails/teamsilhouette"
 			"scaleImage"		"1"
 			"drawcolor"			"G_Highlight"
@@ -126,7 +126,7 @@
 			"visible"		"1"
 			"enable"		"1"
 			"paintbackground"	"1"
-			"bgcolor_override"	"G_Footer"
+			"bgcolor_override"	"0 0 0 255"
 		}
 	
 		"ContributedLabel"
@@ -164,7 +164,7 @@
 				"font"			"DefaultVerySmall"
 				"labelText"		"#TF_Contributed"
 				"textAlignment"	"center"
-				"fgcolor"		"G_MenuText"
+				"fgcolor"		"255 255 255 255"
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"40"
@@ -269,7 +269,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"G_MenuText"
+		"fgcolor" 		"255 255 255"
 		"Alpha"			"200"
 	}
 	
@@ -290,7 +290,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"G_MenuText"
+		"fgcolor" 		"255 255 255 255"
 	}
 	
 	"MapType"
@@ -309,7 +309,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"G_MenuText"
+		"fgcolor" 		"255 255 255"
 		"Alpha"			"200"
 	}
 

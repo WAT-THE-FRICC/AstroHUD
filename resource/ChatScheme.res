@@ -221,7 +221,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"12"
+				"tall"		"11"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -229,7 +229,7 @@ Scheme
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"13"
+				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -314,8 +314,8 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"12"	[$WIN32]
-				"tall"		"15"	[$X360]
+				"tall"		"11"	[$WIN32]
+				"tall"		"14"	[$X360]
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"

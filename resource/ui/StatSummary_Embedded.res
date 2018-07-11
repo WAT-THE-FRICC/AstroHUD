@@ -22,7 +22,7 @@
 		"tall"			"480"
 		"visible"		"0"
 		"enabled"		"1"
-		"image"			""
+		//"image"			""
 		"scaleImage"		"1"
 		"bgcolor_override"		"0 0 0 255"
 	}
@@ -30,7 +30,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"OnYourWayLabel"
-		"font"			"HudFontMediumBold"
+		"font"			"m0refont15"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"0"
@@ -40,7 +40,7 @@
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"		"255 255 255 255"
 		"fgcolor" "255 255 255 255"
@@ -49,8 +49,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"HudFontMediumBigBold" [$WINDOWS]
-		"font"			"HudFontMediumBold" [$X360]
+		"font"			"m0refont24" [$WINDOWS]
+		"font"			"m0refont24" [$X360]
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center" [$WINDOWS]
 		"textAlignment"		"west" [$X360]
@@ -63,7 +63,7 @@
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"		"255 255 255 255"
 		"fgcolor" "255 255 255 255"
@@ -82,7 +82,7 @@
 		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"fgcolor_override"		"255 255 255 255"
 		"fgcolor" "255 255 255 255"
@@ -98,6 +98,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
+		"bgcolor_override"		"0 0 0 255"
 
 		"NonInteractiveHeaders"
 		{

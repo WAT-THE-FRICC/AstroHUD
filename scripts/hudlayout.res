@@ -94,18 +94,19 @@
 "wide" "f0"
 "tall" "480"
 }
-"HudKothTimeStatus" 
-{
-"fieldName" "HudKothTimeStatus"
-"visible" "1"
-"enabled" "1"
-"xpos" "0"
-"ypos" "0"
-"wide" "f0"
-"tall" "480"
-"blue_active_xpos" "31"
-"red_active_xpos" "125"
-}
+HudKothTimeStatus
+	{
+		"fieldName" "HudKothTimeStatus"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	    "c-100"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"480"
+		
+		"blue_active_xpos"			"24"
+		"red_active_xpos"			"128"
+	}	
 "HudItemEffectMeter" 
 {
 "fieldName" "HudItemEffectMeter"
@@ -834,7 +835,7 @@
 "enabled" "1"
 "xpos" "10"
 "ypos" "275"
-"wide" "200"
+"wide" "180"
 "tall" "120"
 "PaintBackgroundType" "2"
 }

@@ -9,8 +9,8 @@
 }
 "QueueButton"
 {
-"label" "Queue for Casual"
-"actionsignallevel"	"2"
+"label" "ASTROHUD"
+//"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" "glyph_multiplayer"
 "OnlyAtMenu" "1"

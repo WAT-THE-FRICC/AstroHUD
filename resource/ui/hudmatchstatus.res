@@ -76,8 +76,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"proportionaltoparent"	"1"
-		"fgcolor"		"TanLight"
-
+		"fgcolor"		"255 255 255 255"
 		if_readymode
 		{
 			"xpos"			"300"

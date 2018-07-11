@@ -257,10 +257,10 @@
 		"wide"			"250"
 		"tall"			"180"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"0 0 0 255"
 		"noitem_textcolor"		"117 107 94 255"
         "border"		    "NoBorder"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"//2
 		"paintborder"	"1"
 		
 		"text_ypos"			"20"

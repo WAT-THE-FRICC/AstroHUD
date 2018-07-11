@@ -1,18 +1,35 @@
 
 
 "Resource/UI/MainMenuOverride.res" 
-{"AstroHUDLabel"
+{
+"AstroHUDVersionLabel"
 {
     "ControlName"	"CExLabel"
-    "fieldName"		"AstroHUDLabel"
+    "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD a0.2 by exitiosius and astroyed. ALPHA BUILD"
+    "labelText"		"AstroHUD a0.2.1 by exitiosius and astroyed. ALPHA BUILD"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
-    "zpos"		"100"
+    "zpos"		"-5"
     "wide"		"500"
     "tall"		"12"
+    "visible"		"1"
+    "enabled"		"1"
+    "fgcolor_override"	"255 255 255 255"
+}
+"GameNameLabel"
+{
+    "ControlName"	"CExLabel"
+    "fieldName"		"AstroHUDLabel"
+    "font"		"m0refont36"
+    "labelText"		"Team Fortress 2"
+    "textAlignment"	"center"
+    "xpos"		"c-250"
+    "ypos"		"75"
+    "zpos"		"-5"
+    "wide"		"500"
+    "tall"		"40"
     "visible"		"1"
     "enabled"		"1"
     "fgcolor_override"	"255 255 255 255"
@@ -1431,7 +1448,7 @@
 "fieldname" "FriendsContainer"
 "xpos" "c135"
 "ypos" "260"
-"zpos" "5"
+"zpos" "0"
 "wide" "260"
 "tall" "150"
 "visible" "1"
@@ -1901,7 +1918,8 @@
 }
 // Originally multiplayer button
 // moved up and re-purposed as
-// instant casual queue 
+// instant casual queue
+// NOTE: THIS NO LONGER WORKS 
 "QueueButton" 
 {
 "ControlName" "EditablePanel"
@@ -1933,14 +1951,18 @@
 "dulltext" "0"
 "brighttext" "0"
 "default" "1"
-"sound_depressed" "UI/buttonclick.wav"
-"sound_released" "UI/buttonclickrelease.wav"
+"sound_depressed" ""
+"sound_released" ""
+//"sound_depressed" "UI/buttonclick.wav"
+//"sound_released" "UI/buttonclickrelease.wav"
 "border_default" ""
 "border_armed" ""
 "paintbackground" "0"
 "defaultFgColor_override" "255 255 255 255"
-"armedFgColor_override" "125 225 30 255"
-"depressedFgColor_override" "125 225 30 255"
+"armedFgColor_override" "255 255 255 255"
+"depressedFgColor_override" "255 255 255 255"
+//"armedFgColor_override" "125 225 30 255"
+//"depressedFgColor_override" "125 225 30 255"
 "image_drawcolor" "117 107 94 255"
 "image_armedcolor" "235 226 202 255"
 "SubImage" 

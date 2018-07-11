@@ -32,12 +32,12 @@
 		"fieldName"		"MainBackgroundColor"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"0"
+		"zpos"			"-50"
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"G_MenuBg"
+		"bgcolor_override"	"0 0 0 255"
 	}	
 
 	"MapInfo"
@@ -93,23 +93,6 @@
 			"enabled"		"0"
 			"image"			""
 			"scaleImage"	"1"		
-		}
-		
-		"TeamSilhouette"
-		{
-			"ControlName"		"CTFImagePanel"
-			"fieldName"			"TeamSilhouette"
-			"xpos"				"c-300"
-			"ypos"				"r385"
-			"zpos"				"198"
-			"wide"				"600"
-			"tall"				"300"
-			"visible"			"0"
-			"enabled"			"0"
-			"image"				"replay/thumbnails/teamsilhouette"
-			"scaleImage"		"1"
-			"drawcolor"			"G_Highlight"
-			"Alpha"				"255"
 		}
 		
 		"FooterShade"
@@ -253,65 +236,67 @@
 			"fgcolor" "137 191 60 255"
 		}
 	}
-	
-	"OnYourWayLabel"
+	"OnYourWayLabel" [$WINDOWS]
 	{
-		"ControlName"	"CExLabel"
-		"font"			"G_FontMedium_2"
+		"ControlName"		"CExLabel"
+		"fieldName"		"OnYourWayLabel"
+		"font"			"m0refont15"
 		"labelText"		"#LoadingMap"
-		"textAlignment"	"center"
+		"textAlignment"		"center"
 		"xpos"			"0"
 		"ypos"			"50"
-		"zpos"			"40"
-		"wide"			"f0"
-		"tall"			"30"
+		"zpos"			"50"
+		"wide"			"360"
+		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"255 255 255"
-		"Alpha"			"200"
-	}
-	
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
+	}					
 	"MapLabel"
 	{
-		"ControlName"	"CExLabel"
+		"ControlName"		"CExLabel"
 		"fieldName"		"MapLabel"
-		"font"			"G_FontBig"
+		"font"			"m0refont24" [$WINDOWS]
+		"font"			"m0refont24" [$X360]
 		"labelText"		"%maplabel%"
-		"textAlignment"	"center"
-		"centerwrap"	"1"
-		"xpos"			"0"
-		"ypos"			"80"
+		"textAlignment"		"center" [$WINDOWS]
+		"textAlignment"		"west" [$X360]
+		"xpos"			"5" [$WINDOWS]
+		"xpos"			"60" [$X360]
+		"ypos"			"92"
 		"zpos"			"50"
-		"wide"			"f0"
-		"tall"			"40"
+		"wide"			"350" [$WINDOWS]
+		"wide"			"600" [$X360]
+		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"255 255 255 255"
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
 	}
-	
-	"MapType"
+	"MapType" [$WINDOWS]
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"G_FontMedium_2"
+		"font"			"HudFontMediumBigBold"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
-		"xpos"			"0"
-		"ypos"			"120"
+		"xpos"			"5"
+		"ypos"			"117"
 		"zpos"			"50"
-		"wide"			"f0"
-		"tall"			"30"
+		"wide"			"350"
+		"tall"			"35"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor" 		"255 255 255"
-		"Alpha"			"200"
-	}
+		"fgcolor_override"		"255 255 255 255"
+		"fgcolor" "255 255 255 255"
+	}					
 
 ///////
 	
@@ -326,6 +311,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
+		"bgcolor_override"		"0 0 0 255"
 
 		"NonInteractiveHeaders"
 		{

@@ -1926,11 +1926,11 @@
 {
 "ControlName" "EditablePanel"
 "fieldname" "QueueButton"
-"xpos" "0"
-"ypos" "70" //105//231
+"xpos" "25"
+"ypos" "90" //105//231
 "zpos" "11"
-"wide" "180"
-"tall" "63"
+"wide" "155"
+"tall" "32"
 "visible" "1"
 "PaintBackgroundType" "0"
 "SubButton" 
@@ -1949,7 +1949,7 @@
 "textinsetx" "0"
 "use_proportional_insets" "1"
 "font" "m0refont32"
-"textAlignment" "center"
+"textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
 "default" "1"

@@ -20,7 +20,7 @@
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "SurfaceMedium50"
+"font" "LatoBlack50"
 "fgcolor" "QHUDChargeLabel"
 }
 "IndividualChargesLabel" 
@@ -41,7 +41,7 @@
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "SurfaceMedium50"
+"font" "LatoBlack50"
 "fgcolor" "QHUDChargeLabel"
 }
 "ChargeMeter" 
@@ -97,7 +97,7 @@
 		"textAlignment"	"north-west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"SurfaceMedium50"
+		"font"			"LatoBlack50"
 	}
 	"ChargeMeter"
 	{	

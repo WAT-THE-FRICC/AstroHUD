@@ -7,7 +7,7 @@
 	"Colors" 
 	{
 		"QHUDOverheal" "80 255 255 255"
-		"QHUDNormal" "0 160 150 255"
+		"QHUDNormal" "9 222 98 255" //"0 160 150 255"
 		"QHUDLow" "255 100 0 255"
 		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"
 		"QHUDBlank" "0 0 0 0"

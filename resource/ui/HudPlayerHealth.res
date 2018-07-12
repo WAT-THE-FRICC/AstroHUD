@@ -75,7 +75,7 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "Lato50"
+"font" "LatoBlack50"
 "fgcolor" "QHUDNormal"
 }
 "PlayerStatusHealthValueShadow" 
@@ -91,7 +91,7 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "Lato50"
+"font" "LatoBlack50"
 "fgcolor" "QHUDShadow"
 }
 "PlayerStatusMaxHealthValue" 

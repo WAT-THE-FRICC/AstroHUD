@@ -2,7 +2,7 @@
 {
 	"Fonts" 
 	{
-		"Lato50"
+		"LatoBlack50"
 		{
 			"1"
 			{
@@ -13,7 +13,7 @@
 				"outline" "0"
 			}
 		}
-		"Lato24"
+		"LatoBlack24"
 		{
 			"1"
 			{

@@ -7,7 +7,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD a0.2.1 by exitiosius and astroyed. ALPHA BUILD"
+    "labelText"		"AstroHUD a0.2.2 by exitiosius and astroyed. ALPHA BUILD"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -1919,16 +1919,17 @@
 // Originally multiplayer button
 // moved up and re-purposed as
 // instant casual queue
-// NOTE: THIS NO LONGER WORKS 
+// NOTE: THIS NO LONGER WORKS
+// BIG ASTROHUD LABEL
 "QueueButton" 
 {
 "ControlName" "EditablePanel"
 "fieldname" "QueueButton"
-"xpos" "40"
-"ypos" "105" //105//231
+"xpos" "30"
+"ypos" "85" //105//231
 "zpos" "11"
 "wide" "140"
-"tall" "20"
+"tall" "35"
 "visible" "1"
 "PaintBackgroundType" "0"
 "SubButton" 
@@ -1946,7 +1947,7 @@
 "tabPosition" "0"
 "textinsetx" "0"
 "use_proportional_insets" "1"
-"font" "m0refont18"
+"font" "m0refont32"
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"

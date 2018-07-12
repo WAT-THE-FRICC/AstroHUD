@@ -314,8 +314,8 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"11"	[$WIN32]
-				"tall"		"14"	[$X360]
+				"tall"		"9"	[$WIN32]
+				"tall"		"12"	[$X360]
 				"weight"	"700"
 				"yres"		"480 599"
 				"dropshadow"	"1"

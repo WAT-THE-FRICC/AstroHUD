@@ -33,7 +33,7 @@
 		"font"			"m0refont15"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
-		"xpos"			"0"
+		"xpos"			"c-180"
 		"ypos"			"50"
 		"zpos"			"50"
 		"wide"			"360"
@@ -54,8 +54,8 @@
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center" [$WINDOWS]
 		"textAlignment"		"west" [$X360]
-		"xpos"			"5" [$WINDOWS]
-		"xpos"			"60" [$X360]
+		"xpos"			"c-175" [$WINDOWS]
+		"xpos"			"c-300" [$X360]
 		"ypos"			"92"
 		"zpos"			"50"
 		"wide"			"350" [$WINDOWS]
@@ -72,10 +72,10 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MapType"
-		"font"			"HudFontMediumBigBold"
+		"font"			"m0refont13"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
-		"xpos"			"5"
+		"xpos"			"c-175"
 		"ypos"			"117"
 		"zpos"			"50"
 		"wide"			"350"

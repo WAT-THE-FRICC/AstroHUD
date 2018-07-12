@@ -469,6 +469,31 @@
 		
 		//testing
 		"ya_MainHiBG"				"18 127 220 0"		 //overlay behind buttons
+		//---------------------------------------------
+		// 
+		//---------------------------------------------
+		
+		"ShadowBlack"			"7 7 7 255"
+		//"HudBlack"				"0 0 0 200"
+		
+		"ahudBlue"				"72 112 125 255"
+		"ahudDarkBlue"			"46 73 82 255"
+		"ahudRed"				"158 64 61 255"
+		"ahudDarkRed"			"102 48 46 255"
+		
+		"ahudGreen"				"92 122 90 255"
+		"ahudDarkGreen"			"38 53 36 255"
+		"ahudYellow"			"169 123 53 255"
+		"ahudBrightYellow"		"218 165 32 255"
+		
+		"ahudWhite"				"242 242 242 255"
+		"ahudDullWhite"			"132 132 132 255"
+		
+		"ahudGrey"				"51 47 46 255"
+		"ahudDarkGrey"			"27 27 27 255"
+		"ahudDarkerGrey"		"22 22 22 255"
+		
+		"ahudBlack"				"17 17 17 255"
 
 	}
 	"BitmapFontFiles" 
@@ -477,351 +502,351 @@
 	}
 	"Fonts" 
 	{
-	"UberchargeOutline" 
-	{
+		"UberchargeOutline" 
+		{
+			"1" 
+			{
+			"name" "DIN 1451 Mittelschrift"
+			"tall" "0"
+			"additive" "0"
+			"antialias" "1"
+			"outline" "0"
+			}
+		}
+		"xHair" 
+		{
+		"1" 
+		{
+		"name" "Crosshairs"
+		"tall" "20"
+		"weight" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont8" 
+		{
 		"1" 
 		{
 		"name" "DIN 1451 Mittelschrift"
-		"tall" "0"
+		"tall" "8"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"
 		}
-	}
-"xHair" 
-{
-"1" 
-{
-"name" "Crosshairs"
-"tall" "20"
-"weight" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont8" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "8"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont9" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont10" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont11" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont11shadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-"dropshadow" "1"
-}
-}
-"m0refont12" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont12shadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-"dropshadow" "1"
-}
-}
-"m0refont13" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "13"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont14" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont15" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont15shadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-"dropshadow" "1"
-}
-}
-"m0refont16" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont18" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont20" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont21" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "21"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont22" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "22"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont23" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "23"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont24"
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont24shadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-"dropshadow" "1"
-}
-}
-"m0refont25" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "25"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont26" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "26"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont27" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "27"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont28" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont32" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "32"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont36" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "36"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont40" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "40"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont46" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "52"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont60" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "60"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"m0refont72" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "60"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
+		}
+		"m0refont9" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont10" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont11" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont11shadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		"dropshadow" "1"
+		}
+		}
+		"m0refont12" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont12shadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		"dropshadow" "1"
+		}
+		}
+		"m0refont13" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "13"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont14" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont15" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont15shadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		"dropshadow" "1"
+		}
+		}
+		"m0refont16" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont18" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont20" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont21" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "21"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont22" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "22"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont23" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "23"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont24"
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont24shadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		"dropshadow" "1"
+		}
+		}
+		"m0refont25" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "25"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont26" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "26"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont27" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "27"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont28" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont32" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "32"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont36" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "36"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont40" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "40"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont46" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "52"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont60" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "60"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"m0refont72" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "60"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
 
 
 
@@ -829,8 +854,8 @@
 
 
 
-//wool font
-"Medium68"
+		//wool font
+		"Medium68"
 		{
 			"1"
 			{
@@ -2265,7 +2290,7 @@
 				"antialias"	"1"
 			}
 		}
-"ChatFont"
+		"ChatFont"
 		{
 			"1"
 			{
@@ -2284,9 +2309,9 @@
 				"antialias"		"1"
 			}
 		}
-// end wool font
+		// end wool font
 
-	"Heavy59"       //main menu font
+		"Heavy59"       //main menu font
         {
             "1"
             {
@@ -2563,4478 +2588,5394 @@
                 "antialias"    "1"
             }
         }
+		"Default" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		"2" 
+		{
+		"name" "Arial"
+		"tall" "12"
+		"range" "0x0000 0x00FF"
+		"weight" "800"
+		}
+		}
+		"DefaultUnderline" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "12"
+		"weight" "500"
+		"underline" "1"
+		"range" "0x0000 0x017F"
+		}
+		"2" 
+		{
+		"name" "Arial"
+		"tall" "11"
+		"range" "0x0000 0x00FF"
+		"weight" "800"
+		}
+		}
+		"DefaultSmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "13"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "20"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "22"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		"6" 
+		{
+		"name" "Arial"
+		"tall" "12"
+		"range" "0x0000 0x00FF"
+		"weight" "0"
+		}
+		}
+		"DefaultVerySmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "16"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		}
+		"DefaultLarge" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "18"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "21"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "22"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "28"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "30"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		"6" 
+		{
+		"name" "Verdana"
+		"tall" "20"
+		"range" "0x0000 0x00FF"
+		"weight" "900"
+		}
+		"7" 
+		{
+		"name" "Arial"
+		"tall" "20"
+		"range" "0x0000 0x00FF"
+		"weight" "800"
+		}
+		}
+		"CenterPrintText" 
+		{
+		"1" 
+		{
+		"name" "Trebuchet MS"
+		"tall" "18"
+		"weight" "900"
+		"antialias" "1"
+		"additive" "1"
+		}
+		}
+		"PlayerPanelPlayerName" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "6"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudHintText" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "700"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "13"
+		"weight" "700"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "700"
+		"yres" "768 1023"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "20"
+		"weight" "700"
+		"yres" "1024 1199"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "24"
+		"weight" "700"
+		"yres" "1200 10000"
+		}
+		}
+		"HudFontGiant" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"tall_lodef" "80"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"yres" "480 599"
+		"outline" "0"
+		}
+		"2" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "32"
+		"tall_hidef" "120"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "44"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"yres" "768 1023"
+		}
+		"4" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "48"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"yres" "1024 1199"
+		}
+		"5" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "52"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"yres" "1200 10000"
+		}
+		}
+		"HudFontGiantOutline" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "1"
+		}
+		}
+		"HudFontGiantBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "44"
+		"tall_lodef" "52"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"HudFontBiggerBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "35"
+		"tall_lodef" "40"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontBig" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "36"
+		"tall_hidef" "48"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumBig" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "30"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumBigBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "30"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"tall_lodef" "28"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumSecondary" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumSmallBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontMediumSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"tall_hidef" "24"
+		"tall_lodef" "18"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"HudFontMediumSmallSecondary" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"tall_hidef" "24"
+		"tall_lodef" "20"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"tall_lodef" "16"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"HudFontSmallishBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudFontSmallBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"HudFontSmallBoldShadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"dropshadow" "1"
+		}
+		}
+		"HudFontSmallest" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"HudFontSmallestShadow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"dropshadow" "1"
+		}
+		}
+		"HudFontSmallestBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"PerformanceModeSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "4"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"StorePromotionsTitle" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"FontCartPrice" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"FontStorePrice" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "0"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"FontStoreOriginalPrice" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "0"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"FontStorePriceSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "6"
+		"weight" "0"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"FontStorePromotion" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"tall_hidef" "14"
+		"tall_lodef" "16"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"TextTooltipFont" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"GameUIButtons" 
+		{
+		"1" 
+		{
+		"bitmap" "1"
+		"name" "Buttons"
+		"scalex" "1.0"
+		"scalex_lodef" "0.75"
+		"scaley" "1.0"
+		"scaley_lodef" "0.75"
+		}
+		}
+		"GameUIButtonText" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"tall_hidef" "24"
+		"tall_lodef" "18"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudClassHealth" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"tall_hidef" "22"
+		"tall_lodef" "22"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"SpectatorKeyHints" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "8"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"ClockSubText" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "9"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ClockSubTextSuddenDeath" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "8"
+		"tall_hidef" "9"
+		"tall_lodef" "10"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ClockSubTextTiny" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "8"
+		"tall_hidef" "7"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"HudSelectionText" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"weight" "700"
+		"antialias" "1"
+		"yres" "1 599"
+		"range" "0x0000 0x017F"
+		"additive" "1"
+		}
+		"2" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"weight" "700"
+		"antialias" "1"
+		"yres" "600 767"
+		"range" "0x0000 0x017F"
+		"additive" "1"
+		}
+		"3" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"weight" "900"
+		"antialias" "1"
+		"yres" "768 1023"
+		"range" "0x0000 0x017F"
+		}
+		"4" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "21"
+		"weight" "900"
+		"antialias" "1"
+		"yres" "1024 1199"
+		"range" "0x0000 0x017F"
+		}
+		"5" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "1000"
+		"antialias" "1"
+		"yres" "1200 10000"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"DebugOverlay" 
+		{
+		"1" 
+		{
+		"name" "Courier New"
+		"tall" "14"
+		"weight" "400"
+		"outline" "1"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"TFTypeDeath" 
+		{
+		"1" 
+		{
+		"name" "tfd"
+		"tall" "28"
+		"weight" "0"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"Icons" 
+		{
+		"1" 
+		{
+		"name" "Team Fortress"
+		"tall" "28"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"BetaFont" 
+		{
+		"1" 
+		{
+		"name" "Courier New"
+		"tall" "90"
+		"weight" "900"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"HudNumbers" 
+		{
+		"1" 
+		{
+		"name" "Team Fortress"
+		"tall" "28"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "28"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"CloseCaption_Normal" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "24"
+		"tall_hidef" "32"
+		"weight" "500"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"CloseCaption_Italic" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "24"
+		"tall_hidef" "32"
+		"weight" "500"
+		"italic" "1"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"CloseCaption_Bold" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "24"
+		"tall_hidef" "32"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"CloseCaption_BoldItalic" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "24"
+		"tall_hidef" "32"
+		"weight" "900"
+		"italic" "1"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"CloseCaption_Small" 
+		{
+		"1" 
+		{
+		"name" "Tahoma"
+		"tall" "16"
+		"tall_hidef" "24"
+		"weight" "900"
+		"range" "0x0000 0x017F"
+		}
+		}
+		"Marlett" 
+		{
+		"1" 
+		{
+		"name" "Marlett"
+		"tall" "20"
+		"weight" "0"
+		"symbol" "1"
+		"range" "0x0000 0x007F"
+		}
+		}
+		"MenuMainTitle" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"MenuClassBuckets" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"tall_lodef" "14"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"MenuKeys" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"GoalText" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "13"
+		"tall_hidef" "14"
+		"tall_lodef" "17"
+		"weight" "800"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"ChalkboardTitle" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "28"
+		"tall_lodef" "48"
+		"tall_hidef" "48"
+		"antialias" "1"
+		"weight" "500"
+		"weight_lodef" "800"
+		"weight_hidef" "1000"
+		}
+		}
+		"ChalkboardTitleBig" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "40"
+		"tall_lodef" "48"
+		"tall_hidef" "48"
+		"antialias" "1"
+		"weight" "500"
+		"weight_lodef" "800"
+		"weight_hidef" "1000"
+		}
+		}
+		"ChalkboardTitleMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"tall_lodef" "36"
+		"tall_hidef" "36"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"ChalkboardText" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"tall_lodef" "32"
+		"tall_hidef" "32"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"ScoreboardSmallest" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "6"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ScoreboardVerySmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "8"
+		"tall_hidef" "10"
+		"tall_lodef" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ScoreboardSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"tall_hidef" "12"
+		"tall_lodef" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ScoreboardMediumSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "500"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"ScoreboardMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"weight" "500"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"ScoreboardTeamName" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"tall_hidef" "24"
+		"tall_lodef" "24"
+		"weight" "500"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"ScoreboardTeamNameLarge" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "34"
+		"tall_hidef" "38"
+		"tall_lodef" "38"
+		"weight" "500"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"ScoreboardTeamScore" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "52"
+		"tall_lodef" "80"
+		"range" "0x0000 0x00FF"
+		"weight" "400"
+		"yres" "1 599"
+		"antialias" "1"
+		}
+		"2" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "72"
+		"tall_hidef" "120"
+		"range" "0x0000 0x00FF"
+		"weight" "400"
+		"yres" "600 767"
+		"antialias" "1"
+		}
+		"3" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "100"
+		"range" "0x0000 0x00FF"
+		"weight" "400"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "140"
+		"range" "0x0000 0x00FF"
+		"weight" "400"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "180"
+		"range" "0x0000 0x00FF"
+		"weight" "400"
+		"yres" "1200 10000"
+		"antialias" "1"
+		}
+		}
+		"MatchSummaryTeamScores" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "36"
+		"weight" "500"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"MatchSummaryStatsAndMedals" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"MatchSummaryWinner" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"CompMatchStartTeamNames" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ControlPointTimer" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ControlPointTimerSmaller" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "7"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"Link" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"tall_hidef" "12"
+		"tall_lodef" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"TargetID" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "700"
+		"yres" "480 599"
+		"dropshadow" "0"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "13"
+		"weight" "700"
+		"yres" "600 767"
+		"dropshadow" "0"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "700"
+		"yres" "768 1023"
+		"dropshadow" "0"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "20"
+		"weight" "700"
+		"yres" "1024 1199"
+		"dropshadow" "0"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "24"
+		"weight" "700"
+		"yres" "1200 10000"
+		"dropshadow" "0"
+		}
+		}
+		
+		"MenuSmallestFont" 
+		{
+		"1" 
+		{
+		"name" "Arial Black"
+		"tall" "8"
+		"tall_lodef" "12"
+		"range" "0x0000 0x00FF"
+		"weight" "300"
+		"antialias" "1"
+		}
+		}
+		"MenuSmallFont" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"tall_lodef" "18"
+		"range" "0x0000 0x00FF"
+		"weight" "300"
+		"weight_lodef" "600"
+		"antialias" "1"
+		}
+		}
+		"CapPlayerFont" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"weight" "500"
+		"range" "0x0000 0x017F"
+		"TextColor" "Black"
+		"antialias" "1"
+		}
+		}
+		"CapPlayerFontSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "8"
+		"weight" "500"
+		"range" "0x0000 0x017F"
+		"TextColor" "Black"
+		"antialias" "1"
+		}
+		}
+		"TFFontSmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "8"
+		"tall_hidef" "10"
+		"tall_lodef" "12"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"TFFontMedium" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "9"
+		"tall_hidef" "10"
+		"tall_lodef" "16"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"InstructionalText" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "11"
+		"weight" "800"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"MatchmakingDialogTitle" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "36"
+		"tall_lodef" "28"
+		"weight" "500"
+		}
+		}
+		"MatchmakingDialogSessionOptionsTitle" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "30"
+		"tall_lodef" "22"
+		"weight" "500"
+		}
+		}
+		"MatchmakingDialogMenuLarge" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "28"
+		"tall_lodef" "24"
+		"weight" "500"
+		}
+		}
+		"MatchmakingDialogMenuBrowserHostname" 
+		{
+		"1" 
+		{
+		"name" "Trebuchet MS"
+		"tall" "22"
+		"weight" "900"
+		}
+		}
+		"MatchmakingDialogMenuBrowserDetails" 
+		{
+		"1" 
+		{
+		"name" "Trebuchet MS"
+		"tall" "18"
+		"weight" "900"
+		}
+		}
+		"MatchmakingDialogMenuMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "22"
+		"weight" "500"
+		}
+		}
+		"MatchmakingDialogMenuMediumSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"weight" "500"
+		}
+		}
+		"MatchmakingDialogMenuSmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "22"
+		"tall_lodef" "18"
+		"weight" "900"
+		}
+		}
+		"MatchmakingDialogMenuSmallest" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "18"
+		"tall_lodef" "18"
+		"weight" "900"
+		}
+		}
+		"RankingDialogHeaders" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "15"
+		"weight" "900"
+		}
+		}
+		"TeamMenuBold" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "36"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"TeamMenu" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "600"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"IntroMenuCaption" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"AchievementNotification" 
+		{
+		"1" 
+		{
+		"name" "Trebuchet MS"
+		"tall" "14"
+		"weight" "900"
+		"antialias" "1"
+		}
+		}
+		"ImportToolSmallestBold" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "10"
+		"weight" "600"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ImportToolSmallest" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "10"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"DefaultVerySmallFallBack" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "10"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		"antialias" "1"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "600 1199"
+		"antialias" "1"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "15"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		}
+		"ItemFontNameSmallest" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "8"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ItemFontNameSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ItemFontNameLarge" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"ItemFontAttribSmallest" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "7"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ItemFontAttribSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "8"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ItemFontAttribLarge" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"AchievementTracker_Name" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"AchievementTracker_NameGlow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "500"
+		"blur" "3"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"AchievementTracker_Desc" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "7"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"ReplayVerySmall" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "16"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		}
+		"ReplayBrowserSmallest" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ReplaySmaller" 
+		{
+		"1" 
+		{
+		"name" "Verdana"
+		"tall" "12"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "480 599"
+		}
+		"2" 
+		{
+		"name" "Verdana"
+		"tall" "13"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "600 767"
+		}
+		"3" 
+		{
+		"name" "Verdana"
+		"tall" "14"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "768 1023"
+		"antialias" "1"
+		}
+		"4" 
+		{
+		"name" "Verdana"
+		"tall" "20"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1024 1199"
+		"antialias" "1"
+		}
+		"5" 
+		{
+		"name" "Verdana"
+		"tall" "22"
+		"weight" "0"
+		"range" "0x0000 0x017F"
+		"yres" "1200 6000"
+		"antialias" "1"
+		}
+		"6" 
+		{
+		"name" "Arial"
+		"tall" "12"
+		"range" "0x0000 0x00FF"
+		"weight" "0"
+		}
+		}
+		"ReplayMediumSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ReplayMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ReplayMediumBig" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"tall_hidef" "24"
+		"tall_lodef" "18"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ReplayBrowserTab" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ReplayLarger" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"tall_hidef" "24"
+		"tall_lodef" "20"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"EconFontSmall" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"EconFontMedium" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"ControllerHintText" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"weight" "500"
+		"range" "0x0000 0x007F"
+		"antialias" "1"
+		"additive" "0"
+		}
+		}
+		"MMenuPlayListDesc" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"TF2Build53" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "53"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"DIN 1451 Mittelschrift44" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "44"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Build39" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "39"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary23" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "23"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF220" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary13" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "13"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Build17" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "17"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"PFTempestaSeven10" 
+		{
+		"1" 
+		{
+		"name" "PF Tempesta Seven"
+		"tall" "10"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary16" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium53" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "53"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium33" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "33"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Glyphs25" 
+		{
+		"1" 
+		{
+		"name" "TF2Glyphs"
+		"tall" "25"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Glyphs24" 
+		{
+		"1" 
+		{
+		"name" "TF2Glyphs"
+		"tall" "24"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"ItemFontAttribSmallv2" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "8"
+		"antialias" "1"
+		"weight" "500"
+		}
+		}
+		"QuestObjectiveTracker_Desc" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "7"
+		"weight" "0"
+		"additive" "1"
+		"antialias" "1"
+		}
+		"QuestObjectiveTracker_DescGlow" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "7"
+		"weight" "0"
+		"antialias" "1"
+		}
+		"QuestObjectiveTracker_DescBlur" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "7"
+		"weight" "0"
+		"blur" "3"
+		"additive" "1"
+		"antialias" "1"
+		}
+		"ItemTrackerScore_InGame" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "7"
+		"weight" "0"
+		"antialias" "1"
+		}
+		"QuestFlavorText" 
+		{
+		"1"
+		{
+		}
+		"2"
+		{
+		}
+		"3"
+		{
+		}
+		"name" "Verdana"
+		"tall" "18"
+		"weight" "400"
+		"yres" "1024 6000"
+		"additive" "0"
+		"antialias" "1"
+		}
+		"QuestObjectiveText" 
+		{
+		"1"
+		{
+		}
+		"2"
+		{
+		}
+		"3"
+		{
+		}
+		"name" "Verdana"
+		"tall" "18"
+		"weight" "800"
+		"yres" "1024 6000"
+		"additive" "0"
+		"antialias" "1"
+		}
+		"QuestLargeText" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "16"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		"QuestStickyText" 
+		{
+		"1"
+		{
+		}
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"antialias" "1"
+		"custom" "1"
+		"weight" "500"
+		}
+		"AdFont_ItemName" 
+		{
+		"1"
+		{
+		}
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		"AdFont_AdText" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "8"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		"AdFont_PurchaseButton" 
+		{
+		"1"
+		{
+		}
+		"name" "Verdana"
+		"tall" "8"
+		"weight" "0"
+		"antialias" "1"
+		}
+		"TF2Secondary20" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary30" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "30"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Build14Outline" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "1"
+		}
+		}
+		"TF2Secondary10" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "10"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary15" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "15"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary40" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "40"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary18" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "18"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium20" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "20"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Build29" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "29"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary53" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "53"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary9" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "9"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Secondary33" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "33"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"TF2Build16" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "16"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"XPSource" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"antialias" "1"
+		}
+		}
+		"XPSource_Glow" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"weight" "500"
+		"blur" "3"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"MapVotesPercentage" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "12"
+		"weight" "500"
+		"additive" "0"
+		"antialias" "1"
+		"dropshadow" "1"
+		}
+		}
+		"QuestMap_Small_Blur" 
+		{
+		"1" 
+		{
+		"name" "ocra"
+		"tall" "7"
+		"weight" "0"
+		"blur" "3"
+		"additive" "1"
+		"antialias" "1"
+		}
+		}
+		"QuestMap_Small" 
+		{
+		"1" 
+		{
+		"name" "ocra"
+		"tall" "7"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"QuestMap_Medium" 
+		{
+		"1" 
+		{
+		"name" "ocra"
+		"tall" "10"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"QuestMap_Large" 
+		{
+		"1" 
+		{
+		"name" "ocra"
+		"tall" "14"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"QuestMap_Huge" 
+		{
+		"1" 
+		{
+		"name" "ocra"
+		"tall" "30"
+		"weight" "400"
+		"additive" "0"
+		"antialias" "1"
+		}
+		}
+		"Crosshairs5" 
+		{
+		"1" 
+		{
+		"name" "Crosshairs"
+		"tall" "5"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"PFTempestaSeven17" 
+		{
+		"1" 
+		{
+		"name" "PF Tempesta Seven"
+		"tall" "17"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium13" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "13"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium50" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "50"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"DIN 1451 Mittelschrift11" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "11"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium33" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "33"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"SurfaceMedium14" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "14"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+		"DIN 1451 Mittelschrift24" 
+		{
+		"1" 
+		{
+		"name" "DIN 1451 Mittelschrift"
+		"tall" "24"
+		"additive" "0"
+		"antialias" "1"
+		"outline" "0"
+		}
+		}
+	}
+	Borders
+	{
+		HoAssBorder
+		{
+			"offset" "0 0"
+			"color"	"ahudBlack"
+		}
+		
+		ahudMenuBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "ahudYellow"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "ahudYellow"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "ahudYellow"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "ahudYellow"
+					"offset" "0 0"
+				}
+				"5"
+				{
+					"color" "ahudYellow"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ahudPanelBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "ahudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "ahudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "ahudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "ahudBlack"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ahudPanelBorderLight
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "ahudDullWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "ahudDullWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "ahudDullWhite"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "ahudDullWhite"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ahudDarkBlueTeamBorder
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+				"5"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+				"6"
+				{
+					"color" "ahudDarkBlue"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ahudDarkRedTeamBorder
+		{
+			"inset" "0 0 0 0"
+			Bottom
+			{
+				"1"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+				"5"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+				"6"
+				{
+					"color" "ahudDarkRed"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		NoBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		TeamMenuBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "Black"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		ScrollBarButtonBorder
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+
+		ScrollBarButtonDepressedBorder
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+
+		ButtonBorder
+		{
+			"offset" "0 0"
+			"color" "Blank"
+		}
+
+		// this is the border used for default buttons (the button that gets pressed when you hit enter)
+		ButtonKeyFocusBorder
+		{
+			"offset" "0 0"
+			"color" "Blank"
+		}
+
+		ButtonDepressedBorder
+		{
+			"offset" "0 0"
+			"color" "Blank"
+		}
+
+		ComboBoxBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		ItemBoxBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "0 255 0 255"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "255 128 128 255"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "128 255 255 255"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "200 50 255 255"
+					"offset" "0 0"
+				}
+			}
+		}
+		DarkComboBoxBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "0 0"
+				}
+			}
+		}
+		SalePriceBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "SaleGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "SaleGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "SaleGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "SaleGreen"
+					"offset" "0 0"
+				}
+			}
+		}
+				
+		MainMenuSubButtonBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		CrosshatchedBackground
+		{
+			"bordertype"			"image"
+			"backgroundtype"		"2"
+			"image"					"loadout_header"
+			"tiled"					"1"
+		}
+		
+		OutlinedGreyBox
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"loadout_round_rect_selected"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		OutlinedDullGreyBox
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"loadout_round_rect"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		TFThinLineBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"../hud/tournament_panel_brown"
+			//"image"					"../hud/color_panel_browner"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"../hud/color_panel_brown_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"../hud/color_panel_brown"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderRedBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"../hud/color_panel_red_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderRedBGOpaque_Store
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"../hud/color_panel_red_opaque"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderRedBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"replay/thumbnails/bg_red"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderRedBGMoreOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_red_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}
+		TFFatLineBorderBlueBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"replay/thumbnails/bg_blu"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderBlueBGMoreOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_more_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}
+		TFFatLineBorderBlueBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_blu_opaque"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		TFFatLineBorderClearBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/color_panel_clear"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+
+		ToolTipBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		OptionsCategoryBorder
+		{
+			"inset" "0 0 0 0"
+			
+			// This border is used just to create a horizontal line, so it only has a bottom border
+			
+			Bottom
+			{
+				"1"
+				{
+					"color" "TanLight"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		GrayDialogBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"loadout_rect"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		StoreFreeTrialBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			
+			"image"					"loadout_rect_red"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		EconItemBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ahudGrey"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		Econ.Button.Border.Default
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+		Econ.Button.Border.Armed
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype" "0"
+		}
+
+		LoadoutItemMouseOverBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"60 54 53 255"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		LoadoutItemPopupBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"0"
+			"color"					"ahudDarkGrey"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		BackpackItemGrayedOut
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ahudGrey"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		BackpackItemGrayedOut_Selected
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ahudGrey"
+			
+			"image"					"backpack_rect_selected"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Standard ------------------------------------------------------------------------------------------------		
+		BackpackItemBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ahudGrey"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"60 54 53 255"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemSelectedBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"60 54 53 255"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		BackpackItemGreyedOutBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"Black"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"Black"
+			
+			"image"					"backpack_rect_selected"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		// Unique ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Unique
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorUnique"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Unique
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorUnique"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Unique
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorUnique_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Unique
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorUnique_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Rarity1 ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_1
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity1"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_1
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity1"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_1
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity1_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_1
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity1_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Rarity2 ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity2"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity2"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity2_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity2_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Rarity3 ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_3
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity3"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_3
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity3"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_3
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity3_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_3
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity3_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Rarity4 ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_4
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity4"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_4
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity4"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_4
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity4_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_4
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorrarity4_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Haunted ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Haunted
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorHaunted"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Haunted
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorHaunted"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Haunted
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorHaunted_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Haunted
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorHaunted_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// PaintkitWeapon ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeapon_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_PaintkitWeapon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorPaintkitWeaponGreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		// Collector's ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Collectors
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCollectors_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Vintage ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Vintage
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorVintage"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Vintage
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorVintage"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Vintage
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorVintage_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Vintage
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorVintage_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Community ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Community
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCommunity"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Community
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCommunity"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Community
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCommunity_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Community
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCommunity_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Developer ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Developer
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorDeveloper_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// SelfMade ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_SelfMade
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorSelfMade_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Customized ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Customized
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCustomized_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Strange ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Strange
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorStrange_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+
+		// Completed ------------------------------------------------------------------------------------------------
+		BackpackItemBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_Completed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"QualityColorCompleted_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		// ***************************************************************************
+		// Rarity Default
+		BackpackItemBorder_RarityDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityDefault"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityDefault"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityDefault_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityDefault_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		// ***************************************************
+		BackpackItemBorder_RarityCommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityCommon"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityCommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityCommon"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityCommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityCommon_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityCommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityCommon_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		//
+		BackpackItemBorder_RarityUncommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityUncommon"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityUncommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityUncommon"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityUncommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityUncommon_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityUncommon
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityUncommon_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		//**************
+		BackpackItemBorder_RarityRare
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityRare"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityRare
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityRare"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityRare
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityRare_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityRare
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityRare_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		//******************
+		BackpackItemBorder_RarityMythical
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityMythical"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityMythical
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityMythical"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityMythical
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityMythical_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityMythical
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityMythical_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		// ***************************************************
+		BackpackItemBorder_RarityLegendary
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityLegendary"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityLegendary
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityLegendary"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityLegendary
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityLegendary_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityLegendary
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityLegendary_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		//*********************************************
+		BackpackItemBorder_RarityAncient
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityAncient"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemMouseOverBorder_RarityAncient
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityAncient"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutBorder_RarityAncient
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityAncient_GreyedOut"
+			
+			"image"					"backpack_rect_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		BackpackItemGreyedOutSelectedBorder_RarityAncient
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"ItemRarityAncient_GreyedOut"
+			
+			"image"					"backpack_rect_mouseover_color"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"2"	
+		}
+		
+		StoreItemBorder
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype"		"2"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		StoreItemBorderMouseOver
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype"		"2"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		StoreItemBorderSelected
+		{
+			"inset" "0 0 0 0"
+			"backgroundtype"		"2"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+		
+		MainMenuButtonGlow
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"178 83 22 255"
+			
+			"image"					"button_glow"
+			"src_corner_height"		"4"				// pixels inside the image
+			"src_corner_width"		"4"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+
+		MainMenuButtonGlow2
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			"color"					"238 103 17 255"
+			
+			"image"					"button_glow"
+			"src_corner_height"		"4"				// pixels inside the image
+			"src_corner_width"		"4"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		NotificationDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"alert_rect"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		NotificationHighPriority
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+
+			"image"					"button_holder_central"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"
+		}
+
+		MainMenuButtonDepressed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_depressed"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuButtonDepressedArmed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_depressed_armed"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}		
+		MainMenuButtonDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuButtonArmed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_hover"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuButtonDisabled
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_disabled"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuMiniButtonDefault
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_adv"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuMiniButtonArmed
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_central_adv_hover"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuBGBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/thumbnails/mmbg"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuBGBorderAlpha
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_holder_central_alpha"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuBlogTabBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"blog_tabby"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		MainMenuHighlightBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"callout_bubble"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+
+		TrainingResultsBG
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"button_holder_central"
+			"src_corner_height"		"32"			// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		StoreInnerShadowBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/innershadow_border"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		StoreNewBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"new_corner"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 		
 
+		StoreHighlightedBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"featured_corner"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 
+		StoreHighlightedBackgroundBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_featured_item_bg01"
+			"src_corner_height"		"80"				// pixels inside the image
+			"src_corner_width"		"30"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		StoreDiscountBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"sale_corner"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
 
-"Default" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-"2" 
-{
-"name" "Arial"
-"tall" "12"
-"range" "0x0000 0x00FF"
-"weight" "800"
-}
-}
-"DefaultUnderline" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "12"
-"weight" "500"
-"underline" "1"
-"range" "0x0000 0x017F"
-}
-"2" 
-{
-"name" "Arial"
-"tall" "11"
-"range" "0x0000 0x00FF"
-"weight" "800"
-}
-}
-"DefaultSmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "20"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "22"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-"6" 
-{
-"name" "Arial"
-"tall" "12"
-"range" "0x0000 0x00FF"
-"weight" "0"
-}
-}
-"DefaultVerySmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "16"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-}
-"DefaultLarge" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "18"
-"weight" "900"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "21"
-"weight" "900"
-"range" "0x0000 0x017F"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "22"
-"weight" "900"
-"range" "0x0000 0x017F"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "28"
-"weight" "900"
-"range" "0x0000 0x017F"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "30"
-"weight" "900"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-"6" 
-{
-"name" "Verdana"
-"tall" "20"
-"range" "0x0000 0x00FF"
-"weight" "900"
-}
-"7" 
-{
-"name" "Arial"
-"tall" "20"
-"range" "0x0000 0x00FF"
-"weight" "800"
-}
-}
-"CenterPrintText" 
-{
-"1" 
-{
-"name" "Trebuchet MS"
-"tall" "18"
-"weight" "900"
-"antialias" "1"
-"additive" "1"
-}
-}
-"PlayerPanelPlayerName" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "6"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudHintText" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "700"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "700"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "700"
-"yres" "768 1023"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "20"
-"weight" "700"
-"yres" "1024 1199"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "24"
-"weight" "700"
-"yres" "1200 10000"
-}
-}
-"HudFontGiant" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"tall_lodef" "80"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"yres" "480 599"
-"outline" "0"
-}
-"2" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "32"
-"tall_hidef" "120"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "44"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"yres" "768 1023"
-}
-"4" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "48"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"yres" "1024 1199"
-}
-"5" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "52"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"yres" "1200 10000"
-}
-}
-"HudFontGiantOutline" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "1"
-}
-}
-"HudFontGiantBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "44"
-"tall_lodef" "52"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"HudFontBiggerBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "35"
-"tall_lodef" "40"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontBig" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "36"
-"tall_hidef" "48"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumBig" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "30"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumBigBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "30"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"tall_lodef" "28"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumSecondary" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumSmallBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontMediumSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"tall_hidef" "24"
-"tall_lodef" "18"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"HudFontMediumSmallSecondary" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"tall_hidef" "24"
-"tall_lodef" "20"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"tall_lodef" "16"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"HudFontSmallishBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudFontSmallBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"HudFontSmallBoldShadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"dropshadow" "1"
-}
-}
-"HudFontSmallest" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"HudFontSmallestShadow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"dropshadow" "1"
-}
-}
-"HudFontSmallestBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"PerformanceModeSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "4"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"StorePromotionsTitle" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"FontCartPrice" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"FontStorePrice" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "0"
-"additive" "0"
-"antialias" "1"
-}
-}
-"FontStoreOriginalPrice" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "0"
-"additive" "0"
-"antialias" "1"
-}
-}
-"FontStorePriceSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "6"
-"weight" "0"
-"additive" "0"
-"antialias" "1"
-}
-}
-"FontStorePromotion" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"tall_hidef" "14"
-"tall_lodef" "16"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"TextTooltipFont" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"GameUIButtons" 
-{
-"1" 
-{
-"bitmap" "1"
-"name" "Buttons"
-"scalex" "1.0"
-"scalex_lodef" "0.75"
-"scaley" "1.0"
-"scaley_lodef" "0.75"
-}
-}
-"GameUIButtonText" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"tall_hidef" "24"
-"tall_lodef" "18"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudClassHealth" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"tall_hidef" "22"
-"tall_lodef" "22"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"SpectatorKeyHints" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "8"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"ClockSubText" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "9"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ClockSubTextSuddenDeath" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "8"
-"tall_hidef" "9"
-"tall_lodef" "10"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ClockSubTextTiny" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "8"
-"tall_hidef" "7"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"HudSelectionText" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"weight" "700"
-"antialias" "1"
-"yres" "1 599"
-"range" "0x0000 0x017F"
-"additive" "1"
-}
-"2" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"weight" "700"
-"antialias" "1"
-"yres" "600 767"
-"range" "0x0000 0x017F"
-"additive" "1"
-}
-"3" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"weight" "900"
-"antialias" "1"
-"yres" "768 1023"
-"range" "0x0000 0x017F"
-}
-"4" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "21"
-"weight" "900"
-"antialias" "1"
-"yres" "1024 1199"
-"range" "0x0000 0x017F"
-}
-"5" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "1000"
-"antialias" "1"
-"yres" "1200 10000"
-"range" "0x0000 0x017F"
-}
-}
-"DebugOverlay" 
-{
-"1" 
-{
-"name" "Courier New"
-"tall" "14"
-"weight" "400"
-"outline" "1"
-"range" "0x0000 0x017F"
-}
-}
-"TFTypeDeath" 
-{
-"1" 
-{
-"name" "tfd"
-"tall" "28"
-"weight" "0"
-"additive" "0"
-"antialias" "1"
-}
-}
-"Icons" 
-{
-"1" 
-{
-"name" "Team Fortress"
-"tall" "28"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-}
-"BetaFont" 
-{
-"1" 
-{
-"name" "Courier New"
-"tall" "90"
-"weight" "900"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"HudNumbers" 
-{
-"1" 
-{
-"name" "Team Fortress"
-"tall" "28"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "28"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-}
-"CloseCaption_Normal" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "24"
-"tall_hidef" "32"
-"weight" "500"
-"range" "0x0000 0x017F"
-}
-}
-"CloseCaption_Italic" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "24"
-"tall_hidef" "32"
-"weight" "500"
-"italic" "1"
-"range" "0x0000 0x017F"
-}
-}
-"CloseCaption_Bold" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "24"
-"tall_hidef" "32"
-"weight" "900"
-"range" "0x0000 0x017F"
-}
-}
-"CloseCaption_BoldItalic" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "24"
-"tall_hidef" "32"
-"weight" "900"
-"italic" "1"
-"range" "0x0000 0x017F"
-}
-}
-"CloseCaption_Small" 
-{
-"1" 
-{
-"name" "Tahoma"
-"tall" "16"
-"tall_hidef" "24"
-"weight" "900"
-"range" "0x0000 0x017F"
-}
-}
-"Marlett" 
-{
-"1" 
-{
-"name" "Marlett"
-"tall" "20"
-"weight" "0"
-"symbol" "1"
-"range" "0x0000 0x007F"
-}
-}
-"MenuMainTitle" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"antialias" "1"
-"weight" "500"
-}
-}
-"MenuClassBuckets" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"tall_lodef" "14"
-"antialias" "1"
-"weight" "500"
-}
-}
-"MenuKeys" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"antialias" "1"
-"weight" "500"
-}
-}
-"GoalText" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "13"
-"tall_hidef" "14"
-"tall_lodef" "17"
-"weight" "800"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"ChalkboardTitle" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "28"
-"tall_lodef" "48"
-"tall_hidef" "48"
-"antialias" "1"
-"weight" "500"
-"weight_lodef" "800"
-"weight_hidef" "1000"
-}
-}
-"ChalkboardTitleBig" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "40"
-"tall_lodef" "48"
-"tall_hidef" "48"
-"antialias" "1"
-"weight" "500"
-"weight_lodef" "800"
-"weight_hidef" "1000"
-}
-}
-"ChalkboardTitleMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"tall_lodef" "36"
-"tall_hidef" "36"
-"antialias" "1"
-"weight" "500"
-}
-}
-"ChalkboardText" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"tall_lodef" "32"
-"tall_hidef" "32"
-"antialias" "1"
-"weight" "500"
-}
-}
-"ScoreboardSmallest" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "6"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ScoreboardVerySmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "8"
-"tall_hidef" "10"
-"tall_lodef" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ScoreboardSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"tall_hidef" "12"
-"tall_lodef" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ScoreboardMediumSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "500"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"ScoreboardMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"weight" "500"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"ScoreboardTeamName" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"tall_hidef" "24"
-"tall_lodef" "24"
-"weight" "500"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"ScoreboardTeamNameLarge" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "34"
-"tall_hidef" "38"
-"tall_lodef" "38"
-"weight" "500"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"ScoreboardTeamScore" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "52"
-"tall_lodef" "80"
-"range" "0x0000 0x00FF"
-"weight" "400"
-"yres" "1 599"
-"antialias" "1"
-}
-"2" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "72"
-"tall_hidef" "120"
-"range" "0x0000 0x00FF"
-"weight" "400"
-"yres" "600 767"
-"antialias" "1"
-}
-"3" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "100"
-"range" "0x0000 0x00FF"
-"weight" "400"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "140"
-"range" "0x0000 0x00FF"
-"weight" "400"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "180"
-"range" "0x0000 0x00FF"
-"weight" "400"
-"yres" "1200 10000"
-"antialias" "1"
-}
-}
-"MatchSummaryTeamScores" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "36"
-"weight" "500"
-"antialias" "1"
-"additive" "0"
-}
-}
-"MatchSummaryStatsAndMedals" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"MatchSummaryWinner" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"CompMatchStartTeamNames" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ControlPointTimer" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ControlPointTimerSmaller" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "7"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"Link" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"tall_hidef" "12"
-"tall_lodef" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"TargetID" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "700"
-"yres" "480 599"
-"dropshadow" "0"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "700"
-"yres" "600 767"
-"dropshadow" "0"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "700"
-"yres" "768 1023"
-"dropshadow" "0"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "20"
-"weight" "700"
-"yres" "1024 1199"
-"dropshadow" "0"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "24"
-"weight" "700"
-"yres" "1200 10000"
-"dropshadow" "0"
-}
-}
-"ChatFont" 
-{
-"1" 
-{
-"name" "TF2"
-"tall" "12"
-"weight" "700"
-"yres" "480 599"
-"dropshadow" "1"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "700"
-"yres" "600 767"
-"dropshadow" "1"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "700"
-"yres" "768 1023"
-"dropshadow" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "20"
-"weight" "700"
-"yres" "1024 1199"
-"dropshadow" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "24"
-"weight" "700"
-"yres" "1200 10000"
-"dropshadow" "1"
-}
-}
-"ChatMiniFont" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "10"
-"weight" "700"
-"yres" "480 599"
-"dropshadow" "1"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "10"
-"weight" "700"
-"yres" "600 767"
-"dropshadow" "1"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "700"
-"yres" "768 1023"
-"dropshadow" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "700"
-"yres" "1024 1199"
-"dropshadow" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "15"
-"weight" "700"
-"yres" "1200 10000"
-"dropshadow" "1"
-}
-}
-"MenuSmallestFont" 
-{
-"1" 
-{
-"name" "Arial Black"
-"tall" "8"
-"tall_lodef" "12"
-"range" "0x0000 0x00FF"
-"weight" "300"
-"antialias" "1"
-}
-}
-"MenuSmallFont" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"tall_lodef" "18"
-"range" "0x0000 0x00FF"
-"weight" "300"
-"weight_lodef" "600"
-"antialias" "1"
-}
-}
-"CapPlayerFont" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"weight" "500"
-"range" "0x0000 0x017F"
-"TextColor" "Black"
-"antialias" "1"
-}
-}
-"CapPlayerFontSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "8"
-"weight" "500"
-"range" "0x0000 0x017F"
-"TextColor" "Black"
-"antialias" "1"
-}
-}
-"TFFontSmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "8"
-"tall_hidef" "10"
-"tall_lodef" "12"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-}
-"TFFontMedium" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "9"
-"tall_hidef" "10"
-"tall_lodef" "16"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"InstructionalText" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "11"
-"weight" "800"
-"additive" "0"
-"antialias" "1"
-}
-}
-"MatchmakingDialogTitle" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "36"
-"tall_lodef" "28"
-"weight" "500"
-}
-}
-"MatchmakingDialogSessionOptionsTitle" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "30"
-"tall_lodef" "22"
-"weight" "500"
-}
-}
-"MatchmakingDialogMenuLarge" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "28"
-"tall_lodef" "24"
-"weight" "500"
-}
-}
-"MatchmakingDialogMenuBrowserHostname" 
-{
-"1" 
-{
-"name" "Trebuchet MS"
-"tall" "22"
-"weight" "900"
-}
-}
-"MatchmakingDialogMenuBrowserDetails" 
-{
-"1" 
-{
-"name" "Trebuchet MS"
-"tall" "18"
-"weight" "900"
-}
-}
-"MatchmakingDialogMenuMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "22"
-"weight" "500"
-}
-}
-"MatchmakingDialogMenuMediumSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"weight" "500"
-}
-}
-"MatchmakingDialogMenuSmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "22"
-"tall_lodef" "18"
-"weight" "900"
-}
-}
-"MatchmakingDialogMenuSmallest" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "18"
-"tall_lodef" "18"
-"weight" "900"
-}
-}
-"RankingDialogHeaders" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "15"
-"weight" "900"
-}
-}
-"TeamMenuBold" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "36"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"TeamMenu" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "600"
-"additive" "0"
-"antialias" "1"
-}
-}
-"IntroMenuCaption" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"AchievementNotification" 
-{
-"1" 
-{
-"name" "Trebuchet MS"
-"tall" "14"
-"weight" "900"
-"antialias" "1"
-}
-}
-"ImportToolSmallestBold" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "10"
-"weight" "600"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ImportToolSmallest" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "10"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"DefaultVerySmallFallBack" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "10"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-"antialias" "1"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "600 1199"
-"antialias" "1"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "15"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-}
-"ItemFontNameSmallest" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "8"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ItemFontNameSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ItemFontNameLarge" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"ItemFontAttribSmallest" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "7"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ItemFontAttribSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "8"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ItemFontAttribLarge" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"AchievementTracker_Name" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"AchievementTracker_NameGlow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "500"
-"blur" "3"
-"additive" "1"
-"antialias" "1"
-}
-}
-"AchievementTracker_Desc" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "7"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-}
-"ReplayVerySmall" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "16"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-}
-"ReplayBrowserSmallest" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ReplaySmaller" 
-{
-"1" 
-{
-"name" "Verdana"
-"tall" "12"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "480 599"
-}
-"2" 
-{
-"name" "Verdana"
-"tall" "13"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "600 767"
-}
-"3" 
-{
-"name" "Verdana"
-"tall" "14"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "768 1023"
-"antialias" "1"
-}
-"4" 
-{
-"name" "Verdana"
-"tall" "20"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1024 1199"
-"antialias" "1"
-}
-"5" 
-{
-"name" "Verdana"
-"tall" "22"
-"weight" "0"
-"range" "0x0000 0x017F"
-"yres" "1200 6000"
-"antialias" "1"
-}
-"6" 
-{
-"name" "Arial"
-"tall" "12"
-"range" "0x0000 0x00FF"
-"weight" "0"
-}
-}
-"ReplayMediumSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ReplayMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ReplayMediumBig" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"tall_hidef" "24"
-"tall_lodef" "18"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ReplayBrowserTab" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ReplayLarger" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"tall_hidef" "24"
-"tall_lodef" "20"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"EconFontSmall" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"EconFontMedium" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-}
-}
-"ControllerHintText" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"weight" "500"
-"range" "0x0000 0x007F"
-"antialias" "1"
-"additive" "0"
-}
-}
-"MMenuPlayListDesc" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"TF2Build53" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "53"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"DIN 1451 Mittelschrift44" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "44"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Build39" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "39"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary23" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "23"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF220" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary13" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "13"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Build17" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "17"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"PFTempestaSeven10" 
-{
-"1" 
-{
-"name" "PF Tempesta Seven"
-"tall" "10"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary16" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium53" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "53"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium33" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "33"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Glyphs25" 
-{
-"1" 
-{
-"name" "TF2Glyphs"
-"tall" "25"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Glyphs24" 
-{
-"1" 
-{
-"name" "TF2Glyphs"
-"tall" "24"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"ItemFontAttribSmallv2" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "8"
-"antialias" "1"
-"weight" "500"
-}
-}
-"QuestObjectiveTracker_Desc" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "7"
-"weight" "0"
-"additive" "1"
-"antialias" "1"
-}
-"QuestObjectiveTracker_DescGlow" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "7"
-"weight" "0"
-"antialias" "1"
-}
-"QuestObjectiveTracker_DescBlur" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "7"
-"weight" "0"
-"blur" "3"
-"additive" "1"
-"antialias" "1"
-}
-"ItemTrackerScore_InGame" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "7"
-"weight" "0"
-"antialias" "1"
-}
-"QuestFlavorText" 
-{
-"1"
-{
-}
-"2"
-{
-}
-"3"
-{
-}
-"name" "Verdana"
-"tall" "18"
-"weight" "400"
-"yres" "1024 6000"
-"additive" "0"
-"antialias" "1"
-}
-"QuestObjectiveText" 
-{
-"1"
-{
-}
-"2"
-{
-}
-"3"
-{
-}
-"name" "Verdana"
-"tall" "18"
-"weight" "800"
-"yres" "1024 6000"
-"additive" "0"
-"antialias" "1"
-}
-"QuestLargeText" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "16"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-"QuestStickyText" 
-{
-"1"
-{
-}
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"antialias" "1"
-"custom" "1"
-"weight" "500"
-}
-"AdFont_ItemName" 
-{
-"1"
-{
-}
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-"AdFont_AdText" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "8"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-"AdFont_PurchaseButton" 
-{
-"1"
-{
-}
-"name" "Verdana"
-"tall" "8"
-"weight" "0"
-"antialias" "1"
-}
-"TF2Secondary20" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary30" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "30"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Build14Outline" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"additive" "0"
-"antialias" "1"
-"outline" "1"
-}
-}
-"TF2Secondary10" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "10"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary15" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "15"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary40" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "40"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary18" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "18"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium20" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "20"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Build29" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "29"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary53" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "53"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary9" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "9"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Secondary33" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "33"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"TF2Build16" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "16"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"XPSource" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"antialias" "1"
-}
-}
-"XPSource_Glow" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"weight" "500"
-"blur" "3"
-"additive" "1"
-"antialias" "1"
-}
-}
-"MapVotesPercentage" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "12"
-"weight" "500"
-"additive" "0"
-"antialias" "1"
-"dropshadow" "1"
-}
-}
-"QuestMap_Small_Blur" 
-{
-"1" 
-{
-"name" "ocra"
-"tall" "7"
-"weight" "0"
-"blur" "3"
-"additive" "1"
-"antialias" "1"
-}
-}
-"QuestMap_Small" 
-{
-"1" 
-{
-"name" "ocra"
-"tall" "7"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"QuestMap_Medium" 
-{
-"1" 
-{
-"name" "ocra"
-"tall" "10"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"QuestMap_Large" 
-{
-"1" 
-{
-"name" "ocra"
-"tall" "14"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"QuestMap_Huge" 
-{
-"1" 
-{
-"name" "ocra"
-"tall" "30"
-"weight" "400"
-"additive" "0"
-"antialias" "1"
-}
-}
-"Crosshairs5" 
-{
-"1" 
-{
-"name" "Crosshairs"
-"tall" "5"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"PFTempestaSeven17" 
-{
-"1" 
-{
-"name" "PF Tempesta Seven"
-"tall" "17"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium13" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "13"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium50" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "50"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"DIN 1451 Mittelschrift11" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "11"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium33" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "33"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"SurfaceMedium14" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "14"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-"DIN 1451 Mittelschrift24" 
-{
-"1" 
-{
-"name" "DIN 1451 Mittelschrift"
-"tall" "24"
-"additive" "0"
-"antialias" "1"
-"outline" "0"
-}
-}
-}
-"Borders" 
-{
-"NoBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "Blank"
-"offset" "0 0"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "Blank"
-"offset" "0 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "Blank"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "Blank"
-"offset" "0 0"
-}
-}
-}
-"TeamMenuBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "Black"
-"offset" "0 0"
-}
-}
-}
-"ScrollBarButtonBorder" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"ScrollBarButtonDepressedBorder" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"ButtonBorder" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"ButtonKeyFocusBorder" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"ButtonDepressedBorder" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"ComboBoxBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 0"
-}
-}
-}
-"DarkComboBoxBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-}
-"SalePriceBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "SaleGreen"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "SaleGreen"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "SaleGreen"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "SaleGreen"
-"offset" "0 0"
-}
-}
-}
-"MainMenuSubButtonBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "1 0"
-}
-}
-}
-"CrosshatchedBackground" 
-{
-"bordertype" "image"
-"backgroundtype" "2"
-"image" "loadout_header"
-"tiled" "1"
-}
-"OutlinedGreyBox" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_round_rect_selected"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"OutlinedDullGreyBox" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_round_rect"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"TFThinLineBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/tournament_panel_brown"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"TFFatLineBorderOpaque" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_brown_opaque"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"TFFatLineBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_brown"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"TFFatLineBorderRedBGOpaque" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_red_opaque"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"TFFatLineBorderRedBGOpaque_Store" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_red_opaque"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"TFFatLineBorderRedBG" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_red"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"TFFatLineBorderBlueBG" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/color_panel_blu"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"ToolTipBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 0"
-}
-}
-}
-"OptionsCategoryBorder" 
-{
-"Bottom" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 0"
-}
-}
-}
-"GrayDialogBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_rect"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"StoreFreeTrialBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_rect_red"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"EconItemBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_rect"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"Econ.Button.Border.Default" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"Econ.Button.Border.Armed" 
-{
-"inset" "0 0 0 0"
-"backgroundtype" "2"
-}
-"LoadoutItemMouseOverBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "loadout_rect_mouseover"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"LoadoutItemPopupBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_holder_central_alpha"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"BackpackItemGrayedOut" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "Black"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGrayedOut_Selected" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "Black"
-"image" "backpack_rect_selected"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "backpack_rect"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "backpack_rect_mouseover"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemSelectedBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "backpack_rect_selected"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "Black"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "Black"
-"image" "backpack_rect_selected"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Unique" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorUnique"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Unique" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorUnique"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Unique" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorUnique_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Unique" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorUnique_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_1" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity1"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_1" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity1"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_1" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity1_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_1" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity1_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_2" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity2"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_2" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity2"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_2" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity2_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_2" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity2_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_3" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity3"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_3" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity3"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_3" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity3_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_3" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity3_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_4" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity4"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_4" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity4"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_4" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity4_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_4" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorrarity4_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Haunted" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorHaunted"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Haunted" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorHaunted"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Haunted" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorHaunted_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Haunted" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorHaunted_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Collectors" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCollectors"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Collectors" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCollectors"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Collectors" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCollectors_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Collectors" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCollectors_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Vintage" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorVintage"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Vintage" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorVintage"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Vintage" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorVintage_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Vintage" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorVintage_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Community" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCommunity"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Community" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCommunity"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Community" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCommunity_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Community" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCommunity_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Developer" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorDeveloper"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Developer" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorDeveloper"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Developer" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorDeveloper_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Developer" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorDeveloper_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_SelfMade" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorSelfMade"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_SelfMade" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorSelfMade"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_SelfMade" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorSelfMade_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_SelfMade" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorSelfMade_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Customized" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCustomized"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Customized" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCustomized"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Customized" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCustomized_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Customized" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCustomized_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Strange" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorStrange"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Strange" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorStrange"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Strange" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorStrange_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Strange" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorStrange_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemBorder_Completed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCompleted"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemMouseOverBorder_Completed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCompleted"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutBorder_Completed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCompleted_GreyedOut"
-"image" "backpack_rect_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"BackpackItemGreyedOutSelectedBorder_Completed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "QualityColorCompleted_GreyedOut"
-"image" "backpack_rect_mouseover_color"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"StoreItemBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDarker"
-"offset" "0 0"
-}
-}
-}
-"StoreItemBorderMouseOver" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-}
-"StoreItemBorderSelected" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanLight"
-"offset" "0 0"
-}
-}
-}
-"MainMenuButtonGlow" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "178 83 22 255"
-"image" "button_glow"
-"src_corner_height" "4"
-"src_corner_width" "4"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuButtonGlow2" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"color" "238 103 17 255"
-"image" "button_glow"
-"src_corner_height" "4"
-"src_corner_width" "4"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"NotificationDefault" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "alert_rect"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"NotificationHighPriority" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_holder_central"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuButtonDefault" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_central"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuButtonArmed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_central_hover"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuButtonDisabled" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_central_disabled"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuMiniButtonDefault" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_central_adv"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "1"
-"draw_corner_height" "1"
-}
-"MainMenuMiniButtonArmed" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_central_adv_hover"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "1"
-"draw_corner_height" "1"
-}
-"MainMenuBGBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_holder_central"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuBGBorderAlpha" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_holder_central_alpha"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"MainMenuBlogTabBG" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "blog_tabby"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"MainMenuHighlightBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "callout_bubble"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"TrainingResultsBG" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "button_holder_central"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"StoreInnerShadowBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/innershadow_border"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"StoreNewBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "new_corner"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"StoreHighlightedBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "featured_corner"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"StoreHighlightedBackgroundBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_featured_item_bg01"
-"src_corner_height" "80"
-"src_corner_width" "30"
-"draw_corner_width" "0"
-"draw_corner_height" "0"
-}
-"StoreDiscountBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "sale_corner"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"StorePreviewBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_inspector_bg_small"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"StoreAddToCart" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_add_to_cart"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"StorePreviewTabSelected" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_tab_selected"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "12"
-"draw_corner_height" "12"
-}
-"StorePreviewTabUnselected" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_tab_unselected"
-"src_corner_height" "32"
-"src_corner_width" "32"
-"draw_corner_width" "16"
-"draw_corner_height" "12"
-}
-"StorePromotion" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "store/store_coupon_border"
-"src_corner_height" "16"
-"src_corner_width" "16"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"ArmoryScrollbarBox" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "scroll_button_off"
-"src_corner_height" "16"
-"src_corner_width" "16"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"ArmoryScrollbarWell" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "scroll_well"
-"src_corner_height" "16"
-"src_corner_width" "16"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"OuterShadowBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "outer_shadow_border"
-"src_corner_height" "8"
-"src_corner_width" "8"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"OuterShadowBorderThin" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "outer_shadow_border"
-"src_corner_height" "8"
-"src_corner_width" "8"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-"CYOAScreenBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "cyoa/cyoa_map_screen_border"
-"src_corner_height" "63"
-"src_corner_width" "63"
-"draw_corner_width" "26"
-"draw_corner_height" "26"
-}
-"CYOANodeViewBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "cyoa/node_view_border"
-"src_corner_height" "127"
-"src_corner_width" "127"
-"draw_corner_width" "24"
-"draw_corner_height" "24"
-}
-"CYOANodeViewBorder_Active" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "cyoa/node_view_border_active"
-"src_corner_height" "127"
-"src_corner_width" "127"
-"draw_corner_width" "24"
-"draw_corner_height" "24"
-}
-"CYOANodeViewBorder_Inactive" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "cyoa/node_view_border_inactive"
-"src_corner_height" "127"
-"src_corner_width" "127"
-"draw_corner_width" "24"
-"draw_corner_height" "24"
-}
-"CYOANodeViewBorder_TurnIn" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "cyoa/node_view_border_turnin"
-"src_corner_height" "127"
-"src_corner_width" "127"
-"draw_corner_width" "24"
-"draw_corner_height" "24"
-}
-"CYOAPopupBorder" 
-{
-"inset" "0 0 1 1"
-"Left" 
-{
-"1" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 1"
-}
-"2" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "1 0"
-}
-"2" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "QuestMap_ActiveOrange"
-"offset" "0 0"
-}
-}
-}
-"FriendHighlightBorder" 
-{
-"inset" "0 0 1 1"
-"Left" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-}
-}
-"FriendHighlightBorderThick" 
-{
-"inset" "0 0 1 1"
-"Left" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 1"
-}
-"2" 
-{
-"color" "CreditsGreen"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "1 0"
-}
-"2" 
-{
-"color" "CreditsGreen"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-"2" 
-{
-"color" "CreditsGreen"
-"offset" "0 0"
-}
-}
-}
-"QuickplayBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-}
-"SortCategoryBorder" 
-{
-"Right" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "1 0"
-}
-}
-}
-"SteamWorkshopBorder" 
-{
-"Left" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 1"
-}
-}
-"Right" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "1 0"
-}
-}
-"Top" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-"Bottom" 
-{
-"1" 
-{
-"color" "TanDark"
-"offset" "0 0"
-}
-}
-}
-"ReplayFatLineBorderRedBGOpaque" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/fatlineborder_red"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"ReplayFatLineBorderOpaque" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/fatlineborder"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"ReplayGrayDialogBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/graydialogborder"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"ReplayOutlinedGreyBox" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/outlinedgreybox"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"ReplayOutlinedDullGreyBox" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/dullgreybox"
-"src_corner_height" "24"
-"src_corner_width" "24"
-"draw_corner_width" "11"
-"draw_corner_height" "11"
-}
-"ReplayThinLineBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "../hud/tournament_panel_brown"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "8"
-"draw_corner_height" "8"
-}
-"ReplayDefaultBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/panel_scalable_default"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "7"
-"draw_corner_height" "7"
-}
-"ReplayHighlightBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/panel_scalable_highlight"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "7"
-"draw_corner_height" "7"
-}
-"ReplayBalloonBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "replay/panel_scalable_balloon"
-"src_corner_height" "23"
-"src_corner_width" "23"
-"draw_corner_width" "7"
-"draw_corner_height" "7"
-}
-"InnerShadowBorder" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "inner_shadow_border"
-"src_corner_height" "5"
-"src_corner_width" "5"
-"draw_corner_width" "5"
-"draw_corner_height" "5"
-}
-"InnerShadowBorderThin" 
-{
-"bordertype" "scalable_image"
-"backgroundtype" "2"
-"image" "inner_shadow_border"
-"src_corner_height" "5"
-"src_corner_width" "5"
-"draw_corner_width" "4"
-"draw_corner_height" "4"
-}
-}
-"CustomFontFiles" 
-{
-"1" "resource/tf.otf"
-"2" "resource/tfd.otf"
-"8" 
-{
-"font" "resource/DIN 1451 Mittelschrift.otf"
-"name" "DIN 1451 Mittelschrift"
-}
-"9" 
-{
-"font" "resource/pf_tempesta_seven.otf"
-"name" "PF Tempesta Seven"
-}
-"10" 
-{
-"font" "resource/crosshairs.otf"
-"name" "Crosshairs"
-}
-"11" 
-{
-"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
-"name" "DIN 1451 Mittelschrift"
-}
-}
+		StorePreviewBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_inspector_bg_small"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		StoreAddToCart
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_add_to_cart"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		StorePreviewTabSelected
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_tab_selected"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		StorePreviewTabUnselected
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_tab_unselected"
+			"src_corner_height"		"32"				// pixels inside the image
+			"src_corner_width"		"32"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		StorePromotion
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"store/store_coupon_border"
+			"src_corner_height"		"16"				// pixels inside the image
+			"src_corner_width"		"16"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		
+		ArmoryScrollbarBox
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"scroll_button_off"
+			"src_corner_height"		"16"				// pixels inside the image
+			"src_corner_width"		"16"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ArmoryScrollbarWell
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"scroll_well"
+			"src_corner_height"		"16"				// pixels inside the image
+			"src_corner_width"		"16"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		QuickplayBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		SortCategoryBorder
+		{
+			"inset" "0 0 1 1"
+	
+			Right
+			{
+				"1"
+				{
+					"color" "TanDark"
+					"offset" "1 0"
+				}
+			}
+		}
+
+		SteamWorkshopBorder
+		{
+			"inset" "0 0 0 0"
+			Left
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "Blank"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		ReplayFatLineBorderRedBGOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/fatlineborder_red"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayFatLineBorderOpaque
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/fatlineborder"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayGrayDialogBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/graydialogborder"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayOutlinedGreyBox
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/outlinedgreybox"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayOutlinedDullGreyBox
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/dullgreybox"
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayThinLineBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/tournament_panel_brown"
+			//"image"					"../hud/color_panel_browner"
+			"src_corner_height"		"23"				// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayDefaultBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/panel_scalable_default"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayHighlightBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/panel_scalable_highlight"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayBalloonBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/panel_scalable_balloon"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+		}
+		ReplayBrowser.ScrollBar.SliderButton.Border
+		{
+		}
+		
+		QuestStatusBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"replay/panel_scalable_transparent"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"7"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"	
+		}
+
+		RedWithThinBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/panel_scalable_red"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"7"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"	
+		}
+
+		BlueWithThinBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"../hud/panel_scalable_blue"
+			"src_corner_height"		"23"			// pixels inside the image
+			"src_corner_width"		"23"
+			"draw_corner_width"		"7"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"7"	
+		}
+
+		InnerShadowBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"inner_shadow_border"
+			"src_corner_height"		"5"				// pixels inside the image
+			"src_corner_width"		"5"
+			"draw_corner_width"		"5"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"5"	
+		}
+
+		InnerShadowBorderThin
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"inner_shadow_border"
+			"src_corner_height"		"5"				// pixels inside the image
+			"src_corner_width"		"5"
+			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"4"	
+		}
+
+		OuterShadowBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"outer_shadow_border"
+			"src_corner_height"		"8"				// pixels inside the image
+			"src_corner_width"		"8"
+			"draw_corner_width"		"8"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"8"	
+		}
+
+		OuterShadowBorderThin
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"outer_shadow_border"
+			"src_corner_height"		"8"				// pixels inside the image
+			"src_corner_width"		"8"
+			"draw_corner_width"		"4"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"4"	
+		}
+		CYOAScreenBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"cyoa/cyoa_map_screen_border"
+			"src_corner_height"		"63"				// pixels inside the image
+			"src_corner_width"		"63"
+			"draw_corner_width"		"26"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"26"	
+		}
+
+		CYOANodeViewBorder
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"cyoa/node_view_border"
+			"src_corner_height"		"127"				// pixels inside the image
+			"src_corner_width"		"127"
+			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"24"	
+		}
+
+		CYOANodeViewBorder_Active
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"cyoa/node_view_border_active"
+			"src_corner_height"		"127"				// pixels inside the image
+			"src_corner_width"		"127"
+			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"24"	
+		}
+
+		CYOANodeViewBorder_Inactive
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"cyoa/node_view_border_inactive"
+			"src_corner_height"		"127"				// pixels inside the image
+			"src_corner_width"		"127"
+			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"24"	
+		}
+
+		CYOANodeViewBorder_TurnIn
+		{
+			"bordertype"			"scalable_image"
+			"backgroundtype"		"2"
+			
+			"image"					"cyoa/node_view_border_turnin"
+			"src_corner_height"		"127"				// pixels inside the image
+			"src_corner_width"		"127"
+			"draw_corner_width"		"24"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"24"	
+		}
+
+		CYOAPopupBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 1"
+				}
+				"2"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "1 0"
+				}
+				"2"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "QuestMap_ActiveOrange"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		FriendHighlightBorder
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 1"
+				}
+
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+			}
+		}
+
+		FriendHighlightBorderThick
+		{
+			"inset" "0 0 1 1"
+			Left
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 1"
+				}
+				"2"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 1"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "1 0"
+				}
+				"2"
+				{
+					"color" "CreditsGreen"
+					"offset" "1 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "CreditsGreen"
+					"offset" "0 0"
+				}
+			}
+		}
+	}
+	"CustomFontFiles" 
+	{
+		"1" "resource/tf.otf"
+		"2" "resource/tfd.otf"
+		"8" 
+		{
+		"font" "resource/DIN 1451 Mittelschrift.otf"
+		"name" "DIN 1451 Mittelschrift"
+		}
+		"9" 
+		{
+		"font" "resource/pf_tempesta_seven.otf"
+		"name" "PF Tempesta Seven"
+		}
+		"10" 
+		{
+		"font" "resource/crosshairs.otf"
+		"name" "Crosshairs"
+		}
+		"11" 
+		{
+		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
+		"name" "DIN 1451 Mittelschrift"
+		}
+	}
 }

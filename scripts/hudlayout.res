@@ -34,7 +34,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"c219"
-		"ypos"		"390"	
+		"ypos"		"350"	
 		"wide"		"200"
 		"tall"		"100"	
 
@@ -45,6 +45,8 @@
 		"ItemFadeInTime"	"0.17"	
 		"ItemFadeOutTime"	"0.24"
 		"topoffset"		"1"
+		
+		"font" "m0refont20"
 	}
 	
 "xHair" 

@@ -10,7 +10,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"0 0 0 255"
 	}
 	"MainBackground"
 	{
@@ -34,7 +34,7 @@
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"c-180"
-		"ypos"			"50"
+		"ypos"			"60"
 		"zpos"			"50"
 		"wide"			"360"
 		"tall"			"35"
@@ -1994,9 +1994,9 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TipImage"
-		"xpos"			"c-285"
-		"ypos"			"340" [$WINDOWS]
-		"ypos"			"335" [!$WINDOWS]
+		"xpos"			"c9285"
+		"ypos"			"9340" [$WINDOWS]
+		"ypos"			"9335" [!$WINDOWS]
 		"zpos"			"12"
 		"wide"			"40"
 		"tall"			"40"
@@ -2012,8 +2012,8 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%tiptext%"
 		"textAlignment"	"west"
-		"xpos"			"c-245"
-		"ypos"			"340"
+		"xpos"			"c9245"
+		"ypos"			"9340"
 		"zpos"			"12"
 		"wide"			"540"
 		"tall"			"25"
@@ -2029,9 +2029,9 @@
 		"ControlName"	"Button"
 		"fieldName"		"NextTipButton"
 		"font"			"Default"
-		"xpos"			"c-235"
-		"ypos"			"365" [$WINDOWS]
-		"ypos"			"360" [!$WINDOWS]
+		"xpos"			"c9235"
+		"ypos"			"9365" [$WINDOWS]
+		"ypos"			"9360" [!$WINDOWS]
 		"zpos"			"6"
 		"wide"			"40"
 		"tall"			"15"

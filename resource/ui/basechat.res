@@ -8,12 +8,12 @@
 		"enabled" 		"1"
 		"xpos" 			"0" // TLC
 		//"xpos_minmode" 	"80" // TLC
-		"ypos" 			"225" // TLC
+		"ypos" 			"40" //225 // TLC
 		//"ypos_minmode" 	"r114" // TLC
 		"zpos" 			"9"
-		"wide"			"230"
+		"wide"			"300"
 		//"wide_minmode"	"268"
-		"tall" 			"175"
+		"tall" 			"150"
 		//"tall_minmode" 	"114"
 		"PaintBackgroundType" "0"
 		"paintbackground"	"0"
@@ -30,8 +30,8 @@
 		"enabled" 				"1"
 		"xpos" 					"5"
 		"ypos" 					"395"
-		"wide"					"290"
-		"wide_minmode" 			"258"
+		"wide"					"300"
+		//"wide_minmode" 			"258"
 		"tall" 					"2"
 		"PaintBackgroundType" 	"0"
 	}
@@ -40,12 +40,12 @@
 	{
 		"ControlName" 	"Button"
 		"fieldName" 	"ChatFiltersButton"
-		"xpos" 			"5"
-		"xpos_minmode" 	"5"
-		"ypos" 			"115"
-		"ypos_minmode" 	"99"
+		"xpos" 			"0"
+		//"xpos_minmode" 	"5"
+		"ypos" 			"0"
+		//"ypos_minmode" 	"99"
 		"zpos" 			"50"
-		"wide" 			"15"
+		"wide" 			"100"
 		"tall"			"10"
 		"autoResize"	"1"
 		"pinCorner"		"0"
@@ -64,10 +64,10 @@
 		"ControlName" 	"RichText"
 		"fieldName" 	"HudChatHistory"
 		"xpos" 			"0"
-		"ypos" 			"0"
+		"ypos" 			"10"
 		"wide"			"300"
-		"wide_minmode" 	"268"
-		"tall" 			"75"
+		//"wide_minmode" 	"230"
+		"tall" 			"140"
 		"wrap" 			"1"
 		"autoResize" 	"1"
 		"pinCorner" 	"1"

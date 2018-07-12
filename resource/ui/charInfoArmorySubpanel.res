@@ -1,3 +1,4 @@
+// Catalog
 "Resource/UI/CharInfoArmorySubPanel.res"
 {
 	"armory_panel"

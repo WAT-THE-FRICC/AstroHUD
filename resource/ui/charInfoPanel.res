@@ -1,3 +1,4 @@
+// defines the outer panel
 "Resource/UI/CharInfoPanel.res"
 {
 	"character_info"
@@ -120,25 +121,7 @@
 		"tabxdelta"		"0"
 		"tabwidth"		"200"
 		"tabheight"		"18"
-		"transition_time" "0"
-		
-		"HeaderLine"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"HeaderLine"
-			"xpos"			"0"
-			"ypos"			"20"
-			"zpos"			"7"
-			"wide"			"f0"
-			"tall"			"15"
-			"visible"		"1"
-			"enabled"		"1"
-			"pinCorner"		"0"
-			"autoResize"	"0"
-			"PaintBackgroundType"	"2"
-			"border"				"NoBorder"
-			"bgcolor_override"		"ya_MenuBG"
-		}				
+		"transition_time" "0"		
 		
 		"tabskv"
 		{

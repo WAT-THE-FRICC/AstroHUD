@@ -35,7 +35,7 @@
 {
 "ControlName" "Label"
 "fieldName" "FreezeLabel"
-"font" "GoalText"
+"font" "m0refont13"
 "fgcolor" "default_color"
 "xpos" "c-50"
 "ypos" "272"
@@ -89,7 +89,7 @@
 {
 "ControlName" "Label"
 "fieldName" "QHUDKillerName"
-"font" "SurfaceMedium14"
+"font" "m0refont14"
 "fgcolor" "default_color"
 "xpos" "c-50"
 "ypos" "287"

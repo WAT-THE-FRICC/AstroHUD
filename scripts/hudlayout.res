@@ -835,10 +835,10 @@ HudKothTimeStatus
 "fieldName" "HudChat"
 "visible" "1"
 "enabled" "1"
-"xpos" "10"
+"xpos" "-10"
 "ypos" "275"
-"wide" "180"
-"tall" "120"
+"wide" "190"
+"tall" "220"
 "PaintBackgroundType" "2"
 }
 "HudMenuEngyBuild" 

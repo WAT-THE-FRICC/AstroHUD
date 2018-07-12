@@ -48,15 +48,15 @@
 			
 			"model_center_x"	"1"
 			"model_ypos"		"5"			
-			"model_tall"		"55"
-			"model_wide"		"82"
+			"model_tall"		"50"
+			"model_wide"		"72"
 			"text_ypos"			"0"
-			"text_forcesize"	"2"
+			//"text_forcesize"	"2"
 			"text_center"		"0"
 			"text_yoffset"		"2"
 			"inset_eq_y"		"55"
 			"name_only"			"1"
-			
+			"font"			"m0refont14"
 			"attriblabel"
 			{
 				"font"			"ItemFontAttribLarge"
@@ -187,7 +187,7 @@
 		"tileVertically" "0"
 	}				
 	
-	"classmodelpanel"
+	"class"
 	{
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"

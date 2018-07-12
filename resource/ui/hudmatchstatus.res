@@ -463,7 +463,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"PlayerPanelPlayerName"
+				"font"			"m0refont16"
 				"xpos"			"cs-0.5"
 				"ypos"			"0"
 				"zpos"			"5"

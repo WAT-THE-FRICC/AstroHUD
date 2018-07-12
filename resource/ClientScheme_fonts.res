@@ -2,6 +2,39 @@
 {
 	"Fonts" 
 	{
+		"Lato50"
+		{
+			"1"
+			{
+				"name" "Lato Black"
+				"tall" "50"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"Lato24"
+		{
+			"1"
+			{
+				"name" "Lato Black"
+				"tall" "24"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"ChatFont"
+		{
+			"1"
+			{
+				"name"		"Verdana"
+				"tall"		"10"
+				"weight"	"700"
+				"yres"		"480 599"
+				"dropshadow"	"1"
+			}
+		}
 		"UberchargeOutline" 
 		{
 			"1" 

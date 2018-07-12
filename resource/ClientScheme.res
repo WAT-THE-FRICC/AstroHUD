@@ -508,25 +508,20 @@
 	{
 		"1" "resource/tf.otf"
 		"2" "resource/tfd.otf"
-		"8" 
+		"7" 
 		{
-		"font" "resource/DIN 1451 Mittelschrift.otf"
+		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
 		"name" "DIN 1451 Mittelschrift"
 		}
-		"9" 
+		"8"
 		{
-		"font" "resource/pf_tempesta_seven.otf"
-		"name" "PF Tempesta Seven"
+		"font" "resource/customfonts/Lato-Black.ttf"
+		"name" "Lato Black"
 		}
 		"10" 
 		{
 		"font" "resource/crosshairs.otf"
 		"name" "Crosshairs"
-		}
-		"11" 
-		{
-		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
-		"name" "DIN 1451 Mittelschrift"
 		}
 	}
 }

@@ -7,7 +7,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD a0.2.2 by exitiosius and astroyed. ALPHA BUILD"
+    "labelText"		"AstroHUD b0.3 by exitiosius and astroyed. BETA BUILD" //07122018_1439
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -185,24 +185,10 @@
 "tall" "340"
 "autoResize" "0"
 "pinCorner" "0"
-"visible" "1"
-"enabled" "1"
-"fillcolor" "0 0 0 255"
-}
-"ShadyShady" 
-{
-"ControlName" "ImagePanel"
-"fieldName" "ShadyShady"
-"xpos" "0"
-"ypos" "0"
-"zpos" "-199"
-"wide" "900"
-"tall" "f0"
-"autoResize" "0"
-"pinCorner" "0"
 "visible" "0"
 "enabled" "0"
-"fillcolor" "0 0 0 102"//102
+"fillcolor" "0 0 0 255"
+//"OnlyInGame" "1"
 }
 "Background" 
 {
@@ -213,11 +199,12 @@
 "zpos" "-200"
 "wide" "o1.6"
 "tall" "f0"
-"visible" "0"
-"enabled" "0"
-"image" "" // TODO
+"visible" "1"
+"enabled" "1"
+"image" "background" // TODO
+//https://www.flickr.com/photos/129001139@N03/32066498873
 "scaleImage" "1"
-"fillcolor"		"50 50 50 255"
+//"fillcolor"		"50 50 50 255"
 "if_wider" 
 {
 "wide" "f0"

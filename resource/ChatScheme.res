@@ -1,47 +1,30 @@
-///////////////////////////////////////////////////////////
-// Tracker scheme resource file
-//
-// sections:
-//		Colors			- all the colors used by the scheme
-//		BaseSettings	- contains settings for app to use to draw controls
-//		Fonts			- list of all the fonts used by app
-//		Borders			- description of all the borders
-//
-///////////////////////////////////////////////////////////
 Scheme
 {
-	//////////////////////// COLORS ///////////////////////////
-	// color details
-	// this is a list of all the colors used by the scheme
+
 	Colors
 	{
 		// base colors
 		"White"				"255 255 255 255"
 		"OffWhite"			"255 255 255 255"
-		"DullWhite"			"214 214 214 255"
-		"Orange"			"214 214 214 255"
-		"TransparentBlack"		"54 54 54 255"
+		"DullWhite"			"142 142 142 255"
+		"Orange"			"255 155 0 255"
+		"TransparentBlack"	"0 0 0 0"
 		"Black"				"0 0 0 255"
-
+		"Green"				"63 185 73 255"
 		"Blank"				"0 0 0 0"
 	}
 
-	///////////////////// BASE SETTINGS ////////////////////////
-	//
-	// default settings for all panels
-	// controls use these to determine their settings
 	BaseSettings
 	{
 		// vgui_controls color specifications
-		Border.Bright					"200 200 200 0"		// the lit side of a control
-		Border.Dark						"40 40 40 0"		// the dark/unlit side of a control
-		Border.Selection				"0 0 0 0"			// the additional border color for displaying the default/selected button
+		Border.Bright					"0 0 0 0"	// the lit side of a control
+		Border.Dark						"0 0 0 0"	// the dark/unlit side of a control
+		Border.Selection				"0 0 0 0"	// the additional border color for displaying the default/selected button
 
-		Button.TextColor				"White"
+		Button.TextColor				"Blank"
 		Button.BgColor					"Blank"
 		Button.ArmedTextColor			"White"
-		Button.ArmedBgColor				"Blank"				[$WIN32]
-		Button.ArmedBgColor				"190 115 0 255"		[$X360]
+		Button.ArmedBgColor				"255 255 255 10"
 		Button.DepressedTextColor		"White"
 		Button.DepressedBgColor			"Blank"
 		Button.FocusBorderColor			"Black"
@@ -60,29 +43,29 @@ Scheme
 
 		"Chat.TypingText"		"White"
 
-		Frame.TitleTextInsetX			0
-		Frame.ClientInsetX				0
-		Frame.ClientInsetY				0
-		Frame.BgColor					"0 0 0 214"
-		Frame.OutOfFocusBgColor			"0 0 0 57"
-		Frame.FocusTransitionEffectTime	"0.3"	// time it takes for a window to fade in/out on focus/out of focus
-		Frame.TransitionEffectTime		"0.3"	// time it takes for a window to fade in/out on open/close
+		Frame.TitleTextInsetX			16
+		Frame.ClientInsetX				8
+		Frame.ClientInsetY				6
+		Frame.BgColor					"0 0 0 0"	[$WIN32]
+		Frame.OutOfFocusBgColor			"0 0 0 0"	[$WIN32]
+		Frame.FocusTransitionEffectTime	"0.2"	// time it takes for a window to fade in/out on focus/out of focus
+		Frame.TransitionEffectTime		"0.2"	// time it takes for a window to fade in/out on open/close
 		Frame.AutoSnapRange				"0"
-		FrameGrip.Color1				"200 200 200 0"
-		FrameGrip.Color2				"0 0 0 0"
-		FrameTitleButton.FgColor		"200 200 200 255"
+		FrameGrip.Color1				"46 43 42 220"
+		FrameGrip.Color2				"0 0 0 196"
+		FrameTitleButton.FgColor		"46 43 42 220"
 		FrameTitleButton.BgColor		"Blank"
-		FrameTitleButton.DisabledFgColor	"255 255 255 255"
+		FrameTitleButton.DisabledFgColor	"255 255 255 192"
 		FrameTitleButton.DisabledBgColor	"Blank"
 		FrameSystemButton.FgColor		"Blank"
 		FrameSystemButton.BgColor		"Blank"
 		FrameSystemButton.Icon			""
 		FrameSystemButton.DisabledIcon	""
-		//FrameTitleBar.Font				"UiBold"		[$WIN32]
-		//FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
+		FrameTitleBar.Font				"UiBold"		[$WIN32]
+		FrameTitleBar.Font				"DefaultLarge"	[$WIN32]
 		FrameTitleBar.TextColor			"White"
 		FrameTitleBar.BgColor			"Blank"
-		FrameTitleBar.DisabledTextColor	"255 255 255 255"
+		FrameTitleBar.DisabledTextColor	"255 255 255 192"
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"White"
@@ -101,17 +84,17 @@ Scheme
 		ListPanel.BgColor					"TransparentBlack"
 		ListPanel.SelectedTextColor			"Black"
 		ListPanel.SelectedBgColor			"Orange"
-		ListPanel.SelectedOutOfFocusBgColor	"0 0 0 214"
+		ListPanel.SelectedOutOfFocusBgColor	"255 155 0 128"
 		ListPanel.EmptyListInfoTextColor	"OffWhite"
 
 		Menu.TextColor					"White"
-		Menu.BgColor					"0 0 0 214"
+		Menu.BgColor					"46 43 42 220"
 		Menu.ArmedTextColor				"Black"
 		Menu.ArmedBgColor				"Orange"
 		Menu.TextInset					"6"
 
 		Panel.FgColor					"Blank"
-		Panel.BgColor					"DullWhite"
+		Panel.BgColor					"46 43 42 220"
 
 		ProgressBar.FgColor				"White"
 		ProgressBar.BgColor				"TransparentBlack"
@@ -128,17 +111,17 @@ Scheme
 		RichText.SelectedTextColor		"Black"
 		RichText.SelectedBgColor		"Orange"
 
-		ScrollBar.Wide					17
+		ScrollBar.Wide					5
 
-		ScrollBarButton.FgColor				"Blank"	//buttons invis
-		ScrollBarButton.BgColor				"Blank"
-		ScrollBarButton.ArmedFgColor		"Blank"
-		ScrollBarButton.ArmedBgColor		"Blank"
-		ScrollBarButton.DepressedFgColor	"Blank"
-		ScrollBarButton.DepressedBgColor	"Blank"
+		ScrollBarButton.FgColor				"0 0 0 0"
+		ScrollBarButton.BgColor				"0 0 0 0"
+		ScrollBarButton.ArmedFgColor		"0 0 0 0"
+		ScrollBarButton.ArmedBgColor		"0 0 0 0"
+		ScrollBarButton.DepressedFgColor	"0 0 0 0"
+		ScrollBarButton.DepressedBgColor	"0 0 0 0"
 
-		ScrollBarSlider.FgColor				"Blank"			// nob color
-		ScrollBarSlider.BgColor				"Blank"	// slider background color
+		ScrollBarSlider.FgColor				"255 255 255 200"	// nob color
+		ScrollBarSlider.BgColor				"0 0 0 0"	// slider background color
 
 		SectionedListPanel.HeaderTextColor	"White"
 		SectionedListPanel.HeaderBgColor	"Blank"
@@ -149,11 +132,11 @@ Scheme
 		SectionedListPanel.SelectedTextColor			"Black"
 		SectionedListPanel.SelectedBgColor				"Orange"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
-		SectionedListPanel.OutOfFocusSelectedBgColor	"0 0 0 214"
+		SectionedListPanel.OutOfFocusSelectedBgColor	"255 155 0 128"
 
-		Slider.NobColor				"Blank"
-		Slider.TextColor			"Blank"
-		Slider.TrackColor			"Blank"
+		Slider.NobColor				"G_DarkRed"
+		Slider.TextColor			"180 180 180 255"
+		Slider.TrackColor			"31 31 31 255"
 		Slider.DisabledTextColor1	"117 117 117 255"
 		Slider.DisabledTextColor2	"30 30 30 255"
 
@@ -164,7 +147,7 @@ Scheme
 		TextEntry.DisabledBgColor	"Blank"
 		TextEntry.SelectedTextColor	"Black"
 		TextEntry.SelectedBgColor	"Orange"
-		TextEntry.OutOfFocusSelectedBgColor	"54 54 54 255"
+		TextEntry.OutOfFocusSelectedBgColor	"255 155 0 128"
 		TextEntry.FocusEdgeColor	"0 0 0 196"
 
 		ToggleButton.SelectedTextColor	"White"
@@ -185,7 +168,7 @@ Scheme
 		MainMenu.MenuItemHeight		"16"	[$WIN32]
 		MainMenu.MenuItemHeight		"32"	[$X360]
 		MainMenu.Inset				"32"
-		MainMenu.Backdrop			"54 54 54 255"
+		MainMenu.Backdrop			"0 0 0 156"
 
 		Console.TextColor			"OffWhite"
 		Console.DevTextColor		"White"
@@ -194,9 +177,9 @@ Scheme
 		NewGame.FillColor			"0 0 0 255"
 		NewGame.SelectionColor		"Orange"	[$WIN32]
 		NewGame.SelectionColor		"0 0 0 255"	[$X360]
-		NewGame.DisabledColor		"128 128 128 255"
+		NewGame.DisabledColor		"128 128 128 196"
 
-		TFColors.ChatTextYellow		"251 235 202 255"
+		TFColors.ChatTextYellow		"255 255 255 255"
 		TFColors.ChatTextTeamBlue	"153 204 255 255"
 		TFColors.ChatTextTeamRed	"255 63 53 255"
 	}
@@ -207,7 +190,7 @@ Scheme
 	BitmapFontFiles
 	{
 		// UI buttons, custom font, (256x64)
-		//"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
+		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
 	}
 
 	//////////////////////// FONTS /////////////////////////////
@@ -221,7 +204,7 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"11"
+				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
@@ -229,7 +212,7 @@ Scheme
 			"2"
 			{
 				"name"		"Verdana"
-				"tall"		"14"
+				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
@@ -308,26 +291,98 @@ Scheme
 				"symbol"	"1"
 			}
 		}
+		
+		"MarlettSmall"
+		{
+			"1"
+			{
+				"name"		"Marlett"
+				"tall"		"7"
+				"weight"	"0"
+				"yres"		"480 599"
+				"symbol"	"1"
+			}
+			"2"
+			{
+				"name"		"Marlett"
+				"tall"		"9"
+				"weight"	"0"
+				"yres"		"600 767"
+				"symbol"	"1"
+			}
+			"3"
+			{
+				"name"		"Marlett"
+				"tall"		"11"
+				"weight"	"0"
+				"yres"		"768 1023"
+				"symbol"	"1"
+			}
+			"4"
+			{
+				"name"		"Marlett"
+				"tall"		"13"
+				"weight"	"0"
+				"yres"		"1024 1199"
+				"symbol"	"1"
+			}
+			"5"
+			{
+				"name"		"Marlett"
+				"tall"		"17"
+				"weight"	"0"
+				"yres"		"1200 10000"
+				"symbol"	"1"
+			}
+		}
 
 		"ChatFont"
 		{
 			"1"
 			{
-				"name"		"Verdana"
-				"tall"		"9"
-				"weight"	"700"
-				"yres"		"480 599"
-				"dropshadow"	"1"
+				"name"			"Verdana" // Chat font
+				"tall"			"14" // Font size
+				"weight"		"400" // Font weight
+				"dropshadow"	"1" // Shadow
+				"antialias"		"0" // Antialias
+			}
+			"2"
+			{
+				"name"			"Verdana" // Chat font
+				"tall"			"14" // Font size
+				"weight"		"400" // Font weight
+				"dropshadow"	"1" // Shadow
+				"antialias"		"0" // Antialias
+			}
+			"3"
+			{
+				"name"			"Verdana" // Chat font
+				"tall"			"14" // Font size
+				"weight"		"400" // Font weight
+				"dropshadow"	"1" // Shadow
+				"antialias"		"0" // Antialias
+			}
+			"4"
+			{
+				"name"			"Verdana" // Chat font
+				"tall"			"14" // Font size
+				"weight"		"400" // Font weight
+				"dropshadow"	"1" // Shadow
+				"antialias"		"0" // Antialias
+			}
+			"5"
+			{
+				"name"			"Verdana" // Chat font
+				"tall"			"13" // Font size
+				"weight"		"400" // Font weight
+				"dropshadow"	"1" // Shadow
+				"antialias"		"0" // Antialias
 			}
 		}
 
 
 	}
 
-	//
-	//////////////////// BORDERS //////////////////////////////
-	//
-	// describes all the border types
 	Borders
 	{
 		BaseBorder		DepressedBorder
@@ -339,18 +394,17 @@ Scheme
 
 		FrameBorder
 		{
-			// rounded corners for frames
 			"backgroundtype" "0"
 		}
-
+		
 		DepressedBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 1"
 				}
 			}
@@ -359,7 +413,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "1 0"
 				}
 			}
@@ -368,7 +422,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -377,19 +431,19 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
 		}
 		RaisedBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 1"
 				}
 			}
@@ -398,7 +452,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -407,7 +461,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 1"
 				}
 			}
@@ -416,7 +470,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -439,13 +493,13 @@ Scheme
 
 		ScrollBarButtonBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "2 2 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "0 1"
 				}
 			}
 
@@ -453,8 +507,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "1 0"
 				}
 			}
 
@@ -462,7 +516,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -471,7 +525,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -479,13 +533,13 @@ Scheme
 		
 		ScrollBarButtonDepressedBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "2 2 0 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "0 1"
 				}
 			}
 
@@ -493,8 +547,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "1 0"
 				}
 			}
 
@@ -502,7 +556,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -511,7 +565,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -519,13 +573,13 @@ Scheme
 
 		TabBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "0 1"
 				}
 			}
 
@@ -533,8 +587,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "1 0"
 				}
 			}
 
@@ -542,7 +596,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -551,12 +605,12 @@ Scheme
 
 		TabActiveBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -565,8 +619,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "1 0"
 				}
 			}
 
@@ -574,7 +628,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -584,12 +638,12 @@ Scheme
 
 		ToolTipBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 0"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -598,8 +652,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "1 0"
 				}
 			}
 
@@ -607,7 +661,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -616,7 +670,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -625,7 +679,7 @@ Scheme
 		// this is the border used for default buttons (the button that gets pressed when you hit enter)
 		ButtonKeyFocusBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "0 0 1 1"
 			Left
 			{
 				"1"
@@ -635,8 +689,8 @@ Scheme
 				}
 				"2"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "0 1"
 				}
 			}
 			Top
@@ -648,8 +702,8 @@ Scheme
 				}
 				"2"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "1 0"
 				}
 			}
 			Right
@@ -661,8 +715,8 @@ Scheme
 				}
 				"2"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "1 0"
 				}
 			}
 			Bottom
@@ -674,7 +728,7 @@ Scheme
 				}
 				"2"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -682,13 +736,13 @@ Scheme
 
 		ButtonDepressedBorder
 		{
-			"inset" "0 0 0 0"
+			"inset" "2 1 1 1"
 			Left
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Dark"
+					"offset" "0 1"
 				}
 			}
 
@@ -696,8 +750,8 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
-					"offset" "0 0"
+					"color" "Border.Bright"
+					"offset" "1 0"
 				}
 			}
 
@@ -705,7 +759,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Dark"
 					"offset" "0 0"
 				}
 			}
@@ -714,7 +768,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" "Blank"
+					"color" "Border.Bright"
 					"offset" "0 0"
 				}
 			}
@@ -726,7 +780,10 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-		//"1"		"resource/HALFLIFE2.ttf"
-		//"2"		"resource/HL2EP2.ttf"		
+		"1"		"resource/HALFLIFE2.ttf"
+		"2"		"resource/HL2EP2.ttf"		
 	}
 }
+
+
+

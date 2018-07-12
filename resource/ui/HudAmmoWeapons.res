@@ -38,7 +38,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInClip"
-"font" "SurfaceMedium50"
+"font" "Lato50"
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c104"
 "ypos" "330"//423
@@ -54,7 +54,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInClipShadow"
-"font" "SurfaceMedium50"
+"font" "Lato50"
 "fgcolor" "QHUDShadow"
 "xpos" "c105"
 "ypos" "331"//423
@@ -70,7 +70,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInReserve"
-"font" "m0refont24"
+"font" "Lato24"
 "fgcolor" "QHUDAmmoInReserve"
 "xpos" "c149"
 "ypos" "347"//440
@@ -86,7 +86,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInReserveShadow"
-"font" "SurfaceMedium50"
+"font" "Lato50"
 "fgcolor" "QHUDShadow"
 "xpos" "c104"
 "ypos" "330"//423
@@ -102,7 +102,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmonoClip"
-"font" "SurfaceMedium50"
+"font" "Lato50"
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c104"
 "ypos" "330"//423
@@ -118,7 +118,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoNoClipshadow"
-"font" "SurfaceMedium50"
+"font" "Lato50"
 "fgcolor" "QHUDShadow"
 "xpos" "c104"
 "ypos" "330"//423

@@ -478,7 +478,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"ClassLabel"
-		"font"			"Heavy18"
+		"font"			"m0refont18"
 		"labelText"		"classname"
 		"textAlignment"	"north"
 		"xpos"			"0"

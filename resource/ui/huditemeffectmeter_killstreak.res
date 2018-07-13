@@ -109,11 +109,17 @@
 "font" "m0refont13"
 "fgcolor_override" "255 255 255 255"
 }
+
+
+
+// the actual killstreak display
+// everything above is irrelavent
+
 "ItemEffectMeterCountKillstreak" 
 {
 "ControlName" "CExLabel"
 "fieldName" "ItemEffectMeterCount"
-"xpos" "c-200" //c-136
+"xpos" "c-215" //c-136
 "ypos" "330" //365 
 "zpos" "2"
 "wide" "24"
@@ -126,9 +132,10 @@
 "textAlignment" "north-east"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "LatoBlack24"
 "fgcolor_override" "255 255 255 255"
 }
+// unused
 "killstreakArrow" 
 {
 "ControlName" "CExLabel"
@@ -149,7 +156,7 @@
 {
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
-"xpos" "c-172"//-114
+"xpos" "c-182"//-114
 "ypos" "335"//369
 "zpos" "12"
 "wide" "16"

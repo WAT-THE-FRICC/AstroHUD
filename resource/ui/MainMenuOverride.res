@@ -1,5 +1,3 @@
-
-
 "Resource/UI/MainMenuOverride.res" 
 {
 "AstroHUDVersionLabel"
@@ -7,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.3.2 by exitiosius and astroyed. BETA BUILD"// 07122018_1648"
+    "labelText"		"AstroHUD b0.3.3 by exitiosius and astroyed. BETA BUILD" // 07122018_1845"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -2291,7 +2289,7 @@
 "tall" "480"
 "autoResize" "0"
 "pinCorner" "3"
-"visible" "0" // 1, hope wonâ€™t mess up
+"visible" "0" // 1, hope won’t mess up
 "enabled" "1"
 "tabPosition" "0"
 "textinsetx" "0"

@@ -71,27 +71,27 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 	}
-"ItemEffectMeterCount" 
-{
-"ControlName" "CExLabel"
-"fieldName" "ItemEffectMeterCount"
-"xpos" "c-26"
+"ItemEffectMeterCount"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"ItemEffectMeterCount"
+"xpos" "c-50"
 "ypos" "355"//390
 "zpos" "2"
 "wide" "50"
-"tall" "20"
+"tall" "24"
 "autoResize" "1"
 "pinCorner" "2"
 "visible" "1"
 "enabled" "1"
 "tabPosition" "0"
 "labelText" "%progresscount%"
-"textAlignment" "north"
+"textAlignment" "north-east"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "LatoBlack24"
 "fgcolor" "255 255 255 255"
-}
+	}
 "star" 
 {
 "ControlName" "CExLabel"
@@ -105,8 +105,7 @@
 "enabled" "1"
 "labelText" "*"
 "textAlignment" "north-west"
-"font" "m0refont24"
+"font" "LatoBlack24"
 "fgcolor" "255 255 255 255"
 }
-
 }

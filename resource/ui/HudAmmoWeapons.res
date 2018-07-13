@@ -70,12 +70,12 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInReserve"
-"font" "Lato24"
+"font" "LatoBlack24"
 "fgcolor" "QHUDAmmoInReserve"
 "xpos" "c149"
 "ypos" "347"//440
 "zpos" "8"
-"wide" "50"
+"wide" "100"
 "tall" "30"
 "visible" "0"
 "enabled" "1"
@@ -86,17 +86,17 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInReserveShadow"
-"font" "LatoBlack50"
+"font" "LatoBlack24"
 "fgcolor" "QHUDShadow"
-"xpos" "c104"
-"ypos" "330"//423
+"xpos" "c9150"
+"ypos" "9348"//423
 "zpos" "5"
 "wide" "100"
 "tall" "50"
 "visible" "0"
-"enabled" "1"
+"enabled" "0"
 "textAlignment" "north-west"
-"labelText" "%Ammo%"
+"labelText" "%AmmoInReserve%"
 }
 "AmmoNoClip" 
 {
@@ -120,8 +120,8 @@
 "fieldName" "AmmoNoClipshadow"
 "font" "LatoBlack50"
 "fgcolor" "QHUDShadow"
-"xpos" "c104"
-"ypos" "330"//423
+"xpos" "c105"
+"ypos" "331"//423
 "zpos" "5"
 "wide" "100"
 "tall" "50"

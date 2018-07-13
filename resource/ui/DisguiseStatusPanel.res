@@ -86,7 +86,8 @@
 		"enabled"			"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"			"HudFontSmall"
+		"font"				"LatoBlack12"
+		"TFFont"			"LatoBlack12"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"		"SpecHealthNormal"
 	}	

@@ -44,7 +44,7 @@
 {
 "ControlName" "ContinuousProgressBar"
 "fieldName" "ChargeMeter"
-"font" "m0refont10"
+//"font" "m0refont10"
 "xpos" "c-50"
 "ypos" "340"
 "zpos" "2"
@@ -104,7 +104,7 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "LatoBlack24"
 "fgcolor" "255 255 255 255"
 }
 "NumPipesLabelShadow" 
@@ -126,7 +126,7 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "LatoBlack24"
 "fgcolor" "QHUDShadow"
 }
 }

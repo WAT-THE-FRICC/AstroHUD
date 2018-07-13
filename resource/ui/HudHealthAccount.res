@@ -9,7 +9,7 @@
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"0"
-		"delta_item_font"		"m0refont26"
+		"delta_item_font"		"LatoBlack24"
 		"textAlignment"			"north-east"
 	}
 }

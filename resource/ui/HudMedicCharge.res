@@ -1,5 +1,3 @@
-
-
 "Resource/UI/HudMedicCharge.res" 
 {
 "ChargeLabel" 
@@ -34,8 +32,8 @@
 "tall" "50"
 "autoResize" "1"
 "pinCorner" "2"
-"visible" "1"
-"enabled" "1"
+"visible" "0"
+"enabled" "0"
 "tabPosition" "0"
 "labelText" "#TF_IndividualUberchargesMinHUD"
 "textAlignment" "north-west"
@@ -83,7 +81,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"IndividualChargesLabel"
 		"xpos"			"c104"
-		"ypos"			"330"	
+		"ypos"			"310"	
 		"zpos"			"3"
 		"wide"			"159"	
 		"tall"			"57"	

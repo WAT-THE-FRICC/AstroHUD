@@ -56,7 +56,7 @@
 			"text_yoffset"		"2"
 			"inset_eq_y"		"55"
 			"name_only"			"1"
-			"font"			"m0refont14"
+			"font"			"DIN14"
 			"attriblabel"
 			{
 				"font"			"ItemFontAttribLarge"
@@ -84,7 +84,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labelText"		"+"
-			"font"			"m0refont14"
+			"font"			"DIN14"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -99,7 +99,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"CaratLabel"
-		"font"			"m0refont12"
+		"font"			"DIN12"
 		"labelText"		">>"
 		"textAlignment"	"center"
 		"xpos"			"9999"
@@ -118,7 +118,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ClassLabel"
-		"font"			"m0refont24"
+		"font"			"DIN24"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"center"
 		"xpos"			"c-120"
@@ -270,7 +270,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PassiveAttribsLabel"
-		"font"			"m0refont12" //ItemFontAttribLarge
+		"font"			"DIN12" //ItemFontAttribLarge
 		"xpos"			"c-135"
 		"ypos"			"120"
 		"zpos"			"0"	
@@ -290,7 +290,7 @@
 	{
 		"ControlName"	"CLoadoutPresetPanel"
 		"FieldName"		"loadout_preset_panel"
-		"font" "m0refont16"
+		"font" "DIN16"
 		"zpos"			"20"
 		"wide"			"150"
 		"tall"			"25"
@@ -329,7 +329,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"m0refont12" //HudFontSmallBold
+			"font"			"DIN12" //HudFontSmallBold
 			"labelText"		"#ItemPresetsExplanation_Title"
 			"textAlignment"	"north"
 			"xpos"			"20"
@@ -348,7 +348,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextLabel"
-			"font"			"m0refont12"
+			"font"			"DIN12"
 			"labelText"		"#ClassLoadoutItemPresetsExplanation_Text"
 			"textAlignment"	"north-west"
 			"xpos"			"20"
@@ -378,7 +378,7 @@
 			"enabled"		"1"
 			"tabPosition"	"0"
 			"labeltext"		""
-			"font"			"m0refont12"
+			"font"			"DIN12"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -463,7 +463,7 @@
 		"tabPosition"		"0"
 		"labelText"			"B"
 		"textAlignment"		"center"
-		"font"				"m0refont16"
+		"font"				"DIN16"
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 		
@@ -577,7 +577,7 @@
 		"tabPosition"		"0"
 		"labelText"			"R"
 		"textAlignment"		"center"
-		"font"				"m0refont16"
+		"font"				"DIN16"
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 		

@@ -127,7 +127,7 @@
 		{
 			"textinsetx"		"5"
             "textinsety"		"0"
-			"font"				"Heavy22"   
+			"font"				"DIN22"   
 			"selectedcolor"		            "ya_MenuHi"
 			"unselectedcolor"	            "ya_MenuLo"	
 			"paintbackground"	"1"

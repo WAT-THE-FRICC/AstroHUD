@@ -2,6 +2,7 @@
 
 "Resource/UI/HudDamageAccount.res" 
 {
+// Damage numbers
 "CDamageAccountPanel" 
 {
 "fieldName" "CDamageAccountPanel"
@@ -28,7 +29,7 @@
 "labelText" "%metal%"
 "textAlignment" "north-east"
 "fgcolor" "255 255 255 255"
-"font" "HudFontGiant"
+"font" "LatoBlack24"
 }
 "DamageAccountValueShadow" 
 {
@@ -44,6 +45,6 @@
 "labelText" "%metal%"
 "textAlignment" "north-east"
 "fgcolor" "QHUDShadow"
-"font" "HudFontGiant"
+"font" "LatoBlack24"
 }
 }

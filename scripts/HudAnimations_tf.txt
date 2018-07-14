@@ -43,9 +43,7 @@
 //
 //  SetString <panel name> <string varname> <stringvalue> <set time>
 
-event LevelInit
-{
-}
+
 
 event OpenWeaponSelectionMenu
 {

@@ -17,7 +17,7 @@
 }
 "QuickplayChangeButton"
 {
-"label" "Re-Queue"
+"label" " "
 "actionsignallevel"	"1"
 "Command"		"new_match"
 "subimage" "glyph_server"
@@ -87,6 +87,14 @@
 "command" "engine open_charinfo"
 "subimage" "glyph_items"
 }
+"MutePlayersButton"
+	{
+		"label"			"#MMenu_MutePlayers"
+		"command"		"OpenPlayerListDialog"
+		"OnlyInGame"	"1"
+		"subimage" "glyph_muted"
+		"tooltip" "#MMenu_MutePlayers"
+	}
 "CallVoteButton"
 {
 "label" "Call Vote"

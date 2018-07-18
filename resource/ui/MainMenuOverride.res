@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.3.4 by exitiosius and astroyed. BETA BUILD"// 07132018_2210"
+    "labelText"		"AstroHUD b0.3.5 by exitiosius and astroyed. BETA BUILD"// 07172018_1758"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -2025,6 +2025,10 @@
 }
 
 // ok the pause menu goes as
+// change servers
+// mute players
+// call vote
+
 // re queue
 // change servers
 // call vote
@@ -2034,18 +2038,82 @@
 // request coach
 // change server
 
+"MutePlayersButton"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldname"		"MutePlayersButton"
+		"xpos"			"40"
+		"ypos"			"245"
+		"zpos"			"12"
+		"wide"			"100"
+		"tall"			"14"
+		"visible"		"1"
+		"navDown"			"CallVoteButton"
+		"navUp"		"ChangeServerButton"
+		"navToRelay"	"SubButton"
+		
+		"SubButton"
+		{
+			"ControlName"	"CExImageButton"
+			"fieldName"		"SubButton"
+			"xpos"			"0"
+			"ypos"			"0"
+			"wide"			"f0"
+			"tall"			"f0"
+			"autoResize"	"0"
+			"pinCorner"		"3"
+			"visible"		"1"
+			"enabled"		"1"
+			"tabPosition"	"0"
+			"textinsetx"	"0"
+			"use_proportional_insets" "1"
+			"font"			"m0refont14"
+			"textAlignment"	"north-west"
+			"dulltext"		"0"
+			"brighttext"	"0"
+			"default"		"1"
+			"sound_depressed"	"UI/buttonclick.wav"
+			"sound_released"	"UI/buttonclickrelease.wav"
+			"proportionaltoparent"	"1"
+			
+			"paintbackground"	"0"
+			"paintborder"		"1"	
+			"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "125 225 30 255"
+			"depressedFgColor_override" "125 225 30 255"
+			"image_drawcolor" "117 107 94 255"
+			"image_armedcolor" "235 226 202 255"
+			
+			"SubImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"SubImage"
+				"xpos"			"9999"
+				"ypos"			"cs-0.5"
+				"zpos"			"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"1"
+				"enabled"		"1"
+				"image"			"glyph_create"
+				"scaleImage"	"1"
+				"proportionaltoparent"	"1"
+			}				
+		}
+	}
 
+// EDIT: NO LONGER WORKS
 // now using this as re queue
 "QuickplayChangeButton" 
 {
 "ControlName" "EditablePanel"
 "fieldname" "QuickplayChangeButton"
-"xpos" "40"
+"xpos" "9940"
 "ypos" "231"
 "zpos" "11"
 "wide" "100"
 "tall" "14"
-"visible" "1"
+"visible" "0"
 "PaintBackgroundType" "0"
 "SubButton" 
 {
@@ -2057,7 +2125,7 @@
 "tall" "480"
 "autoResize" "0"
 "pinCorner" "3"
-"visible" "1"
+"visible" "0"
 "enabled" "1"
 "tabPosition" "0"
 "textinsetx" "0"
@@ -2159,7 +2227,7 @@
 "ControlName" "EditablePanel"
 "fieldname" "ChangeServerButton"
 "xpos" "40"
-"ypos" "245"
+"ypos" "231"//245
 "zpos" "11"
 "wide" "100"
 "tall" "14"

@@ -7,7 +7,9 @@ This HUD aims to deliver the following:
 * Simplistic menus that do not contain rarely used features
 * Aesthetically pleasing and modern
 
-Background image by Matthias Flügge.<br/>
+https://m.imgur.com/a/KrIQUAY
+
+Background image by Matthias FlÃ¼gge.<br/>
 License allows commercial usage with credits and no modifications.
 <https://www.flickr.com/photos/129001139@N03/32066498873>
 

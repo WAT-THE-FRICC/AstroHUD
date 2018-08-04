@@ -88,13 +88,13 @@
 "fieldName" "AmmoInReserveShadow"
 "font" "LatoBlack24"
 "fgcolor" "QHUDShadow"
-"xpos" "c9150"
-"ypos" "9348"//423
+"xpos" "c150"
+"ypos" "348"//423
 "zpos" "5"
 "wide" "100"
 "tall" "50"
 "visible" "0"
-"enabled" "0"
+"enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%AmmoInReserve%"
 }

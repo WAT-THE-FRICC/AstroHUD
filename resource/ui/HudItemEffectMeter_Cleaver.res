@@ -10,7 +10,7 @@
 "wide" "f0"
 "tall" "480"
 "MeterFG" "White"
-"MeterBG" "30 30 30 150"
+"MeterBG" "QHUDChargeMeterBG"
 }
 "ItemEffectMeterBG" 
 {

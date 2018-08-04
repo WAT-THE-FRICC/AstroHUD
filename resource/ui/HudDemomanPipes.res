@@ -113,7 +113,7 @@
 "fieldName" "NumPipesLabelShadow"
 "xpos" "c-24"
 "ypos" "c26"
-"zpos" "2"
+"zpos" "1"
 "wide" "50"
 "tall" "20"
 "tall_lodef" "28"

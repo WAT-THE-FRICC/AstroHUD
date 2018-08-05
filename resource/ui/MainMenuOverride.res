@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.3.5a by exitiosius and astroyed. BETA BUILD 08032018_1750"
+    "labelText"		"AstroHUD b0.3.5a by exitiosius and astroyed. BETA BUILD 08032018_1800"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -203,6 +203,32 @@
 //https://www.flickr.com/photos/129001139@N03/32066498873
 "scaleImage" "1"
 //"fillcolor"		"50 50 50 255"
+"if_wider" 
+{
+"wide" "f0"
+"tall" "o0.628"
+}
+"if_taller" 
+{
+"wide" "o1.6"
+"tall" "f0"
+}
+}
+"Background2" 
+{
+"ControlName" "ScalableImagePanel"
+"fieldName" "Background"
+"xpos" "cs-0.5"
+"ypos" "0"
+"zpos" "-199"
+"wide" "o1.6"
+"tall" "f0"
+"visible" "1"
+"enabled" "1"
+"fillcolor"		"0 0 0 75"
+//"image" "background" // TODO
+//https://www.flickr.com/photos/129001139@N03/32066498873
+"scaleImage" "1"
 "if_wider" 
 {
 "wide" "f0"

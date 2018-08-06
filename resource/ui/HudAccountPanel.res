@@ -76,7 +76,7 @@
 "ControlName" "CExLabel"
 "fieldName" "AccountValueShadow"
 "xpos" "c-24"
-"ypos" "c26"
+"ypos" "c21"
 "zpos" "1"
 "wide" "50"
 "tall" "20"

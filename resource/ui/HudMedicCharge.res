@@ -21,6 +21,27 @@
 "font" "LatoBlack50"
 "fgcolor" "QHUDChargeLabel"
 }
+"ChargeLabelShade"
+{
+"ControlName" "CExLabel"
+"fieldName" "ChargeLabel"
+"xpos" "c105"
+"ypos" "311"//407
+"zpos" "3"
+"wide" "100"
+"tall" "50"
+"autoResize" "1"
+"pinCorner" "2"
+"visible" "1"
+"enabled" "1"
+"tabPosition" "0"
+"labelText" "#TF_UberchargeMinHUD"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+"font" "LatoBlack50"
+"fgcolor" "QHUDShadow"
+}
 "IndividualChargesLabel" 
 {
 "ControlName" "CExLabel"
@@ -66,10 +87,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ResistIconAnchor"
-		"xpos"			"c70"
-		"ypos"			"310"
-		"wide"			"20"
-		"tall"			"20"
+		"xpos"			"c104"//70
+		"ypos"			"325"//310
+		"wide"			"30"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -102,8 +123,8 @@
 		"tall"			"57"	
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"//1
+		"enabled"		"0"//1
 		"tabPosition"	"0"
 		"labelText"		"#TF_IndividualUberchargesMinHUD"
 		"fgcolor"	"White"

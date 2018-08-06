@@ -21,10 +21,10 @@
 "font" "LatoBlack50"
 "fgcolor" "QHUDChargeLabel"
 }
-"ChargeLabelShade"
+"ChargeLabelShadow"
 {
 "ControlName" "CExLabel"
-"fieldName" "ChargeLabel"
+"fieldName" "ChargeLabelShadow"
 "xpos" "c105"
 "ypos" "311"//407
 "zpos" "3"

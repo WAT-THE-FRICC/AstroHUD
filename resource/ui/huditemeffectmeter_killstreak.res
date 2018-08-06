@@ -122,7 +122,7 @@
 "xpos" "c-215" //c-136
 "ypos" "330" //365 
 "zpos" "2"
-"wide" "24"
+"wide" "45"
 "tall" "24"
 "pinCorner" "2"
 "visible" "1"
@@ -139,7 +139,7 @@
 {
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
-"xpos" "c-200"//-114
+"xpos" "c-170"//-114
 "ypos" "353"//369
 "zpos" "12"
 "wide" "16"

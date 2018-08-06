@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.3.5a by exitiosius and astroyed. BETA BUILD 08032018_1800"
+    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. BETA BUILD 08062018_1000"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -177,16 +177,45 @@
 "ControlName" "ImagePanel"
 "fieldName" "MainMenuBG"
 "xpos" "0"
-"ypos" "70"
-"zpos" "-1"
+"ypos" "0"//70
+"zpos" "-2"
 "wide" "180"
-"tall" "340"
+"tall" "480"//340
 "autoResize" "0"
 "pinCorner" "0"
 "visible" "0"
 "enabled" "0"
 "fillcolor" "0 0 0 255"
-//"OnlyInGame" "1"
+}
+"MainMenuBGLINE1" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "MainMenuBGLINE1"
+"xpos" "0"
+"ypos" "0"//70
+"zpos" "-1"
+"wide" "10"
+"tall" "480"//340
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "0"
+"enabled" "0"
+"fillcolor" "66 166 255 255"
+}
+"MainMenuBGLINE2" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "MainMenuBGLINE2"
+"xpos" "170"
+"ypos" "0"//70
+"zpos" "-1"
+"wide" "10"
+"tall" "480"//340
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "0"
+"enabled" "0"
+"fillcolor" "66 166 255 255"
 }
 "Background" 
 {
@@ -213,31 +242,20 @@
 "wide" "o1.6"
 "tall" "f0"
 }
-}
-"Background2" 
+"SubImage" 
 {
-"ControlName" "ScalableImagePanel"
-"fieldName" "Background"
-"xpos" "cs-0.5"
+"ControlName" "ImagePanel"
+"fieldName" "SubImage"
+"xpos" "0"
 "ypos" "0"
-"zpos" "-199"
-"wide" "o1.6"
-"tall" "f0"
+"zpos" "-1"
+"wide" "f0"
+"tall" "480"
 "visible" "1"
 "enabled" "1"
 "fillcolor"		"0 0 0 75"
-//"image" "background" // TODO
-//https://www.flickr.com/photos/129001139@N03/32066498873
+//"image" "glyph_create"
 "scaleImage" "1"
-"if_wider" 
-{
-"wide" "f0"
-"tall" "o0.628"
-}
-"if_taller" 
-{
-"wide" "o1.6"
-"tall" "f0"
 }
 }
 "TFLogoImage" 

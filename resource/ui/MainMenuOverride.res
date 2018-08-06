@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. BETA BUILD 08062018_1000"
+    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. BETA BUILD 08062018_1117"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -183,8 +183,8 @@
 "tall" "480"//340
 "autoResize" "0"
 "pinCorner" "0"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "fillcolor" "0 0 0 255"
 }
 "MainMenuBGLINE1" 
@@ -194,34 +194,34 @@
 "xpos" "0"
 "ypos" "0"//70
 "zpos" "-1"
-"wide" "10"
+"wide" "7"
 "tall" "480"//340
 "autoResize" "0"
 "pinCorner" "0"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "fillcolor" "66 166 255 255"
 }
 "MainMenuBGLINE2" 
 {
 "ControlName" "ImagePanel"
 "fieldName" "MainMenuBGLINE2"
-"xpos" "170"
+"xpos" "173"
 "ypos" "0"//70
 "zpos" "-1"
-"wide" "10"
+"wide" "7"
 "tall" "480"//340
 "autoResize" "0"
 "pinCorner" "0"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "fillcolor" "66 166 255 255"
 }
 "Background" 
 {
 "ControlName" "ScalableImagePanel"
 "fieldName" "Background"
-"xpos" "cs-0.5"
+"xpos" "180"cs-0.5"
 "ypos" "0"
 "zpos" "-200"
 "wide" "o1.6"

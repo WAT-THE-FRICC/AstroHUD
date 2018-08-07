@@ -119,10 +119,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "ItemEffectMeterCount"
-"xpos" "c-195" //c-136
+"xpos" "c-190" //c-136
 "ypos" "383" //365 
 "zpos" "2"
-"wide" "45"
+"wide" "50"
 "tall" "24"
 "pinCorner" "2"
 "visible" "1"
@@ -139,7 +139,7 @@
 {
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
-"xpos" "c-150"//-114
+"xpos" "c-135"//-114
 "ypos" "360"//369
 "zpos" "12"
 "wide" "16"

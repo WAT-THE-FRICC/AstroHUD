@@ -7,7 +7,7 @@
 "xpos" "c104"
 "ypos" "310"//407
 "zpos" "3"
-"wide" "100"
+"wide" "150"
 "tall" "50"
 "autoResize" "1"
 "pinCorner" "2"
@@ -28,7 +28,7 @@
 "xpos" "c105"
 "ypos" "311"//407
 "zpos" "3"
-"wide" "100"
+"wide" "150"
 "tall" "50"
 "autoResize" "1"
 "pinCorner" "2"

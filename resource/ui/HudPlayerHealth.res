@@ -22,10 +22,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "PlayerStatusHealthValue"
-"xpos" "c-193"
+"xpos" "c-293"
 "ypos" "330" //423
 "zpos" "6"
-"wide" "100"
+"wide" "200"
 "tall" "50"
 "visible" "1"
 "enabled" "1"
@@ -38,10 +38,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "PlayerStatusHealthValueShadow"
-"xpos" "c-192"
+"xpos" "c-292"
 "ypos" "331" //423
 "zpos" "5"
-"wide" "100"
+"wide" "200"
 "tall" "50"
 "visible" "1"
 "enabled" "1"

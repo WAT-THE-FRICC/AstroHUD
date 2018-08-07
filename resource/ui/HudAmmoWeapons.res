@@ -40,7 +40,7 @@
 "fieldName" "AmmoInClip"
 "font" "LatoBlack50"
 "fgcolor" "QHUDAmmoInClip"
-"xpos" "c104"
+"xpos" "c93"
 "ypos" "330"//423
 "zpos" "6"
 "wide" "100"
@@ -56,7 +56,7 @@
 "fieldName" "AmmoInClipShadow"
 "font" "LatoBlack50"
 "fgcolor" "QHUDShadow"
-"xpos" "c105"
+"xpos" "c94"
 "ypos" "331"//423
 "zpos" "5"
 "wide" "100"
@@ -104,7 +104,7 @@
 "fieldName" "AmmonoClip"
 "font" "LatoBlack50"
 "fgcolor" "QHUDAmmoInClip"
-"xpos" "c104"
+"xpos" "c93"
 "ypos" "330"//423
 "zpos" "6"
 "wide" "100"
@@ -120,7 +120,7 @@
 "fieldName" "AmmoNoClipshadow"
 "font" "LatoBlack50"
 "fgcolor" "QHUDShadow"
-"xpos" "c105"
+"xpos" "c94"
 "ypos" "331"//423
 "zpos" "5"
 "wide" "100"

@@ -279,7 +279,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "112"//40
+"ypos" "82"//40
 "wide" "f0"
 "tall" "316"//388
 "priority" "35"

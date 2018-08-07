@@ -3061,7 +3061,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -3072,7 +3072,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -3084,7 +3084,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3095,7 +3095,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3107,7 +3107,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "16"
 		"tall_hidef" "24"
 		"weight" "900"

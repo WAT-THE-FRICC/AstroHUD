@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. BETA BUILD 08062018_1700"
+    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. PUBLIC BETA 08082018_1437"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -32,7 +32,7 @@
     "enabled"		"1"
     "fgcolor_override"	"255 255 255 255"
 }
-"MainMenuOverride" 
+"MainMenuOverride"
 {
 "fieldName" "MainMenuOverride"
 "visible" "1"

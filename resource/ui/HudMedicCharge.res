@@ -18,7 +18,7 @@
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack50"
+"font" "Astro50"
 "fgcolor" "QHUDChargeLabel"
 }
 "ChargeLabelShadow"
@@ -39,7 +39,7 @@
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack50"
+"font" "Astro50"
 "fgcolor" "QHUDShadow"
 }
 "IndividualChargesLabel" 

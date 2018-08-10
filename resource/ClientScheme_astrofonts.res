@@ -2,7 +2,30 @@
 {
 	"Fonts" 
 	{
-  "Astro50"
+                "Orbit36"
+		{
+			"1"
+			{
+				"name" "Orbitron-Bold"
+				"tall" "36"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"Orbit32"
+		{
+			"1"
+			{
+				"name" "Orbitron-Bold"
+				"tall" "32"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+
+		"Astro50"
 		{
 			"1"
 			{

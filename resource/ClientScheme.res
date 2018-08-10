@@ -1,4 +1,4 @@
-#base "ClientScheme_customfonts.res"
+// #base "ClientScheme_customfonts.res"
 #base "ClientScheme_borders.res"
 #base "ClientScheme_fonts.res"
 
@@ -502,4 +502,34 @@
 	{
 	"Buttons" "materials/vgui/fonts/buttons_32.vbf"
 	}
+	"CustomFontFiles" 
+ 	{
+ 		"1" "resource/tf.otf"
+ 		"2" "resource/tfd.otf"
+		"5"
+ 		{
+ 		"font" "resource/customfonts/GlacialIndifference-Regular.otf"
+ 		"name" "GlacialIndifference-Regular"
+ 		}
+		"6"
+ 		{
+ 		"font" "resource/customfonts/GlacialIndifference-Bold.otf"
+ 		"name" "GlacialIndifference-Bold"
+ 		}
+ 		"7" 
+ 		{
+ 		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
+ 		"name" "DIN 1451 Mittelschrift"
+ 		}
+ 		"8"
+ 		{
+ 		"font" "resource/customfonts/Lato-Black.ttf"
+ 		"name" "Lato Black"
+ 		}
+ 		"10" 
+ 		{
+ 		"font" "resource/crosshairs.otf"
+ 		"name" "Crosshairs"
+ 		}
+ 	}
 }

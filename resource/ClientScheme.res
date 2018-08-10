@@ -526,6 +526,11 @@
  		"font" "resource/customfonts/Lato-Black.ttf"
  		"name" "Lato Black"
  		}
+		"9"
+ 		{
+ 		"font" "resource/customfonts/Orbitron-Bold.ttf"
+ 		"name" "Orbitron-Bold"
+ 		}
  		"10" 
  		{
  		"font" "resource/crosshairs.otf"

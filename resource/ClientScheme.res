@@ -1,4 +1,4 @@
-// #base "ClientScheme_customfonts.res"
+#base "ClientScheme_astrofonts.res"
 #base "ClientScheme_borders.res"
 #base "ClientScheme_fonts.res"
 

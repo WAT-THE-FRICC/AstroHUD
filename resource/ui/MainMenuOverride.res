@@ -20,7 +20,7 @@
 {
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDLabel"
-    "font"		"m0refont36"
+    "font"		"Orbit36"
     "labelText"		"Team Fortress 2"
     "textAlignment"	"center"
     "xpos"		"c-250"
@@ -312,7 +312,7 @@
 {
 "ControlName" "CPvPRankPanel"
 "fieldName" "RankModelPanel"
-"xpos" "c75"//cs-0.5+160"
+"xpos" "c9975"//cs-0.5+160"
 "ypos" "72"//cs-0.5-120"
 "zpos" "-51"
 "wide" "1000"
@@ -327,7 +327,7 @@
 {
 "ControlName" "CPvPRankPanel"
 "fieldName" "RankPanel"
-"xpos" "c75"
+"xpos" "r340"
 "ypos" "72"
 "zpos" "-52"
 "wide" "320"
@@ -628,7 +628,7 @@
 {
 "ControlName" "EditablePanel"
 "fieldName" "MOTD_ShowButtonPanel"
-"xpos" "c268"
+"xpos" "c9268"
 "ypos" "28"
 "zpos" "1"
 "wide" "32"
@@ -684,8 +684,8 @@
 {
 "ControlName" "EditablePanel"
 "fieldName" "MOTD_Panel"
-"xpos" "c0"
-"ypos" "70"//28
+"xpos" "c9990"
+"ypos" "9970"//28
 "zpos" "1"
 "wide" "300"
 "tall" "360"
@@ -1475,7 +1475,7 @@
 {
 "ControlName" "EditablePanel"
 "fieldname" "FriendsContainer"
-"xpos" "c135"
+"xpos" "r260"
 "ypos" "260"
 "zpos" "0"
 "wide" "260"
@@ -1977,7 +1977,7 @@
 "tabPosition" "0"
 "textinsetx" "0"
 "use_proportional_insets" "1"
-"font" "m0refont32"
+"font" "Orbit32"
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"

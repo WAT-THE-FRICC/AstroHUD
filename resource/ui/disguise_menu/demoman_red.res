@@ -45,7 +45,7 @@
 		"tall"			"5"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"					"../hud/color_panel_blu"
+		"image"					"../hud/color_panel_red"
 		"scaleImage"			"1"
 		"paintborder"			"1"
 		"border"				"G_TargetBorder"

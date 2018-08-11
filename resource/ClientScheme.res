@@ -531,7 +531,12 @@
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
  		"name" "Orbitron Bold"
  		}
- 		"10" 
+		"10"
+ 		{
+ 		"font" "resource/customfonts/AvenirLTStd-Heavy.otf"
+ 		"name" "AvenirLTStd-Heavy"
+ 		}
+ 		"11" 
  		{
  		"font" "resource/crosshairs.otf"
  		"name" "Crosshairs"

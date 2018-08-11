@@ -11,7 +11,7 @@
 {
 "label" "astrohud"
 //"actionsignallevel"	"2"
-"Command"		""
+"Command"		"find_game"
 "subimage" "glyph_multiplayer"
 "OnlyAtMenu" "1"
 }

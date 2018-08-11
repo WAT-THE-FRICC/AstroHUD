@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "AvenirLTStd-Heavy"//GlacialIndifference-Regular"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +40,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "AvenirLTStd-Heavy"//GlacialIndifference-Regular"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"

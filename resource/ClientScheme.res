@@ -529,7 +529,7 @@
 		"9"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
- 		"name" "Orbitron-Bold"
+ 		"name" "Orbitron Bold"
  		}
  		"10" 
  		{

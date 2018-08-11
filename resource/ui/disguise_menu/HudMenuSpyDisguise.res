@@ -62,7 +62,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ToggleLabel"
 		"font"			"Default"
-		"xpos"			"20"
+		"xpos"			"40"
 		"ypos"			"73"//49"
 		"zpos"			"2"
 		"wide"			"200"

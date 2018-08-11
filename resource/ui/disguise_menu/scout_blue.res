@@ -39,8 +39,8 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ClassIconBg"
-		"xpos"			"8"
-		"ypos"			"72"
+		"xpos"			"10"
+		"ypos"			"70"
 		"zpos"			"-5"		
 		"wide"			"28"
 		"tall"			"5"

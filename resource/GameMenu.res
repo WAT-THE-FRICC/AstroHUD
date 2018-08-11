@@ -48,12 +48,14 @@
 "label" "Workshop"
 "command" "engine OpenSteamWorkshopDialog"
 "subimage" "glyph_steamworkshop"
+"OnlyAtMenu" "1"
 }
 "DemoUIButton"
 {
 "label" "DemoUI"
 "command" "engine demoui"
 "subimage" "glyph_tv"
+"OnlyAtMenu" "1"
 }
 "VRModeButton"
 {

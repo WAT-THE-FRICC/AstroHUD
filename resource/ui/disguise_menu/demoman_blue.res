@@ -31,7 +31,7 @@
 		"visible"				"1"
 		"enabled"				"1"
 		"scaleImage"			"1"	
-		"image"					"../hud/leaderboard_class_demoman"
+		"image"					"../hud/leaderboard_class_demo"
 
 	}
 	"ClassIconBg"	

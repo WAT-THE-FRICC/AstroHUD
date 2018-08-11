@@ -17,7 +17,7 @@ Features
 * Engineer build and destroy menus and spy disguise menu near the bottom of the screen to not block the view
 * Healing TargetID displays patient's ammo in clip, so medics can wait until reload finishes before using Über
 * Vaccinator resistance indicator is where the ammo indicator would be, easily accessible. YouTuber Skymin stated she likes the resistance type to be easily accessible in Aar's YouTube Custom HUD video.
-
+* Disguise menu uses icons instead of class images. Easier to read, I find it.
 OUTDATED
 https://m.imgur.com/a/KrIQUAY
 

@@ -9,9 +9,9 @@
 }
 "QueueButton"
 {
-"label" "ASTROHUD"
+"label" "astrohud"
 //"actionsignallevel"	"2"
-"Command"		"find_game"
+"Command"		""
 "subimage" "glyph_multiplayer"
 "OnlyAtMenu" "1"
 }

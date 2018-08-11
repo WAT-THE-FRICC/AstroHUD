@@ -6,7 +6,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron-Bold"
+				"name" "Orbitron Bold"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -17,7 +17,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron-Bold"
+				"name" "Orbitron Bold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"

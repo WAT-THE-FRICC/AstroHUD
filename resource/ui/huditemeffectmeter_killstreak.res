@@ -119,10 +119,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "ItemEffectMeterCount"
-"xpos" "c-215" //c-136
-"ypos" "330" //365 
+"xpos" "c-165" //c-136
+"ypos" "355" //365 
 "zpos" "2"
-"wide" "24"
+"wide" "50"
 "tall" "24"
 "pinCorner" "2"
 "visible" "1"
@@ -135,29 +135,12 @@
 "font" "LatoBlack24"
 "fgcolor_override" "255 255 255 255"
 }
-// unused
-"killstreakArrow" 
-{
-"ControlName" "CExLabel"
-"fieldName" "killstreakArrow"
-"xpos" "c-200" //-114
-"ypos" "358" //383
-"zpos" "10"
-"wide" "24"
-"tall" "24"
-"visible" "0"
-"enabled" "1"
-"labelText" ">"
-"textAlignment" "north-east"
-"font" "m0refont24"
-"fgcolor" "255 255 255 255"
-}
 "KillStreakIcon"
 {
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
-"xpos" "c-182"//-114
-"ypos" "335"//369
+"xpos" "c-110"//-114
+"ypos" "360"//369
 "zpos" "12"
 "wide" "16"
 "tall" "16"

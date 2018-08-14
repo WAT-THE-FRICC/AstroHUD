@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.3.5a by exitiosius and astroyed. BETA BUILD"// 07172018_1758"
+    "labelText"		"AstroHUD b0.4 by exitiosius and astroyed. PUBLIC BETA 08092018_2231"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"
@@ -20,7 +20,7 @@
 {
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDLabel"
-    "font"		"m0refont36"
+    "font"		"Orbit36"
     "labelText"		"Team Fortress 2"
     "textAlignment"	"center"
     "xpos"		"c-250"
@@ -32,7 +32,7 @@
     "enabled"		"1"
     "fgcolor_override"	"255 255 255 255"
 }
-"MainMenuOverride" 
+"MainMenuOverride"
 {
 "fieldName" "MainMenuOverride"
 "visible" "1"
@@ -177,22 +177,51 @@
 "ControlName" "ImagePanel"
 "fieldName" "MainMenuBG"
 "xpos" "0"
-"ypos" "70"
-"zpos" "-1"
+"ypos" "0"//70
+"zpos" "-2"
 "wide" "180"
-"tall" "340"
+"tall" "480"//340
 "autoResize" "0"
 "pinCorner" "0"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "fillcolor" "0 0 0 255"
-//"OnlyInGame" "1"
+}
+"MainMenuBGLINE1" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "MainMenuBGLINE1"
+"xpos" "0"
+"ypos" "0"//70
+"zpos" "-1"
+"wide" "7"
+"tall" "480"//340
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"fillcolor" "66 166 255 255"
+}
+"MainMenuBGLINE2" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "MainMenuBGLINE2"
+"xpos" "173"
+"ypos" "0"//70
+"zpos" "-1"
+"wide" "7"
+"tall" "480"//340
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"fillcolor" "66 166 255 255"
 }
 "Background" 
 {
 "ControlName" "ScalableImagePanel"
 "fieldName" "Background"
-"xpos" "cs-0.5"
+"xpos" "180" //cs-0.5"
 "ypos" "0"
 "zpos" "-200"
 "wide" "o1.6"
@@ -212,6 +241,21 @@
 {
 "wide" "o1.6"
 "tall" "f0"
+}
+"SubImage" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "SubImage"
+"xpos" "0"
+"ypos" "0"
+"zpos" "-1"
+"wide" "f0"
+"tall" "480"
+"visible" "1"
+"enabled" "1"
+"fillcolor"		"0 0 0 75"
+//"image" "glyph_create"
+"scaleImage" "1"
 }
 }
 "TFLogoImage" 
@@ -268,7 +312,7 @@
 {
 "ControlName" "CPvPRankPanel"
 "fieldName" "RankModelPanel"
-"xpos" "c75"//cs-0.5+160"
+"xpos" "c9975"//cs-0.5+160"
 "ypos" "72"//cs-0.5-120"
 "zpos" "-51"
 "wide" "1000"
@@ -283,7 +327,7 @@
 {
 "ControlName" "CPvPRankPanel"
 "fieldName" "RankPanel"
-"xpos" "c75"
+"xpos" "r340"
 "ypos" "72"
 "zpos" "-52"
 "wide" "320"
@@ -584,7 +628,7 @@
 {
 "ControlName" "EditablePanel"
 "fieldName" "MOTD_ShowButtonPanel"
-"xpos" "c268"
+"xpos" "c9268"
 "ypos" "28"
 "zpos" "1"
 "wide" "32"
@@ -640,8 +684,8 @@
 {
 "ControlName" "EditablePanel"
 "fieldName" "MOTD_Panel"
-"xpos" "c0"
-"ypos" "70"//28
+"xpos" "c9990"
+"ypos" "9970"//28
 "zpos" "1"
 "wide" "300"
 "tall" "360"
@@ -1431,7 +1475,7 @@
 {
 "ControlName" "EditablePanel"
 "fieldname" "FriendsContainer"
-"xpos" "c135"
+"xpos" "r260"
 "ypos" "260"
 "zpos" "0"
 "wide" "260"
@@ -1933,7 +1977,7 @@
 "tabPosition" "0"
 "textinsetx" "0"
 "use_proportional_insets" "1"
-"font" "m0refont32"
+"font" "Orbit32"
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
@@ -2357,7 +2401,7 @@
 "tall" "480"
 "autoResize" "0"
 "pinCorner" "3"
-"visible" "0" // 1, hope won’t mess up
+"visible" "0" // 1, hope wonÂ’t mess up
 "enabled" "1"
 "tabPosition" "0"
 "textinsetx" "0"

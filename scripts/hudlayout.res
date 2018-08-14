@@ -1,26 +1,8 @@
-
+//#base "../scripts/crosshairs.res"
+#base "../scripts/transparent_viewmodels.res"
 
 "Resource/HudLayout.res" 
 {
-// IF YOU DO NOT WANT TRANSPARENT VIEWMODELS,
-// CHANGE THE X AND Y POS TO 9990
-// or some ridiculously large number
-	"Transparent"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName" 	"Transparent"
-		"xpos"			"0" // change this
-		"ypos"			"0" // and this
-		"zpos"			"-100"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"0" // TVM
-		"enabled"		"0" // TVM
-		"image"			"replay/thumbnails/transparent"
-		"scaleImage"	"1"
-	}
-	// END OF SECTION TO CHANGE IF YOU DONT WANT IT
-
 	/////////////////////////////////////////////////////////////////////////////
 	//CLOSECAPTIONS
 	//
@@ -297,7 +279,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "112"//40
+"ypos" "82"//40
 "wide" "f0"
 "tall" "316"//388
 "priority" "35"
@@ -310,7 +292,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "240"
+"ypos" "0"
 "wide" "640"
 "tall" "480"
 "PaintBackgroundType" "2"
@@ -323,9 +305,9 @@ HudKothTimeStatus
 "xpos" "0"
 "xpos_hidef" "32"
 "xpos_lodef" "40"
-"ypos" "240"
-"ypos_hidef" "16"
-"ypos_lodef" "25"
+"ypos" "0"
+//"ypos_hidef" "16"
+//"ypos_lodef" "25"
 "wide" "640"
 "tall" "480"
 "PaintBackgroundType" "2"
@@ -838,7 +820,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "40"
+"ypos" "240"
 "wide" "300"
 "tall" "150"
 "PaintBackgroundType" "2"
@@ -849,7 +831,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "c-125"
-"ypos" "c-50"
+"ypos" "c125"//c-50"
 "wide" "250"
 "tall" "195"
 "PaintBackgroundType" "0"
@@ -860,7 +842,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "c-125"
-"ypos" "c-50"
+"ypos" "c125"//c-50"
 "wide" "250"
 "tall" "195"
 "PaintBackgroundType" "0"
@@ -871,7 +853,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "c-189"
-"ypos" "c-98"
+"ypos" "c70"//c-98"
 "wide" "378"
 "tall" "200"
 "PaintBackgroundType" "0"

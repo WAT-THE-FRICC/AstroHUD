@@ -7,19 +7,40 @@
 "xpos" "c104"
 "ypos" "310"//407
 "zpos" "3"
-"wide" "100"
+"wide" "150"
 "tall" "50"
 "autoResize" "1"
 "pinCorner" "2"
-"visible" "1"
+"visible" "0"
 "enabled" "1"
 "tabPosition" "0"
 "labelText" "#TF_UberchargeMinHUD"
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack50"
+"font" "Astro50"
 "fgcolor" "QHUDChargeLabel"
+}
+"ChargeLabelShadow"
+{
+"ControlName" "CExLabel"
+"fieldName" "ChargeLabelShadow"
+"xpos" "c105"
+"ypos" "311"//407
+"zpos" "3"
+"wide" "150"
+"tall" "50"
+"autoResize" "1"
+"pinCorner" "2"
+"visible" "0"
+"enabled" "1"
+"tabPosition" "0"
+"labelText" "#TF_UberchargeMinHUD"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+"font" "Astro50"
+"fgcolor" "QHUDShadow"
 }
 "IndividualChargesLabel" 
 {
@@ -28,8 +49,8 @@
 "xpos" "c99"
 "ypos" "310"//408
 "zpos" "3"
-"wide" "100"
-"tall" "50"
+"wide" "0"//"100"
+"tall" "0"//50"
 "autoResize" "1"
 "pinCorner" "2"
 "visible" "0"
@@ -66,10 +87,10 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ResistIconAnchor"
-		"xpos"			"c70"
-		"ypos"			"310"
-		"wide"			"20"
-		"tall"			"20"
+		"xpos"			"c104"//70
+		"ypos"			"325"//310
+		"wide"			"30"
+		"tall"			"30"
 		"visible"		"1"
 		"enabled"		"1"
 	}
@@ -98,12 +119,12 @@
 		"xpos"			"c104"
 		"ypos"			"310"	
 		"zpos"			"3"
-		"wide"			"159"	
-		"tall"			"57"	
+		"wide"			"0"//159"	
+		"tall"			"0"//57"	
 		"autoResize"	"1"
 		"pinCorner"		"2"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"//1
+		"enabled"		"0"//1
 		"tabPosition"	"0"
 		"labelText"		"#TF_IndividualUberchargesMinHUD"
 		"fgcolor"	"White"

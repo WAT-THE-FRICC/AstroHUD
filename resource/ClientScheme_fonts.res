@@ -1,172 +1,7 @@
 "Scheme"
 {
 	"Fonts" 
-	{//10 14 20 32
-		"DIN36"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "36"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN32"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "32"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN24"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "24"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN22"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "22"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN18"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "18"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN16"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "16"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN14"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "14"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN12"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "12"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN11"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "11"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"DIN10"
-		{
-			"1" 
-			{
-			"name" "DIN 1451 Mittelschrift"
-			"tall" "10"
-			"additive" "0"
-			"antialias" "1"
-			"outline" "0"
-			}
-		}
-		"LatoBlack50"
-		{
-			"1"
-			{
-				"name" "Lato Black"
-				"tall" "50"
-				"additive" "0"
-				"antialias" "1"
-				"outline" "0"
-			}
-		}
-		"LatoBlack24"
-		{
-			"1"
-			{
-				"name" "Lato Black"
-				"tall" "24"
-				"additive" "0"
-				"antialias" "1"
-				"outline" "0"
-			}
-		}
-		"LatoBlack12"
-		{
-			"1"
-			{
-				"name" "Lato Black"
-				"tall" "12"
-				"additive" "0"
-				"antialias" "1"
-				"outline" "0"
-			}
-		}
-		"LatoBlack11"
-		{
-			"1"
-			{
-				"name" "Lato Black"
-				"tall" "11"
-				"additive" "0"
-				"antialias" "1"
-				"outline" "0"
-			}
-		}
-		"ChatFont"
-		{
-			"1"
-			{
-				"name"		"Verdana"
-				"tall"		"10"
-				"weight"	"700"
-				"yres"		"480 599"
-				"dropshadow"	"1"
-			}
-		}
+	{
 		"UberchargeOutline" 
 		{
 			"1" 
@@ -3061,7 +2896,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -3072,7 +2907,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -3084,7 +2919,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3095,7 +2930,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3107,7 +2942,7 @@
 		{
 		"1" 
 		{
-		"name" "Tahoma"
+		"name" "DIN 1451 Mittelschrift"
 		"tall" "16"
 		"tall_hidef" "24"
 		"weight" "900"

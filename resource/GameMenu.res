@@ -9,7 +9,7 @@
 }
 "QueueButton"
 {
-"label" "ASTROHUD"
+"label" "astrohud"
 //"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" "glyph_multiplayer"
@@ -48,12 +48,14 @@
 "label" "Workshop"
 "command" "engine OpenSteamWorkshopDialog"
 "subimage" "glyph_steamworkshop"
+"OnlyAtMenu" "1"
 }
 "DemoUIButton"
 {
 "label" "DemoUI"
 "command" "engine demoui"
 "subimage" "glyph_tv"
+"OnlyAtMenu" "1"
 }
 "VRModeButton"
 {

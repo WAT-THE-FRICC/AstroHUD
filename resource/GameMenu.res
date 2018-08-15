@@ -55,7 +55,7 @@
 "label" "DemoUI"
 "command" "engine demoui"
 "subimage" "glyph_tv"
-"OnlyAtMenu" "1"
+//"OnlyAtMenu" "1"
 }
 "VRModeButton"
 {

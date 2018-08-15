@@ -224,7 +224,7 @@
 "xpos" "180" //cs-0.5"
 "ypos" "0"
 "zpos" "-200"
-"wide" "o1.6"
+"wide" "o1.0"
 "tall" "f0"
 "visible" "1"
 "enabled" "1"
@@ -235,11 +235,11 @@
 "if_wider" 
 {
 "wide" "f0"
-"tall" "o0.628"
+"tall" "o1.0"
 }
 "if_taller" 
 {
-"wide" "o1.6"
+"wide" "o1.0"
 "tall" "f0"
 }
 "SubImage" 

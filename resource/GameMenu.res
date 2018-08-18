@@ -37,25 +37,17 @@
 "subimage" "glyph_server_browser"
 "OnlyInGame" "1"
 }
-"ReplayBrowserButton"
-{
-"label" "Replays"
-"command" "engine replay_reloadbrowser"
-"subimage" "glyph_tv"
-}
-"SteamWorkshopButton"
-{
-"label" "Workshop"
-"command" "engine OpenSteamWorkshopDialog"
-"subimage" "glyph_steamworkshop"
-"OnlyAtMenu" "1"
-}
 "DemoUIButton"
 {
 "label" "DemoUI"
 "command" "engine demoui"
 "subimage" "glyph_tv"
-//"OnlyAtMenu" "1"
+}
+"ReloadHUDButton"
+{
+"label" "hud_reloadscheme"
+"command" "engine hud_reloadscheme"
+"subimage" "glyph_tv"
 }
 "VRModeButton"
 {
@@ -76,12 +68,6 @@
 "label" "Create"
 "command" "OpenCreateMultiplayerGameDialog"
 "OnlyAtMenu" "1"
-}
-"GeneralStoreButton"
-{
-"label" "NEVER buy from here"
-"command" "engine open_store"
-"subimage" "glyph_store"
 }
 "CharacterSetupButton"
 {
@@ -110,5 +96,30 @@
 "command" "engine cl_coach_find_coach"
 "OnlyInGame" "1"
 "subimage" "icon_whistle"
+}
+
+"GeneralStoreButton"
+{
+"label" ""
+"tooltip" "#MMenu_Shop"
+}
+"ReplayBrowserButton"
+{
+"label" ""
+"tooltip" "Replays"
+}
+"SteamWorkshopButton"
+{
+"label" ""
+"tooltip" "Workshop"
+}
+
+"SettingsButton"
+{
+	"tooltip"	""
+}
+"TF2SettingsButton"
+{
+	"tooltip"	""
 }
 }

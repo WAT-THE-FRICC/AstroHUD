@@ -18,12 +18,11 @@ Features
 * Healing TargetID displays patient's ammo in clip, so medics can wait until reload finishes before using Über
 * Vaccinator resistance indicator is where the ammo indicator would be, easily accessible. YouTuber Skymin stated she likes the resistance type to be easily accessible in Aar's YouTube Custom HUD video.
 * Disguise menu uses icons instead of class images. Easier to read, I find it.
-OUTDATED
+
+Screenshots
 https://m.imgur.com/a/KrIQUAY
 
-Background image by Matthias Flügge.<br/>
-License allows commercial usage with credits and no modifications.
-<https://www.flickr.com/photos/129001139@N03/32066498873>
+Background image is a picture of the Orion Nebula taken by NASA.
 
 The ultimate HUD editing guide which I find tremendously useful:<br/>
 <http://doodlesstuff.com/?p=tf2hud>

@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "TF2 Secondary"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +40,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "TF2 Secondary"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -53,7 +53,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -64,7 +64,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +75,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +86,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +97,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -108,7 +108,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "TF2 Secondary"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

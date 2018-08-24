@@ -104,7 +104,7 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack24"
+"font" "Secondary24"
 "fgcolor" "255 255 255 255"
 }
 "NumPipesLabelShadow" 
@@ -119,14 +119,14 @@
 "tall_lodef" "28"
 "autoResize" "1"
 "pinCorner" "2"
-"visible" "0"
+"visible" "1"
 "enabled" "1"
 "tabPosition" "0"
 "labelText" "%activepipes%"
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack24"
+"font" "Secondary24"
 "fgcolor" "QHUDShadow"
 }
 }

@@ -10,7 +10,7 @@
 "PositiveColor" "0 255 0 255"
 "NegativeColor" "255 0 0 255"
 "delta_lifetime" "0.6"
-"delta_item_font" "m0refont24"
+"delta_item_font" "Secondary24"
 }
 "AccountBG" 
 {
@@ -68,7 +68,7 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "Secondary24"
 "fgcolor" "255 255 255 255"
 }
 "AccountValueShadow" 
@@ -89,7 +89,7 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "m0refont24"
+"font" "Secondary24"
 "fgcolor" "QHUDShadow"
 }
 }

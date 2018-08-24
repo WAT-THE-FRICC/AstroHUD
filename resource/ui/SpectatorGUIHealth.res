@@ -70,7 +70,7 @@
 "enabled" "1"
 "labeltext" "%Health%"
 "textAlignment" "north-west"
-"font" "m0refont15"
+"font" "Secondary15"
 "fgcolor_override" "SpecHealthNormal"
 }
 "PlayerStatusPlayerLevel" 

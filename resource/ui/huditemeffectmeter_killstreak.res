@@ -132,7 +132,7 @@
 "textAlignment" "north-east"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack24"
+"font" "Secondary24"
 "fgcolor_override" "255 255 255 255"
 }
 "KillStreakIcon"

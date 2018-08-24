@@ -12,9 +12,10 @@
 "PositiveColor" "100 255 100 255"
 "NegativeColor" "255 255 255 255"
 "delta_lifetime" "3"
-"delta_item_font" "m0refont18"
-"delta_item_font_big" "m0refont22"
+"delta_item_font" "Secondary18"
+"delta_item_font_big" "Secondary24"
 }
+// Last damage done below health
 "DamageAccountValue" 
 {
 "ControlName" "CExLabel"
@@ -29,7 +30,7 @@
 "labelText" "%metal%"
 "textAlignment" "north-east"
 "fgcolor" "255 0 0 255"
-"font" "LatoBlack24"
+"font" "Secondary24"
 }
 "DamageAccountValueShadow" 
 {
@@ -45,6 +46,6 @@
 "labelText" "%metal%"
 "textAlignment" "north-east"
 "fgcolor" "QHUDShadow"
-"font" "LatoBlack24"
+"font" "Secondary24"
 }
 }

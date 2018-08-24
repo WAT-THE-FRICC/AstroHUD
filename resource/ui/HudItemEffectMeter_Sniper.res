@@ -22,7 +22,7 @@
 "textAlignment" "north-east"
 "dulltext" "0"
 "brighttext" "0"
-"font" "LatoBlack24"
+"font" "Secondary24"
 "fgcolor" "255 255 255 255"
 	}
 "star" 
@@ -38,7 +38,7 @@
 "enabled" "1"
 "labelText" "*"
 "textAlignment" "north-west"
-"font" "LatoBlack24"
+"font" "Secondary24"
 "fgcolor" "255 255 255 255"
 }
 }

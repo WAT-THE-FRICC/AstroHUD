@@ -49,7 +49,7 @@
 		}
   
   // controls itemeffectmetercount font
-		"LatoBlack50"
+		"Secondary50"
 		{
 			"1"
 			{
@@ -60,7 +60,7 @@
 				"outline" "0"
 			}
 		}
-		"LatoBlack24"
+		"Secondary24"
 		{
 			"1"
 			{
@@ -71,7 +71,29 @@
 				"outline" "0"
 			}
 		}
-		"LatoBlack12"
+		"Secondary18"
+		{
+			"1"
+			{
+				"name" "GlacialIndifference-Regular"
+				"tall" "18"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"Secondary15"
+		{
+			"1"
+			{
+				"name" "GlacialIndifference-Regular"
+				"tall" "15"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"Secondary12"
 		{
 			"1"
 			{
@@ -82,7 +104,7 @@
 				"outline" "0"
 			}
 		}
-		"LatoBlack11"
+		"Secondary11"
 		{
 			"1"
 			{

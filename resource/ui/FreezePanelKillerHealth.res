@@ -84,7 +84,7 @@
 "visible" "1"
 "enabled" "1"
 "textAlignment" "north-east"
-"font" "m0refont18"
+"font" "Secondary18"
 "fgcolor" "default_color"
 "labelText" "%Health%"
 }

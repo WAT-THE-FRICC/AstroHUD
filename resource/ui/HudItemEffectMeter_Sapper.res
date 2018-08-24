@@ -1,3 +1,4 @@
+// MVM sapper
 "Resource/UI/HudItemEffectMeter_Sapper.res"
 {
 	HudItemEffectMeter
@@ -38,7 +39,7 @@
 		"ypos"			"0"
 		"zpos"			"3"
 		"wide"			"118"
-		"tall"			"9"
+		"tall"			"3"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"			"#TF_Ball"

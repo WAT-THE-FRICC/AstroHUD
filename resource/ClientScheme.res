@@ -533,13 +533,69 @@
  		}
 		"10"
  		{
- 		"font" "resource/customfonts/AvenirLTStd-Heavy.otf"
- 		"name" "AvenirLTStd-Heavy"
+ 		"font" "resource/customfonts/AvenirLTStd-Heavy-edited.otf"
+ 		"name" "AvenirLTStd-Heavy-edited"
  		}
  		"11" 
  		{
  		"font" "resource/crosshairs.otf"
  		"name" "Crosshairs"
  		}
+ 		"12"
+		{
+			"font" "resource/TF2.ttf"
+			"name" "TF2"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"13" 
+		{
+			"font" "resource/TF2Secondary.ttf"
+			"name" "TF2 Secondary"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}
+		"14" 
+		{
+			"font" "resource/TF2Professor.ttf"
+			"name" "TF2 Professor"
+			"russian"
+			{
+				"range" "0x0000 0x00FF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0x00FF"
+			}
+		}	
+		"15" 
+		{
+			"font" "resource/TF2Build.ttf"
+			"name" "TF2 Build"
+			"russian"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"polish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+			"turkish"
+			{
+				"range" "0x0000 0xFFFF"
+			}
+		}	
  	}
 }

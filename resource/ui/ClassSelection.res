@@ -1135,7 +1135,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"numEngineer"
-		"xpos"			"c61"
+		"xpos"			"c18"
 		"ypos"			"c-22"
 		"zpos"			"0"
 		"wide"			"36"

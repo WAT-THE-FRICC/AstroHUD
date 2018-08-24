@@ -184,7 +184,7 @@
 	"HealthDeathWarningColor" "HUDDeathWarning"
 	"TextColor" "SpecHealthNormal"
 	"textAlignment" "north-west"
-	"font" "m0refont15"
+	"font" "Secondary15"
 	}
 	
 	"AmmoIcon" 

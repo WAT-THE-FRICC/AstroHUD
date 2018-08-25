@@ -2195,6 +2195,7 @@
 			"fgcolor_override"	"G_FooterText"
 		}
 		
+		// enabling will cause a half white background
 		"HideBgPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -2202,12 +2203,12 @@
 			"xpos"			"0"
 			"ypos"			"r305"
 			"zpos"			"0"		
-			"wide"			"f0"
+			"wide"			"0"
 			"tall"			"305"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"paintbackground"	"1"
 			"bgcolor_override"	"G_MenuBg"
 		}
@@ -2219,12 +2220,12 @@
 			"xpos"			"0"
 			"ypos"			"r100"
 			"zpos"			"2"
-			"wide"			"f0"
+			"wide"			"0"
 			"tall"			"100"
 			"pinCorner"		"0"
 			"autoResize"	"0"
-			"visible"		"1"
-			"enable"		"1"
+			"visible"		"0"
+			"enable"		"0"
 			"paintbackground"	"1"
 			"bgcolor_override"	"G_Footer"
 		}

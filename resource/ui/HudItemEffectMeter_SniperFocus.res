@@ -8,10 +8,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-59"
-		"ypos"			"r133"
-		"wide"			"118"
-		"tall"			"10"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f0"
+		"tall"			"480"
 	}
 	
 	"ItemEffectMeterBG"

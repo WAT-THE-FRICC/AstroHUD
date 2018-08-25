@@ -46,6 +46,10 @@
 "src_corner_width" "23"
 "draw_corner_width" "0"
 "draw_corner_height" "0"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "RedScoreboardBG" 
 {
@@ -64,6 +68,10 @@
 "src_corner_width" "23"
 "draw_corner_width" "0"
 "draw_corner_height" "0"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "MainBG" 
 {
@@ -102,6 +110,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "BlueTeamScoreScoreboard" 
 {
@@ -120,6 +132,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "BlueTeamScoreScoreboardShadow" 
 {
@@ -158,6 +174,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "RedTeamLabelScoreboard" 
 {
@@ -175,6 +195,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "RedTeamScoreScoreboard" 
 {
@@ -193,6 +217,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "RedTeamScoreScoreboardShadow" 
 {
@@ -232,6 +260,10 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "ServerLabel" 
 {
@@ -286,6 +318,10 @@
 "autoresize" "3"
 "linespacing" "15"
 "textcolor" "Blue"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "RedPlayerList" 
 {
@@ -304,6 +340,10 @@
 "autoresize" "3"
 "linespacing" "15"
 "textcolor" "Red"
+if_mvm
+		{
+			"visible"		"0"
+		}
 }
 "VerticalLineScoreboard" 
 {
@@ -1647,9 +1687,13 @@
 "zpos" "10"
 "wide" "f0"
 "tall" "480"
-"visible" "0"
-"enabled" "1"
-"verbose" "1"
+"visible"			"0"
+"enabled"			"1"
+"verbose"			"1"
+if_mvm
+{
+	"visible"		"1"
+}
 }
 "MapName" 
 {
@@ -1659,7 +1703,7 @@
 "labelText" "%mapname%"
 "textAlignment" "north-east"
 "xpos" "c164"
-"ypos" "52"
+"ypos" "2"
 "zpos" "3"
 "wide" "100"
 "tall" "15"

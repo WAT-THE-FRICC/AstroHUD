@@ -528,7 +528,7 @@
 		"ControlName"	"CExImageButton"
 		"fieldName"		"TauntLoadoutButton"
 		"labelText"		""
-		"xpos"			"c2"
+		"xpos"			"c1"
 		"ypos"			"c90"
 		"zpos"			"2"
 		"wide"			"25"
@@ -565,7 +565,7 @@
 	{
 		"ControlName"	"CExImageButton"
 		"fieldName"		"RedButton"
-		"xpos"				"c29"
+		"xpos"				"c28"
 		"ypos"				"c90"
 		"zpos"				"12"	
 		"wide"				"25"

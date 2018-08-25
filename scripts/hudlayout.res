@@ -257,7 +257,7 @@ HudKothTimeStatus
 "xpos" "0"
 "ypos" "0"
 "wide" "f0"
-"tall" "316"
+"tall" "314"
 "priority" "40"
 }
 "CSpectatorTargetID" 
@@ -281,7 +281,7 @@ HudKothTimeStatus
 "xpos" "0"
 "ypos" "82"//40
 "wide" "f0"
-"tall" "316"//388
+"tall" "314"//388
 "priority" "35"
 "x_offset" "20"
 "y_offset" "20"

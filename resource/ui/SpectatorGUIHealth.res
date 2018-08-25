@@ -70,7 +70,7 @@
 "enabled" "1"
 "labeltext" "%Health%"
 "textAlignment" "north-west"
-"font" "Secondary15"
+"font" "Secondary18"
 "fgcolor_override" "SpecHealthNormal"
 }
 "PlayerStatusPlayerLevel" 
@@ -89,10 +89,4 @@
 "font" "ScoreboardVerySmall"
 "fgcolor" "TFOrange"
 }
-
-
-
-
-
-	
 }

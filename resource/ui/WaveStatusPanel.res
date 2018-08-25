@@ -26,7 +26,7 @@
 		"fieldName"		"WaveCountLabel"
 		"font"			"HudFontSmallestBold"
 		"fgcolor"		"TanLight"
-		"xpos"			"100"
+		"xpos"			"c-100"
 		"ypos"			"6"
 		"zpos"			"3"
 		"wide"			"200"
@@ -87,7 +87,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBar"
-		"xpos"			"111"
+		"xpos"			"c-89"//111"
 		"ypos"			"20"
 		"zpos"			"3"
 		"wide"			"178"
@@ -108,7 +108,7 @@
 	{
 		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"ProgressBarBG"
-		"xpos"			"110"
+		"xpos"			"c-90"//110"
 		"ypos"			"19"
 		"zpos"			"3"
 		"wide"			"180"

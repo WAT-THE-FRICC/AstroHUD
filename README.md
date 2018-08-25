@@ -1,4 +1,7 @@
 # AstroHUD
+
+**IMPORTANT** DELETE the AstroHUD/scripts/transparent_viewmodels.res file if not using "dxlevel 90" or above!!! Otherwise it will result in a white screen covering your view completely in-game. DX81 does NOT support viewmodel transparency!
+
 This is a Team Fortress 2 custom HUD modification, made to the specifications provided by Astroyed.
 
 This HUD aims to deliver the following:

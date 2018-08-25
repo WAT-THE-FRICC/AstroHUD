@@ -28,7 +28,7 @@ Customizations:
 * To customize the HUD colors (health, overheal, low health, ammo, Uber etc, go to the ClientScheme.res file. It is close to the top.
 
 Screenshots
-https://m.imgur.com/a/KrIQUAY
+https://imgur.com/a/rwty9qU
 
 Background image is a picture of the Orion Nebula taken by NASA. Images taken by the US government are copyright free.
 

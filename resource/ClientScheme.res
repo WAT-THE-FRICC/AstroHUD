@@ -597,5 +597,14 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}	
+		// add your new font files here
+		// with a number larger than the preceding
+		// and curly brackets enclosing them
+		// in this format:
+		// "16"
+		// {
+		// 		"font" ""
+		//		"name" ""
+		// }
  	}
 }

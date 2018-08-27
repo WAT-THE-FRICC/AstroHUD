@@ -77,7 +77,7 @@
 "zpos" "8"
 "wide" "100"
 "tall" "30"
-"visible" "1"
+"visible" "0"
 "enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%AmmoInReserve%"

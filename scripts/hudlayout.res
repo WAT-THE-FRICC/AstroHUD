@@ -1053,13 +1053,14 @@ HudKothTimeStatus
 }
 "HudInspectPanel" 
 {
-"fieldName" "HudInspectPanel"
-"visible" "0"
-"enabled" "1"
-"xpos" "r270"
-"ypos" "265"
-"wide" "270"
-"tall" "100"
+		"fieldName"				"HudInspectPanel"
+		"visible"				"0"
+		"enabled"				"1"
+		"xpos"					"r175"
+		"ypos"					"200"
+		"zpos"					"10"
+		"wide"					"270"
+		"tall"					"400"
 }
 "HudTFCrosshair" 
 {

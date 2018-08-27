@@ -181,8 +181,8 @@
 	"enabled" "1"
 	"HealthBonusPosAdj" "10"
 	"HealthDeathWarning" "0.49"
-	"HealthDeathWarningColor" "HUDDeathWarning"
-	"TextColor" "SpecHealthNormal"
+	"HealthDeathWarningColor" "QHUDLow"
+	"TextColor" "QHUDNormal"
 	"textAlignment" "north-west"
 	"font" "Secondary18"
 	}

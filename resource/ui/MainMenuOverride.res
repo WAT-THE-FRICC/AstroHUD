@@ -5,7 +5,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDVersionLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.5 by wat the fricc and astroyed. PUBLIC BETA"// 08242018_1748"
+    "labelText"		"AstroHUD b0.5.2 by wat the fricc and astroyed. PUBLIC BETA"// 08242018_1748"
     "textAlignment"	"center"
     "xpos"		"c-250"
     "ypos"		"50"

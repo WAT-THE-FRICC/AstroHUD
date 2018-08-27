@@ -299,7 +299,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"paintbackground"	"0"
+		"paintbackground"	"1"
+		"bgcolor_override" "ya_MenuBG"
 	}
 	
 	"PresetsExplanation"
@@ -389,12 +390,12 @@
 			
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "235 226 202 255"
-			"depressedFgColor_override" "46 43 42 255"
+			//"defaultFgColor_override" "46 43 42 255"
+			//"armedFgColor_override" "235 226 202 255"
+			//"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"117 107 94 255"
-			"image_armedcolor"	"200 80 60 255"
+			//"image_drawcolor"	"117 107 94 255"
+			//"image_armedcolor"	"200 80 60 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -467,11 +468,11 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 1"
 		
-		"defaultFgColor_override" "ahudBlue"
+		"defaultFgColor_override" "BlueTeamColor"
 		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudBlue"
+		"armedBgColor_override"	"BlueTeamColor"
 		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override"	"ahudBlue"
+		"depressedBgColor_override"	"BlueTeamColor"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -581,11 +582,11 @@
 		"scaleImage"		"1"
 		"command"			"sv_cheats 1;r_skin 0"
 		
-		"defaultFgColor_override" "ahudRed"
+		"defaultFgColor_override" "RedTeamColor"
 		"armedFgColor_override" "ahudWhite"
-		"armedBgColor_override"	"ahudRed"
+		"armedBgColor_override"	"RedTeamColor"
 		"depressedFgColor_override" "ahudWhite"
-		"depressedBgColor_override"	"ahudRed"
+		"depressedBgColor_override"	"RedTeamColor"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

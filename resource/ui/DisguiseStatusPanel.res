@@ -11,32 +11,37 @@
 		"visible"		"1" //0
 		"enabled"		"0"
 	}
-	"DisguiseStatusLine"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"		"DisguiseStatusLine"
-		"xpos"			"8113"
-		"ypos"			"r50"
-		"zpos"			"-1"
-		"wide"			"211"				//128
-		"tall"	 		"2"	
-		"fillcolor"		"255 255 255 175"
-		"visible"		"0"
-		"enabled"		"0"
-
-	}
 	"DisguiseStatusBG"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"		"CTFImagePanel"
 		"fieldName"		"DisguiseStatusBG"
+		"xpos"			"113"
+		"ypos"			"r23"
+		"zpos"			"-1"
+		"wide"			"200"
+		"tall"	 		"3"	
+		//"fillcolor"		"255 255 255 175"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"teambg_2"		"replay/thumbnails/newhudred"
+		"teambg_3"		"replay/thumbnails/newhudblue"
+
+	}
+	"DisguiseStatusBGfix"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"DisguiseStatusBGfix"
 		"xpos"			"113"
 		"ypos"			"r50"
 		"zpos"			"-4"
-		"wide"			"211"				//128
+		"wide"			"200"
 		"tall"	 		"27"	
-		"fillcolor"		"0 0 0 214"
+		"fillcolor"		"50 50 50 100"
 		"visible"		"1" //0
 		"enabled"		"1"
+		//"teambg_2"		"replay/thumbnails/newhudred"
+		//"teambg_3"		"replay/thumbnails/newhudblue"
 	}
 
 	"DisguiseNameLabel"

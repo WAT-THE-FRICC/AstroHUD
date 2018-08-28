@@ -60,7 +60,7 @@
 		"pinCorner" "0"
 		"visible" "0"
 		"enabled" "1"
-		"image" "replay/thumbnails/newhudblue"
+		"image" "replay/thumbnails/newhudred"
 		// "image" "../hud/objectives_timepanel_red_bg"
 		"src_corner_height" "3"
 		"src_corner_width" "3"

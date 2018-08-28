@@ -852,6 +852,7 @@ HudKothTimeStatus
 "HudMenuSpyDisguise" 
 {
 "fieldName" "HudMenuSpyDisguise"
+"zpos" "10"
 "visible" "1"
 "enabled" "1"
 "xpos" "c-189"

@@ -134,18 +134,23 @@
 
 "BG2"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	"ScalableImagePanel"
 		"fieldName"		"BG2"
-		"xpos"			"30"
+		"xpos"			"32"
 		"ypos"			"70"
 		"zpos"			"0"
-		"wide"			"318"
-		"tall"			"78" //"68"
+		"wide"			"317"
+		"tall"			"55" //"68"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"	
-		"fillcolor"		"0 0 0 128"
+		//"fillcolor"		"50 50 50 128"
+		"image"			"../hud/color_panel_brown"
+		"src_corner_height"	"23"
+		"src_corner_width"	"23"
+		"draw_corner_width"	"0"
+		"draw_corner_height" 	"0"	
 		"PaintBackgroundType"	"0"
 	}
 
@@ -178,7 +183,7 @@
 		"xpos"			"32"
 		"ypos"			"50"
 		"zpos"			"2"
-		"wide"			"45"
+		"wide"			"450"
 		"tall"			"120"
 		"visible"		"1"
 	}	
@@ -190,7 +195,7 @@
 		"xpos"			"32"
 		"ypos"			"50"
 		"zpos"			"2"
-		"wide"			"45"
+		"wide"			"450"
 		"tall"			"120"
 		"visible"		"0"
 	}

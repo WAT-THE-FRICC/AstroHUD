@@ -25,7 +25,7 @@
 }
 "ServerBrowserButton"
 {
-"label" "Community Servers"
+"label" "#MMenu_PlayList_ServerBrowser_Button"
 "command" "OpenServerBrowser"
 "subimage" "glyph_server_browser"
 "OnlyAtMenu" "1"
@@ -65,13 +65,13 @@
 }
 "CreateServerButton"
 {
-"label" "Create"
+"label" "#MMenu_PlayList_CreateServer_Button"
 "command" "OpenCreateMultiplayerGameDialog"
 "OnlyAtMenu" "1"
 }
 "CharacterSetupButton"
 {
-"label" "Items"
+"label" "#Store_Items"
 "command" "engine open_charinfo"
 "subimage" "glyph_items"
 }
@@ -85,7 +85,7 @@
 	}
 "CallVoteButton"
 {
-"label" "Call Vote"
+"label" "#MMenu_CallVote"
 "command" "callvote"
 "OnlyInGame" "1"
 "subimage" "icon_checkbox"
@@ -106,14 +106,15 @@
 "ReplayBrowserButton"
 {
 "label" ""
-"tooltip" "Replays"
+"tooltip" "#MMenu_Tooltip_Replay"
 }
 "SteamWorkshopButton"
 {
 "label" ""
-"tooltip" "Workshop"
+"tooltip" "#MMenu_Tooltip_Workshop"
 }
-
+//"MMenu_Tooltip_Options"			"Options"
+//"MMenu_Tooltip_AdvOptions"		"Advanced Options"
 "SettingsButton"
 {
 	"tooltip"	""

@@ -1,16 +1,16 @@
 // engineer metal
-
+// this is positioned in HUDLayout.res
 "Resource/UI/HudAccountPanel.res" 
 {
 "CHudAccountPanel" 
 {
-"delta_item_x" "100"
-"delta_item_start_y" "92"
-"delta_item_end_y" "92"
+"delta_item_x" "50"//100"
+"delta_item_start_y" "5"//92"
+"delta_item_end_y" "5"//92"
 "PositiveColor" "0 255 0 255"
 "NegativeColor" "255 0 0 255"
 "delta_lifetime" "0.6"
-"delta_item_font" "Secondary24"
+"delta_item_font" "Secondary15"
 }
 "AccountBG" 
 {
@@ -54,8 +54,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AccountValue"
-"xpos" "c-25" //c44
-"ypos" "c20"//355 //390
+"xpos" "0"//c-25" //c44
+"ypos" "0"//c20"//355 //390
 "zpos" "2"
 "wide" "50"
 "tall" "20"
@@ -75,8 +75,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AccountValueShadow"
-"xpos" "c-24"
-"ypos" "c21"
+"xpos" "1"//c-24"
+"ypos" "1"//c21"
 "zpos" "1"
 "wide" "50"
 "tall" "20"

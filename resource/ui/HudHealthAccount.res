@@ -12,4 +12,20 @@
 		"delta_item_font"		"Secondary24"
 		"textAlignment"			"north-east"
 	}
+	"HealthAccountValue" 
+{
+"ControlName" "CExLabel"
+"fieldName" "HealthAccountValue"
+"xpos" "c-206" //-106
+"ypos" "330"
+"zpos" "2"
+"wide" "100"
+"tall" "30"
+"visible" "1"
+"enabled" "1"
+"labelText" "%metal%"
+"textAlignment" "north-east"
+"fgcolor" "0 255 0 255"
+"font" "Secondary24"
+}
 }

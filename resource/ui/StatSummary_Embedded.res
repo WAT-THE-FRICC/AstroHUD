@@ -1,3 +1,4 @@
+// player stats in the items panel
 "Resource/UI/winpanel.res"
 {
 	"TFStatsSummary"
@@ -10,21 +11,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"0 0 0 255"
-	}
-	"MainBackground"
-	{
-		"ControlName"		"EditablePanel"
-		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"0"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"0"
-		"enabled"		"1"
-		//"image"			""
-		"scaleImage"		"1"
-		"bgcolor_override"		"0 0 0 255"
+		"bgcolor_override"	"yA_MenuBG"
 	}
 	"OnYourWayLabel" [$WINDOWS]
 	{
@@ -33,7 +20,7 @@
 		"font"			"m0refont15"
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
-		"xpos"			"c-180"
+		"xpos"			"c-9180"
 		"ypos"			"60"
 		"zpos"			"50"
 		"wide"			"360"
@@ -54,8 +41,8 @@
 		"labelText"		"%maplabel%"
 		"textAlignment"		"center" [$WINDOWS]
 		"textAlignment"		"west" [$X360]
-		"xpos"			"c-175" [$WINDOWS]
-		"xpos"			"c-300" [$X360]
+		"xpos"			"c-9175" [$WINDOWS]
+		"xpos"			"c-9300" [$X360]
 		"ypos"			"92"
 		"zpos"			"50"
 		"wide"			"350" [$WINDOWS]
@@ -75,7 +62,7 @@
 		"font"			"m0refont13"
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
-		"xpos"			"c-175"
+		"xpos"			"c-9175"
 		"ypos"			"117"
 		"zpos"			"50"
 		"wide"			"350"
@@ -98,7 +85,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
-		"bgcolor_override"		"0 0 0 255"
+		"bgcolor_override"		"yA_MenuBG"
 
 		"NonInteractiveHeaders"
 		{
@@ -2099,7 +2086,7 @@
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"buttongap"			"50"
 		"textadjust"		"3"
-		"zpos"				"6"
+		"zpos"				"-996"
 		"fgcolor"			"HudOffWhite" 	
 		
 		"button"
@@ -2132,7 +2119,7 @@
 		"fieldName"		"Wall"
 		"xpos"			"0"
 		"ypos"			"50"
-		"zpos"			"-5"		
+		"zpos"			"-500"		
 		"wide"			"f0"
 		"tall"			"280"
 		"autoResize"	"0"

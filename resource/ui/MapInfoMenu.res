@@ -194,7 +194,7 @@
 		"brighttext"	"0"
 		"command"		"back"
 		"font"			"HudFontSmallBold"
-		"fgcolor"		"Black"
+		//"fgcolor"		"Black"
 	}
 	
 	"MenuBG"

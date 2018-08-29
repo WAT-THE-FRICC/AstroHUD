@@ -7,9 +7,17 @@
 "OnlyInGame" "1"
 "subimage" "icon_resume"
 }
-"QueueButton"
+"TF2Logo"
 {
-"label" "astrohud"
+"label" ""
+//"actionsignallevel"	"2"
+"Command"		"find_game"
+"subimage" "glyph_multiplayer"
+//"OnlyAtMenu" "1"
+}
+"WelcomeBackLabel"
+{
+"label" "Non est ad astra mollis e terris via."
 //"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" "glyph_multiplayer"

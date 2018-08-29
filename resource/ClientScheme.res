@@ -2,12 +2,13 @@
 #base "ClientScheme_borders.res"
 #base "ClientScheme_fonts.res"
 #base "ClientScheme_colors.res"
+#base "../resource/crosshairs/crosshairscheme.res"
 
 "Scheme" 
 {
 	"BaseSettings" 
 	{
-		"ReplayBrowser.BgColor" "DarkBrown"
+		"ReplayBrowser.BgColor" "yA_MenuBG"
 		"ReplayBrowser.Details.TitleEdit.Carat.FgColor" "LightRed"
 		"ReplayBrowser.Button.ArmedBgColor" "TFOrange"
 		"ReplayBrowser.Button.DepressedBgColor" "TFOrange"
@@ -86,10 +87,10 @@
 		"ListPanel.SelectedBgColor" "Red"
 		"ListPanel.SelectedOutOfFocusBgColor" "Red"
 		"ListPanel.EmptyListInfoTextColor" "Orange"
-		"Menu.TextColor" "TanLight"
-		"Menu.BgColor" "TransparentBlack"
+		"Menu.TextColor" "255 255 255 255"
+		"Menu.BgColor" "yA_MenuBG"//TransparentBlack"
 		"Menu.ArmedTextColor" "TanDark"
-		"Menu.ArmedBgColor" "TanLight"
+		"Menu.ArmedBgColor" "G_Highlight"
 		"Menu.TextInset" "6"
 		"Chat.TypingText" "Orange"
 		"Panel.FgColor" "Gray"

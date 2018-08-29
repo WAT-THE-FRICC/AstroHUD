@@ -2,6 +2,9 @@
 {
 	"Colors" 
 	{
+		// This color value controls the color theme of the HUD
+		"G_Highlight" "244 67 54 255"
+		
 		"BlueTeamColor"		"33 150 243 255"
 		"RedTeamColor"		"244 67 54 255"
 		"HUDBlueTeam" "33 150 243 127"

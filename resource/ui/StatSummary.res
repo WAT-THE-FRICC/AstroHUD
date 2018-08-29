@@ -37,7 +37,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"enabled"		"1"
-		"bgcolor_override"	"0 0 0 255"
+		"bgcolor_override"	"yA_MenuBG"//"0 0 0 255"
 	}	
 
 	"MapInfo"
@@ -63,7 +63,7 @@
 			"tall"				"f0"
 			"visible"			"1"
 			"enabled"			"1"
-			"bgcolor_override"	"0 0 0 255"
+			"bgcolor_override"	"yA_MenuBG"//0 0 0 255"
 		}
 	
 		"Background"
@@ -109,7 +109,7 @@
 			"visible"		"1"
 			"enable"		"1"
 			"paintbackground"	"1"
-			"bgcolor_override"	"0 0 0 255"
+			"bgcolor_override"	"yA_MenuBG"//"0 0 0 255"
 		}
 	
 		"ContributedLabel"
@@ -117,7 +117,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"	"ContributedLabel"
 			"xpos"			"0"
-			"ypos"			"150"
+			"ypos"			"c56"//150"
 			"zpos"			"40"
 			"wide"			"f0"
 			"tall"			"50"
@@ -244,7 +244,7 @@
 		"labelText"		"#LoadingMap"
 		"textAlignment"		"center"
 		"xpos"			"c-180"
-		"ypos"			"60"
+		"ypos"			"c-48"//60"
 		"zpos"			"50"
 		"wide"			"360"
 		"tall"			"35"
@@ -266,7 +266,7 @@
 		"textAlignment"		"west" [$X360]
 		"xpos"			"c-175" [$WINDOWS]
 		"xpos"			"c-300" [$X360]
-		"ypos"			"92"
+		"ypos"			"c-12"//92"
 		"zpos"			"50"
 		"wide"			"350" [$WINDOWS]
 		"wide"			"600" [$X360]
@@ -286,7 +286,7 @@
 		"labelText"		"%maptype%"
 		"textAlignment"	"center"
 		"xpos"			"c-175"
-		"ypos"			"117"
+		"ypos"			"c23"//117"
 		"zpos"			"50"
 		"wide"			"350"
 		"tall"			"35"
@@ -311,7 +311,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
-		"bgcolor_override"		"0 0 0 255"
+		"bgcolor_override"		"yA_MenuBG"//0 0 0 255"
 
 		"NonInteractiveHeaders"
 		{

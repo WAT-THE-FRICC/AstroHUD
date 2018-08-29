@@ -1,4 +1,4 @@
-//#base "../scripts/crosshairs.res"
+#base "../scripts/crosshairs.res"
 #base "../scripts/transparent_viewmodels.res"
 
 "Resource/HudLayout.res" 
@@ -206,8 +206,8 @@ HudKothTimeStatus
 "CHudAccountPanel" 
 {
 "fieldName" "CHudAccountPanel"
-"xpos" "0"
-"ypos" "0"
+"xpos" "c-25"
+"ypos" "c25"
 "wide" "f0"
 "tall" "480"
 "visible" "1"

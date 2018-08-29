@@ -15,7 +15,19 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
-	
+	"MainBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"MainBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-6"
+		"wide"			"0"
+		"tall"			"480"
+		"fillcolor"		"50 50 50 255"
+		"visible"		"0"
+		"enabled"		"0"
+	}
 	"TFMessageTitle"
 	{
 		"ControlName"	"CExLabel"

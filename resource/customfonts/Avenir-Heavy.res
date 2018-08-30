@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name" "DIN 1451 Mittelschrift"
+				"name" "AvenirLTStd-Heavy-edited"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +40,7 @@
 		{
 			"1"
 			{
-				"name" "DIN 1451 Mittelschrift"
+				"name" "AvenirLTStd-Heavy-edited"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"

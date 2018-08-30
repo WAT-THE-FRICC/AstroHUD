@@ -74,11 +74,11 @@
 {
 "ControlName" "CTFImagePanel"
 "fieldName" "PipeIcon"
-"xpos" "c9937"
-"ypos" "395"
+"xpos" "c90"
+"ypos" "360"
 "wide" "15"
 "tall" "15"
-"visible" "0"
+"visible" "1"
 "enabled" "1"
 "image" "../hud/ico_stickybomb_red_faded"
 "scaleImage" "1"
@@ -89,8 +89,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "NumPipesLabel"
-"xpos" "c-25" //c-44
-"ypos" "c25" //260 //390
+"xpos" "c95" //c-44
+"ypos" "355" //260 //390
 "zpos" "2"
 "wide" "50"
 "tall" "20"
@@ -110,8 +110,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "NumPipesLabelShadow"
-"xpos" "c-24"
-"ypos" "c26"
+"xpos" "c96" //c-44
+"ypos" "356" //260 //390
 "zpos" "1"
 "wide" "50"
 "tall" "20"
@@ -135,17 +135,18 @@
 "xpos" "0"
 "ypos" "0"
 "zpos" "1"
-"wide" "0"
-"tall" "0"
+"wide" "f0"
+"tall" "f0"
 "visible" "1"
+"enabled" "1"
 "PipeIcon" 
 {
 "ControlName" "CTFImagePanel"
 "fieldName" "PipeIcon"
-"xpos" "26"
-"ypos" "16"
-"wide" "20"
-"tall" "20"
+"xpos" "c90"
+"ypos" "360"
+"wide" "15"
+"tall" "15"
 "visible" "1"
 "enabled" "1"
 "image" "../hud/ico_stickybomb_red_faded"

@@ -46,20 +46,24 @@ event HudHealthBonusPulseStop
 //Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
-	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.125 0.075
+	//Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
+	//Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.125 0.075
 
-	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.0 0.0
+	Animate PlayerStatusHealthvalue FgColor "QHUDLowFlash" linear 0.0 0.0
+	Animate PlayerStatusHealthvalue FgColor "255 255 255 255" linear 0.075 0.0
+	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.15 0.0
+	//Animate SpectatorStatusHealthvalue FgColor "QHUDLowFlash" Accel 0.0 0.0
+	//Animate SpectatorStatusHealthvalue FgColor "255 255 255 255" linear 0.075 0.0
 	Animate SpectatorStatusHealthvalue FgColor "QHUDLow" Accel 0.0 0.0
 
-    Animate	HealthBG 	    BgColor		"QHUDLowBar"	    Accel 0.0 0.0
-    Animate	HealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
-    Animate	TargetHealthBG 	    BgColor		"QHUDSmallBarLow"	    Accel 0.0 0.0
-    Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    //Animate	HealthBG 	    BgColor		"QHUDLowBar"	    Accel 0.0 0.0
+    //Animate	HealthBG 	    Alpha		"255"		        Accel 0.0 0.3
+	//Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    //Animate	TargetHealthBG 	    BgColor		"QHUDSmallBarLow"	    Accel 0.0 0.0
+    //Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.3
+	//Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
 
-	RunEvent HudHealthDyingPulseLoop	0.25
+	RunEvent HudHealthDyingPulseLoop	1
 }
 
 // call to loop HudHealthDyingPulse
@@ -86,14 +90,14 @@ event HudHealthDyingPulseStop
 
 event HudLowAmmoPulse
 {
-	Animate	AmmoInClip	FgColor		"QHUDAmmoLowClip"		Linear 0.0 0.075
-	Animate	AmmoInClip 	FgColor		"QHUDAmmoLowClip"		Linear 0.125 0.075
-	Animate	AmmoNoClip	FgColor		"QHUDAmmoLowClip"		Linear 0.0 0.075
-	Animate	AmmoNoClip 	FgColor		"QHUDAmmoLowClip"		Linear 0.125 0.075
-	Animate	AmmoInReserve	FgColor		"QHUDAmmoLowReserve"		Linear 0.0 0.075
-	Animate	AmmoInReserve	FgColor		"QHUDAmmoLowReserve"		Linear 0.125 0.075
+	Animate	AmmoInClip	FgColor		"QHUDAmmoLowClip"		Linear 0.0 0.3
+	Animate	AmmoInClip 	FgColor		"QHUDAmmoInClip"		Linear 0.3 0.3
+	Animate	AmmoNoClip	FgColor		"QHUDAmmoLowClip"		Linear 0.0 0.3
+	Animate	AmmoNoClip 	FgColor		"QHUDAmmoInClip"		Linear 0.3 0.3
+	Animate	AmmoInReserve	FgColor		"QHUDAmmoLowReserve"		Linear 0.0 0.3
+	Animate	AmmoInReserve	FgColor		"QHUDAmmoInReserve"		Linear 0.3 0.3
 
-	RunEvent HudLowAmmoPulseLoop	0.25
+	RunEvent HudLowAmmoPulseLoop	1
 }
 
 event HudLowAmmoPulseLoop

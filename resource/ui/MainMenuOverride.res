@@ -11,7 +11,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "public beta v0.6"
+	"labeltext" "public beta v0.6.1"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "255 255 255 255"
@@ -21,7 +21,7 @@
     "ControlName"	"CExLabel"
     "fieldName"		"AstroHUDWatermarkLabel"
     "font"		"m0refont10"
-    "labelText"		"AstroHUD b0.6 by wat the fricc and astroyed. PUBLIC BETA"// 08242018_1748"
+    "labelText"		"AstroHUD [version] by wat the fricc and astroyed. PUBLIC BETA"// 08242018_1748"
     "textAlignment"	"center"
     "xpos"		"c-9250"
     "ypos"		"50"
@@ -386,7 +386,7 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
-"fillcolor" "G_Highlight"
+"fillcolor" "G_Highlight_menuline"
 }
 "MainMenuBGLINE2" 
 {
@@ -401,7 +401,7 @@
 "pinCorner" "0"
 "visible" "1"
 "enabled" "1"
-"fillcolor" "G_Highlight"
+"fillcolor" "G_Highlight_menuline"
 }
 "Background" 
 {

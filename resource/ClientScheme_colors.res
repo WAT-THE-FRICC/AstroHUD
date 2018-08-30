@@ -4,6 +4,7 @@
 	{
 		// This color value controls the color theme of the HUD
 		"G_Highlight" "244 67 54 255"
+		"G_Highlight_menuline" "193 0 55 255" // lines on main menu
 		
 		"BlueTeamColor"		"33 150 243 255"
 		"RedTeamColor"		"244 67 54 255"
@@ -17,13 +18,14 @@
 		"QHUDOverheal" "80 255 255 255"
 		"QHUDNormal" "9 222 98 255" //"9 222 165 255" //"0 160 150 255"
 		"QHUDLow" "255 100 0 255"
+		"QHUDLowFlash" "255 0 0 255"
 		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"
 		"QHUDBlank" "0 0 0 0"
 		"QHUDLowBar" "255 49 49 153"
 		"QHUDMedicCharge1" "61 202 53 255"
 		"QHUDMedicCharge2" "19 165 12 255"
 		"QHUDChargeMeterFG" "255 255 255 255"
-		"QHUDChargeMeterBG" "00 00 00 100"
+		"QHUDChargeMeterBG" "0 0 0 170"
 		"QHUDChargeLabel" "80 255 255 255"
 		"QHUDAmmoInClip" "80 255 255 255"
 		"QHUDAmmoInReserve" "255 255 255 255"
@@ -183,7 +185,7 @@
 		"UpgradeSelectedBg" "249 138 83 255"
 		"UpgradeDisabledFg" "64 59 52 255"
 		"UpgradeDisabledBg" "79 77 68 255"
-		"QHUDShadow" "46 43 42 255"
+		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		"QuestGold" "208 147 75 255"
 		"ItemLimitedQuantity" "225 209 0 255"
 		"QualityColorPaintkitWeapon" "250 250 250 255"

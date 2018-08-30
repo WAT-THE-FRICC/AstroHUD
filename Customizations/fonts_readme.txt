@@ -1,0 +1,1 @@
+Go to AstroHUD/resource/ClientScheme_astrofonts and follow the instructions there.

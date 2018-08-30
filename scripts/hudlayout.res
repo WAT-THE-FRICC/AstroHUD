@@ -1,5 +1,6 @@
 #base "../scripts/crosshairs.res"
 #base "../scripts/transparent_viewmodels.res"
+#base "engineer_metal.res"
 
 "Resource/HudLayout.res" 
 {
@@ -203,27 +204,13 @@ HudKothTimeStatus
 "SelectionNumberFg" "200 187 161 255"
 "NumberFont" "HudSelectionText"
 }
-"CHudAccountPanel" 
-{
-"fieldName" "CHudAccountPanel"
-"xpos" "c-25"
-"ypos" "c25"
-"wide" "f0"
-"tall" "480"
-"visible" "1"
-"enabled" "1"
-"PaintBackgroundType" "2"
-}
 "CHealthAccountPanel" 
 {
 "fieldName" "CHealthAccountPanel"
-//"xpos" "c-251"
-"ypos" "r152"
-"xpos"			"c-238"
-		"ypos"			"c10"	
-		"zpos"			"2"
-"wide" "116"
-"tall" "180"
+"xpos" "c-180"
+"ypos" "0"
+"wide" "f0"
+"tall" "480"
 "visible" "1"
 "enabled" "1"
 "PaintBackgroundType" "2"

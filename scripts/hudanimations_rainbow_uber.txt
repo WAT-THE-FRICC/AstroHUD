@@ -1,0 +1,38 @@
+//====================================
+// Flash the medic charge hud when we have full charge
+ 
+event HudMedicCharged
+{
+        Animate ChargeMeter      FgColor            "200 0 0 255"			Linear 0.0 0.5
+        Animate ChargeMeter      FgColor            "200 200 0 255"			Linear 0.5 0.5
+        Animate ChargeMeter      FgColor            "0 200 0 255" 			Linear 1.0 0.5
+        Animate ChargeMeter      FgColor            "0 200 200 255" 		Linear 1.5 0.5
+        Animate ChargeMeter      FgColor            "0 0 200 255"			Linear 2.0 0.5
+        Animate ChargeMeter      FgColor            "200 0 200 255"			Linear 2.5 0.5
+        
+        Animate ChargeLabel      FgColor            "200 0 0 255"			Linear 0.0 0.5
+        Animate ChargeLabel      FgColor            "200 200 0 255"			Linear 0.5 0.5
+        Animate ChargeLabel      FgColor            "0 200 0 255" 			Linear 1.0 0.5
+        Animate ChargeLabel      FgColor            "0 200 200 255" 		Linear 1.5 0.5
+        Animate ChargeLabel      FgColor            "0 0 200 255"			Linear 2.0 0.5
+        Animate ChargeLabel      FgColor            "200 0 200 255"			Linear 2.5 0.5
+ 
+        RunEvent HudMedicChargedLoop    3.0
+}
+ 
+// call to loop HudHealthBonusPulse
+event HudMedicChargedLoop
+{
+        RunEvent HudMedicCharged 0.0
+}
+ 
+event HudMedicChargedStop
+{
+        StopEvent HudMedicCharged 0.0
+        StopEvent HudMedicChargedLoop 0.0
+        
+        Animate ChargeMeter      FgColor            "255 255 255 255"        Linear 0.0 0.0001
+        Animate ChargeLabel      FgColor            "QHUDChargeLabel"        Linear 0.0 0.0001
+}
+ 
+//====================================

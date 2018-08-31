@@ -16,7 +16,7 @@
 "fieldName" "BuildingStatus_Engineer"
 "visible" "1"
 "enabled" "1"
-"xpos" "0"
+"xpos" "-10"
 //"xpos_hidef" "32"
 //"xpos_lodef" "40"
 "ypos" "135"

@@ -2,6 +2,11 @@
 {
 	"Colors" 
 	{
+		//
+		// DO NOT EDIT THE COLOR NAMES
+		// OR YOU WILL BREAK THE HUD
+		//
+		
 		// This color value controls the color theme of the HUD
 		"G_Highlight" "244 67 54 255"
 		"G_Highlight_menuline" "193 0 55 255" // lines on main menu

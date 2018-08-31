@@ -1,3 +1,11 @@
+// ToonHUD's Montserrat font
+// to further ToonHUDify,
+// go to resource/ClientScheme.res
+// Ctrl+F find everything with
+// "GlacialIndifference-Regular"
+// and replace with
+// "Montserrat"
+
 "Scheme"
 {
 	"Fonts" 
@@ -29,7 +37,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +48,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -53,7 +61,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -64,7 +72,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +83,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +94,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +105,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -108,13 +116,14 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 			}
+		
 		}
-	}
+    }
 }
 		

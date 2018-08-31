@@ -1,5 +1,5 @@
-Copy the engineer_metal.res file
-and paste it into AstroHUD/scripts/
+Copy the HudMedicCharge.res file
+and paste it into AstroHUD/resource/ui/
 
 You will overwrite the existing file there,
 but this is intended and will not break the HUD.

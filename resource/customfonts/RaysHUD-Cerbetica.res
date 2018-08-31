@@ -1,3 +1,13 @@
+// to further rayshud-ify this HUD,
+// go to resource/ClientScheme.res
+// Ctrl+F find everything with
+// "GlacialIndifference-Regular"
+// and replace with
+// "Cerbetica"
+
+// raysHUD can be found here at:
+// https://github.com/raysfire/rayshud/
+
 "Scheme"
 {
 	"Fonts" 
@@ -6,7 +16,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "Cerbetica Bold"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -17,7 +27,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "Cerbetica Bold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -29,7 +39,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica Bold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +50,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica Bold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -53,7 +63,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -64,7 +74,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +85,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +96,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +107,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -108,12 +118,12 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Cerbetica"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-			}
+			}	
 		}
 	}
 }

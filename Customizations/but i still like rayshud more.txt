@@ -1,0 +1,13 @@
+RaysHUD-ifiyah instructions (with cringey raysfiyah name pun)
+
+If you can't give up the L&F of raysHUD, here's what you need to do:
+
+Uncomment (remove the two slashes // before)
+the line defining the rayshud font
+in AstroHUD/resource/ClientScheme.res
+and comment out the Avenir font (add 2 slashes before)
+
+Uncomment the RaysHUDtheme line in the same file.
+
+You will overwrite the existing files there
+and it is OK to do so.

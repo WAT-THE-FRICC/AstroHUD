@@ -1,3 +1,7 @@
+// when you really want to board that spaceship
+// note that this font is really really wide and may break things
+// use at your own risk
+
 "Scheme"
 {
 	"Fonts" 
@@ -29,7 +33,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Bold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +44,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Bold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -53,7 +57,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -64,7 +68,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +79,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +90,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +101,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -108,13 +112,14 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Orbitron Medium"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 			}
+		
 		}
-	}
+    }
 }
 		

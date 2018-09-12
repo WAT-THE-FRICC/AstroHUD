@@ -21,7 +21,9 @@
 "ControlName" "CExLabel"
 "fieldName" "DamageAccountValue"
 "xpos" "c-245" //-106
+"xpos_minmode" "c-225"
 "ypos" "355"
+"ypos_minmode" "425"
 "zpos" "2"
 "wide" "100"
 "tall" "30"
@@ -31,6 +33,7 @@
 "textAlignment" "north-east"
 "fgcolor" "255 0 0 255"
 "font" "Secondary24"
+"font_minmode" "Secondary18"
 }
 "DamageAccountValueShadow" 
 {

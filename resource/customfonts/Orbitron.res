@@ -40,6 +40,17 @@
 				"outline" "0"
 			}
 		}
+		"Astro32"
+		{
+			"1"
+			{
+				"name" "Orbitron Bold"
+				"tall" "32"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
 		"Astro24"
 		{
 			"1"

@@ -103,10 +103,11 @@ HudKothTimeStatus
 "enabled" "1"
 "xpos" "0"
 "ypos" "0"
+"ypos_minmode" "250"
 "wide" "f0"
 "tall" "480"
 "MeterFG" "White"
-"MeterBG" "Gray"
+"MeterBG" "QHUDChargeMeterBG"//Gray"
 }
 "HudMedicCharge" 
 {
@@ -210,7 +211,8 @@ HudKothTimeStatus
 {
 "fieldName" "CHealthAccountPanel"
 "xpos" "c-180"
-"ypos" "0"
+"xpos_minmode" "c-160"
+"ypos" "0" // ypos is positioned in HudHealthAccount.res
 "wide" "f0"
 "tall" "480"
 "visible" "1"
@@ -269,6 +271,7 @@ HudKothTimeStatus
 "enabled" "1"
 "xpos" "0"
 "ypos" "82"//40
+"ypos_minmode" "42"
 "wide" "f0"
 "tall" "314"//388
 "priority" "35"

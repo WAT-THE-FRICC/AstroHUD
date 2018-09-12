@@ -38,6 +38,9 @@
 "dulltext" "0"
 "brighttext" "0"
 "font" "TFFontSmall"
+"xpos_minmode" "c-30"
+"ypos_minmode" "393"
+"wide_minmode" "60"
 }
 "ChargeMeter" 
 {
@@ -58,6 +61,9 @@
 "fgcolor_override" "QHUDChargeMeterFG"
 "dulltext" "0"
 "brighttext" "0"
+"xpos_minmode" "c-30"
+"ypos_minmode" "400"
+"wide_minmode" "60"
 }
 "PipesPresentPanel" 
 {

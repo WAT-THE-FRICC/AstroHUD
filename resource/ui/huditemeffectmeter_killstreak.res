@@ -120,7 +120,9 @@
 "ControlName" "CExLabel"
 "fieldName" "ItemEffectMeterCount"
 "xpos" "c-165" //c-136
-"ypos" "355" //365 
+"xpos_minmode" "c-140"
+"ypos" "355" //365
+"ypos_minmode" "372" 
 "zpos" "2"
 "wide" "50"
 "tall" "24"
@@ -133,6 +135,7 @@
 "dulltext" "0"
 "brighttext" "0"
 "font" "Secondary24"
+"font_minmode" "Secondary18"
 "fgcolor_override" "255 255 255 255"
 }
 "KillStreakIcon"
@@ -140,7 +143,9 @@
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
 "xpos" "c-110"//-114
+"xpos_minmode" "c-90"
 "ypos" "360"//369
+"ypos_minmode" "373"
 "zpos" "12"
 "wide" "16"
 "tall" "16"

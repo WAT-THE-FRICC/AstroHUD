@@ -183,7 +183,7 @@
 		"ProgressBarFg" "255 30 13 255"
 		"Main.Menu.X" "32"
 		"Main.Menu.Y" "248"
-		"Main.BottomBorder" "32"
+		"Main.BottomBorder" "0"//32"
 		"VguiScreenCursor" "255 208 64 255"
 
 	}

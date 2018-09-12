@@ -102,8 +102,8 @@
 		"textAlignment" "north-west"
 		"dulltext" "0"
 		"brighttext" "0"
-		"fgcolor_override" "0 160 255 255"
 		"fgcolor" "255 255 255 255"
+		"fgcolor_override" "0 160 255 255"
 	}
 	"TargetNameLabelShadow" 
 	{
@@ -144,8 +144,8 @@
 		"dulltext" "0"
 		"brighttext" "0"
 		//"fgcolor_override" "0 160 150 255"
-		"fgcolor_override" "255 255 255 255"
 		"fgcolor" "255 255 255 255"
+		"fgcolor_override" "255 255 255 255"
 		"font" "m0refont12"
 	}
 	"TargetDataLabelShadow" 
@@ -297,10 +297,10 @@
 	"ControlName" "CExImageButton"
 	"fieldName" "TargetHealthBG"
 	"xpos" "0"
-	"ypos" "285"
+	"ypos" "301"
 	"zpos" "-9"
-	"wide" "40"
-	"tall" "22"
+	"wide" "5"
+	"tall" "10"
 	"autoResize" "0"
 	"visible" "0"
 	"enabled" "1"

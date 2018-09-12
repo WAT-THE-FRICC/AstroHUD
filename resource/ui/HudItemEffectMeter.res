@@ -51,6 +51,9 @@
 "dulltext" "0"
 "brighttext" "0"
 "font" "TFFontSmall"
+"xpos_minmode" "c-30"
+"ypos_minmode" "403"
+"wide_minmode" "60"
 }
 "ItemEffectMeter" 
 {
@@ -71,5 +74,8 @@
 "fgcolor_override" "QHUDChargeMeterFG"
 "dulltext" "0"
 "brighttext" "0"
+"xpos_minmode" "c-30"
+"ypos_minmode" "410"
+"wide_minmode" "60"
 }
 }

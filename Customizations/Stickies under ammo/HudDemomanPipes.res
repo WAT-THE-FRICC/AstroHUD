@@ -38,6 +38,9 @@
 "dulltext" "0"
 "brighttext" "0"
 "font" "TFFontSmall"
+"xpos_minmode" "c-30"
+"ypos_minmode" "393"
+"wide_minmode" "60"
 }
 "ChargeMeter" 
 {
@@ -58,6 +61,9 @@
 "fgcolor_override" "QHUDChargeMeterFG"
 "dulltext" "0"
 "brighttext" "0"
+"xpos_minmode" "c-30"
+"ypos_minmode" "400"
+"wide_minmode" "60"
 }
 "PipesPresentPanel" 
 {
@@ -76,6 +82,7 @@
 "fieldName" "PipeIcon"
 "xpos" "c90"
 "ypos" "360"
+"ypos_minmode" "412"
 "wide" "15"
 "tall" "15"
 "visible" "1"
@@ -91,6 +98,7 @@
 "fieldName" "NumPipesLabel"
 "xpos" "c95" //c-44
 "ypos" "355" //260 //390
+"ypos_minmode" "407"
 "zpos" "2"
 "wide" "50"
 "tall" "20"
@@ -112,6 +120,7 @@
 "fieldName" "NumPipesLabelShadow"
 "xpos" "c96" //c-44
 "ypos" "356" //260 //390
+"ypos_minmode" "407"
 "zpos" "1"
 "wide" "50"
 "tall" "20"
@@ -145,6 +154,7 @@
 "fieldName" "PipeIcon"
 "xpos" "c90"
 "ypos" "360"
+"ypos_minmode" "412"
 "wide" "15"
 "tall" "15"
 "visible" "1"

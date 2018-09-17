@@ -7,7 +7,7 @@
 "ControlName" "EditablePanel"
 "fieldName" "HudPlayerHealth"
 "xpos" "0"
-"ypos" "-17"
+"ypos" "0" //-17
 "zpos" "2"
 "wide" "f0"
 "tall" "480"
@@ -24,8 +24,8 @@
 "fieldName" "PlayerStatusHealthValue"
 "xpos" "c-293"
 "xpos_minmode" "c-273"
-"ypos" "330" //423
-"ypos_minmode" "400"
+"ypos" "310" //423
+"ypos_minmode" "380"
 "zpos" "6"
 "wide" "200"
 "tall" "50"
@@ -43,8 +43,8 @@
 "fieldName" "PlayerStatusHealthValueShadow"
 "xpos" "c-292"
 "xpos_minmode" "c-272"
-"ypos" "331" //423
-"ypos_minmode" "401"
+"ypos" "311" //423
+"ypos_minmode" "381"
 "zpos" "5"
 "wide" "200"
 "tall" "50"
@@ -62,7 +62,7 @@
 		"ControlName"				         		"EditablePanel"
 		"fieldName"				         			"PlayerStatusAnchor"
 		"xpos"					         			"c-210"
-		"ypos"					         			"300"
+		"ypos"					         			"290"
 		"wide"					         			"30"
 		"tall"					         			"30"
 		"visible"				         			"1"

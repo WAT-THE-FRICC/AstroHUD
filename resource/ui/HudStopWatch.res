@@ -166,7 +166,7 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"StopWatchPointsLabel"
 		"font"			"Regular16"
-		"labelText"		"CAP"
+		"labelText"		"%pointslabel%"
 		"textAlignment"		"west"
 		"fgcolor"		"255 255 255 255" //"10 12 14 255"
 		"xpos"			"c-104"

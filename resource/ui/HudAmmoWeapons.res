@@ -43,8 +43,8 @@
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c93"
 "xpos_minmode" "c73"
-"ypos" "330"//423
-"ypos_minmode" "400"
+"ypos" "310"//423
+"ypos_minmode" "380"
 "zpos" "6"
 "wide" "100"
 "tall" "50"
@@ -62,8 +62,8 @@
 "fgcolor" "QHUDShadow"
 "xpos" "c94"
 "xpos_minmode" "c74"
-"ypos" "331"//423
-"ypos_minmode" "401"
+"ypos" "311"//423
+"ypos_minmode" "381"
 "zpos" "5"
 "wide" "100"
 "tall" "50"
@@ -80,8 +80,8 @@
 "fgcolor" "QHUDAmmoInReserve"
 "xpos" "c139"
 "xpos_minmode" "c109"
-"ypos" "335"
-"ypos_minmode" "402"
+"ypos" "315"
+"ypos_minmode" "382"
 "zpos" "8"
 "wide" "100"
 "tall" "30"
@@ -98,8 +98,8 @@
 "fgcolor" "QHUDShadow"
 "xpos" "c140"
 "xpos_minmode" "c110"
-"ypos" "336"//348
-"ypos_minmode" "403"
+"ypos" "316"//348
+"ypos_minmode" "383"
 "zpos" "5"
 "wide" "100"
 "tall" "50"
@@ -117,8 +117,8 @@
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c93"
 "xpos_minmode" "c73"
-"ypos" "330"//423
-"ypos_minmode" "400"
+"ypos" "310"//423
+"ypos_minmode" "380"
 "zpos" "6"
 "wide" "100"
 "tall" "50"
@@ -136,8 +136,8 @@
 "fgcolor" "QHUDShadow"
 "xpos" "c94"
 "xpos_minmode" "c74"
-"ypos" "331"//423
-"ypos_minmode" "401"
+"ypos" "311"//423
+"ypos_minmode" "381"
 "zpos" "5"
 "wide" "100"
 "tall" "50"

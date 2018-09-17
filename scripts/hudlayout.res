@@ -68,7 +68,7 @@
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "-17"
+"ypos" ""
 "wide" "f0"
 "tall" "480"
 "textAlignment" "north-west"
@@ -210,8 +210,8 @@ HudKothTimeStatus
 "CHealthAccountPanel" 
 {
 "fieldName" "CHealthAccountPanel"
-"xpos" "c-180"
-"xpos_minmode" "c-160"
+"xpos" "c-190"
+"xpos_minmode" "c-150"
 "ypos" "0" // ypos is positioned in HudHealthAccount.res
 "wide" "f0"
 "tall" "480"

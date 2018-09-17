@@ -145,8 +145,8 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"	
-		//"fillcolor"		"50 50 50 128"
-		"image"			"../hud/color_panel_brown"
+		"fillcolor" "ya_HudBG"
+		//"image"			"../hud/color_panel_brown"
 		"src_corner_height"	"23"
 		"src_corner_width"	"23"
 		"draw_corner_width"	"0"
@@ -154,6 +154,7 @@
 		"PaintBackgroundType"	"0"
 	}
 
+	// unused
 	"BG"
 	{
 		"ControlName"		"ScalableImagePanel"

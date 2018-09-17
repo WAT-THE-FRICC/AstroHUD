@@ -8,6 +8,7 @@
 		//
 		
 		// This color value controls the color theme of the HUD
+		// you can also customize the button colors in the section below
 		"G_Highlight" "244 67 54 255"
 		"G_Highlight_menuline" "193 0 55 255" // lines on main menu
 		
@@ -39,12 +40,13 @@
 		
 		// buttons
 		"ButtonBG"              "48 48 48 255"       //Standard button color
-        "ButtonBGArmed"         "75 75 75 255"       //Armed BG color
+        "ButtonBGArmed"         "0 200 0 255"       //Armed BG color
         "ButtonBGSelect"        "18 18 18 0"          //Loadout preset
         "ButtonFont"            "235 235 235 255"          //Font color
         "ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
         "ButtonFontSelect"      "255 255 255 255"       //Highlighted font color
 		
+		// idk where these are used
 		"QHUDSmallBarHigh" "6 146 255 255"
 		"QHUDSmallBarNormal" "0 0 0 0"
 		"QHUDSmallBarLow" "255 49 49 255"
@@ -211,7 +213,7 @@
 		
 		//// SCOREBOARD, WINPANEL AND TARGETID ////
         
-        "ya_HudBG"                "28 28 28 234"             //Scoreboard, winpanel, item meters
+        "ya_HudBG"                "50 50 50 175"             //Scoreboard, winpanel, item meters
         
         "ya_NameLongBG"			"227 227 227 0"            //TargetID background
         "ya_NameBG"				"227 227 227 255"          //for fl
@@ -322,5 +324,6 @@
 		"G_TeamButtonRed"			"189 58 58 100"
 		"G_TeamButtonBlueArmed"		"111 142 160 255"
 		"G_TeamButtonRedArmed"		"209 78 78 255"
+		"G_White"					"255 255 255 255"
 	}
 }

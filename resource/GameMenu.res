@@ -1,5 +1,13 @@
 "GameMenu"
 {
+"AstroHUDVersionLabel"
+{
+"label" "version 1.1"
+//"actionsignallevel"	"2"
+"Command"		"find_game"
+"subimage" ""
+"OnlyAtMenu" "1"
+}
 "ResumeGameButton"
 {
 "label" "#MMenu_ResumeGame"
@@ -14,36 +22,6 @@
 "Command"		"find_game"
 "subimage" "glyph_multiplayer"
 //"OnlyAtMenu" "1"
-}
-"WelcomeBackLabel"
-{
-"label" "Non est ad astra mollis e terris via."
-//"actionsignallevel"	"2"
-"Command"		"find_game"
-"subimage" "glyph_multiplayer"
-"OnlyAtMenu" "1"
-}
-"QuickplayChangeButton"
-{
-"label" " "
-"actionsignallevel"	"1"
-"Command"		"new_match"
-"subimage" "glyph_server"
-"OnlyInGame" "1"
-}
-"ServerBrowserButton"
-{
-"label" "#MMenu_PlayList_ServerBrowser_Button"
-"command" "OpenServerBrowser"
-"subimage" "glyph_server_browser"
-"OnlyAtMenu" "1"
-}
-"ChangeServerButton"
-{
-"label" "#MMenu_ChangeServer"
-"command" "OpenServerBrowser"
-"subimage" "glyph_server_browser"
-"OnlyInGame" "1"
 }
 "DemoUIButton"
 {

@@ -1,13 +1,15 @@
+#base "HudMedicCharge_chargemeter.res"
+
 "Resource/UI/HudMedicCharge.res" 
 {
 "ChargeLabel" 
 {
 "ControlName" "CExLabel"
 "fieldName" "ChargeLabel"
-"xpos" "c104"
+"xpos" "c90"
 "ypos" "310"//407
-"xpos_minmode" "c84"
-"ypos_minmode" "385"
+"xpos_minmode" "c75"
+"ypos_minmode" "380"
 "zpos" "3"
 "wide" "150"
 "tall" "50"
@@ -66,13 +68,15 @@
 "font" "LatoBlack50"
 "fgcolor" "QHUDChargeLabel"
 }
+	// vaccinator
 	"ResistIconAnchor"
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"ResistIconAnchor"
-		"xpos"			"c104"//70
+		"xpos"			"c90"//70
+		"xpos_minmode"	"c75"
 		"ypos"			"325"//310
-		"ypos_minmode"	"385"
+		"ypos_minmode"	"380"
 		"wide"			"30"
 		"tall"			"30"
 		"visible"		"1"
@@ -117,26 +121,7 @@
 		"brighttext"	"0"
 		"font"			"LatoBlack50"
 	}
-	"ChargeMeter"
-	{	
-		"ControlName"	"ContinuousProgressBar"
-		"fieldName"		"ChargeMeter"
-		"font"			"Default"
-		"xpos"			"0"
-		"ypos"			"r6"		//r8
-		"zpos"			"12"
-		"wide"			"f0"
-		"tall"			"7"			//9	
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"textAlignment"	"Left"
-		"bgcolor_override" "0 0 0 214"
-		"fgcolor_override" "White"
-		"dulltext"		"0"
-		"brighttext"	"0"
-	}
+	// charge meters
 	"ChargeMeter1"
 	{	
 		"ControlName"	"ContinuousProgressBar"

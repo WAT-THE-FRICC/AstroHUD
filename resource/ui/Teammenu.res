@@ -416,7 +416,7 @@
 }
 "RandomFrame" 
 {
-"ControlName" "CTFImagePanel"
+"ControlName" "ImagePanel"
 "fieldName" "RandomFrame"
 "xpos" "c-120"
 "ypos" "212"
@@ -436,7 +436,7 @@
 }
 "SpectateFrame" 
 {
-"ControlName" "CTFImagePanel"
+"ControlName" "ImagePanel"
 "fieldName" "SpectateFrame"
 "xpos" "9422"
 "ypos" "9212"

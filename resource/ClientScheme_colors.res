@@ -11,6 +11,7 @@
 		// you can also customize the button colors in the section below
 		"G_Highlight" "244 67 54 255"
 		"G_Highlight_menuline" "193 0 55 255" // lines on main menu
+		"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
 		
 		"BlueTeamColor"		"33 150 243 255"
 		"RedTeamColor"		"244 67 54 255"
@@ -38,15 +39,21 @@
 		"QHUDAmmoLowClip" "255 0 0 255"
 		"QHUDAmmoLowReserve" "255 49 49 255"
 		
-		// buttons
+        // buttons
 		"ButtonBG"              "48 48 48 255"       //Standard button color
-        "ButtonBGArmed"         "0 200 0 255"       //Armed BG color
-        "ButtonBGSelect"        "18 18 18 0"          //Loadout preset
+        "ButtonBGSelect"        "18 18 18 255"          // idk what this does
         "ButtonFont"            "235 235 235 255"          //Font color
         "ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
         "ButtonFontSelect"      "255 255 255 255"       //Highlighted font color
+        
+        // misc
+        "ya_HudBG"                "50 50 50 200"             //Scoreboard, winpanel, item meters
+		"ya_MenuBG" 				"48 48 48 255"			//
+	
+		// idk where everything after this are used
+		// so don't edit anything below this line
+		// (unless you know what you are doing)
 		
-		// idk where these are used
 		"QHUDSmallBarHigh" "6 146 255 255"
 		"QHUDSmallBarNormal" "0 0 0 0"
 		"QHUDSmallBarLow" "255 49 49 255"
@@ -213,7 +220,7 @@
 		
 		//// SCOREBOARD, WINPANEL AND TARGETID ////
         
-        "ya_HudBG"                "50 50 50 175"             //Scoreboard, winpanel, item meters
+        
         
         "ya_NameLongBG"			"227 227 227 0"            //TargetID background
         "ya_NameBG"				"227 227 227 255"          //for fl
@@ -268,7 +275,7 @@
 		
 		//// game menus
 		
-        "ya_MenuBG" 				"48 48 48 255"			//
+        
         
 		"ya_MenuHi"					"227 227 227 255"		//Selcted Tab
 		"ya_MenuMid"				"127 127 127 255"		

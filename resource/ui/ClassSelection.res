@@ -697,7 +697,7 @@
 	}
 	"MenuBackground"
 	{
-		"ControlName"	"CTFImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"MenuBackground"
 		"xpos"			"c-170"
 		"ypos"			"c-5"

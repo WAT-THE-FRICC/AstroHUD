@@ -407,7 +407,7 @@ if_mvm
 }
 "ShadedBarScoreboard" 
 {
-"ControlName" "ScalableImagePanel"
+"ControlName" "ImagePanel"
 "fieldName" "ShadedBarScoreboard"
 "xpos" "c-250"
 "ypos" "400" //345"

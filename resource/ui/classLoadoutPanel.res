@@ -301,8 +301,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"paintbackground"	"1"
-		"bgcolor_override" "ya_MenuBG"
+		"paintbackground"	"0"
+		"bgcolor_override" "0 0 0 0"
 	}
 	
 	"PresetsExplanation"

@@ -2,7 +2,7 @@
 {
 	"MainBackground"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"MainBackground"
 		"xpos"			"1"
 		"xpos_hidef"	"14"

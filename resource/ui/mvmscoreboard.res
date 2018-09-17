@@ -73,18 +73,18 @@
 	
 	"PlayerListBackground"
 	{
-		"ControlName"	"ScalableImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerListBackground"
 		"xpos"			"c-300"
 		"ypos"			"75"
 		"zpos"			"-1"
 		"wide"			"600"
-		"tall"			"296"
-		"visible"		"0"
-		"enabled"		"0"
-		"image"			"../hud/tournament_panel_brown"
-
-		"paintborder"		"1"
+		"tall"			"210"
+		"visible"		"1"
+		"enabled"		"1"
+		//"image"			"../hud/tournament_panel_brown"
+		"fillcolor" "yA_HudBG"
+		//"paintborder"		"0"
 		//"border"			"G_TargetBorder"
 		
 		"scaleImage"		"1"
@@ -129,7 +129,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"autoresize"	"3"
-		"linespacing"	"22"
+		"linespacing"	"15"
 		"textcolor"		"White"
 	}
 	

@@ -134,7 +134,7 @@
 
 "BG2"
 	{
-		"ControlName"	"ScalableImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"BG2"
 		"xpos"			"32"
 		"ypos"			"70"

@@ -912,6 +912,7 @@ HudKothTimeStatus
 "xpos" "c-125"
 "ypos" "-10"
 "ypos_lodef" "75"
+"zpos" "3"
 "wide" "250"
 "tall" "80"
 }

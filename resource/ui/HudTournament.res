@@ -347,12 +347,12 @@
 		"fieldName"		"BlueBG"
 		"xpos"			"c-125"
 		"ypos"			"15"
-		"zpos"			"-1"
+		"zpos"			"-10"
 		"wide"			"123"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"BlueTeam"
+		"fillcolor"		"HUDBlueTeam"
 
 		if_competitive
 		{
@@ -437,12 +437,12 @@
 		"fieldName"		"RedBG"
 		"xpos"			"c2"
 		"ypos"			"15"
-		"zpos"			"-1"
+		"zpos"			"-10"
 		"wide"			"123"
 		"tall"			"18"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"RedTeam"
+		"fillcolor"		"HUDRedTeam"
 
 		if_competitive
 		{

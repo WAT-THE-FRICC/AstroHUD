@@ -2,7 +2,7 @@
 {
 "AstroHUDVersionLabel"
 {
-"label" "version 1.1"
+"label" "version 1.1.1"
 //"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" ""

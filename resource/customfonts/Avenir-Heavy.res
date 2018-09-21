@@ -30,10 +30,12 @@
 			"1"
 			{
 				"name" "AvenirLTStd-Heavy-edited"
+				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro32"
@@ -41,10 +43,12 @@
 			"1"
 			{
 				"name" "AvenirLTStd-Heavy-edited"
+				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro24"
@@ -52,10 +56,12 @@
 			"1"
 			{
 				"name" "AvenirLTStd-Heavy-edited"
+				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
   

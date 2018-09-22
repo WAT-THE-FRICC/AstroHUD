@@ -2,7 +2,7 @@
 {
 "AstroHUDVersionLabel"
 {
-"label" "version 1.1.1"
+"label" "version 1.1.2"
 //"actionsignallevel"	"2"
 "Command"		"find_game"
 "subimage" ""
@@ -34,6 +34,20 @@
 "label" "hud_reloadscheme"
 "command" "engine hud_reloadscheme"
 "subimage" "glyph_tv"
+}
+"RecordFixButton"
+{
+"label" "record fix;"
+"command" "engine record fix"
+"subimage" "glyph_tv"
+"OnlyInGame" "1"
+}
+"StopRecordButton"
+{
+"label" "stop"
+"command" "engine stop"
+"subimage" "glyph_tv"
+"OnlyInGame" "1"
 }
 "VRModeButton"
 {

@@ -66,22 +66,24 @@
  		"font" "resource/customfonts/AvenirLTStd-Heavy-edited.otf"
  		"name" "AvenirLTStd-Heavy-edited"
  		}
- 		"12"
- 		{
- 		"font" "resource/customfonts/Cerbetica.ttf"
- 		"name" "Cerbetica"
- 		}
  		"15"
  		{
- 		"font" "resource/customfonts/Cerbetica_bold.ttf"
- 		"name" "Cerbetica Bold"
+ 		"font" "resource/customfonts/Cerbetica.ttf" [!$OSX]
+		"font" "resource/customfonts/Cerbetica_edited_mac.ttf" [$OSX]
+ 		"name" "Cerbetica"
  		}
  		"16"
+ 		{
+ 		"font" "resource/customfonts/Cerbetica_bold.ttf" [!$OSX]
+		"font" "resource/customfonts/Cerbetica_mac.ttf" [$OSX]
+ 		"name" "Cerbetica Bold"
+ 		}
+ 		"17"
  		{
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
- 		"17"
+ 		"18"
  		{
  		"font" "resource/customfonts/ToonHUD Hemi Head.ttf"
  		"name" "ToonHUDHemiHeadRg-BoldItalic"

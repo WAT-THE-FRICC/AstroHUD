@@ -29,8 +29,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited"
-				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -42,8 +42,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited"
-				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -55,8 +55,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited"
-				"name" "AvenirLTStd-Heavy" [!$WINDOWS]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"

@@ -29,7 +29,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +41,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -51,7 +53,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -64,7 +67,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +79,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +91,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +103,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -108,7 +115,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -119,7 +127,8 @@
 		{
 			"1"
 			{
-				"name" "Bahnschrift"
+				"name" "Bahnschrift" [$WINDOWS]
+				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

@@ -29,33 +29,36 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Open Sans Bold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro32"
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Open Sans Bold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro24"
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Open Sans Bold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
   
@@ -64,7 +67,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -75,7 +78,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -86,7 +89,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -97,7 +100,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -108,7 +111,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -119,7 +122,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Semibold"
+				"name" "Open Sans Semibold"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

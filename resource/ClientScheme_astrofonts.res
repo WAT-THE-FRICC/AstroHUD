@@ -6,11 +6,13 @@
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
 #base "customfonts/Avenir-Heavy.res"
+//#base "customfonts/Open-Sans.res"
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
 //#base "customfonts/Lato-Black.res"
+//#base "customfonts/Lato-Bold-budHUD.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Orbitron.res" // not fully supported yet
 //#base "customfonts/RaysHUD-Cerbetica.res"
@@ -46,11 +48,7 @@
  		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
  		"name" "DIN 1451 Mittelschrift"
  		}
- 		"8"
- 		{
- 		"font" "resource/customfonts/Lato-Black.ttf"
- 		"name" "Lato Black"
- 		}
+ 		
 		"9"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
@@ -80,10 +78,35 @@
  		}
  		"17"
  		{
+ 		"font" "resource/customfonts/OpenSans-Semibold.ttf"
+ 		"name" "Open Sans Semibold"
+ 		}
+		"18"
+ 		{
+ 		"font" "resource/customfonts/OpenSans-Bold.ttf"
+ 		"name" "Open Sans Bold"
+ 		}
+		"19"
+ 		{
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
- 		"18"
+		"20"
+ 		{
+ 		"font" "resource/customfonts/Lato-Black.ttf"
+ 		"name" "Lato Black"
+ 		}
+		"21"
+ 		{
+ 		"font" "resource/customfonts/Lato-Bold.ttf"
+ 		"name" "Lato Bold"
+ 		}
+		"22"
+ 		{
+ 		"font" "resource/customfonts/Lato-Semibold.ttf"
+ 		"name" "Lato Semibold"
+ 		}
+ 		"25"
  		{
  		"font" "resource/customfonts/ToonHUD Hemi Head.ttf"
  		"name" "ToonHUDHemiHeadRg-BoldItalic"

@@ -726,7 +726,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "c-133"
-"ypos" "270"
+"ypos" "c125"
 "wide" "266"
 "tall" "120"
 }

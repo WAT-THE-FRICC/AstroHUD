@@ -29,7 +29,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Lato Bold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +40,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Lato Bold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -51,7 +51,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Black"
+				"name" "Lato Bold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"

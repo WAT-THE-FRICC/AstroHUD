@@ -1112,8 +1112,8 @@ HudKothTimeStatus
 "fieldName" "HudMenuTauntSelection"
 "visible" "1"
 "enabled" "1"
-"xpos" "r200"//c-235
-"ypos" "30"//c-42
+"xpos" "r150"//c-235
+"ypos" "c-110"//c-42
 "zpos" "1"
 "wide" "200"
 "tall" "470"

@@ -1,20 +1,18 @@
 #base "hudinspectpanel.res"
 
-#base "../../default/resource/ui/spectatortournament.res"
-
 "Resource/UI/SpectatorTournament.res"
 {
 	"specgui"
 	{
 		"team1_player_base_offset_x"		"0"
 		"team1_player_base_x"				"4"
-		"team1_player_base_y"				"217"
+		"team1_player_base_y"				"300"
 		"team1_player_delta_x"				"0"
 		"team1_player_delta_y"				"-18"
 		
 		"team2_player_base_offset_x"		"0"
 		"team2_player_base_x"				"4"
-		"team2_player_base_y"				"247"
+		"team2_player_base_y"				"319"
 		"team2_player_delta_x"				"0"
 		"team2_player_delta_y"				"18"
 		
@@ -286,9 +284,18 @@
 	}
 	"BottomBar"
 	{
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"bottombarblank"
 	{
+		"ControlName"		"Panel"
+		"fieldName"		"bottombarblank"
+		"ypos"			"480"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 	}
 	"ReinforcementsLabel"
 	{

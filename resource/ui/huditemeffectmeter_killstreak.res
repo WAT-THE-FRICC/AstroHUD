@@ -121,7 +121,7 @@
 "fieldName" "ItemEffectMeterCount"
 "xpos" "c-165" //c-136
 "xpos_minmode" "c-140"
-"ypos" "352" //365
+"ypos" "350" //365
 "ypos_minmode" "369" 
 "zpos" "2"
 "wide" "50"
@@ -144,7 +144,7 @@
 "fieldName" "KillStreakIcon"
 "xpos" "c-110"//-114
 "xpos_minmode" "c-90"
-"ypos" "357"//369
+"ypos" "355"//369
 "ypos_minmode" "370"
 "zpos" "12"
 "wide" "16"

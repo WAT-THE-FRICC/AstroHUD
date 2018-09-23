@@ -71,12 +71,12 @@
 		"fieldName"		"summaryLabel"
 		"font"			"TFFontMedium"
 		"font_lodef"		"HudFontSmall"
-		"xpos"			"0"
+		"xpos"			"40"
 		"xpos_lodef"	"100"
 		"ypos"			"35"
 		"ypos_lodef"	"45"
 		"zpos"			"2"
-		"wide"			"266"
+		"wide"			"226"
 		"wide_lodef"	"280"
 		"tall"			"40"
 		"tall_lodef"	"40"
@@ -88,7 +88,7 @@
 		"textAlignment"		"center"
 		"dulltext"		"0"
 		"brighttext"		"0"
-		//"wrap"			"1"
+		"wrap"			"1"
 	}
 	"StatLabelLarge"
 	{	

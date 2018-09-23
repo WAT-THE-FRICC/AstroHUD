@@ -3,6 +3,7 @@
 #base "engineer_metal.res"
 #base "building_status.res"
 #base "hudchat.res"
+#base "targetid_layout.res"
 
 "Resource/HudLayout.res" 
 {
@@ -240,45 +241,19 @@ HudKothTimeStatus
 "wide" "f0"
 "tall" "480"
 }
-"CMainTargetID" 
-{
-"fieldName" "CMainTargetID"
-"visible" "1"
-"enabled" "1"
-"xpos" "0"
-"ypos" "0"
-"wide" "f0"
-"tall" "314"
-"priority" "40"
-}
 "CSpectatorTargetID" 
 {
 "fieldName" "CSpectatorTargetID"
 "visible" "1"
 "enabled" "1"
 "xpos" "0"
-"ypos" "0"
+"ypos" "20"
 "wide" "f0"
 "tall" "314"
 "priority" "40"
 "x_offset" "20"
 "y_offset" "20"
 }
-"CSecondaryTargetID" 
-{
-"fieldName" "CSecondaryTargetID"
-"visible" "1"
-"enabled" "1"
-"xpos" "0"
-"ypos" "82"//40
-"ypos_minmode" "42"
-"wide" "f0"
-"tall" "314"//388
-"priority" "35"
-"x_offset" "20"
-"y_offset" "20"
-}
-
 "HudMannVsMachineStatus" 
 {
 "fieldName" "HudMannVsMachineStatus"
@@ -612,10 +587,10 @@ HudKothTimeStatus
 "dead_tall" "16"
 "show_voice_icon" "1"
 "icon_ypos" "0"
-"icon_xpos" "15"
+"icon_xpos" "10"
 "icon_tall" "16"
 "icon_wide" "16"
-"text_xpos" "33"
+"text_xpos" "46"
 }
 "HudHintDisplay" 
 {
@@ -727,6 +702,7 @@ HudKothTimeStatus
 "enabled" "1"
 "xpos" "c-133"
 "ypos" "c125"
+"zpos" "1"
 "wide" "266"
 "tall" "120"
 }

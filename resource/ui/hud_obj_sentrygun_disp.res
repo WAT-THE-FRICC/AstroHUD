@@ -1,4 +1,4 @@
-"Resource/UI/hud_obj_sapper.res"
+"Resource/UI/hud_obj_sentrygun_disp.res"
 {
 	"BuildingStatusItem"
 	{
@@ -6,8 +6,8 @@
 		"fieldName"		"BuildingStatusItem"
 		"xpos"			"0"
 		"ypos"			"0"
-		"wide"			"150"
-		"tall"			"31"
+		"wide"			"160"
+		"tall"			"22"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -31,18 +31,18 @@
 		"iconColor"		"0 0 0 0"
 	}
 	
-	"Icon"
+	"Icon_Sentry_1"
 	{
 		"ControlName"	"CIconPanel"
-		"fieldName"		"Icon"
-		"xpos"			"24"
+		"fieldName"		"Icon_Sentry_1"
+		"xpos"			"30"
 		"ypos"			"1"
-		"wide"			"28"
-		"tall"			"28"
+		"wide"			"15"
+		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
-		"icon"			"obj_status_sapper"
+		"icon"			"obj_status_sentrygun_1"
 		"iconColor"		"255 255 255 255"
 	}
 	
@@ -53,23 +53,23 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"160"
-		"tall"			"31"
+		"tall"			"20"
 		"visible"		"1"
 
 		"NotBuiltLabel"
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NotBuiltLabel"
-			"font"			"DefaultSmall"
+			"font"			"DefaultVerySmall"
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"200"
-			"tall"			"31"
+			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"0"
 			"enabled"		"0"
-			"labelText"		"#Building_hud_sapper_not_built"
+			"labelText"		"#Building_hud_disp_sentry_not_built"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -83,9 +83,9 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"160"
-		"tall"			"43"
+		"tall"			"20"
 		"visible"		"0"
-
+		
 		"BG" // blue or red stripe
 		{
 			"ControlName" "CTFImagePanel"
@@ -94,7 +94,7 @@
 			"ypos" "3"
 			"zpos" "-10"
 			"wide" "4"//
-			"tall" "27"
+			"tall" "16"
 			"autoResize" "0"
 			"pinCorner" "0"
 			"visible" "1"
@@ -114,24 +114,87 @@
 			"draw_corner_height" "0"
 		}
 		
+		"Icon_Upgrade_1"
+		{
+			"ControlName"	"CIconPanel"
+			"fieldName"		"Icon_Upgrade_1"
+			"xpos"			"46"
+			"ypos"			"4"
+			"zpos"			"1"
+			"wide"			"8"
+			"tall"			"8"
+			"visible"		"0"
+			"enabled"		"0"
+			"scaleImage"	"1"	
+			"icon"			""
+			"iconColor"		"255 255 255 255"
+		}
+	
+		"AlertTray"
+		{
+			"ControlName"	"CBuildingStatusAlertTray"
+			"fieldName"		"AlertTray"
+			"xpos"			"114"
+			"ypos"			"0"
+			"ypos"			"0"
+			"zpos"			"-2"
+			"wide"			"44"
+			"tall"			"30"
+			"visible"		"0"
+			"enabled"		"0"	
+			"icon"			"obj_status_alert_background_tall"
+		}
+		
+		"WrenchIcon"
+		{
+			"ControlName"	"CIconPanel"
+			"fieldName"		"WrenchIcon"
+			"xpos"			"121"
+			"ypos"			"18"
+			"zpos"			"1"
+			"wide"			"17"
+			"tall"			"17"
+			"visible"		"0"
+			"enabled"		"0"
+			"scaleImage"	"1"	
+			"icon"			"obj_status_icon_wrench"
+			"iconColor"		"255 255 255 255"
+		}
+		
+		"SapperIcon"
+		{
+			"ControlName"	"CIconPanel"
+			"fieldName"		"SapperIcon"
+			"xpos"			"117"
+			"ypos"			"12"
+			"zpos"			"1"
+			"wide"			"15"
+			"tall"			"15"
+			"visible"		"0"
+			"enabled"		"0"
+			"scaleImage"	"1"	
+			"icon"			"obj_status_icon_sapper"
+			"iconColor"		"255 255 255 255"
+		}
+		
 		"Health"
 		{	
 			"ControlName"	"CBuildingHealthBar"
 			"fieldName"		"Health"
 			"font"			"Default"
 			"xpos"			"13"
-			"ypos"			"2"
+			"ypos"			"4"
 			"wide"			"8"
-			"tall"			"24"
+			"tall"			"15"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"	"Left"
 			"dulltext"		"0"
-			"brighttext"	"0"
+			"brighttext"	"0"	
 		}
-
+		
 		"BuildingPanel"
 		{
 			"ControlName"	"EditablePanel"
@@ -139,7 +202,7 @@
 			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"100"
-			"tall"			"31"
+			"tall"			"30"
 			"visible"		"0"
 
 			"BuildingLabel"
@@ -148,7 +211,7 @@
 				"fieldName"		"BuildingLabel"
 				"font"			"DefaultSmall"
 				"xpos"			"0"
-				"ypos"			"5"
+				"ypos"			"18"
 				"wide"			"200"
 				"tall"			"12"
 				"autoResize"	"0"
@@ -167,7 +230,7 @@
 				"fieldName"		"BuildingProgress"
 				"font"			"Default"
 				"xpos"			"0"
-				"ypos"			"19"
+				"ypos"			"32"
 				"wide"			"50"
 				"tall"			"4"				
 				"autoResize"	"0"
@@ -179,41 +242,77 @@
 				"brighttext"	"0"
 			}
 		}
-	
+		
 		"RunningPanel"
 		{
 			"ControlName"	"EditablePanel"
 			"fieldName"		"RunningPanel"
-			"xpos"			"55"
+			"xpos"			"60"
 			"ypos"			"0"
 			"wide"			"100"
-			"tall"			"31"
+			"tall"			"20"
 			"visible"		"0"
 			
-			"TargetIcon"
+			"KillIcon"	
 			{
-				"ControlName"	"CIconPanel"
-				"fieldName"		"TargetIcon"
+				"ControlName"	"ImagePanel"
+				"fieldName"		"KillIcon"
 				"xpos"			"0"
 				"ypos"			"5"
-				"wide"			"20"
-				"tall"			"20"
+				"zpos"			"1"
+				"wide"			"10"
+				"tall"			"10"
+				"visible"		"0"
+				"enabled"		"0"
+				"scaleImage"	"1"
+				"image"			"../hud/hud_obj_status_kill_64"
+				"drawcolor"		"ProgressOffWhite"
+			}
+						
+			"KillsLabel"
+			{	
+				"ControlName"	"CExLabel"
+				"fieldName"		"KillsLabel"
+				"font"			"DefaultSmall"
+				"xpos"			"12"
+				"ypos"			"6"
+				"wide"			"200"
+				"tall"			"22"
+				"autoResize"	"0"
+				"pinCorner"		"0"
+				"visible"		"0"
+				"enabled"		"0"
+				"labelText"		"#Building_hud_sentry_kills_assists"
+				"textAlignment"	"north-west"
+				"dulltext"		"0"
+				"brighttext"	"0"
+			}
+					
+			"ShellIcon"	
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"ShellIcon"
+				"xpos"			"0"
+				"ypos"			"6"
+				"zpos"			"1"
+				"wide"			"10"
+				"tall"			"10"
 				"visible"		"1"
 				"enabled"		"1"
-				"scaleImage"	"1"	
-				"icon"			"obj_status_sentrygun_1"
-				"iconColor"		"255 255 255 255"
+				"scaleImage"	"1"
+				"image"			"../hud/hud_obj_status_ammo_64"
+				"drawcolor"		"ProgressOffWhite"
 			}
 			
-			"TargetHealth"
+			"Shells"
 			{	
 				"ControlName"	"ContinuousProgressBar"
-				"fieldName"		"TargetHealth"
+				"fieldName"		"Shells"
 				"font"			"Default"
-				"xpos"			"22"
-				"ypos"			"12"
-				"wide"			"35"
-				"tall"			"8"
+				"xpos"			"12"
+				"ypos"			"10"
+				"wide"			"36"
+				"tall"			"4"				
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"

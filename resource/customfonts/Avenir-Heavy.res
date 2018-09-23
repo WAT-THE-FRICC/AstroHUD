@@ -70,7 +70,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -81,7 +81,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -92,7 +92,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -103,7 +103,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -114,7 +114,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -125,7 +125,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Open Sans Semibold"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

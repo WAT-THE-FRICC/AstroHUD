@@ -7,15 +7,15 @@
 
 #base "customfonts/Avenir-Heavy.res"
 //#base "customfonts/Open-Sans.res"
+//#base "customfonts/Montserrat.res"
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
 //#base "customfonts/Lato-Black.res"
 //#base "customfonts/Lato-Bold-budHUD.res"
-//#base "customfonts/Montserrat.res"
-//#base "customfonts/Orbitron.res" // not fully supported yet
 //#base "customfonts/RaysHUD-Cerbetica.res"
+//#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
 

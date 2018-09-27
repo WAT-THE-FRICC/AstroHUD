@@ -212,6 +212,7 @@ HudKothTimeStatus
 {
 "ControlName" "Label"
 "fieldName" "BuildingAnchor"
+"labelText" ""
 "xpos" "-10"
 "ypos" "135"
 "zpos" "0"

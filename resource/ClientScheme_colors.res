@@ -22,8 +22,8 @@
 		"HUDRedTeamSolid" "244 67 54 255"
 		
 		// main colors
-		"QHUDOverheal" "80 255 255 255"
-		"QHUDNormal" "9 222 98 255"
+		"QHUDOverheal" "0 200 255 255"
+		"QHUDNormal" "0 170 127 255"
 		"QHUDLow" "255 100 0 255"
 		"QHUDLowFlash" "255 0 0 255"
 		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"
@@ -33,8 +33,8 @@
 		"QHUDMedicCharge2" "19 165 12 255"
 		"QHUDChargeMeterFG" "255 255 255 255"
 		"QHUDChargeMeterBG" "0 0 0 170"
-		"QHUDChargeLabel" "80 255 255 255"
-		"QHUDAmmoInClip" "80 255 255 255"
+		"QHUDChargeLabel" "0 200 255 255"
+		"QHUDAmmoInClip" "0 200 255 255"
 		"QHUDAmmoInReserve" "255 255 255 255"
 		"QHUDAmmoLowClip" "255 0 0 255"
 		"QHUDAmmoLowReserve" "255 49 49 255"

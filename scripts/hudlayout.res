@@ -85,18 +85,18 @@
 "tall" "480"
 }
 HudKothTimeStatus
-	{
-		"fieldName" "HudKothTimeStatus"
-		"visible" "1"
-		"enabled" "1"
-		"xpos"	    "c-100"
-		"ypos"	"0"
-		"wide"	"f0"
-		"tall"	"480"
-		
-		"blue_active_xpos"			"24"
-		"red_active_xpos"			"128"
-	}	
+{
+	"fieldName" "HudKothTimeStatus"
+	"visible" "1"
+	"enabled" "1"
+	"xpos"	    "c-100"
+	"ypos"	"0"
+	"wide"	"f0"
+	"tall"	"480"
+	
+	"blue_active_xpos"			"24"
+	"red_active_xpos"			"128"
+}
 "HudItemEffectMeter" 
 {
 "fieldName" "HudItemEffectMeter"
@@ -207,6 +207,48 @@ HudKothTimeStatus
 "SelectedBoxClor" "0 0 0 220"
 "SelectionNumberFg" "200 187 161 255"
 "NumberFont" "HudSelectionText"
+}
+"BuildingAnchor"
+{
+"ControlName" "Label"
+"fieldName" "BuildingAnchor"
+"xpos" "-10"
+"ypos" "135"
+"zpos" "0"
+"wide" "f0"
+"tall" "480"
+"visible" "1"
+"enabled" "1"
+}
+"BuildingStatus_Spy" 
+{
+"fieldName" "BuildingStatus_Spy"
+"visible" "1"
+"enabled" "1"
+"xpos" "0"
+"ypos" "0"//200"
+"wide" "640"
+"tall" "480"
+"PaintBackgroundType" "2"
+
+"pin_to_sibling" "BuildingAnchor"
+"pin_corner_to_sibling" "PIN_CENTERTOP"
+"pin_to_sibling_corner" "PIN_CENTERTOP"
+}
+"BuildingStatus_Engineer" 
+{
+"fieldName" "BuildingStatus_Engineer"
+"visible" "1"
+"enabled" "1"
+"xpos" "0"//-10"
+"ypos" "0"//135"
+"wide" "640"
+"tall" "480"
+"PaintBackgroundType" "2"
+
+"pin_to_sibling" "BuildingAnchor"
+"pin_corner_to_sibling" "PIN_CENTERTOP"
+"pin_to_sibling_corner" "PIN_CENTERTOP"
 }
 "CHealthAccountPanel" 
 {

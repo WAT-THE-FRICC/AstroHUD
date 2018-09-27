@@ -1517,6 +1517,7 @@
 "paintbackground" "1"
 "paintbackgroundenabled" "1"
 "bgcolor_override" "255 255 255 0"
+"render_texture"	"0"
 "model" 
 {
 "force_pos" "1"

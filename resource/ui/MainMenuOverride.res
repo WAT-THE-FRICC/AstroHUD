@@ -1,5 +1,9 @@
 "Resource/UI/MainMenuOverride.res" 
 {
+"DashboardDimmer"
+{
+"tall" "480"
+}
 "TF2Logo" 
 {
 	"ControlName" "EditablePanel"

@@ -208,6 +208,7 @@ HudKothTimeStatus
 "SelectionNumberFg" "200 187 161 255"
 "NumberFont" "HudSelectionText"
 }
+//http://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers/?page=179#5352
 "BuildingAnchor"
 {
 "ControlName" "Label"

@@ -5,7 +5,8 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-#base "customfonts/Avenir-Heavy.res"
+#base "customfonts/Avenir-Black.res"
+//#base "customfonts/Avenir-Heavy.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Bahnschrift-Win10only.res"
@@ -63,6 +64,11 @@
  		{
  		"font" "resource/customfonts/AvenirLTStd-Heavy-edited.otf"
  		"name" "AvenirLTStd-Heavy-edited"
+ 		}
+		"12"
+ 		{
+ 		"font" "resource/customfonts/AvenirLTStd-Black.ttf"
+ 		"name" "AvenirLTStd-Black"
  		}
  		"15"
  		{

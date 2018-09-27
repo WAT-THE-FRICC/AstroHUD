@@ -1,4 +1,4 @@
-// guessing this is loose cannon
+// sticky/loose cannon
 "Resource/UI/HudDemomanCharge.res" 
 {
 "ChargeMeter" 

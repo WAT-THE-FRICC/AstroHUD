@@ -1,13 +1,5 @@
 "GameMenu"
 {
-"AstroHUDVersionLabel"
-{
-"label" "version 1.2"
-//"actionsignallevel"	"2"
-"Command"		"find_game"
-"subimage" ""
-"OnlyAtMenu" "1"
-}
 "ResumeGameButton"
 {
 "label" "#MMenu_ResumeGame"
@@ -56,39 +48,29 @@
 "subimage" "glyph_vr"
 "OnlyWhenVREnabled" "1"
 }
-"TrainingButton"
-{
-"label" "Training"
-"command" "offlinepractice"
-"subimage" "glyph_practice"
-"OnlyAtMenu" "1"
-}
-"CreateServerButton"
-{
-"label" "#MMenu_PlayList_CreateServer_Button"
-"command" "OpenCreateMultiplayerGameDialog"
-"OnlyAtMenu" "1"
-}
 "CharacterSetupButton"
 {
-"label" "#Store_Items"
+"label" ""
 "command" "engine open_charinfo"
 "subimage" "glyph_items"
 }
 "MutePlayersButton"
-	{
-		"label"			"#MMenu_MutePlayers"
-		"command"		"OpenPlayerListDialog"
-		"OnlyInGame"	"1"
-		"subimage" "glyph_muted"
-		"tooltip" "#MMenu_MutePlayers"
-	}
+{
+	"label" ""
+	//"label"			"#MMenu_MutePlayers"
+	"command"		"OpenPlayerListDialog"
+	"OnlyInGame"	"1"
+	"subimage" "glyph_muted"
+	"tooltip" "#MMenu_MutePlayers"
+}
 "CallVoteButton"
 {
-"label" "#MMenu_CallVote"
-"command" "callvote"
-"OnlyInGame" "1"
-"subimage" "icon_checkbox"
+	"label" ""
+	//"label" "#MMenu_CallVote"
+	"tooltip" "#MMenu_CallVote"
+	"command" "callvote"
+	"OnlyInGame" "1"
+	"subimage" "icon_checkbox"
 }
 "RequestCoachButton"
 {
@@ -117,10 +99,7 @@
 //"MMenu_Tooltip_AdvOptions"		"Advanced Options"
 "SettingsButton"
 {
-	"tooltip"	""
-}
-"TF2SettingsButton"
-{
+	"label" ""
 	"tooltip"	""
 }
 }

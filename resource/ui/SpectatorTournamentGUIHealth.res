@@ -31,7 +31,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"Size 16"
-		"fgcolor"		"HealthColor"
+		"fgcolor"		"QHUDNormal"
 	}
 	"PlayerStatusHealthValue2"
 	{

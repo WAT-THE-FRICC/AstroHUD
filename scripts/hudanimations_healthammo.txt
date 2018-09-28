@@ -9,14 +9,14 @@ event HudHealthBonusPulse
 	RunEvent HudHealthBonusPulseLoop	0.4
 
 	Animate PlayerStatusHealthvalue FgColor "QHUDOverheal" Accel 0.0 0.0
-	Animate SpectatorStatusHealthvalue FgColor "QHUDOverheal" Accel 0.0 0.0
+	//Animate SpectatorStatusHealthvalue FgColor "QHUDOverheal" Accel 0.0 0.0
 
     Animate	HealthBG 	    BgColor		"QHUDOverhealBar"	Accel 0.0 0.0
     Animate	HealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
-    Animate	TargetHealthBG 	    BgColor		"QHUDSmallBarHigh"	Accel 0.0 0.0
-    Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    Animate	TargetHealthBG 	    BgColor		"QHUDOverheal"	Accel 0.0 0.0
+    Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.0//.3
+    Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
 
 }
 
@@ -32,12 +32,12 @@ event HudHealthBonusPulseStop
 	StopEvent HudHealthBonusPulseLoop 0.0
 
 	Animate PlayerStatusHealthvalue fgcolor "QHUDNormal" accel 0.0 0.0
-	Animate SpectatorStatusHealthvalue FgColor "QHUDNormal" Accel 0.0 0.0
+	//Animate SpectatorStatusHealthvalue FgColor "QHUDNormal" Accel 0.0 0.0
 
     Animate	HealthBG 	     BgColor		"QHUDBlank"	       Accel 0.0 0.0
     Animate	HealthBG 	     Alpha		    "255"		       Accel 0.0 0.0
-    Animate	TargetHealthBG 	     BgColor		"QHUDSmallBarNormal"	       Accel 0.0 0.0
-    Animate	TargetHealthBG 	     Alpha		    "255"		       Accel 0.0 0.0
+    Animate	TargetHealthBG 	     BgColor		"Blank"	       Accel 0.0 0.0
+    //Animate	TargetHealthBG 	     Alpha		    "255"		       Accel 0.0 0.0
 
 }
 
@@ -54,14 +54,14 @@ event HudHealthDyingPulse
 	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.15 0.0
 	//Animate SpectatorStatusHealthvalue FgColor "QHUDLowFlash" Accel 0.0 0.0
 	//Animate SpectatorStatusHealthvalue FgColor "255 255 255 255" linear 0.075 0.0
-	Animate SpectatorStatusHealthvalue FgColor "QHUDLow" Accel 0.0 0.0
+	////Animate SpectatorStatusHealthvalue FgColor "QHUDLow" Accel 0.0 0.0
 
     //Animate	HealthBG 	    BgColor		"QHUDLowBar"	    Accel 0.0 0.0
     //Animate	HealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	//Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
-    //Animate	TargetHealthBG 	    BgColor		"QHUDSmallBarLow"	    Accel 0.0 0.0
+    //Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    Animate	TargetHealthBG 	    BgColor		"QHUDLow"	    Accel 0.0 0.0
     //Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-	//Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    //Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6
 
 	RunEvent HudHealthDyingPulseLoop	1
 }
@@ -78,12 +78,12 @@ event HudHealthDyingPulseStop
 	StopEvent HudHealthDyingPulseLoop 0.0
 
 	Animate PlayerStatusHealthvalue fgcolor "QHUDNormal" accel 0.0 0.0
-	Animate SpectatorStatusHealthvalue FgColor "QHUDNormal" Accel 0.0 0.0
+	//Animate SpectatorStatusHealthvalue FgColor "QHUDNormal" Accel 0.0 0.0
 
     Animate	HealthBG 	     BgColor		"QHUDBlank"	    Accel 0.0 0.0
     Animate	HealthBG 	     Alpha		    "255"		    Accel 0.0 0.0
-    Animate	TargetHealthBG 	     BgColor		"QHUDSmallBarNormal"	    Accel 0.0 0.0
-    Animate	TargetHealthBG 	     Alpha		    "255"		    Accel 0.0 0.0
+    Animate	TargetHealthBG 	     BgColor		"Blank"	    Accel 0.0 0.0
+    //Animate	TargetHealthBG 	     Alpha		    "255"		    Accel 0.0 0.0
 }
 
 //--------------------------------------------------------------------------

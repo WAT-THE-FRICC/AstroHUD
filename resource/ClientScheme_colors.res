@@ -22,8 +22,8 @@
 		"HUDRedTeamSolid" "244 67 54 255"
 		
 		// main colors
-		"QHUDOverheal" "0 200 255 255"
 		"QHUDNormal" "0 170 127 255"
+		"QHUDOverheal" "0 200 255 255"
 		"QHUDLow" "255 100 0 255"
 		"QHUDLowFlash" "255 0 0 255"
 		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"

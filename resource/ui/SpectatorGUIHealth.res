@@ -64,14 +64,15 @@
 "xpos" "0"
 "ypos" "0"
 "zpos" "7"
-"wide" "f0"
-"tall" "480"
+"wide" "30"
+"tall" "10"
 "visible" "1"
 "enabled" "1"
 "labeltext" "%Health%"
-"textAlignment" "north-west"
+"textAlignment" "center"
 "font" "Secondary18"
-"fgcolor_override" "SpecHealthNormal"
+//"fgcolor_override" "QHUDNormal"
+"fgcolor_override" "255 255 255 255"
 }
 "PlayerStatusPlayerLevel" 
 {
@@ -89,4 +90,21 @@
 "font" "ScoreboardVerySmall"
 "fgcolor" "TFOrange"
 }
+"TargetHealthBG"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"TargetHealthBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"30"
+		"tall"			"11"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"defaultbgcolor_override"	"Blank"
+		"PaintBackgroundType"	"0"
+        "textinsety" 	"99"
+	}
 }

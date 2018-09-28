@@ -293,7 +293,7 @@ HudKothTimeStatus
 "xpos" "0"
 "ypos" "310"
 "wide" "f0"
-"tall" "21"
+"tall" "17"
 "priority" "40"
 "x_offset" "20"
 "y_offset" "20"

@@ -31,7 +31,7 @@
 		"pinCorner" "0"
 		"visible" "1"
 		"enabled" "1"
-		"fillcolor" "yA_menuBG"
+		"fillcolor" "30 30 30 200"
 	}
 	"MainMenuBGLINE1" 
 	{

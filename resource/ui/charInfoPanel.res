@@ -114,10 +114,10 @@
 		"xpos"			"0"
 		"ypos"			"420"
 		"zpos"			"-5"
-		"wide"			"f0"
+		"wide"			"0"
 		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"
 	}

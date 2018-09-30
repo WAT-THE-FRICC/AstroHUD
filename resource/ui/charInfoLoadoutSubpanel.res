@@ -17,7 +17,7 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"paintbackground" "1"
+		"paintbackground" "0"
 		"bgcolor_override"	            "yA_MenuBG"
 		"infocus_bgcolor_override"      "yA_MenuBG"
 		"outoffocus_bgcolor_override"   "yA_MenuBG"

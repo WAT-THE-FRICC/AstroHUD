@@ -1,4 +1,4 @@
-"Resource/HudLayout.res"
+"Resource/ui/HudAmmoWeapons.res"
 {
 	"KnucklesCrosshair"
 	{

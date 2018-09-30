@@ -1,4 +1,4 @@
-
+#base "../../scripts/crosshairs.res"
 
 "Resource/UI/HudAmmoWeapons.res" 
 {

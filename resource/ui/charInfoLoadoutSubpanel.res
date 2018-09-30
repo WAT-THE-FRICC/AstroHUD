@@ -1,3 +1,4 @@
+#base "charbackground.res"
 "Resource/UI/CharInfoLoadoutSubPanel.res"
 {
 	"CharInfoLoadoutSubPanel"
@@ -6,6 +7,7 @@
 		"fieldName"		"CharInfoLoadoutSubPanel"
 		"xpos"			"0"
 		"ypos"			"40"
+		"zpos" "-201"
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"0"
@@ -15,9 +17,10 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	            "ya_MenuBG"
-		"infocus_bgcolor_override"      "ya_MenuBG"
-		"outoffocus_bgcolor_override"   "ya_MenuBG"
+		"paintbackground" "0"
+		"bgcolor_override"	            "0 0 0 0"
+		"infocus_bgcolor_override"      "0 0 0 0"
+		"outoffocus_bgcolor_override"   "0 0 0 0"
 		
 		"selectlabely_default"		"25"
 		"selectlabely_onchanges"	"15"
@@ -34,6 +37,7 @@
 		"itemcountcolor"			"ya_MenuHi"
 		"itemcountcolor_noitems"	"114 114 114 255"
 	}
+	
 	"CatalogCover"		//covers catalog number
 	{
 		"ControlName"	"ImagePanel"
@@ -41,7 +45,7 @@
 		"xpos"			"0"	
 		"ypos"			"340"
 		"zpos"			"200"
-		"wide"			"f0"
+		"wide"			"0"
 		"tall"			"100"
 		"fillcolor"		"ya_MenuBG"
 		"visible"		"1"
@@ -306,7 +310,7 @@
 		//"armedFgColor_override" "ya_MenuHi"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
-		"armedBgColor_override" "ya_MenuBG"
+		"armedBgColor_override" "0 0 0 0"
 		//"armedBgColor_override" "ButtonBGArmed"
 	}	
 	"ShowBackpackLabel"
@@ -459,7 +463,7 @@
 		//"armedFgColor_override" "ya_MenuHi"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
-		"armedBgColor_override" "ya_MenuBG"
+		"armedBgColor_override" "0 0 0 0"
 		//"armedBgColor_override" "ButtonBGArmed"
 	}	
 	"ShowTradeLabel"

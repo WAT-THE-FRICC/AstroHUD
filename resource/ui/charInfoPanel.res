@@ -32,6 +32,50 @@
 		"sheetinset_bottom"				"40"
 	}
 	
+	"Background" 
+	{
+		"ControlName" "ScalableImagePanel"
+		//"ControlName" "ImagePanel"
+		"fieldName" "Background"
+		"xpos" "0"
+		//"xpos" "178" //cs-0.5"
+		"ypos" "-1"
+		"zpos" "-1"
+		//"wide" "0"
+		"wide" "f0"
+		"tall" "o1.0"
+		"visible" "1"
+		"enabled" "1"
+		"image" "background"
+		"scaleImage" "1"
+		//"fillcolor"		"yA_menuBG"
+		"if_wider" 
+		{
+		"wide" "f0"
+		"tall" "o1.0"
+		}
+		"if_taller" 
+		{
+		"wide" "o1.0"
+		"tall" "f0"
+		}
+		"SubImage" 
+		{
+			"ControlName" "ImagePanel"
+			"fieldName" "SubImage"
+			"xpos" "0"
+			"ypos" "0"
+			"zpos" "-1"
+			"wide" "f0"
+			"tall" "480"
+			"visible" "1"
+			"enabled" "1"
+			"fillcolor"		"0 0 0 75"
+			//"image" "glyph_create"
+			"scaleImage" "1"
+		}
+	}
+	
 	"BackgroundHeader"
 	{
 		"ControlName"	"ImagePanel"
@@ -82,17 +126,17 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundFooter2"
 		"xpos"			"0"
-		"ypos"			"430"       //"420"
+		"ypos"			"r60"       //"420"
 		"zpos"			"1"
 		"wide"			"f0"
-		"tall"			"50"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"pinCorner"		"0"
 		"autoResize"	"0"
 		"PaintBackgroundType"	"2"
 		"border"				"NoBorder"
-		"bgcolor_override"		"ya_MenuBG"
+		"bgcolor_override"		"panelBGtransparent"
 	}				
 	"FooterLine"
 	{
@@ -103,8 +147,8 @@
 			"zpos"			"7"
 			"wide"			"f0"
 			"tall"			"2"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"pinCorner"		"0"
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
@@ -135,11 +179,11 @@
             
 			"activeborder_override"	        "NoBorder"
 			"normalborder_override"         "NoBorder"
-			"defaultBgColor_override"		"ya_MenuBG"
-            "armedBgColor_override"		    "ya_MenuBG"
-            "SelectedBgColor_override"      "ya_MenuBG"
-			"unselectedBgColor_override"	"ya_MenuBG"
-			"depressedBgColor_override"		"ya_MenuBG"
+			"defaultBgColor_override"		"0 0 0 0"
+            "armedBgColor_override"		    "0 0 0 0"
+            "SelectedBgColor_override"      "0 0 0 0"
+			"unselectedBgColor_override"	"0 0 0 0"
+			"depressedBgColor_override"		"0 0 0 0"
 		}
 	}
 	
@@ -147,8 +191,8 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
-		"xpos"			"c-295"
-		"ypos"			"437"  //"437"
+		"xpos"			"20"
+		"ypos"			"r40"  //"437"
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"25"
@@ -163,6 +207,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"default"		"0"
+		"defaultbgcolor_override" "0 0 0 0"
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

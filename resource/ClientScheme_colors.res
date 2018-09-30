@@ -49,6 +49,7 @@
         // misc
         "ya_HudBG"                "50 50 50 200"             //Scoreboard, winpanel, item meters
 		"ya_MenuBG" 				"48 48 48 255"			//
+		"panelBGtransparent"		"30 30 30 200"
 	
 		// idk where everything after this are used
 		// so don't edit anything below this line

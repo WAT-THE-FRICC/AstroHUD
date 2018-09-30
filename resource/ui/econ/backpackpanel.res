@@ -1,3 +1,4 @@
+#base "../charbackground.res"
 "Resource/UI/FullLoadoutPanel.res"
 {
 	"backpack_panel"
@@ -14,9 +15,10 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"yA_MenuBG"
-		"infocus_bgcolor_override" "yA_MenuBG"
-		"outoffocus_bgcolor_override" "yA_MenuBG"
+		"paintbackground" "0"
+		"bgcolor_override"	"0 0 0 0"
+		"infocus_bgcolor_override" "0 0 0 0"
+		"outoffocus_bgcolor_override" "0 0 0 0"
 		
 		"item_xpos_offcenter_a"	"-310"
 		"item_xpos_offcenter_b"	"165"

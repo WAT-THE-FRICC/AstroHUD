@@ -1,3 +1,5 @@
+#base "charbackground.res"
+
 "Resource/UI/CraftingPanel.res"
 {
 	"crafting_panel"
@@ -16,9 +18,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"	"yA_MenuBG"
-		"infocus_bgcolor_override" "yA_MenuBG"
-		"outoffocus_bgcolor_override" "yA_MenuBG"
+		"bgcolor_override"	"0 0 0 0"
+		"infocus_bgcolor_override" "0 0 0 0"
+		"outoffocus_bgcolor_override" "0 0 0 0"
 
 		"item_ypos"						"85"
 		"output_item_ypos"				"255"		

@@ -1,3 +1,5 @@
+#base "charbackground.res"
+
 // player stats in the items panel
 "Resource/UI/winpanel.res"
 {
@@ -11,7 +13,7 @@
 		"tall"		"480"
 		"visible"	"0"
 		"enabled"	"1"
-		"bgcolor_override"	"yA_MenuBG"
+		"bgcolor_override"	"0 0 0 0"
 	}
 	"OnYourWayLabel" [$WINDOWS]
 	{

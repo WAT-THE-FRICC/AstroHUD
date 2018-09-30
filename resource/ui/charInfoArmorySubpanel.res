@@ -1,3 +1,5 @@
+#base "charbackground.res"
+
 // Catalog
 "Resource/UI/CharInfoArmorySubPanel.res"
 {

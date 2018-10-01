@@ -18,7 +18,7 @@
 		"fieldName"			"BlueEscortPanel"
 		"xpos"				"c-170"
 		"ypos"				"r150"
-		"zpos"				"1"
+		"zpos"				"2"
 		"wide"				"400"
 		"tall"				"200"
 		"visible"			"1"
@@ -28,7 +28,7 @@
 		
 		"if_blue_is_top"
 		{
-			"ypos"				"r165"
+			"ypos"				"r150"//r165"
 		}
 	}
 
@@ -48,7 +48,7 @@
 		
 		"if_red_is_top"
 		{
-			"ypos"				"r165"
+			"ypos"				"r150"//r165"
 		}
 	}
 }

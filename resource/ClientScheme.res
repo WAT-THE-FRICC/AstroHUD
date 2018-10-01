@@ -10,8 +10,8 @@
 	{
 		"ReplayBrowser.BgColor" "yA_MenuBG"
 		"ReplayBrowser.Details.TitleEdit.Carat.FgColor" "LightRed"
-		"ReplayBrowser.Button.ArmedBgColor" "TFOrange"
-		"ReplayBrowser.Button.DepressedBgColor" "TFOrange"
+		"ReplayBrowser.Button.ArmedBgColor" "ButtonBGArmed"
+		"ReplayBrowser.Button.DepressedBgColor" "ButtonBGArmed"
 		"ReplayBrowser.CollectionTitle.FgColor" "LightRed"
 		"ReplayBrowser.Warning.FgColor" "White"
 		"ReplayBrowser.ScrollBar.SliderButton.FgColor" "TransparentYellow"

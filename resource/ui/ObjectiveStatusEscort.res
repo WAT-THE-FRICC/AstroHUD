@@ -4,7 +4,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusEscort"
-		"xpos"				"c-173"
+		"xpos"				"c-170"
 		"ypos"				"r143"
 		"zpos"				"1"
 		"wide"				"400"
@@ -16,7 +16,7 @@
 		
 		"if_multiple_trains"
 		{
-			"ypos"				"r200"
+			"ypos"				"r190"
 			"tall"				"200"
 		}
 	}
@@ -25,10 +25,10 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LevelBar"	
-		"xpos"			"73"
+		"xpos"			"70"
 		"ypos"			"123"
 		"zpos"			"0"
-		"wide"			"180"
+		"wide"			"200"
 		"tall"			"4"
 		"visible"		"1"
 		"enabled"		"1"
@@ -55,10 +55,10 @@
 	{
 		"ControlName"	"CTFHudEscortProgressBar"
 		"fieldName"		"ProgressBar"	
-		"xpos"			"73"
+		"xpos"			"70"
 		"ypos"			"123"
 		"zpos"			"4"
-		"wide"			"180"
+		"wide"			"200"
 		"tall"			"4"
 		"visible"		"0"
 		"enabled"		"1"

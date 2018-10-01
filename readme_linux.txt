@@ -7,5 +7,5 @@ yourTF2installation/tf/custom/AstroHUD/resource/ui/buildmenu
 yourTF2installation/tf/custom/AstroHUD/resource/ui/destroymenu
 yourTF2installation/tf/custom/AstroHUD/resource/ui/disguisemenu
 
-and run this command
+and run this command (changes all files in working dir to lowercase)
 for i in *; do mv $i `echo $i | tr [:upper:] [:lower:]`; done

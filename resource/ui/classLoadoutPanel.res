@@ -43,7 +43,7 @@
 			"wide"			"140"
 			"tall"			"70"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"panelBGtransparent"
 			"noitem_textcolor"		"117 107 94 255"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"1"
@@ -59,6 +59,23 @@
 			"inset_eq_y"		"55"
 			"name_only"			"1"
 			"font"			"m0refont14"
+			
+			"BackpackSlotImage"	
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"BackpackSlotImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"-1"
+				"wide"			"f0"
+				"tall"			"f0"
+				"visible"		"1" // RBSS
+				"enabled"		"1"
+				"bgcolor_override"			"30 30 30 100"
+				"mouseinputenabled" 	"0"
+				"labelText" ""
+			}
+			
 			"attriblabel"
 			{
 				"font"			"ItemFontAttribLarge"
@@ -69,7 +86,7 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type"	"1"
+				"inventory_image_type"	"0"
 			}
 		}
 		

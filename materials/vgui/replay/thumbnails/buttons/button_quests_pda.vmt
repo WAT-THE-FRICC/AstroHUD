@@ -1,6 +1,6 @@
-"LightmappedGeneric"
+"UnlitGeneric"
 {
-	"$basetexture" "vgui/button_quests_pda"
+	"$basetexture" "vgui/replay/thumbnails/buttons/button_quests_pda"
 	"$translucent" 1
 	"$ignorez" 1
 	"$vertexcolor" 1

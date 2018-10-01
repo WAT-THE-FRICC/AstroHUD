@@ -208,7 +208,7 @@ HudKothTimeStatus
 "SelectionNumberFg" "200 187 161 255"
 "NumberFont" "HudSelectionText"
 }
-//http://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers/?page=179#5352
+//http://www.teamfortress.tv/19073/hud-editing-short-questions-quick-answers/?page=179#5354
 "BuildingAnchor"
 {
 "ControlName" "Label"
@@ -284,19 +284,6 @@ HudKothTimeStatus
 "ypos" "0"
 "wide" "f0"
 "tall" "480"
-}
-"CSpectatorTargetID" 
-{
-"fieldName" "CSpectatorTargetID"
-"visible" "1"
-"enabled" "1"
-"xpos" "0"
-"ypos" "310"
-"wide" "f0"
-"tall" "17"
-"priority" "40"
-"x_offset" "20"
-"y_offset" "20"
 }
 "HudMannVsMachineStatus" 
 {

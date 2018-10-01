@@ -1517,6 +1517,7 @@
 "paintbackground" "1"
 "paintbackgroundenabled" "1"
 "bgcolor_override" "255 255 255 0"
+// the value fixes weapons being transparent
 "render_texture"	"0"
 "model" 
 {

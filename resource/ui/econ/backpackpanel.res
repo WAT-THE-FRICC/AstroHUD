@@ -105,9 +105,10 @@
 			"wide"			"54"
 			"tall"			"42"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"paintbackground"	"0"
+			"bgcolor_override"		"panelBGtransparent"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
 			"paintborder"	"1"
 			
 			"model_xpos"	"2"
@@ -126,7 +127,22 @@
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
 			}
-
+			
+			"BackpackSlotImage"	
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"BackpackSlotImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"-1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"1" // RBSS
+				"enabled"		"1"
+				"bgcolor_override"			"30 30 30 100"
+				"mouseinputenabled" 	"0"
+				"labelText" ""
+			}
 			"New"
 			{
 				"ControlName"	"CExLabel"

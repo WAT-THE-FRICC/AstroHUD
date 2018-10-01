@@ -1,3 +1,4 @@
+#base "charbackground.res"
 "Resource/UI/ItemSelectionPanel.res"
 {
 	"ItemSelectionPanel"
@@ -61,6 +62,22 @@
 			"inset_eq_y"	"2"
 
 			"deferred_description"	"1"
+			
+			"BackpackSlotImage"	
+			{
+				"ControlName"	"CExLabel"
+				"fieldName"		"BackpackSlotImage"
+				"xpos"			"0"
+				"ypos"			"0"
+				"zpos"			"-1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"1" // RBSS
+				"enabled"		"1"
+				"bgcolor_override"			"30 30 30 100"
+				"mouseinputenabled" 	"0"
+				"labelText" ""
+			}
 			
 			"itemmodelpanel"
 			{

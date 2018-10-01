@@ -38,6 +38,7 @@
 		"QHUDAmmoInReserve" "255 255 255 255"
 		"QHUDAmmoLowClip" "255 0 0 255"
 		"QHUDAmmoLowReserve" "255 49 49 255"
+		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		
         // buttons
 		"ButtonBG"              "48 48 48 255"       //Standard button color
@@ -200,7 +201,6 @@
 		"UpgradeSelectedBg" "249 138 83 255"
 		"UpgradeDisabledFg" "64 59 52 255"
 		"UpgradeDisabledBg" "79 77 68 255"
-		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		"QuestGold" "208 147 75 255"
 		"ItemLimitedQuantity" "225 209 0 255"
 		"QualityColorPaintkitWeapon" "250 250 250 255"

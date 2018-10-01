@@ -20,7 +20,7 @@
 "status_width" "15"
 "nemesis_width" "15"
 "class_width" "20"
-"score_width" "20"
+"score_width" "21"
 "ping_width" "20"
 "textAlignment" "north-west"
 "medal_width" "14"

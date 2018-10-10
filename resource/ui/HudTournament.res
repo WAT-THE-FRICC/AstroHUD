@@ -50,7 +50,7 @@
 				"tall"        "35"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"WhiteS"
+				"fillcolor"		"White"
 				"visible"			"1"
 				"enabled"			"1"
 				

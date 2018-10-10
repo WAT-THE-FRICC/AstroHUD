@@ -1683,4 +1683,31 @@
 		"scaleImage"		"1"
 		"image"				"../hud/leaderboard_class_spy"
 	}
+	"HotkeyQ"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyQ"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&Q"
+		"command"		"vguicancel"
+	}
+	"HotkeyE"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyE"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&E"
+		"command"		"openloadout"
+	}
+	"HotkeyR"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyR"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&R"
+		"command"		"select 12"
+	}
 }

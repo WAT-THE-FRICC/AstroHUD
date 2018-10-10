@@ -167,24 +167,23 @@
 {
 "ControlName" "CExButton"
 "fieldName" "CancelButton"
-"xpos" "c0"
-"ypos" "r40"
-"ypos_lodef" "r64"
-"ypos_hidef" "r54"
+"xpos" "c-120"
+"ypos" "290"
 "zpos" "6"
-"wide" "0"
-"tall" "0"
+"wide" "240"
+"tall" "17"
 "autoResize" "0"
 "pinCorner" "2"
-"visible" "0"
-"enabled" "0"
+"visible" "1"
+"enabled" "1"
 "tabPosition" "0"
 "labelText" "#TF_Cancel"
-"textAlignment" "north-west"
+"textAlignment" "center"
 "dulltext" "0"
 "brighttext" "0"
 "command" "cancelmenu"
 "font" "MenuSmallFont"
+"defaultBgColor_override" "Blank"
 }
 "TeamMenuSelect" 
 {
@@ -482,4 +481,51 @@
 "icon" "#GameUI_Icons_A_BUTTON"
 }
 }
+
+"HotkeyA"
+{
+	"ControlName"	"CExButton"
+	"fieldName"		"HotkeyA"
+	"xpos"			"r0"
+	"visible"		"1"
+	"labelText"		"&A"
+	"command" "jointeam blue"
+}
+"HotkeyD"
+{
+	"ControlName"	"CExButton"
+	"fieldName"		"HotkeyD"
+	"xpos"			"r0"
+	"visible"		"1"
+	"labelText"		"&D"
+	"command" "jointeam red"
+}
+"HotkeyR"
+{
+	"ControlName"	"CExButton"
+	"fieldName"		"HotkeyR"
+	"xpos"			"r0"
+	"visible"		"1"
+	"labelText"		"&R"
+	"command" "jointeam auto"
+}
+"HotkeyS"
+{
+	"ControlName"	"CExButton"
+	"fieldName"		"HotkeyS"
+	"xpos"			"r0"
+	"visible"		"1"
+	"labelText"		"&S"
+	"command" "jointeam spectate"
+}
+"HotkeyQ"
+{
+	"ControlName"	"CExButton"
+	"fieldName"		"HotkeyQ"
+	"xpos"			"r0"
+	"visible"		"1"
+	"labelText"		"&Q"
+	"command" "cancelmenu"
+}
+
 }

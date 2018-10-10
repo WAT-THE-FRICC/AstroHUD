@@ -100,6 +100,12 @@
 "SettingsButton"
 {
 	"label" ""
-	"tooltip"	""
+	"tooltip"	"#MMenu_Tooltip_Options"
+}
+"TF2SettingsButton"
+{
+	"label" "+"
+	"tooltip"	"#MMenu_Tooltip_AdvOptions"
+	"subimage" "glyph_options"
 }
 }

@@ -402,7 +402,7 @@ HudKothTimeStatus
 "visible" "1"
 "enabled" "1"
 "xpos" "r528"
-"ypos" "15"
+"ypos" "18"
 "wide" "500"
 "tall" "500"
 "MaxDeathNotices" "9"

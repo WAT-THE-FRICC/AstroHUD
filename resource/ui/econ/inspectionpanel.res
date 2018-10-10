@@ -1,3 +1,4 @@
+// weapon skin preview
 #base "../charbackground.res"
 "Resource/UI/econ/QuestEditorPanel.res"
 {

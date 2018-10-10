@@ -7,7 +7,7 @@
 		"fieldName" "Background"
 		"xpos" "0"
 		//"xpos" "178" //cs-0.5"
-		"ypos" "-58"
+		"ypos" "-53"
 		"zpos" "-1"
 		//"wide" "0"
 		"wide" "f0"
@@ -26,21 +26,6 @@
 		{
 		"wide" "o1.0"
 		"tall" "f0"
-		}
-		"SubImage" 
-		{
-			"ControlName" "ImagePanel"
-			"fieldName" "SubImage"
-			"xpos" "0"
-			"ypos" "0"
-			"zpos" "-1"
-			"wide" "f0"
-			"tall" "480"
-			"visible" "1"
-			"enabled" "1"
-			"fillcolor"		"0 0 0 75"
-			//"image" "glyph_create"
-			"scaleImage" "1"
 		}
 	}
 	"InGameBackground" 

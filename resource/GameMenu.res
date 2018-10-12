@@ -107,5 +107,6 @@
 	"label" "+"
 	"tooltip"	"#MMenu_Tooltip_AdvOptions"
 	"subimage" "glyph_options"
+	"Command" "opentf2options"
 }
 }

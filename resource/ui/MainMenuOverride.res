@@ -866,8 +866,8 @@
 {
 	"ControlName" "EditablePanel"
 	"fieldname" "CallVoteButton"
-	"xpos" "10"//380"
-	"ypos" "10"//r60" //231
+	"xpos" "0"//380"
+	"ypos" "0"//r60" //231
 	"zpos" "11"
 	"wide" "60"
 	"tall" "60"

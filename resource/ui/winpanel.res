@@ -701,7 +701,7 @@
 "xpos" "c-86"
 "ypos" "467"
 "zpos" "3"
-"wide" "128"
+"wide" "100"
 "tall" "20"
 "autoResize" "0"
 "pinCorner" "0"

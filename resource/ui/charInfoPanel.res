@@ -1,3 +1,5 @@
+#base "CharInfoPanel_bg.res"
+
 // defines the outer panel
 "Resource/UI/CharInfoPanel.res"
 {
@@ -40,7 +42,7 @@
 		"xpos" "0"
 		//"xpos" "178" //cs-0.5"
 		"ypos" "-1"
-		"zpos" "-1"
+		"zpos" "-10"
 		//"wide" "0"
 		"wide" "f0"
 		"tall" "o1.0"

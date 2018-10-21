@@ -290,7 +290,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		">>"
 		"textAlignment"	"west"
-		"xpos"			"c-300"
+		"xpos"			"r-300"
 		"ypos"			"20"
 		"zpos"			"1"
 		"wide"			"20"

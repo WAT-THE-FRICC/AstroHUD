@@ -9,8 +9,9 @@
 		
 		// This color value controls the color theme of the HUD
 		// you can also customize the button colors in the section below
-		"G_Highlight" "244 67 54 255"
-		"G_Highlight_menuline" "193 0 55 255" // lines on main menu
+		"G_Highlight" 			"244 67 54 255"
+		"G_Highlight_text" 		"244 67 54 255"
+		"G_Highlight_menuline" 	"193 0 55 255" // lines on main menu
 		"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
 		
 		"BlueTeamColor"		"33 150 243 255"
@@ -23,7 +24,7 @@
 		
 		// main colors
 		"QHUDNormal" "0 170 127 255"
-		"QHUDOverheal" "0 200 255 255"
+		"QHUDOverheal" "0 175 255 255"
 		"QHUDLow" "255 100 0 255"
 		"QHUDLowFlash" "255 0 0 255"
 		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"
@@ -41,7 +42,7 @@
 		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		
         // buttons
-		"ButtonBG"              "48 48 48 255"       //Standard button color
+		"ButtonBG"              "30 30 30 255"       //Standard button color
         "ButtonBGSelect"        "18 18 18 255"          // idk what this does
         "ButtonFont"            "235 235 235 255"          //Font color
         "ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
@@ -49,7 +50,7 @@
         
         // misc
         "ya_HudBG"                "50 50 50 200"             //Scoreboard, winpanel, item meters
-		"ya_MenuBG" 				"48 48 48 255"			//
+		"ya_MenuBG" 				"35 35 35 255"			//
 		"panelBGtransparent"		"30 30 30 200"
 	
 		// idk where everything after this are used
@@ -97,10 +98,10 @@
 		"Yellow" "251 235 202 255"
 		"TransparentYellow" "251 235 202 140"
 		"GreenSolid" "76 107 34 255"
-		"Black" "46 43 42 255"
+		"Black" "43 43 43 255"
 		"TransparentBlack" "0 0 0 196"
 		"TransparentLightBlack" "0 0 0 90"
-		"FooterBGBlack" "52 48 55 255"
+		"FooterBGBlack" "52 52 52 255"
 		"HUDSpectator" "124 124 124 127"
 		"HUDDeathWarning" "255 0 0 255"
 		"HudWhite" "255 255 255 255"
@@ -124,9 +125,9 @@
 		"HudTimerProgressInActive" "52 48 45 255"
 		"HudTimerProgressWarning" "240 30 30 255"
 		"HudTrainingHint" "212 160 23 255"
-		"TanDark" "117 107 94 255"
+		"TanDark" "107 107 107 255"
 		"TanLight" "255 255 255 255" //235 226 202 255"
-		"TanDarker" "46 43 42 255"
+		"TanDarker" "43 43 43 255"
 		"StoreDarkTan" "131 121 104 255"
 		"StoreGreen" "76 107 34 255"
 		"LowHealthRed" "255 0 0 255"
@@ -134,13 +135,13 @@
 		"ProgressBackground" "250 234 201 51"
 		"HealthBgGrey" "72 71 69 255"
 		"ProgressOffWhiteTransparent" "251 235 202 128"
-		"LabelDark" "48 43 42 255"
+		"LabelDark" "43 43 43 255"
 		"LabelTransparent" "109 96 80 180"
 		"BuildMenuActive" "248 231 198 255"
 		"DisguiseMenuIconRed" "192 56 63 255"
 		"DisguiseMenuIconBlue" "92 128 166 255"
 		"MatchmakingDialogTitleColor" "200 184 151 255"
-		"MatchmakingMenuItemBackground" "46 43 42 255"
+		"MatchmakingMenuItemBackground" "43 43 43 255"
 		"MatchmakingMenuItemBackgroundActive" "150 71 0 255"
 		"MatchmakingMenuItemTitleColor" "200 184 151 255"
 		"MatchmakingMenuItemDescriptionColor" "200 184 151 255"
@@ -169,7 +170,7 @@
 		"QualityColorCustomized" "71 98 145 255"
 		"QualityColorStrange" "207 106 50 255"
 		"QualityColorCompleted" "134 80 172 255"
-		"QualityColorHaunted" "134 80 172 255"
+		"QualityColorHaunted" "0 200 128 255"
 		"QualityColorCollectors" "131 0 0 255"
 		"QualityColorNormal_GreyedOut" "44 44 44 255"
 		"QualityColorrarity1_GreyedOut" "20 29 21 255"
@@ -190,17 +191,17 @@
 		"LightRed" "200 80 60 255"
 		"LighterRed" "220 100 80 255"
 		"LighterDarkBrown" "59 54 48 255"
-		"DarkBrown" "41 37 38 255"
-		"UpgradeDefaultFg" "87 82 74 255"
-		"UpgradeDefaultBg" "111 104 94 255"
+		"DarkBrown" "40 40 40 255"
+		"UpgradeDefaultFg" "82 82 82 255"
+		"UpgradeDefaultBg" "104 104 104 255"
 		"UpgradeArmedFg" "194 96 47 255"
 		"UpgradeArmedBg" "239 128 73 255"
 		"UpgradeDepressedFg" "204 106 57 255"
 		"UpgradeDepressedBg" "249 138 83 255"
 		"UpgradeSelectedFg" "204 106 57 255"
 		"UpgradeSelectedBg" "249 138 83 255"
-		"UpgradeDisabledFg" "64 59 52 255"
-		"UpgradeDisabledBg" "79 77 68 255"
+		"UpgradeDisabledFg" "55 55 55 255"
+		"UpgradeDisabledBg" "77 77 77 255"
 		"QuestGold" "208 147 75 255"
 		"ItemLimitedQuantity" "225 209 0 255"
 		"QualityColorPaintkitWeapon" "250 250 250 255"

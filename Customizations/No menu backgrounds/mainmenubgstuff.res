@@ -14,7 +14,7 @@
 		"tall" "f0"
 		"visible" "1"
 		"enabled" "1"
-		"image" "background"
+		"image" "background_30-30-30"
 		"scaleImage" "1"
 		//"fillcolor"		"yA_menuBG"
 		"if_wider" 

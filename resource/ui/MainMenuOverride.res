@@ -1,4 +1,4 @@
-//#base "mainmenubgstuff.res"
+#base "mainmenubgstuff.res"
 "Resource/UI/MainMenuOverride.res" 
 {
 //"DashboardDimmer"
@@ -16,7 +16,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "v1.2.3 (Menu Update)"
+	"labeltext" "v1.2.5"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "150 150 150 255"
@@ -292,34 +292,7 @@
 		"enabled" "1"
 		"fillcolor" "G_Highlight_menuline"
 	}
-	"Background" 
-	{
-		"ControlName" "ScalableImagePanel"
-		//"ControlName" "ImagePanel"
-		"fieldName" "Background"
-		"xpos" "0"
-		//"xpos" "178" //cs-0.5"
-		"ypos" "0"
-		"zpos" "-200"
-		//"wide" "0"
-		"wide" "o1.0"
-		"tall" "f0"
-		"visible" "0"
-		"enabled" "0"
-		"image" "background"
-		"scaleImage" "1"
-		//"fillcolor"		"yA_menuBG"
-		"if_wider" 
-		{
-		"wide" "f0"
-		"tall" "o1.0"
-		}
-		"if_taller" 
-		{
-		"wide" "o1.0"
-		"tall" "f0"
-		}
-	}
+	// background was here
 "MainMenuBGPanel" 
 {
 	"ControlName" "EditablePanel"

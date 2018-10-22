@@ -50,7 +50,7 @@
 "brighttext" "0"
 "font" "TFFontSmall"
 "xpos_minmode" "c-30"
-"ypos_minmode" "383"
+"ypos_minmode" "378"
 "wide_minmode" "60"
 }
 "ItemEffectMeter" 
@@ -73,7 +73,7 @@
 "dulltext" "0"
 "brighttext" "0"
 "xpos_minmode" "c-30"
-"ypos_minmode" "390"
+"ypos_minmode" "385"
 "wide_minmode" "60"
 }
 	

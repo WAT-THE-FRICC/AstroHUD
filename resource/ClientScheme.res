@@ -9,10 +9,10 @@
 	"BaseSettings" 
 	{
 		"ReplayBrowser.BgColor" "yA_MenuBG"
-		"ReplayBrowser.Details.TitleEdit.Carat.FgColor" "LightRed"
+		"ReplayBrowser.Details.TitleEdit.Carat.FgColor" "G_Highlight_text"
 		"ReplayBrowser.Button.ArmedBgColor" "ButtonBGArmed"
 		"ReplayBrowser.Button.DepressedBgColor" "ButtonBGArmed"
-		"ReplayBrowser.CollectionTitle.FgColor" "LightRed"
+		"ReplayBrowser.CollectionTitle.FgColor" "G_Highlight_text"
 		"ReplayBrowser.Warning.FgColor" "White"
 		"ReplayBrowser.ScrollBar.SliderButton.FgColor" "TransparentYellow"
 		"ReplayBrowser.Search.BgColor" "TanDark"
@@ -171,7 +171,7 @@
 		"HudIcon_Green" "0 160 0 255"
 		"HudIcon_Red" "160 0 0 255"
 		"ItemColor" "255 167 42 200"
-		"MenuColor" "233 208 173 255"
+		"MenuColor" "208 208 208 255" //233 208 173
 		"MenuBoxBg" "0 0 0 100"
 		"SelectionNumberFg" "251 235 202 255"
 		"SelectionTextFg" "251 235 202 255"

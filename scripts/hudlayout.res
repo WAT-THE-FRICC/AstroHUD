@@ -282,6 +282,7 @@ HudKothTimeStatus
 "enabled" "1"
 "xpos" "0"
 "ypos" "0"
+"zpos" "-5"
 "wide" "f0"
 "tall" "480"
 }
@@ -711,10 +712,14 @@ HudKothTimeStatus
 "fieldName" "ArenaWinPanel"
 "visible" "1"
 "enabled" "1"
-"xpos" "c-145"
-"ypos" "315"
-"wide" "300"
-"tall" "215"
+//"xpos" "c-145"
+//"ypos" "315"
+//"wide" "300"
+//"tall" "215"
+"xpos" "0"
+"ypos" "0"
+"wide" "f0"
+"tall" "480"
 }
 "PVEWinPanel" 
 {
@@ -1001,6 +1006,7 @@ HudKothTimeStatus
 "enabled" "1"
 "xpos" "0"
 "ypos" "0"
+"zpos" "5"
 "wide" "f0"
 "tall" "50"
 }

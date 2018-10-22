@@ -42,7 +42,7 @@
 		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		
         // buttons
-		"ButtonBG"              "30 30 30 255"       //Standard button color
+		"ButtonBG"              "35 35 35 255"       //Standard button color
         "ButtonBGSelect"        "18 18 18 255"          // idk what this does
         "ButtonFont"            "235 235 235 255"          //Font color
         "ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
@@ -50,7 +50,8 @@
         
         // misc
         "ya_HudBG"                "50 50 50 200"             //Scoreboard, winpanel, item meters
-		"ya_MenuBG" 				"35 35 35 255"			//
+		"ya_MenuBG" 				"35 35 35 255"
+		"panelBG"					"30 30 30 255"
 		"panelBGtransparent"		"30 30 30 200"
 	
 		// idk where everything after this are used
@@ -78,7 +79,7 @@
 		"QuestMap_Bonus" "222 217 166 255"
 		"QuestMap_ActiveOrange" "212 127 25 255"
 		"QuestMap_InactiveGrey" "100 100 100 255"
-		"QuestMap_BGImages" "56 58 60 255"
+		"QuestMap_BGImages" "58 58 58 255" //56 58 60 255"
 		"PartyMember1" "124 173 255 255"
 		"PartyMember2" "99  232 167 255"
 		"PartyMember3" "229 255 121 255"
@@ -95,8 +96,8 @@
 		"Red" "192 28 0 140"
 		"RedSolid" "192 28 0 255"
 		"Blue" "0 28 162 140"
-		"Yellow" "251 235 202 255"
-		"TransparentYellow" "251 235 202 140"
+		"Yellow" "235 235 235 255" //251 235 202
+		"TransparentYellow" "235 235 235 140"
 		"GreenSolid" "76 107 34 255"
 		"Black" "43 43 43 255"
 		"TransparentBlack" "0 0 0 196"
@@ -121,14 +122,14 @@
 		"HudProgressBarInActive" "140 120 73 255"
 		"HudProgressBarActiveLow" "240 30 30 255"
 		"HudProgressBarInActiveLow" "240 30 30 99"
-		"HudTimerProgressActive" "251 235 202 255"
-		"HudTimerProgressInActive" "52 48 45 255"
+		"HudTimerProgressActive" "235 235 235 235" //251 235 202 255"
+		"HudTimerProgressInActive" "48 48 48 255" //52 48 45 255"
 		"HudTimerProgressWarning" "240 30 30 255"
 		"HudTrainingHint" "212 160 23 255"
 		"TanDark" "107 107 107 255"
 		"TanLight" "255 255 255 255" //235 226 202 255"
 		"TanDarker" "43 43 43 255"
-		"StoreDarkTan" "131 121 104 255"
+		"StoreDarkTan" "121 121 121 255" //131 121 104 255"
 		"StoreGreen" "76 107 34 255"
 		"LowHealthRed" "255 0 0 255"
 		"ProgressOffWhite" "251 235 202 255"
@@ -190,7 +191,7 @@
 		"SaleGreen" "76 107 34 255"
 		"LightRed" "200 80 60 255"
 		"LighterRed" "220 100 80 255"
-		"LighterDarkBrown" "59 54 48 255"
+		"LighterDarkBrown" "54 54 54 255"
 		"DarkBrown" "40 40 40 255"
 		"UpgradeDefaultFg" "82 82 82 255"
 		"UpgradeDefaultBg" "104 104 104 255"
@@ -205,14 +206,14 @@
 		"QuestGold" "208 147 75 255"
 		"ItemLimitedQuantity" "225 209 0 255"
 		"QualityColorPaintkitWeapon" "250 250 250 255"
-		"ItemRarityDefault" "131 126 119 255"
+		"ItemRarityDefault" "126 126 126 255" //131 126 119 255"
 		"ItemRarityCommon" "176 195 217 255"
 		"ItemRarityUncommon" "94 152 217 255"
 		"ItemRarityRare" "75 105 255 255"
 		"ItemRarityMythical" "136 71 255 255"
 		"ItemRarityLegendary" "211 44 230 255"
 		"ItemRarityAncient" "235 75 75 255"
-		"ItemRarityDefault_GreyedOut" "44 42 40 255"
+		"ItemRarityDefault_GreyedOut" "42 42 42 255" //44 42 40 255"
 		"ItemRarityCommon_GreyedOut" "59 65 72 255"
 		"ItemRarityUncommon_GreyedOut" "31 50 72 255"
 		"ItemRarityRare_GreyedOut" "25 35 85 255"

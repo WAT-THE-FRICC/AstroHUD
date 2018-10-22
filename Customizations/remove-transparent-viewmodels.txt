@@ -1,0 +1,5 @@
+Transparent viewmodels are turned on by default
+but they will NOT work below DX90
+
+Just delete AstroHUD/scripts/transparent_viewmodels.res
+or rename it to some random stuff

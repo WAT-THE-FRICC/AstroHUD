@@ -87,7 +87,7 @@
 		"tall"		"480"
 		"visible"	"1"
 		"enabled"	"1"
-		"bgcolor_override"		"yA_MenuBG"
+		"bgcolor_override"		"Blank" //yA_MenuBG"
 
 		"NonInteractiveHeaders"
 		{

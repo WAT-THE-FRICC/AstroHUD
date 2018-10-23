@@ -54,6 +54,72 @@
 "fgcolor" "QHUDShadow"
 }
 
+	"HealthCrossAnchor"
+	{
+		"ControlName"				         		"EditablePanel"
+		"fieldName"				         			"HealthCrossAnchor"
+		"xpos"					         			"c-210"
+		"ypos"					         			"300"
+		"wide"					         			"30"
+		"tall"					         			"30"
+		"visible"				         			"1"
+		"enabled"				         			"1"
+	}
+	
+	"PlayerStatusHealthImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImage"
+		"xpos"			"c-248"
+		"xpos_minmode"	"c-189"
+		"ypos"			"312"
+		"ypos_minmode"	"378"
+		"zpos"			"4"
+		"wide"			"51"
+		"wide_minmode"	"38"
+		"tall"			"51"
+		"tall_minmode"	"38"	
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+	}		
+	"PlayerStatusHealthImageBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthImageBG"
+		"xpos"			"c-250"
+		"xpos_minmode"	"c-190"
+		"ypos"			"310"
+		"ypos_minmode"	"377"
+		"zpos"			"3"
+		"wide"			"55"
+		"wide_minmode"	"40"
+		"tall"			"55"
+		"tall_minmode"	"40"	
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/health_bg"
+		"scaleImage"	"1"	
+	}	
+	"PlayerStatusHealthBonusImage"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"PlayerStatusHealthBonusImage"
+		"xpos"			"c-250"
+		"xpos_minmode"	"c-190"
+		"ypos"			"310"	
+		"ypos_minmode"	"377"
+		"zpos"			"2"
+		"wide"			"55"	
+		"wide_minmode"	"40"	
+		"tall"			"55"	
+		"tall_minmode"	"40"	
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"../hud/health_over_bg"
+		"scaleImage"	"1"	
+	}
+
 	"PlayerStatusAnchor"
 	{
 		"ControlName"				         		"EditablePanel"
@@ -641,24 +707,7 @@
 	
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////
 	
-	"PlayerStatusHealthImage"
-	{
-		"ControlName" 	         				 	"ImagePanel"
-		"fieldName"		          				 	"PlayerStatusHealthImage"
-		"wide"		    	         				"0"
-		"tall"                   				 	"0"
-		"visible"		             				"0"
-		"enabled"		             				"0"
-	}
-	"PlayerStatusHealthImageBG"
-	{
-		"ControlName"	           				 	"ImagePanel"
-		"fieldName"	  	         				 	"PlayerStatusHealthImageBG"
-		"wide"		    	          				"0"
-		"tall"         				 				"0"
-		"visible"         				 			"0"
-		"enabled"	            				 	"0"
-	}
+	
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"								"CExLabel"

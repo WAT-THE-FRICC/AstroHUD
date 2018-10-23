@@ -66,8 +66,8 @@
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
@@ -77,10 +77,10 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		"font"			"Secondary12"
 		"fgcolor"		"Black"
 		"xpos"			"15"
-		"ypos"			"82"
+		"ypos"			"83"
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
@@ -92,16 +92,17 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
+		"bgcolor_override" "255 255 255 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		"font"			"Secondary12"
 		"fgcolor"		"Black"
 		"xpos"			"15"
-		"ypos"			"82"
+		"ypos"			"83"
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
@@ -113,5 +114,6 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
+		"bgcolor_override" "255 255 255 255"
 	}
 }

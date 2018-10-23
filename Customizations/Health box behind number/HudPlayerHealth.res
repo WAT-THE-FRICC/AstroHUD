@@ -16,43 +16,59 @@
 "HealthDeathWarningColor" "HUDDeathWarning"
 }
 "PlayerStatusHealthValue" 
-{
-"ControlName" "CExLabel"
-"fieldName" "PlayerStatusHealthValue"
-"xpos" "c-293"
-"xpos_minmode" "c-273"
-"ypos" "310" //423
-"ypos_minmode" "380"
-"zpos" "6"
-"wide" "200"
-"tall" "50"
-"visible" "1"
-"enabled" "1"
-"labelText" "%Health%"
-"textAlignment" "north-east"
-"font" "Astro50"
-"font_minmode" "Astro32"
-"fgcolor" "QHUDNormal"
-}
-"PlayerStatusHealthValueShadow" 
-{
-"ControlName" "CExLabel"
-"fieldName" "PlayerStatusHealthValueShadow"
-"xpos" "c-292"
-"xpos_minmode" "c-272"
-"ypos" "311" //423
-"ypos_minmode" "381"
-"zpos" "5"
-"wide" "200"
-"tall" "50"
-"visible" "1"
-"enabled" "1"
-"labelText" "%Health%"
-"textAlignment" "north-east"
-"font" "Astro50"
-"font_minmode" "Astro32"
-"fgcolor" "QHUDShadow"
-}
+	{
+		"ControlName" "CExLabel"
+		"fieldName" "PlayerStatusHealthValue"
+		"xpos" "c-179"
+		"xpos_minmode" "c-159"
+		"ypos" "310" //423
+		"ypos_minmode" "380"
+		"wide" "100"
+		"tall" "50"
+		"zpos" "6"
+		"visible" "1"
+		"enabled" "1"
+		"labelText" "%Health%"
+		"textAlignment" "north"
+		"font" "Astro50"
+		"font_minmode" "Astro32"
+		"fgcolor" "QHUDNormal"
+	}
+	"PlayerStatusHealthValueShadow" 
+	{
+		"ControlName" "CExLabel"
+		"fieldName" "PlayerStatusHealthValueShadow"
+		"xpos" "c-178"
+		"xpos_minmode" "c-158"
+		"ypos" "311" //423
+		"ypos_minmode" "381"
+		"zpos" "5"
+		"wide" "100"
+		"tall" "50"
+		"visible" "1"
+		"enabled" "1"
+		"labelText" "%Health%"
+		"textAlignment" "north"
+		"font" "Astro50"
+		"font_minmode" "Astro32"
+		"fgcolor" "QHUDShadow"
+	}
+	"HealthBG"
+	{
+		"ControlName" "CExLabel"
+		"fieldName" "HealthBG"
+		"xpos" "c-176"
+		"xpos_minmode" "c-137"
+		"ypos" "313" //423
+		"ypos_minmode" "381"
+		"wide"			"95"	
+		"wide_minmode"	"55"
+		"tall"			"49"	
+		"tall_minmode"	"30"
+		"visible"													"1"
+		"enabled"													"1"
+		"labelText" ""
+	}
 
 	"PlayerStatusAnchor"
 	{

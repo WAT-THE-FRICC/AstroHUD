@@ -44,8 +44,8 @@
 		"zpos"			"-5"		
 		"wide"			"28"
 		"tall"			"5"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"					"../hud/color_panel_red"
 		"scaleImage"			"1"
 		"paintborder"			"1"
@@ -76,10 +76,10 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		"font"			"Secondary12"
 		"fgcolor"		"Black"
 		"xpos"			"15"
-		"ypos"			"82"
+		"ypos"			"83"
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
@@ -91,16 +91,17 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
+		"bgcolor_override" "255 255 255 255"
 	}
 	
 	"NumberLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"Default"
+		"font"			"Secondary12"
 		"fgcolor"		"Black"
 		"xpos"			"15"
-		"ypos"			"82"
+		"ypos"			"83"
 		"zpos"			"0"
 		"wide"			"15"
 		"tall"			"15"
@@ -112,5 +113,6 @@
 		"textAlignment"	"Center"
 		"dulltext"		"1"
 		"brighttext"	"0"
+		"bgcolor_override" "255 255 255 255"
 	}
 }

@@ -23,6 +23,7 @@
 // These are menu font themes
 //#base "customfonts/TF2theme.res" // font is a bit wide, stuff might overfl...
 //#base "customfonts/RaysHUDtheme.res" // rayshud in-game colors included
+
 "Scheme" 
 {
 "CustomFontFiles" 
@@ -49,8 +50,7 @@
  		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
  		"name" "DIN 1451 Mittelschrift"
  		}
- 		
-		"9"
+		"8"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
  		"name" "Orbitron Bold"

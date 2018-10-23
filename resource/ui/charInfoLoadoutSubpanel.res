@@ -28,9 +28,9 @@
 		"class_ypos"				"80"
 		"class_xdelta"				"5"
 		"class_wide_min"			"60"
-		"class_wide_max"			"100"
-		"class_tall_min"			"120"
-		"class_tall_max"			"180"
+		"class_wide_max"			"60"//100"
+		"class_tall_min"			"120"//120"
+		"class_tall_max"			"120"//180"
 		"class_distance_min"		"7"
 		"class_distance_max"		"100"
 

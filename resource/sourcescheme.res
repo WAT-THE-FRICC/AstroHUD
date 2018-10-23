@@ -7,7 +7,7 @@ Scheme
 		// HUD COLORS
 		//---------------------------------------------
 		
-		"HudBlack"					"10 10 10 150"
+		"HudBlack"					"30 30 30 255"
 		
 		"G_Highlight"		"244 67 54 255"
 		
@@ -349,6 +349,117 @@ Scheme
 			}
 		}
 
+	}
+	Borders
+	{
+		BaseBorder		SubtleBorder
+		ButtonBorder	RaisedBorder
+		ComboBoxBorder	DepressedBorder
+		MenuBorder		SubtleBorder
+		BrowserBorder	DepressedBorder
+		PropertySheetBorder	RaisedBorder
+
+		FrameBorder
+		{
+			// rounded corners for frames
+			//"backgroundtype" "2"
+
+			Left
+			{
+				"1"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Right
+			{
+				"1"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Top
+			{
+				"1"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+			}
+
+			Bottom
+			{
+				"1"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"2"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"3"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+				"4"
+				{
+					"color" "HudBlack"
+					"offset" "0 0"
+				}
+			}
+		}
 	}
 	CustomFontFiles
 	{

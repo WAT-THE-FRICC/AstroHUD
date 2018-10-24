@@ -1,3 +1,4 @@
+#base "clientscheme_backpackborders_transparentbg.res"
 #base "clientscheme_backpackborders.res"
 
 "Scheme"

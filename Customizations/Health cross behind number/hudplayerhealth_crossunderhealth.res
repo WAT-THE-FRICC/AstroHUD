@@ -53,21 +53,20 @@
 		"font_minmode" "Astro32"
 		"fgcolor" "QHUDShadow"
 	}
-	"HealthBG"
+	"PlayerStatusHealthBonusImage"
 	{
-		"ControlName" "CExLabel"
-		"fieldName" "HealthBG"
-		"xpos" "c-176"
-		"xpos_minmode" "c-137"
-		"ypos" "313" //423
+		"xpos" "c-156"
+		"xpos_minmode" "c-124"
+		"ypos" "308" //423
 		"ypos_minmode" "381"
-		"wide"			"95"	
-		"wide_minmode"	"55"
-		"tall"			"49"	
+		"wide"			"55"
+		"wide_minmode"	"30"
+		"tall"			"55"
 		"tall_minmode"	"30"
 		"visible"													"1"
 		"enabled"													"1"
-		"labelText" ""
+		"scaleImage"	"1"	
+		"image"			"../hud/health_over_bg"
 	}
 
 	"PlayerStatusAnchor"

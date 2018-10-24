@@ -1,8 +1,12 @@
 #base "crosshairs.res"
 #base "transparent_viewmodels.res"
+
+#base "engineer_metal_underammo.res"
+#base "engineer_metal_undermeter.res"
 #base "engineer_metal.res"
-#base "building_status.res"
-#base "hudchat.res"
+
+#base "targetid_layout_healerabovemeter.res"
+#base "targetid_layout_alt.res"
 #base "targetid_layout.res"
 
 "Resource/HudLayout.res" 

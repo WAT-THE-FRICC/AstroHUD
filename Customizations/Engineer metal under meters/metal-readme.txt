@@ -1,5 +1,5 @@
-Do not use with "Weapon count under ammo"
-or the counters will overlap
+Please use with the other customizations to move the weapon counter
+so the sticky counter will not overlap
 
 Copy the engineer_metal.res file
 and paste it into AstroHUD/scripts/

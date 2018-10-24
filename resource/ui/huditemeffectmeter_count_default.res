@@ -16,10 +16,10 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemEffectMeterCount"
-		"xpos" "r125"
-		"ypos" "r24"//390
+		"xpos" "c-20"
+		"ypos" "350"//390
 		"zpos" "2"
-		"wide" "50"
+		"wide" "40"
 		"tall" "24"
 		"autoResize" "1"
 		"pinCorner" "2"
@@ -27,7 +27,7 @@
 		"enabled" "1"
 		"tabPosition" "0"
 		"labelText" "%progresscount%"
-		"textAlignment" "north-east"
+		"textAlignment" "north"
 		"dulltext" "0"
 		"brighttext" "0"
 		"font" "Secondary24"
@@ -37,8 +37,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"r70"
-		"ypos"					"r24"
+		"xpos"					"c20"
+		"ypos"					"350"
 		"zpos"					"2"
 		"wide" "100"
 		"tall" "24"

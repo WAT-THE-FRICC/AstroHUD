@@ -1,5 +1,3 @@
-#base "HudMedicCharge_chargemeter.res"
-
 "Resource/UI/HudMedicCharge.res" 
 {
 "ChargeLabel" 
@@ -209,6 +207,4 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 	}
-
-
 }

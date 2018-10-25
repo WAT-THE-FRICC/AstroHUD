@@ -1141,6 +1141,8 @@
 		"fieldName"				"CountdownContainer"
 		"xpos"					"c-150"
 		"ypos"					"r78"
+		"xpos_minmode"			"c10"
+		"ypos_minmode"			"r39"
 		"zpos"					"1"
 		"wide"					"300"
 		"tall"					"110"

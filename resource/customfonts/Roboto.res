@@ -29,8 +29,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Roboto Bold" [!$OSX]
+				"name" "Roboto Bold" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -42,8 +42,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Roboto Bold" [!$OSX]
+				"name" "Roboto Bold" [$OSX]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -55,8 +55,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Roboto Bold" [!$OSX]
+				"name" "Roboto Bold" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -71,7 +71,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -83,7 +83,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -95,7 +95,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -107,7 +107,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -119,7 +119,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -131,7 +131,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -143,7 +143,7 @@
 			"1"
 			{
 				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Roboto Medium" [$OSX]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

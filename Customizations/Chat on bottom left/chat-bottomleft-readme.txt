@@ -1,5 +1,5 @@
-Copy the basechat.res file into
+Copy the basechat_bottomleft.res file into
 AstroHUD/resource/ui/
 
-You will overwrite the existing files there
-and it is OK to do so.
+basechat_topleft.res will be there
+but basechat_bottomleft.res will take precedence

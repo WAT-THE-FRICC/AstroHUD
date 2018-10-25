@@ -1,8 +1,10 @@
-Please use with the other customizations to move the weapon counter
-so the sticky counter will not overlap
+This conflicts with the default positioning of the
+weapon count.
+Please use with the customizations
+	"Weapon count bottom right" or
+	"Weapon count under ammo"
+to move the weapon counter
+so the metal counter will not overlap it
 
-Copy the HudDemomanPipes.res file
-and paste it into AstroHUD/resource/ui/
-
-You will overwrite the existing file there,
-but this is intended and will not break the HUD.
+Copy the huddemomanpipes_undermeter.res file
+and paste it into AstroHUD/scripts/

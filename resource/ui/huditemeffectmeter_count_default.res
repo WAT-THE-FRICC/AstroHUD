@@ -18,6 +18,7 @@
 		"fieldName"			"ItemEffectMeterCount"
 		"xpos" "c-20"
 		"ypos" "350"//390
+		"ypos_minmode" "407"
 		"zpos" "2"
 		"wide" "40"
 		"tall" "24"
@@ -39,6 +40,7 @@
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"c20"
 		"ypos"					"350"
+		"ypos_minmode" 			"407"
 		"zpos"					"2"
 		"wide" "100"
 		"tall" "24"

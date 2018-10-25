@@ -81,7 +81,7 @@
 "ControlName" "CTFImagePanel"
 "fieldName" "PipeIcon"
 "xpos" "c90"
-"ypos" "360"
+"ypos" "355"
 "ypos_minmode" "412"
 "wide" "15"
 "tall" "15"
@@ -97,7 +97,7 @@
 "ControlName" "CExLabel"
 "fieldName" "NumPipesLabel"
 "xpos" "c95" //c-44
-"ypos" "355" //260 //390
+"ypos" "350" //260 //390
 "ypos_minmode" "407"
 "zpos" "2"
 "wide" "50"
@@ -119,7 +119,7 @@
 "ControlName" "CExLabel"
 "fieldName" "NumPipesLabelShadow"
 "xpos" "c96" //c-44
-"ypos" "356" //260 //390
+"ypos" "351" //260 //390
 "ypos_minmode" "407"
 "zpos" "1"
 "wide" "50"

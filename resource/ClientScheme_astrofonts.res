@@ -9,6 +9,7 @@
 //#base "customfonts/Avenir-Heavy.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
+//#base "customfonts/Roboto.res"
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
 //#base "customfonts/GlacialIndifference-Regular.res"
@@ -117,7 +118,16 @@
  		"font" "resource/customfonts/ToonHUD Hemi Head.ttf"
  		"name" "ToonHUDHemiHeadRg-BoldItalic"
  		}
- 		
+		"26"
+		{
+		"font" "resource/customfonts/Roboto-Bold.ttf"
+		"name" "Roboto Bold"
+ 		}
+		"27"
+		{
+		"font" "resource/customfonts/Roboto-Medium.ttf"
+		"name" "Roboto Medium"
+ 		}
  		
  		
  		

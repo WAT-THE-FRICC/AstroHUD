@@ -27,8 +27,8 @@
 		"QHUDOverheal" "0 175 255 255"
 		"QHUDLow" "255 100 0 255"
 		"QHUDLowFlash" "255 0 0 255"
-		"QHUDOverhealBar" "255 255 255 155" //"6 146 255 153"
-		"QHUDBlank" "0 0 0 0"
+		//"QHUDOverhealBar" 	// currently not in use,
+								// change QHUDOverheal instead
 		"QHUDLowBar" "255 49 49 153"
 		"QHUDMedicCharge1" "61 202 53 255"
 		"QHUDMedicCharge2" "19 165 12 255"
@@ -39,7 +39,11 @@
 		"QHUDAmmoInReserve" "255 255 255 255"
 		"QHUDAmmoLowClip" "255 0 0 255"
 		"QHUDAmmoLowReserve" "255 49 49 255"
+		"QHUDLastDamage" "255 0 0 255"
 		"QHUDShadow" "75 75 75 200"//46 43 42 255"
+		"QHUDBlank" "0 0 0 0"
+		
+		
 		
         // buttons
 		"ButtonBG"              "35 35 35 255"       //Standard button color

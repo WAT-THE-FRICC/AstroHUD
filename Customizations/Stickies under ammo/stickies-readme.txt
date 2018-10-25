@@ -1,5 +1,8 @@
-Copy the HudDemomanPipes.res file
-and paste it into AstroHUD/resource/ui/
+This conflicts with
+	"Weapon count under ammo"
+Do not use with it or the counters will overlap
+(unless you move the weapon counter with
+"Weapon count bottom right")
 
-You will overwrite the existing file there,
-but this is intended and will not break the HUD.
+Copy the huddemomanpipes_underammo.res file
+and paste it into AstroHUD/resource/ui/

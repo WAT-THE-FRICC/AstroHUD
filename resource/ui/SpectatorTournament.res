@@ -4,17 +4,17 @@
 {
 	"specgui"
 	{
-		"team1_player_base_offset_x"		"0"
-		"team1_player_base_x"				"4"
-		"team1_player_base_y"				"300"
-		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-18"
-		
 		"team2_player_base_offset_x"		"0"
 		"team2_player_base_x"				"4"
-		"team2_player_base_y"				"319"
+		"team2_player_base_y"				"300"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"18"
+		"team2_player_delta_y"				"-18"
+		
+		"team1_player_base_offset_x"		"0"
+		"team1_player_base_x"				"4"
+		"team1_player_base_y"				"319"
+		"team1_player_delta_x"				"0"
+		"team1_player_delta_y"				"18"
 		
 		"playerpanels_kv"
 		{

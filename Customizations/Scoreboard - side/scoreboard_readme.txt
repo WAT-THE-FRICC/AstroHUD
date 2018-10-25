@@ -1,5 +1,5 @@
+Moves the player lists to the sides of the screen
+(sAven HUD (praise pipelord sAven uwu) )
+
 Copy the file into
 AstroHUD/resource/ui/
-
-You will overwrite the existing files there
-and it is OK to do so.

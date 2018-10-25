@@ -8,7 +8,7 @@
 	"CSecondaryTargetID" 
 	{
 		"ypos" "305"
-		"ypos_minmode" "332"
+		"ypos_minmode" "325"
 	}
 	"CSpectatorTargetID" 
 	{

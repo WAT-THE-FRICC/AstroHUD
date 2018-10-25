@@ -45,9 +45,9 @@
 		"xpos"			"0"	
 		"ypos"			"340"
 		"zpos"			"200"
-		"wide"			"0"
+		"wide"			"f0"
 		"tall"			"100"
-		"fillcolor"		"ya_MenuBG"
+		"fillcolor"		"0 0 0 0"
 		"visible"		"1"
 		"enabled"		"1"
 	}

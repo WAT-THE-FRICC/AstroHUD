@@ -31,7 +31,7 @@
 "enabled" "1"
 "labelText" "%metal%"
 "textAlignment" "north-east"
-"fgcolor" "255 0 0 255"
+"fgcolor" "QHUDLastDamage"
 "font" "Secondary24"
 "font_minmode" "Secondary18"
 }

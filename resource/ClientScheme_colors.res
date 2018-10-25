@@ -39,6 +39,7 @@
 		"QHUDAmmoInReserve" "255 255 255 255"
 		"QHUDAmmoLowClip" "255 0 0 255"
 		"QHUDAmmoLowReserve" "255 49 49 255"
+		"QHUDLastDamage" "255 0 0 255"
 		"QHUDShadow" "75 75 75 200"//46 43 42 255"
 		"QHUDBlank" "0 0 0 0"
 		

@@ -12,7 +12,7 @@
 			{
 				"1"
 				{
-					"color" "0 0 0 100"
+					"color" "G_ItemMeterBorder"
 					"offset" "0 0"
 				}
 			}
@@ -21,7 +21,7 @@
 			{
 				"1"
 				{
-					"color" "0 0 0 100"
+					"color" "G_ItemMeterBorder"
 					"offset" "0 0"
 				}
 			}
@@ -30,7 +30,7 @@
 			{
 				"1"
 				{
-					"color" "0 0 0 100"
+					"color" "G_ItemMeterBorder"
 					"offset" "0 0"
 				}
 			}
@@ -39,7 +39,7 @@
 			{
 				"1"
 				{
-					"color" "0 0 0 100"
+					"color" "G_ItemMeterBorder"
 					"offset" "0 0"
 				}
 			}

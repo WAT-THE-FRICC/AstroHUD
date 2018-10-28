@@ -10,6 +10,8 @@
 		"ypos"			"0"
 		"wide"			"f0"
 		"tall"			"480"
+		"MeterFG" "QHUDChargeMeterFG"
+		"MeterBG" "QHUDChargeMeterBG"
 	}
 	
 	"ItemEffectMeterBG"

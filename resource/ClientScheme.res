@@ -98,7 +98,7 @@
 		"ListPanel.BgColor" "TransparentBlack"
 		"ListPanel.SelectedTextColor" "Black"
 		"ListPanel.SelectedBgColor" "ButtonBGSelect"
-		"ListPanel.SelectedOutOfFocusBgColor" "Red"
+		"ListPanel.SelectedOutOfFocusBgColor" "G_Highlight"
 		"ListPanel.EmptyListInfoTextColor" "G_Highlight_text"
 		
 		"Menu.TextColor" "255 255 255 255"
@@ -134,7 +134,7 @@
 		"RichText.TextColor" "Gray"
 		"RichText.BgColor" "Blank"
 		"RichText.SelectedTextColor" "Gray"
-		"RichText.SelectedBgColor" "Red"
+		"RichText.SelectedBgColor" "G_Highlight"
 		
 		"ScrollBarButton.FgColor" "Gray"
 		"ScrollBarButton.BgColor" "Blank"
@@ -151,8 +151,8 @@
 		"SectionedListPanel.TextColor" "G_Highlight_text"
 		"SectionedListPanel.BrightTextColor" "G_Highlight_text"
 		"SectionedListPanel.BgColor" "TransparentLightBlack"
-		"SectionedListPanel.SelectedTextColor" "Black"
-		"SectionedListPanel.SelectedBgColor" "Red"
+		"SectionedListPanel.SelectedTextColor" "White"
+		"SectionedListPanel.SelectedBgColor" "G_Highlight"
 		"SectionedListPanel.OutOfFocusSelectedTextColor" "Black"
 		"SectionedListPanel.OutOfFocusSelectedBgColor" "255 255 255 32"
 		
@@ -175,7 +175,7 @@
 		"ToggleButton.SelectedTextColor" "G_Highlight_text"
 		
 		"Tooltip.TextColor" "TransparentBlack"
-		"Tooltip.BgColor" "Red"
+		"Tooltip.BgColor" "G_Highlight"
 		
 		"TreeView.BgColor" "TransparentBlack"
 		

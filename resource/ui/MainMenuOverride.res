@@ -16,7 +16,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "v1.2.6"
+	"labeltext" "v1.2.7"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "150 150 150 255"
@@ -2516,7 +2516,7 @@
 "mouseinputenabled" "0"
 "matchgroup" "MatchGroup_Casual_12v12"
 "xp_source_notification_center_x" "-75"
-"show_model" "0"
+"show_model" "1"
 }
 "PlayLabel" 
 {

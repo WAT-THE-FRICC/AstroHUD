@@ -15,12 +15,12 @@
 			// to match this color. Currently it matches the background
 			"G_Highlight" 			"244 67 54 255"
 			"G_Highlight_text" 		"244 67 54 255"
-			//"G_Highlight_menuline" 	"193 0 55 255" // lines on main menu. DEPRECATED
 			"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
 			
 			// example colors
 			// 25 100 240 255 // blue
 			// 192 28 0 255 // dark red
+			// 193 0 55 255 // idk
 		
 		//
 		// TEAM COLORS
@@ -101,8 +101,9 @@
 		// MENU BACKGROUND
 		//	
 			// used in-game (sv_pure)
-			// or with the "No menu background" option
+			// or with the "Menu background - gray" option
 			"ya_MenuBG" 				"35 35 35 255"
+			"ya_pauseBG"				"35 35 35 0"
 			
 			// main menu bottom bar, some dialogs
 			"panelBG"					"30 30 30 255"

@@ -278,6 +278,25 @@
 		"fgcolor_override"		"255 255 255 255"
 		"fgcolor" "255 255 255 255"
 	}
+	"MapLabelBottomRight"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"		"MapLabelBottomRight"
+		"font" "m0refont11"
+		"labelText" "%maplabel%"
+		"textAlignment" "north-east"
+		"xpos" "r100"//c149"
+		"ypos" "r11"
+		"zpos" "30"
+		"wide" "100"
+		"tall" "15"
+		"autoResize" "0"
+		"pinCorner" "0"
+		"visible" "1"
+		"enabled" "1"
+		"fgcolor" "255 255 255 255"
+		"fgcolor_override"		"255 255 255 255"
+	}
 	"MapType" [$WINDOWS]
 	{
 		"ControlName"	"CExLabel"

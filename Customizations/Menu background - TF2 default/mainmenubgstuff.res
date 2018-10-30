@@ -16,7 +16,7 @@
 		"enabled" "1"
 		"image" "background_30-30-30"
 		"scaleImage" "1"
-		//"fillcolor"		"yA_menuBG"
+		//"fillcolor"		"30 30 30 127"
 		"if_wider" 
 		{
 		"wide" "f0"
@@ -32,8 +32,8 @@
 	{
 		"ControlName" "EditablePanel"
 		"fieldname" "CustomBG"
-		"xpos" "9990"
-		"ypos" "9990"//r55"
+		"xpos" "0"
+		"ypos" "0"//r55"
 		"zpos" "-199"
 		"wide" "f0"
 		"tall" "480"
@@ -67,8 +67,10 @@
 			"defaultFgColor_override" "255 255 255 255"
 			"armedFgColor_override" "G_Highlight"
 			"depressedFgColor_override" "G_Highlight"
-			"defaultbgcolor_override" "yA_menuBG"
-			"bgcolor_override" "yA_menuBG"
+			"defaultBgcolor_override" "30 30 30 127"
+			"armedBgcolor_override" "30 30 30 127"
+			"depressedBgcolor_override" "30 30 30 127"
+			"bgcolor_override" "30 30 30 127"
 			"image_drawcolor" "117 107 94 255"
 			"image_armedcolor" "235 226 202 255"
 			

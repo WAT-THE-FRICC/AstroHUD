@@ -653,7 +653,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 		//	"armedBgColor_override"		"CreditsGreen"
-		//	"defaultBgColor_override"	"GreenSolid"
+			"defaultBgColor_override"	"panelbg"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"

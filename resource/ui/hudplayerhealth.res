@@ -4,6 +4,7 @@
 
 #base "hudplayerhealth_default.res"
 #base "hudplayerhealth_status.res"
+#base "../../scripts/crosshairs.res"
 
 "Resource/UI/HudPlayerHealth.res" 
 {

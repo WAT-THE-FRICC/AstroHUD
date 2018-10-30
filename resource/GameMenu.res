@@ -1,5 +1,19 @@
 "GameMenu"
 {
+"CustomBg"
+{
+"label" " "
+"command" "engine echo "
+"OnlyAtMenu" "1"
+"subimage" ""
+}
+"CustomBgInGame"
+{
+"label" " "
+"command" "engine echo "
+"OnlyInGame" "1"
+"subimage" ""
+}
 "ResumeGameButton"
 {
 "label" "#MMenu_ResumeGame"

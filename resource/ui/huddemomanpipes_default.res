@@ -110,7 +110,7 @@
 		"dulltext" "0"
 		"brighttext" "0"
 		"font" "Secondary24"
-		"fgcolor" "255 255 255 255"
+		"fgcolor" "HUDNumbers"
 	}
 	"NumPipesLabelShadow" 
 	{

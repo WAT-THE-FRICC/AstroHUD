@@ -543,7 +543,7 @@
 		"tabPosition"		"0"
 		"settitlebarvisible"	"0"
 		"border"			"TFFatLineBorderOpaque"
-		"bgcolor_override"	"yA_menuBg"
+		"bgcolor_override"	"panelbg"
 		"PaintBackground"	"0"
 
 		"header_font"		"ItemFontNameLarge"
@@ -590,6 +590,7 @@
 			"autoresize"	"0"
 			
 			"linespacing"	"16"
+			"bgcolor_override" "0 0 0 0"
 		}
 		
 		"VoteParameterList"
@@ -607,6 +608,7 @@
 			"tabPosition"	"0"
 			"autoresize"	"0"
 			"linespacing"	"16"
+			"bgcolor_override" "0 0 0 0"
 		}
 
 		"ComboLabel"
@@ -647,13 +649,13 @@
 			"NumericInputOnly"	"0"
 			"unicode"			"0"
 			
-			"fgcolor_override"	"117 107 94 255"
-			"bgcolor_override"	"251 235 202 255"
-			"disabledFgColor_override" "117 107 94 255"
-			"disabledBgColor_override" "251 235 202 255"
-			"selectionColor_override" "251 235 202 255"
-			"selectionTextColor_override" "117 107 94 255"
-			"defaultSelectionBG2Color_override" "251 235 202 255"
+			"fgcolor_override"	"107 107 107 255"
+			"bgcolor_override"	"235 235 235 255"
+			"disabledFgColor_override" "107 107 107 255"
+			"disabledBgColor_override" "235 235 235 255"
+			"selectionColor_override" "235 235 235 255"
+			"selectionTextColor_override" "107 107 107 255"
+			"defaultSelectionBG2Color_override" "235 235 235 255"
 		}
 			
 		"CallVoteButton"

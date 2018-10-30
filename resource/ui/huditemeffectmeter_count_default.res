@@ -32,7 +32,29 @@
 		"dulltext" "0"
 		"brighttext" "0"
 		"font" "Secondary24"
-		"fgcolor" "255 255 255 255"
+		"fgcolor" "HUDNumbers"
+	}
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"		"CExLabel"
+		"fieldName"			"ItemEffectMeterCountShadow"
+		"xpos" "c-19"
+		"ypos" "351"//390
+		"ypos_minmode" "408"
+		"zpos" "2"
+		"wide" "40"
+		"tall" "24"
+		"autoResize" "1"
+		"pinCorner" "2"
+		"visible" "1"
+		"enabled" "1"
+		"tabPosition" "0"
+		"labelText" "%progresscount%"
+		"textAlignment" "north"
+		"dulltext" "0"
+		"brighttext" "0"
+		"font" "Secondary24"
+		"fgcolor" "QHUDShadow"
 	}
 	"ItemEffectMeterLabel"
 	{

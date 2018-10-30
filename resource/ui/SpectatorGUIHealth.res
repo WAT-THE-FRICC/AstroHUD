@@ -74,6 +74,23 @@
 //"fgcolor_override" "QHUDNormal"
 "fgcolor_override" "255 255 255 255"
 }
+"PlayerStatusHealthValueShadow" 
+{
+"ControlName" "Label"
+"fieldName" "SpectatorStatusHealthValueShadow"
+"xpos" "1"
+"ypos" "1"
+"zpos" "6"
+"wide" "30"
+"tall" "10"
+"visible" "1"
+"enabled" "1"
+"labeltext" "%Health%"
+"textAlignment" "center"
+"font" "Secondary18"
+//"fgcolor_override" "QHUDNormal"
+"fgcolor_override" "QHUDShadow"
+}
 "PlayerStatusPlayerLevel" 
 {
 "ControlName" "CExLabel"

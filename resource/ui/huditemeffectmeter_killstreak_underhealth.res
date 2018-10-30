@@ -21,7 +21,30 @@
 "brighttext" "0"
 "font" "Secondary24"
 "font_minmode" "Secondary18"
-"fgcolor_override" "255 255 255 255"
+"fgcolor_override" "HUDNumbers"
+}
+"ItemEffectMeterCountKillstreakShadow" 
+{
+"ControlName" "CExLabel"
+"fieldName" "ItemEffectMeterCountKillstreakShadow"
+"xpos" "c-164" //c-136
+"xpos_minmode" "c-139"
+"ypos" "351" //365
+"ypos_minmode" "370" 
+"zpos" "2"
+"wide" "50"
+"tall" "24"
+"pinCorner" "2"
+"visible" "1"
+"enabled" "1"
+"tabPosition" "0"
+"labelText" "%progresscount%"
+"textAlignment" "north-east"
+"dulltext" "0"
+"brighttext" "0"
+"font" "Secondary24"
+"font_minmode" "Secondary18"
+"fgcolor_override" "QHUDShadowCounter"
 }
 "KillStreakIcon"
 {

@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "vgui\replay\thumbnails\oldbg\bg_red"
+	"$baseTexture" "vgui\replay\thumbnails\oldbg\bg_blu"
 	"$vertexcolor" "1"
 	"$no_fullbright" "1"
 	"$ignorez" "1"

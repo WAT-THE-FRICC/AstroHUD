@@ -7,61 +7,194 @@
 		// OR YOU WILL BREAK THE HUD
 		//
 		
-		// This color value controls the color theme of the HUD
-		// you can also customize the button colors in the section below
-		"G_Highlight" 			"244 67 54 255"
-		"G_Highlight_text" 		"244 67 54 255"
-		"G_Highlight_menuline" 	"193 0 55 255" // lines on main menu
-		"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
+		//
+		// COLOR THEME
+		//
+			// This color value controls the color theme of the HUD
+			// you can also customize the button colors in the section below
+			// to match this color. Currently it matches the background
+			"G_Highlight" 			"244 67 54 255"
+			"G_Highlight_text" 		"244 67 54 255"
+			"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
+			
+			// example colors
+			// 25 100 240 255 // blue
+			// 192 28 0 255 // dark red
+			// 193 0 55 255 // idk
 		
-		"BlueTeamColor"		"33 150 243 255"
-		"RedTeamColor"		"244 67 54 255"
-		"HUDBlueTeam" "33 150 243 127"
-		"HUDRedTeam" "244 67 54 127"
+		//
+		// TEAM COLORS
+		//
+			// note that these do not change all of the elements
+			// because some of the programming restrictions
+			
+			"BlueTeamColor"		"33 150 243 255"
+			"RedTeamColor"		"244 67 54 255"
+			"HUDBlueTeam" "33 150 243 127"
+			"HUDRedTeam" "244 67 54 127"
+			"HUDBlueTeamSolid" "33 150 243 255"
+			"HUDRedTeamSolid" "244 67 54 255"
 		
-		"HUDBlueTeamSolid" "33 150 243 255"
-		"HUDRedTeamSolid" "244 67 54 255"
+		// HEALTH
+		//
+			"QHUDNormal" "0 170 127 255"
+			"QHUDOverheal" "0 175 255 255"
 		
-		// main colors
-		"QHUDNormal" "0 170 127 255"
-		"QHUDOverheal" "0 175 255 255"
-		"QHUDLow" "255 100 0 255"
-		"QHUDLowFlash" "255 0 0 255"
-		//"QHUDOverhealBar" 	// currently not in use,
-								// change QHUDOverheal instead
-		"QHUDLowBar" "255 49 49 153"
-		"QHUDMedicCharge1" "61 202 53 255"
-		"QHUDMedicCharge2" "19 165 12 255"
-		"QHUDChargeMeterFG" "255 255 255 255"
-		"QHUDChargeMeterBG" "0 0 0 170"
-		"QHUDChargeLabel" "0 200 255 255"
-		"QHUDAmmoInClip" "0 200 255 255"
-		"QHUDAmmoInReserve" "255 255 255 255"
-		"QHUDAmmoLowClip" "255 0 0 255"
-		"QHUDAmmoLowReserve" "255 49 49 255"
-		"QHUDLastDamage" "255 0 0 255"
-		"QHUDShadow" "75 75 75 200"//46 43 42 255"
+		//
+		// LOW HEALTH
+		//
+			"QHUDLow" "255 100 0 255"
+			"QHUDLowFlash" "255 0 0 255" // flashed during low health
+		
+			// currently not in use, change QHUDOverheal instead
+			//"QHUDOverhealBar"
+				
+			// used with "Health box behind number"
+			"QHUDLowBar" "255 49 49 153"
+		
+		//
+		// AMMO
+		//
+			"QHUDAmmoInClip" "0 200 255 255"
+			"QHUDAmmoInReserve" "255 255 255 255"
+			"QHUDAmmoLowClip" "255 0 0 255"
+			"QHUDAmmoLowReserve" "255 49 49 255"
+			
+		//
+		// UBERCHARGE
+		//
+			"QHUDChargeLabel" "0 200 255 255"
+			
+			// when fully charged, and the rainbow uber option disabled,
+			// uber meter and number switches between these two numbers
+			"QHUDMedicCharge1" "61 202 53 255"
+			"QHUDMedicCharge2" "19 165 12 255"
+			
+		//
+		// LAST DAMAGE DONE
+		//
+			"QHUDLastDamage" "255 0 0 255"
+		
+		//
+		// KILLSTREAK, METAL, STICKIES, ETC
+		//
+			"HUDNumbers" "255 255 255 255"
+		
+		//
+		// ITEM METERS
+		//
+			//"QHUDChargeMeterFG" "255 255 255 255" // does nothing.
+			"QHUDChargeMeterBG" "0 0 0 170"
+			
+			// only has an effect if "Meter borders" are enabled
+			"G_ItemMeterBorder" "0 0 0 255"
+			
+		//
+		// HUD PANEL BACKGROUND
+		//
+			// background for:
+			// build/disguise, target id,
+			// scoreboard player stats
+			"ya_HudBG"					"50 50 50 200"
+		
+		//
+		// MENU BACKGROUND
+		//	
+			// used in-game (sv_pure)
+			// or with the "Menu background - gray" option
+			"ya_MenuBG" 				"35 35 35 255"
+			"ya_pauseBG"				"35 35 35 0"
+			
+			// main menu bottom bar, some dialogs
+			"panelBG"					"30 30 30 255"
+			"panelBGtransparent"		"30 30 30 200"
+		
+        //
+		// BUTTONS
+		//
+			// currently set to match "ya_MenuBG"
+			"ButtonBG"              "35 35 35 255"       //Standard button color
+		
+		//
+		// SHADOWS
+		//
+			// change if you want the shadows to be darker
+			"QHUDShadow" "75 75 75 200"
+			
+			// shadowcounter is for killstreak and weapon counters
+			// change the last value to 200 to enable
+			"QHUDShadowCounter" "75 75 75 0" 
+		
+		//
+		// PARTY MEMBER COLORS
+		// on the top bar
+		//
+			"PartyMember1" "124 173 255 255"
+			"PartyMember2" "99  232 167 255"
+			"PartyMember3" "229 255 121 255"
+			"PartyMember4" "232 184 99  255"
+			"PartyMember5" "255 118 108 255"
+			"PartyMember6" "255 133 255 255"
+		
+		//
+		// ITEM QUALITY COLORS
+		//
+			"QualityColorNormal" "178 178 178 255"
+			"QualityColorrarity1" "77 116 85 255"
+			"QualityColorrarity2" "141 131 75 255"
+			"QualityColorrarity3" "112 85 15 255"
+			"QualityColorrarity4" "134 80 172 255"
+			"QualityColorVintage" "71 98 145 255"
+			"QualityColorUnique" "255 215 0 255"
+			"QualityColorCommunity" "112 176 74 255"
+			"QualityColorDeveloper" "165 15 121 255"
+			"QualityColorSelfMade" "112 176 74 255"
+			"QualityColorCustomized" "71 98 145 255"
+			"QualityColorStrange" "207 106 50 255"
+			"QualityColorCompleted" "134 80 172 255" // unusual
+			"QualityColorHaunted" "0 200 128 255"
+			"QualityColorCollectors" "131 0 0 255"
+			// greyed out colors are used on mouse hover
+			"QualityColorNormal_GreyedOut" "44 44 44 255"
+			"QualityColorrarity1_GreyedOut" "20 29 21 255"
+			"QualityColorrarity2_GreyedOut" "35 33 19 255"
+			"QualityColorrarity3_GreyedOut" "51 51 62 255"
+			"QualityColorrarity4_GreyedOut" "36 20 43 255"
+			"QualityColorVintage_GreyedOut" "18 25 36 255"
+			"QualityColorUnique_GreyedOut" "64 54 0  255"
+			"QualityColorCommunity_GreyedOut" "28 44 19 255"
+			"QualityColorDeveloper_GreyedOut" "41 4  30  255"
+			"QualityColorSelfMade_GreyedOut" "28 44 74 255"
+			"QualityColorCustomized_GreyedOut" "71 98 19 255"
+			"QualityColorStrange_GreyedOut" "52 27 13 255"
+			"QualityColorCompleted_GreyedOut" "34 20 43 255"
+			"QualityColorHaunted_GreyedOut" "14 61 43 255"
+			"QualityColorCollectors_GreyedOut" "32 0 0 255"
+			// weapon skins
+			"ItemLimitedQuantity" "225 209 0 255"
+			"QualityColorPaintkitWeapon" "250 250 250 255"
+			"ItemRarityDefault" "126 126 126 255" //131 126 119 255"
+			"ItemRarityCommon" "176 195 217 255"
+			"ItemRarityUncommon" "94 152 217 255"
+			"ItemRarityRare" "75 105 255 255"
+			"ItemRarityMythical" "136 71 255 255"
+			"ItemRarityLegendary" "211 44 230 255"
+			"ItemRarityAncient" "235 75 75 255"
+			"ItemRarityDefault_GreyedOut" "42 42 42 255" //44 42 40 255"
+			"ItemRarityCommon_GreyedOut" "59 65 72 255"
+			"ItemRarityUncommon_GreyedOut" "31 50 72 255"
+			"ItemRarityRare_GreyedOut" "25 35 85 255"
+			"ItemRarityMythical_GreyedOut" "45 24 85 255"
+			"ItemRarityLegendary_GreyedOut" "70 15 77 255"
+			"ItemRarityAncient_GreyedOut" "78 25 25 255"
+		
+		//////////////////////////////////////////////////////////
+		//		idk where everything after this are used		//
+		//		so don't edit anything below this line			//
+		//		(unless you know what you are doing)			//
+		//////////////////////////////////////////////////////////
+		
 		"QHUDBlank" "0 0 0 0"
-		
-		
-		
-        // buttons
-		"ButtonBG"              "35 35 35 255"       //Standard button color
-        "ButtonBGSelect"        "18 18 18 255"          // idk what this does
-        "ButtonFont"            "235 235 235 255"          //Font color
-        "ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
-        "ButtonFontSelect"      "255 255 255 255"       //Highlighted font color
-        
-        // misc
-        "ya_HudBG"                "50 50 50 200"             //Scoreboard, winpanel, item meters
-		"ya_MenuBG" 				"35 35 35 255"
-		"panelBG"					"30 30 30 255"
-		"panelBGtransparent"		"30 30 30 200"
-	
-		// idk where everything after this are used
-		// so don't edit anything below this line
-		// (unless you know what you are doing)
-		
 		"QHUDSmallBarHigh" "6 146 255 255"
 		"QHUDSmallBarNormal" "0 0 0 0"
 		"QHUDSmallBarLow" "255 49 49 255"
@@ -79,17 +212,14 @@
 		"SpecHealthNormal" "255 255 255 255"
 		"SpecHealthCyan" "6 146 255 255"
 		"SpecHealthRed" "255 49 49 255"
+		
+		// contracker
 		"QuestUncommitted" "183 147 100 255"
 		"QuestMap_Bonus" "222 217 166 255"
 		"QuestMap_ActiveOrange" "212 127 25 255"
 		"QuestMap_InactiveGrey" "100 100 100 255"
 		"QuestMap_BGImages" "58 58 58 255" //56 58 60 255"
-		"PartyMember1" "124 173 255 255"
-		"PartyMember2" "99  232 167 255"
-		"PartyMember3" "229 255 121 255"
-		"PartyMember4" "232 184 99  255"
-		"PartyMember5" "255 118 108 255"
-		"PartyMember6" "255 133 255 255"
+		
 		"Orange" "178 82 22 255"
 		"OrangeDim" "178 82 22 120"
 		"LightOrange" "188 112 0 128"
@@ -162,36 +292,6 @@
 		"ItemBundleItem" "149 175 12 255"
 		"ItemLimitedUse" "0 160 0 255"
 		"ItemFlags" "117 107 94 255"
-		"QualityColorNormal" "178 178 178 255"
-		"QualityColorrarity1" "77 116 85 255"
-		"QualityColorrarity2" "141 131 75 255"
-		"QualityColorrarity3" "112 85 15 255"
-		"QualityColorrarity4" "134 80 172 255"
-		"QualityColorVintage" "71 98 145 255"
-		"QualityColorUnique" "255 215 0 255"
-		"QualityColorCommunity" "112 176 74 255"
-		"QualityColorDeveloper" "165 15 121 255"
-		"QualityColorSelfMade" "112 176 74 255"
-		"QualityColorCustomized" "71 98 145 255"
-		"QualityColorStrange" "207 106 50 255"
-		"QualityColorCompleted" "134 80 172 255"
-		"QualityColorHaunted" "0 200 128 255"
-		"QualityColorCollectors" "131 0 0 255"
-		"QualityColorNormal_GreyedOut" "44 44 44 255"
-		"QualityColorrarity1_GreyedOut" "20 29 21 255"
-		"QualityColorrarity2_GreyedOut" "35 33 19 255"
-		"QualityColorrarity3_GreyedOut" "51 51 62 255"
-		"QualityColorrarity4_GreyedOut" "36 20 43 255"
-		"QualityColorVintage_GreyedOut" "18 25 36 255"
-		"QualityColorUnique_GreyedOut" "64 54 0  255"
-		"QualityColorCommunity_GreyedOut" "28 44 19 255"
-		"QualityColorDeveloper_GreyedOut" "41 4  30  255"
-		"QualityColorSelfMade_GreyedOut" "28 44 74 255"
-		"QualityColorCustomized_GreyedOut" "71 98 19 255"
-		"QualityColorStrange_GreyedOut" "52 27 13 255"
-		"QualityColorCompleted_GreyedOut" "34 20 43 255"
-		"QualityColorHaunted_GreyedOut" "14 61 43 255"
-		"QualityColorCollectors_GreyedOut" "32 0 0 255"
 		"SaleGreen" "76 107 34 255"
 		"LightRed" "200 80 60 255"
 		"LighterRed" "220 100 80 255"
@@ -208,26 +308,20 @@
 		"UpgradeDisabledFg" "55 55 55 255"
 		"UpgradeDisabledBg" "77 77 77 255"
 		"QuestGold" "208 147 75 255"
-		"ItemLimitedQuantity" "225 209 0 255"
-		"QualityColorPaintkitWeapon" "250 250 250 255"
-		"ItemRarityDefault" "126 126 126 255" //131 126 119 255"
-		"ItemRarityCommon" "176 195 217 255"
-		"ItemRarityUncommon" "94 152 217 255"
-		"ItemRarityRare" "75 105 255 255"
-		"ItemRarityMythical" "136 71 255 255"
-		"ItemRarityLegendary" "211 44 230 255"
-		"ItemRarityAncient" "235 75 75 255"
-		"ItemRarityDefault_GreyedOut" "42 42 42 255" //44 42 40 255"
-		"ItemRarityCommon_GreyedOut" "59 65 72 255"
-		"ItemRarityUncommon_GreyedOut" "31 50 72 255"
-		"ItemRarityRare_GreyedOut" "25 35 85 255"
-		"ItemRarityMythical_GreyedOut" "45 24 85 255"
-		"ItemRarityLegendary_GreyedOut" "70 15 77 255"
-		"ItemRarityAncient_GreyedOut" "78 25 25 255"
+
+		
+		// buttons
+		"ButtonBGSelect"        "18 18 18 255"          // idk what this does
+		"ButtonFont"            "235 235 235 255"          //Font color
+		"ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
+		"ButtonFontSelect"      "255 255 255 255"       //Highlighted font color
+		
+		//
+		// these might not do anything, but I included them when I forked some files
+		// in case they might break the HUD if not included
+		//
 		
 		//// SCOREBOARD, WINPANEL AND TARGETID ////
-        
-        
         
         "ya_NameLongBG"			"227 227 227 0"            //TargetID background
         "ya_NameBG"				"227 227 227 255"          //for fl
@@ -246,7 +340,6 @@
 		
         "ya_Main"					"227 227 227 255"       //Main menu font color
         "ya_MainHi"					"227 227 227 255"
-		
 		
 		"ya_Sc"						"18 18 18 255"				//shortcut buttons and tooltips
 		"ya_ScBG"					"227 227 227 255"	

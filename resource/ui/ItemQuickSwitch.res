@@ -15,8 +15,8 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
 		
-		"PaintBackgroundType"	"2"
-		"bgcolor_override"	"46 43 42 180"		
+		"PaintBackgroundType"	"0"
+		"bgcolor_override"	"yA_hudbg"		
 		"itempanel_xpos"	"0"
 		"itempanel_ydelta"	"0"
 		
@@ -24,22 +24,22 @@
 		{
 			"wide"			"220"
 			"tall"			"40"
-			"bgcolor_override"		"59 54 48 255"
+			"bgcolor_override"		"yA_hudbg"
 			"PaintBackgroundType"	"2"
 			"paintborder"	"0"
 			"text_forcesize" "2"
 			
-			"model_xpos"	"25"
+			"model_xpos"	"5"
 			"model_ypos"	"3"
 			"model_wide"	"58"		
 			"model_tall"	"34"
 			
 			"text_center"	"1"
-			"text_xpos"		"60"
+			"text_xpos"		"40"
 			"text_wide"		"190"
 			"name_only"		"1"
 			
-			"noitem_textcolor"		"117 107 94 255"
+			"noitem_textcolor"		"107 107 107 255"
 		}
 	}
 	
@@ -59,7 +59,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "200 80 60 0"
 	}
 	"ClassLabel"
 	{
@@ -68,7 +68,7 @@
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#ClassBeingEquipped"
 		"textAlignment"	"west"
-		"xpos"			"20"
+		"xpos"			"9920"
 		"ypos"			"5"
 		"zpos"			"1"
 		"wide"			"60"
@@ -85,11 +85,11 @@
 		"fieldName"		"ItemSlotLabel"
 		"font"			"HudFontSmallestBold"
 		"labelText"		"#PrimaryWeapon"
-		"textAlignment"	"west"
-		"xpos"			"80"
+		"textAlignment"	"center"
+		"xpos"			"0"
 		"ypos"			"5"
 		"zpos"			"1"
-		"wide"			"140"
+		"wide"			"270"
 		"tall"			"15"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -106,8 +106,8 @@
 		"zpos"			"2"
 		"wide"			"265"
 		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"loadout_dotted_line"
 		"tileImage"		"1"
 		"tileVertically" "0"
@@ -122,7 +122,7 @@
 		"wide"			"240"
 		"tall"			"125"
 		"PaintBackgroundType"	"2"
-		"fgcolor_override"	"59 54 48 255"
+		"fgcolor_override"	"White"
 		"bgcolor_override"	"200 187 161 0"
 		"autohide_buttons" "1"
 	}
@@ -152,7 +152,7 @@
 			"tall"			"40"
 			"visible"		"1"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override" "200 80 60 255"
+			"fgcolor_override" "White"
 			"bgcolor_override"	"0 0 0 0"
 		}
 	}
@@ -180,7 +180,7 @@
 	{
 		"ControlName"	"CLoadoutPresetPanel"
 		"FieldName"		"loadout_preset_panel"
-		"xpos"			"5"
+		"xpos"			"10"
 		"ypos"			"28"
 		"zpos"			"20"
 		"wide"			"25"

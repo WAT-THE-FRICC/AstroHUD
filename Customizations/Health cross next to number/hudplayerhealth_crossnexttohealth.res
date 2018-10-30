@@ -1,23 +1,18 @@
 "Resource/UI/HudPlayerHealth.res" 
 {
-	"HealthCrossAnchor"
+	"HudPlayerHealth" 
 	{
-		"ControlName"				         		"EditablePanel"
-		"fieldName"				         			"HealthCrossAnchor"
-		"xpos"					         			"c-210"
-		"ypos"					         			"300"
-		"wide"					         			"30"
-		"tall"					         			"30"
-		"visible"				         			"1"
-		"enabled"				         			"1"
+		"HealthBonusPosAdj"			"30" // Grow size
+		"HealthBonusPosAdj_minmode"	"20" // Grow size
+		"HealthDeathWarning"		"0.49" // Warning percent
 	}
 	
 	"PlayerStatusHealthImage"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"c-248"
-		"xpos_minmode"	"c-188"
+		"xpos"			"c-238"
+		"xpos_minmode"	"c-178"
 		"ypos"			"317"
 		"ypos_minmode"	"384"
 		"zpos"			"4"
@@ -33,8 +28,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"c-250"
-		"xpos_minmode"	"c-190"
+		"xpos"			"c-240"
+		"xpos_minmode"	"c-180"
 		"ypos"			"315"
 		"ypos_minmode"	"382"
 		"zpos"			"3"
@@ -51,15 +46,15 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"c-248"
-		"xpos_minmode"	"c-188"
-		"ypos"			"317"	
-		"ypos_minmode"	"384"
-		"zpos"			"2"
-		"wide"			"36"	
-		"wide_minmode"	"26"	
-		"tall"			"36"	
-		"tall_minmode"	"26"	
+		"xpos"			"c-240"
+		"xpos_minmode"	"c-180"
+		"ypos"			"315"
+		"ypos_minmode"	"382"
+		"zpos"			"3"
+		"wide"			"40"
+		"wide_minmode"	"30"
+		"tall"			"40"
+		"tall_minmode"	"30"	
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"

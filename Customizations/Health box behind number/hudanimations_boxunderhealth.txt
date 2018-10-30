@@ -10,8 +10,8 @@ event HudHealthBonusPulse
 	//Animate SpectatorStatusHealthvalue FgColor "QHUDOverheal" Accel 0.0 0.0
 
     Animate	HealthBG 	    BgColor		"QHUDOverheal"	Accel 0.0 0.0
-    Animate	HealthBG 	    Alpha		"255"		        Accel 0.0 0.3
-    Animate	HealthBG 	    Alpha		"255"		        Accel 0.3 0.6
+    Animate	HealthBG 	    Alpha		"200"		        Accel 0.0 0.3
+    Animate	HealthBG 	    Alpha		"200"		        Accel 0.3 0.6
     Animate	TargetHealthBG 	    BgColor		"QHUDOverheal"	Accel 0.0 0.0
     Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.0 0.0//.3
     Animate	TargetHealthBG 	    Alpha		"255"		        Accel 0.3 0.6

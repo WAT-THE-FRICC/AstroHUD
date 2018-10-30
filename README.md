@@ -21,6 +21,7 @@ Features:
 * Healing TargetID displays patient's ammo in clip, so medics can wait until reload finishes before using Ãœber
 * Vaccinator resistance indicator is where the ammo indicator would be, easily accessible. YouTuber Skymin stated she likes the resistance type to be easily accessible in Aar's YouTube Custom HUD video.
 * Disguise menu uses icons instead of class images. Easier to read, I find it.
+* Bottom left player model rotation defaults make it easier for spies to check Mediguns (especially Server-clearing Specialized Killstreak Long-@** name Healing Thing) and Sniper's Razorback (tip: when checking the Sniper's secondary, the Razorback will not show. If he does not have anything on his back or any type of secondary weapon, he is running Razorback.)
 
 Customizations (see the wiki page for more):
 * Currently supports custom fonts, just go to the AstroHUD/Customizations/[fontname]/clientscheme_astrofonts.res file, copy it, and paste it into AstroHUD/resource. It WILL overwrite the existing file but it is fine.

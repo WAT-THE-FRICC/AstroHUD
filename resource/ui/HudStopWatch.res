@@ -45,7 +45,7 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"0"
-		"ypos"				"40"	
+		"ypos"				"38"	
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
@@ -58,22 +58,26 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"Regular16"
 			"fgcolor"		"255 255 255 255" //"10 12 14 255"
-			"xpos"			"c53"
-			"ypos"			"-2"
+			"xpos"			"c67"
+			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"88"
+			"wide"			"60"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"
-		}	
+			"bgcolor_override" "yA_hudbg"
+		}
+		
+		// all the below BGs go unused
+		
 		"TimePanelValueBG"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValueBG"
 			"font"			"BlocksSharp64"
 			"fgcolor"	"White"
-			"labelText"		"1"
+			"labelText"		""
 			"textAlignment"		"west"
 			"xpos"			"c67"
 			"ypos"			"0"
@@ -91,7 +95,7 @@
 			"fieldName"		"TimePanelValueBG2"
 			"font"			"BlocksSharp64"
 			"fgcolor"		"White"
-			"labelText"		"1"
+			"labelText"		""
 			"textAlignment"		"west"
 			"xpos"			"c99"
 			"ypos"			"0"
@@ -109,7 +113,7 @@
 			"fieldName"		"StopWatchPointsLabelBG"
 			"font"			"BlocksSharp64"
 			"fgcolor"		"255 255 255 175"
-			"labelText"		"1"
+			"labelText"		""
 			"textAlignment"		"west"
 			"xpos"			"c-127"
 			"ypos"			"0"
@@ -121,6 +125,7 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"wrap"			"0"
+			"bgcolor_override" "White"
 		}
 		"StopWatchPointsLabelBG2"
 		{
@@ -128,7 +133,7 @@
 			"fieldName"		"StopWatchPointsLabelBG2"
 			"font"			"BlocksSharp64"
 			"fgcolor"		"255 255 255 175"
-			"labelText"		"1"
+			"labelText"		""
 			"textAlignment"		"west"
 			"xpos"			"c-95"
 			"ypos"			"0"
@@ -140,9 +145,21 @@
 			"visible"		"0"
 			"enabled"		"1"
 			"wrap"			"0"
+			"bgcolor_override" "White"
 		}
 	}
 
+	"ScoreBG"
+	{
+		"ControlName"		"CExLabel"
+		"xpos"				"c-127"
+		"ypos" 				"38"
+		"wide"				"60"
+		"tall"				"20"
+		"labelText"			""
+		"bgcolor_override"	"yA_hudbg"
+	}
+	
 	"StopWatchScoreToBeat"
 	{
 		"ControlName"		"CExLabel"
@@ -151,7 +168,7 @@
 		"labelText"		"%scoretobeat%"
 		"textAlignment"		"east"
 		"fgcolor"		"255 255 255 255" //"10 12 14 255"
-		"xpos"			"c-164"
+		"xpos"			"c-169"
 		"ypos"			"38" //-2
 		"zpos"			"4"
 		"wide"			"57"
@@ -169,7 +186,7 @@
 		"labelText"		"%pointslabel%"
 		"textAlignment"		"west"
 		"fgcolor"		"255 255 255 255" //"10 12 14 255"
-		"xpos"			"c-104"
+		"xpos"			"c-107"
 		"ypos"			"38" //-2
 		"zpos"			"3"
 		"wide"			"60"
@@ -243,4 +260,5 @@
 		"enabled"		"1"
 		"wrap"			"0"
 	}
+	
 }

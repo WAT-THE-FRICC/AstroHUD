@@ -1,6 +1,7 @@
 // This loads the custom font for console/server browser.
 // If you wish to have it default (for ETF2L status, for example) add comment lines // to the below line.
 #base "sourcescheme_custom.res"
+#base "clientscheme_colors.res"
 
 // NOTE: You'll need to restart the game if you edit this file while in game.
 
@@ -16,7 +17,7 @@ Scheme
 	// this is a list of all the colors used by the scheme
 	Colors
 	{
-		"G_Highlight"				"244 67 54 255"
+		//"G_Highlight"				"244 67 54 255"
 		
 		
 		// rayshud	

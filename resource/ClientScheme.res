@@ -103,7 +103,7 @@
 		
 		"Menu.TextColor" "255 255 255 255"
 		"Menu.BgColor" "yA_MenuBG"//TransparentBlack"
-		"Menu.ArmedTextColor" "TanDark"
+		"Menu.ArmedTextColor" "White"
 		"Menu.ArmedBgColor" "G_Highlight"
 		"Menu.TextInset" "6"
 		

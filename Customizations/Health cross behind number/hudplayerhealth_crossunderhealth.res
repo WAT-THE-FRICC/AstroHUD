@@ -20,7 +20,7 @@
 		"ControlName" "CExLabel"
 		"fieldName" "PlayerStatusHealthValue"
 		"xpos" "c-179"
-		"xpos_minmode" "c-159"
+		"xpos_minmode" "c-148"
 		"ypos" "310" //423
 		"ypos_minmode" "380"
 		"wide" "100"
@@ -39,7 +39,7 @@
 		"ControlName" "CExLabel"
 		"fieldName" "PlayerStatusHealthValueShadow"
 		"xpos" "c-178"
-		"xpos_minmode" "c-158"
+		"xpos_minmode" "c-147"
 		"ypos" "311" //423
 		"ypos_minmode" "381"
 		"zpos" "5"
@@ -56,13 +56,13 @@
 	"PlayerStatusHealthBonusImage"
 	{
 		"xpos" "c-156"
-		"xpos_minmode" "c-124"
+		"xpos_minmode" "c-109"
 		"ypos" "308" //423
-		"ypos_minmode" "381"
+		"ypos_minmode" "385"
 		"wide"			"55"
-		"wide_minmode"	"30"
+		"wide_minmode"	"22"
 		"tall"			"55"
-		"tall_minmode"	"30"
+		"tall_minmode"	"22"
 		"visible"													"1"
 		"enabled"													"1"
 		"scaleImage"	"1"	

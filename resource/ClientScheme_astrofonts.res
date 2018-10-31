@@ -22,7 +22,7 @@
 //#base "customfonts/TF2-Secondary.res"
 
 // These are menu font themes
-//#base "customfonts/TF2theme.res" // font is a bit wide, stuff might overfl...
+//#base "customfonts/TF2theme.res"
 //#base "customfonts/RaysHUDtheme.res" // rayshud in-game colors included
 
 "Scheme" 

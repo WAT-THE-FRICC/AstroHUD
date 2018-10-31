@@ -1,4 +1,4 @@
-#base "scoreboard_side.res"
+#base "scoreboard_split.res"
 #base "scoreboard_centered.res"
 
 "Resource/UI/Scoreboard.res" 

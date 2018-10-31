@@ -1,6 +1,6 @@
 This removes the nebula background on the main menu
-and turns the background into a dull gray,
-similar to Hypnotize HUD or Flarepunch
+and turns the background into a custom color.
+By default it is dark gray, similar to Hypnotize HUD or Flarepunch
 
 Copy the files into
 AstroHUD/resource/ui/

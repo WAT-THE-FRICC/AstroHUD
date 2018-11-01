@@ -70,8 +70,21 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "50"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
+		"Secondary36"
+		{
+			"1"
+			{
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -81,7 +94,8 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -92,7 +106,8 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -103,7 +118,8 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -114,7 +130,8 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -125,7 +142,8 @@
 		{
 			"1"
 			{
-				"name" "Open Sans Semibold"
+				"name" "Roboto Medium" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"

@@ -75,7 +75,7 @@
 "AstroHUD"
 {
 	"ControlName" "Label"
-	"fieldname" "Astro"
+	"fieldname" "AstroHUD"
 	"xpos" "c-90"
 	"ypos" "120"
 	"zpos" "11"

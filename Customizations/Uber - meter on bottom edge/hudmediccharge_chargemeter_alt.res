@@ -7,6 +7,7 @@
 		"font"			"Default"
 		"xpos"			"0"
 		"ypos"			"r6"		//r8
+		"ypos_minmode"	"r6"
 		"zpos"			"12"
 		"wide"			"f0"
 		"tall"			"7"			//9	

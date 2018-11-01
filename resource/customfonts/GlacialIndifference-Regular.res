@@ -71,6 +71,17 @@
 				"outline" "0"
 			}
 		}
+		"Secondary36"
+		{
+			"1"
+			{
+				"name" "GlacialIndifference-Regular"
+				"tall" "36"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+			}
+		}
 		"Secondary24"
 		{
 			"1"

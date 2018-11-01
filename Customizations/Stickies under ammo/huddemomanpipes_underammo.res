@@ -153,7 +153,7 @@
 "ControlName" "CTFImagePanel"
 "fieldName" "PipeIcon"
 "xpos" "c90"
-"ypos" "360"
+"ypos" "355"
 "ypos_minmode" "412"
 "wide" "15"
 "tall" "15"

@@ -1484,7 +1484,7 @@
 	"xpos" "-10"
 	"ypos" "-5"//301"
 	"zpos" "11"
-	"wide" "100"
+	"wide" "150"
 	"tall" "14"
 	"visible" "1"
 	"PaintBackgroundType" "2"

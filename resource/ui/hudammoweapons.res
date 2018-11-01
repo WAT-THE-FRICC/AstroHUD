@@ -46,7 +46,7 @@
 "ypos" "310"//423
 "ypos_minmode" "380"
 "zpos" "6"
-"wide" "100"
+"wide" "150"
 "tall" "50"
 "visible" "1"
 "enabled" "1"

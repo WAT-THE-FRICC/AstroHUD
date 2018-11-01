@@ -1796,8 +1796,8 @@
 		"defaultFgColor_override" "50 50 50 255"
 		"armedFgColor_override" "G_Highlight"
 		"depressedFgColor_override" "50 50 50 255"
-		"image_drawcolor" "117 107 94 255"
-		"image_armedcolor" "200 80 60 255"
+		"image_drawcolor" "107 107 107 255"
+		"image_armedcolor" "G_Highlight"
 		"SubImage" 
 		{
 			"ControlName" "ImagePanel"
@@ -1828,7 +1828,7 @@
 	"pinCorner" "0"
 	"visible" "1"
 	"enabled" "1"
-	"fgcolor_override" "46 43 42 255"
+	"fgcolor_override" "White"
 	"wrap" "1"
 	}
 	"Notifications_Scroller" 
@@ -1840,7 +1840,7 @@
 	"wide" "210"
 	"tall" "135"
 	"PaintBackgroundType" "2"
-	"fgcolor_override" "117 107 94 255"
+	"fgcolor_override" "White"
 		"Notifications_Control" 
 		{
 		"ControlName" "CMainMenuNotificationsControl"

@@ -1,10 +1,6 @@
 // ToonHUD's Montserrat font
-// to further ToonHUDify,
-// go to resource/ClientScheme.res
-// Ctrl+F find everything with
-// "GlacialIndifference-Regular"
-// and replace with
-// "Montserrat"
+
+#base "montserrat_menufonts.res"
 
 "Scheme"
 {

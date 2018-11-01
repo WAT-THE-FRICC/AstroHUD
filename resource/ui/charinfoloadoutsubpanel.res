@@ -283,10 +283,10 @@
 	{
 		"ControlName"		"ImageButton"
 		"fieldName"			"ShowBackpackButton"
-		"xpos"				"c-250"
+		"xpos"				"c-260"
 		"ypos"				"275"	//297"
 		"zpos"				"6"
-		"wide"				"120"
+		"wide"				"140"
 		"tall"				"68"	//24"
 		"autoResize"		"0"
 		"pinCorner"			"0"

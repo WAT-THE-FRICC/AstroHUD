@@ -1,6 +1,7 @@
+#base "clientscheme_themes.res"
 #base "ClientScheme_astrofonts.res"
 #base "ClientScheme_borders.res"
-#base "ClientScheme_fonts.res"
+#base "ClientScheme_menufonts.res"
 #base "ClientScheme_colors.res"
 #base "../resource/crosshairs/crosshairscheme.res"
 

@@ -1,12 +1,10 @@
 // to further rayshud-ify this HUD,
-// go to resource/ClientScheme.res
-// Ctrl+F find everything with
-// "GlacialIndifference-Regular"
-// and replace with
-// "Cerbetica"
+// use the rayshudtheme customization
 
 // raysHUD can be found here at:
 // https://github.com/raysfire/rayshud/
+
+#base "rayshud-cerbetica_menufonts.res"
 
 "Scheme"
 {

@@ -13,9 +13,9 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color. Currently it matches the background
-			"G_Highlight" 			"244 67 54 255"
-			"G_Highlight_text" 		"244 67 54 255"
-			"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
+			"G_Highlight" 			"25 100 240 255"
+			"G_Highlight_text" 		"25 100 240 255"
+			"ButtonBGArmed"         "25 100 240 255"//72 72 72 255"       //Armed BG color
 			
 			// example colors
 			// 25 100 240 255 // blue
@@ -37,14 +37,14 @@
 		
 		// HEALTH
 		//
-			"QHUDNormal" "0 170 127 255"
+			"QHUDNormal" "216 0 255 255"
 			"QHUDOverheal" "0 175 255 255"
 		
 		//
 		// LOW HEALTH
 		//
 			"QHUDLow" "255 100 0 255"
-			"QHUDLowFlash" "0 0 0 255" // flashed during low health
+			"QHUDLowFlash" "255 0 0 255" // flashed during low health
 		
 			// currently not in use, change QHUDOverheal instead
 			//"QHUDOverhealBar"
@@ -56,7 +56,7 @@
 		// AMMO
 		//
 			"QHUDAmmoInClip" "0 200 255 255"
-			"QHUDAmmoInReserve" "255 255 255 255"
+			"QHUDAmmoInReserve" "204 185 0 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			
@@ -78,13 +78,13 @@
 		//
 		// KILLSTREAK, METAL, STICKIES, ETC
 		//
-			"HUDNumbers" "255 255 255 255"
+			"HUDNumbers" "255 100 0 255"
 		
 		//
 		// ITEM METERS
 		//
 			//"QHUDChargeMeterFG" "255 255 255 255" // does nothing.
-			"QHUDChargeMeterBG" "0 0 0 170"
+			"QHUDChargeMeterBG" "0 237 169 170"
 			
 			// only has an effect if "Meter borders" are enabled
 			"G_ItemMeterBorder" "0 0 0 255"
@@ -102,28 +102,28 @@
 		//	
 			// used in-game (sv_pure)
 			// or with the "Menu background - gray" option
-			"ya_MenuBG" 				"35 35 35 255"
-			"ya_pauseBG"				"35 35 35 0"
+			"ya_MenuBG" 				"5 28 109 255"
+			"ya_pauseBG"				"5 28 109 175"
 			
 			// main menu bottom bar, some dialogs
-			"panelBG"					"30 30 30 255"
-			"panelBGtransparent"		"30 30 30 200"
+			"panelBG"					"0 130 142 255"
+			"panelBGtransparent"		"0 130 142 200"
 		
         //
 		// BUTTONS
 		//
 			// currently set to match "ya_MenuBG"
-			"ButtonBG"              "35 35 35 255"       //Standard button color
+			"ButtonBG"              "35 150 35 255"       //Standard button color
 		
 		//
 		// SHADOWS
 		//
 			// change if you want the shadows to be darker
-			"QHUDShadow" "75 75 75 200"
+			"QHUDShadow" "200 0 0 200"
 			
 			// shadowcounter is for killstreak and weapon counters
 			// change the last value to 200 to enable
-			"QHUDShadowCounter" "75 75 75 0" 
+			"QHUDShadowCounter" "200 0 0 255" 
 		
 		//
 		// PARTY MEMBER COLORS

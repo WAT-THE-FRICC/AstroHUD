@@ -2,6 +2,8 @@
 // note that this font is really really wide and may break things
 // use at your own risk
 
+#base "orbitron_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 

@@ -1,0 +1,6 @@
+RaysHUD-ifiyah instructions (with cringey raysfiyah name pun)
+
+If you can't give up the L&F of raysHUD, here's what you need to do:
+
+Enable the "Health cross behind number" customization
+Copy rayshudtheme.res into AstroHUD/resource/

@@ -1,3 +1,5 @@
+#base "bahnschrift-win10only_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 

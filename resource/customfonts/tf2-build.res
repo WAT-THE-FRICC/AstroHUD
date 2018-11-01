@@ -1,3 +1,4 @@
+#base "tf2_menufonts.res"
 "Scheme"
 {
 	"Fonts" 

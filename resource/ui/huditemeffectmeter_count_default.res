@@ -54,7 +54,7 @@
 		"dulltext" "0"
 		"brighttext" "0"
 		"font" "Secondary24"
-		"fgcolor" "QHUDShadow"
+		"fgcolor" "QHUDShadowCounter"
 	}
 	"ItemEffectMeterLabel"
 	{

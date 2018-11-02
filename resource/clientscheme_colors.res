@@ -1,40 +1,35 @@
+//
+// DO NOT EDIT THE COLOR NAMES
+// OR YOU WILL BREAK THE HUD
+//
+		
+
 "Scheme"
 {
 	"Colors" 
 	{
 		//
-		// DO NOT EDIT THE COLOR NAMES
-		// OR YOU WILL BREAK THE HUD
+		// Common colors for reference:
 		//
 		
-		//
-		// COLOR THEME
-		//
-			// This color value controls the color theme of the HUD
-			// you can also customize the button colors in the section below
-			// to match this color. Currently it matches the background
-			"G_Highlight" 			"244 67 54 255"
-			"G_Highlight_text" 		"244 67 54 255"
-			"ButtonBGArmed"         "244 67 54 255"//72 72 72 255"       //Armed BG color
-			
-			// example colors
-			// 25 100 240 255 // blue
-			// 192 28 0 255 // dark red
-			// 193 0 55 255 // idk
+		// Green: 0 200 0
+		// Red: 220 0 0
+		// Blue: 25 100 240
+		// Yellow: 235 235 0
+		// Orange: 255 100 0
+		// Purple: 190 0 255
+		
+		// Black: 0 0 0
+		// White: 255 255 255
+		// Gray: depending on tone, all 3 numbers should be the same.
+		
+		// Don't forget the last number (opacity)!
+		
+		//////////////////////////////
+		//		IN-GAME HUD			//
+		//////////////////////////////
 		
 		//
-		// TEAM COLORS
-		//
-			// note that these do not change all of the elements
-			// because some of the programming restrictions
-			
-			"BlueTeamColor"		"33 150 243 255"
-			"RedTeamColor"		"244 67 54 255"
-			"HUDBlueTeam" "33 150 243 127"
-			"HUDRedTeam" "244 67 54 127"
-			"HUDBlueTeamSolid" "33 150 243 255"
-			"HUDRedTeamSolid" "244 67 54 255"
-		
 		// HEALTH
 		//
 			"QHUDNormal" "0 170 127 255"
@@ -98,6 +93,56 @@
 			"ya_HudBG"					"50 50 50 200"
 		
 		//
+		// SHADOWS
+		//
+			// change if you want the shadows to be darker
+			"QHUDShadow" "75 75 75 200"
+			
+			// shadowcounter is for killstreak and weapon counters
+			// stickies and metal have it enabled thru QHUDShadow
+			// change the last value to 200 to enable
+			"QHUDShadowCounter" "75 75 75 0" 
+		
+		//////////////////////////////
+		//			MENUS			//
+		//////////////////////////////
+		
+		//
+		// COLOR THEME
+		//
+			// This color value controls the color theme of the HUD
+			// you can also customize the button colors in the section below
+			// to match this color
+			"G_Highlight" 			"244 67 54 255"
+			
+			// This controls the "Items" menu buttons
+			// and some title text elements
+			// Best to match G_Highlight
+			"G_Highlight_text" 		"244 67 54 255"
+			
+			// example colors
+			// 25 100 240 255 // blue
+			// 192 28 0 255 // dark red
+			// 193 0 55 255 // idk
+			
+        //
+		// BUTTONS
+		//
+		
+			// default
+			"ButtonBG"              "35 35 35 255"		// currently set to match "ya_MenuBG"
+			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
+			
+			// mouse hover
+			"ButtonBGArmed"         "244 67 54 255"		// recommended to match "G_Highlight" above
+			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
+			
+			// idk what these do, set it the same as the armed
+			"ButtonBGSelect"        "244 67 54 255"
+			"ButtonFontSelect"      "255 255 255 255"
+			
+			
+		//
 		// MENU BACKGROUND
 		//	
 			// used in-game (sv_pure)
@@ -108,34 +153,41 @@
 			// main menu bottom bar, some dialogs
 			"panelBG"					"30 30 30 255"
 			"panelBGtransparent"		"30 30 30 200"
-		
-        //
-		// BUTTONS
-		//
-			// currently set to match "ya_MenuBG"
-			"ButtonBG"              "35 35 35 255"       //Standard button color
-		
-		//
-		// SHADOWS
-		//
-			// change if you want the shadows to be darker
-			"QHUDShadow" "75 75 75 200"
 			
-			// shadowcounter is for killstreak and weapon counters
-			// change the last value to 200 to enable
-			"QHUDShadowCounter" "75 75 75 0" 
+		
 		
 		//
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
-			"PartyMember1" "124 173 255 255"
-			"PartyMember2" "99  232 167 255"
-			"PartyMember3" "229 255 121 255"
-			"PartyMember4" "232 184 99  255"
-			"PartyMember5" "255 118 108 255"
-			"PartyMember6" "255 133 255 255"
-		
+			"PartyMember1" "244 67 54 255"
+			"PartyMember2" "244 67 54 220"
+			"PartyMember3" "244 67 54 195"
+			"PartyMember4" "244 67 54 170"
+			"PartyMember5" "244 67 54 145"
+			"PartyMember6" "244 67 54 120"
+			
+			// default:
+			//"PartyMember1" "124 173 255 255"
+			//"PartyMember2" "99  232 167 255"
+			//"PartyMember3" "229 255 121 255"
+			//"PartyMember4" "232 184 99  255"
+			//"PartyMember5" "255 118 108 255"
+			//"PartyMember6" "255 133 255 255"
+			
+		//
+		// TEAM COLORS
+		//
+			// note that these do not change all of the elements
+			// because some of the programming restrictions
+			
+			"BlueTeamColor"		"33 150 243 255"
+			"RedTeamColor"		"244 67 54 255"
+			"HUDBlueTeam"		"33 150 243 127"
+			"HUDRedTeam" 		"244 67 54 127"
+			"HUDBlueTeamSolid"	"33 150 243 255"
+			"HUDRedTeamSolid"	"244 67 54 255"
+			
 		//
 		// ITEM QUALITY COLORS
 		//
@@ -268,7 +320,7 @@
 		"LowHealthRed" "255 0 0 255"
 		"ProgressOffWhite" "251 235 202 255"
 		"ProgressBackground" "250 234 201 51"
-		"HealthBgGrey" "72 71 69 255"
+		"HealthBgGrey" "71 71 71 255"
 		"ProgressOffWhiteTransparent" "251 235 202 128"
 		"LabelDark" "43 43 43 255"
 		"LabelTransparent" "109 96 80 180"
@@ -310,11 +362,7 @@
 		"QuestGold" "208 147 75 255"
 
 		
-		// buttons
-		"ButtonBGSelect"        "18 18 18 255"          // idk what this does
-		"ButtonFont"            "235 235 235 255"          //Font color
-		"ButtonFontArmed"       "255 255 255 255"       //Highlighted font color
-		"ButtonFontSelect"      "255 255 255 255"       //Highlighted font color
+		
 		
 		//
 		// these might not do anything, but I included them when I forked some files

@@ -111,8 +111,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 
-			"image_drawcolor"	"TanLight"
-			"image_armedcolor"	"TanLight"
+			"image_drawcolor"	"ButtonFont"
+			"image_armedcolor"	"ButtonFontArmed"
 
 			"SubImage"
 			{
@@ -535,7 +535,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"armedBgColor_override"		"192 28 0 255"
-			"defaultBgColor_override"	"192 28 0 150"
+			"defaultBgColor_override"	"175 26 0 255"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"
@@ -594,7 +594,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"armedBgColor_override"		"192 28 0 255"
-			"defaultBgColor_override"	"192 28 0 150"
+			"defaultBgColor_override"	"175 26 0 255"
 
 			"defaultFgColor_override" "TanLight"
 			"armedFgColor_override" "TanLight"

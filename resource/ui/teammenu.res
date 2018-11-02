@@ -130,8 +130,9 @@
 "font" "m0refont13"
 "fgcolor" "White"
 "defaultBgColor_override" "Blank"
-"armedBgColor_override" "0 200 0 150"
-"selectedBgColor_override" "0 150 0 255"
+"armedFgColor_override" "0 0 0 255"
+"armedBgColor_override" "White"
+"selectedBgColor_override" "White"
 }
 "SpectateButton" 
 {
@@ -155,8 +156,9 @@
 "font" "m0refont13"
 "fgcolor" "White"
 "defaultBgColor_override" "Blank"
-"armedBgColor_override" "0 200 0 150"
-"selectedBgColor_override" "0 150 0 255"
+"armedFgColor_override" "0 0 0 255"
+"armedBgColor_override" "White"
+"selectedBgColor_override" "White"
 }
 "ShadedBar" 
 {

@@ -528,6 +528,8 @@
 		"Command"		"characterloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+		"image_drawcolor" "ButtonFont"
+		"image_armedcolor" "ButtonFontArmed"
 
 		"SubImage"
 		{
@@ -566,7 +568,9 @@
 		"Command"		"tauntloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-
+		//"image_drawcolor" "ButtonFont"
+		//"image_armedcolor" "ButtonFontArmed"
+		
 		"SubImage"
 		{
 			"ControlName"	"ImagePanel"

@@ -30,7 +30,7 @@
 		"Econ.Button.DepressedBgColor" "ButtonBGSelect"
 		"Econ.Button.DepressedFgColor" "ButtonFontSelect"
 		
-		"Econ.Button.PresetDefaultColorFg" "ButtonFont"
+		"Econ.Button.PresetDefaultColorFg" "ButtonFontArmed"
 		"Econ.Button.PresetArmedColorFg" "ButtonFontArmed"
 		"Econ.Button.PresetDepressedColorFg" "ButtonFontSelect"
 		

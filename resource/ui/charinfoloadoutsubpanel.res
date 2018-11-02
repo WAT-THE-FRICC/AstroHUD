@@ -306,7 +306,7 @@
 		
 		"fgcolor"			"ya_MenuHi"
 		"defaultFgColor_override" "ya_MenuHi"
-		"armedFgColor_override" "ButtonBGArmed"
+		"armedFgColor_override" "G_Highlight_text"
 		//"armedFgColor_override" "ya_MenuHi"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
@@ -359,7 +359,7 @@
 		
 		"fgcolor"			"ya_MenuHi"
 		"defaultFgColor_override" "ya_MenuHi"
-		"armedFgColor_override" "ButtonBGArmed"
+		"armedFgColor_override" "G_Highlight_text"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
 		//"armedBgColor_override" "ButtonBGArmed"
@@ -409,7 +409,7 @@
 		
 		"fgcolor"			"ya_MenuHi"
 		"defaultFgColor_override" "ya_MenuHi"
-		"armedFgColor_override" "ButtonBGArmed"
+		"armedFgColor_override" "G_Highlight_text"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
 		//"armedBgColor_override" "ButtonBGArmed"
@@ -459,7 +459,7 @@
 		
 		"fgcolor"			"ya_MenuHi"
 		"defaultFgColor_override" "ya_MenuHi"
-		"armedFgColor_override" "ButtonBGArmed"
+		"armedFgColor_override" "G_Highlight_text"
 		//"armedFgColor_override" "ya_MenuHi"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
@@ -512,7 +512,7 @@
 		
 		"fgcolor"			"ya_MenuHi"
 		"defaultFgColor_override" "ya_MenuHi"
-		"armedFgColor_override" "ButtonBGArmed"
+		"armedFgColor_override" "G_Highlight_text"
 		"depressedFgColor_override" "ya_MenuHi"
 		"selectedFgColor_override" "ya_MenuHi"
 		//"armedBgColor_override" "ButtonBGArmed"

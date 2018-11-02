@@ -2,8 +2,8 @@
 {
 	"HudPlayerHealth" 
 	{
-		"HealthBonusPosAdj"			"30" // Grow size
-		"HealthBonusPosAdj_minmode"	"20" // Grow size
+		"HealthBonusPosAdj"			"35" // Grow size
+		"HealthBonusPosAdj_minmode"	"25" // Grow size
 		"HealthDeathWarning"		"0.49" // Warning percent
 	}
 	

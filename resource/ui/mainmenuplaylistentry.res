@@ -84,8 +84,8 @@
 		//"armedFgColor_override"		"TanLight"
 		//"depressedFgColor_override" "TanLight"
 		"defaultFgColor_override" "255 255 255 255"
-		"armedFgColor_override" "G_Highlight"
-		"depressedFgColor_override" "G_Highlight"
+		"armedFgColor_override" "G_Highlight_text"
+		"depressedFgColor_override" "G_Highlight_text"
 		
 		//"defaultBgColor_override" "0 0 0 255"
 		//"bgColor_override" "0 0 0 255"

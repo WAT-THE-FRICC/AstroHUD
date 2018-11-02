@@ -86,6 +86,6 @@
 		"defaultBgColor_override"	"0 0 0 0"
 
 		"defaultFgColor_override"	"255 255 255 255"
-		"armedFgColor_override"	"G_Highlight"
+		"armedFgColor_override"	"255 0 0 255"
 	}
 }

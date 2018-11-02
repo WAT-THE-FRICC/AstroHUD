@@ -200,6 +200,8 @@
 "command" "jointeam blue"
 "defaultBgColor_override" "Blank"
 "armedBgColor_override" "Blank"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "RedCount" 
 {
@@ -224,6 +226,8 @@
 "command" "jointeam red"
 "defaultBgColor_override" "Blank"
 "armedBgColor_override" "Blank"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "blueframe" 
 {
@@ -246,6 +250,8 @@
 "command" "jointeam blue"
 "defaultBgColor_override" "HUDBlueTeam"
 "armedBgColor_override" "HUDBlueTeamSolid"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "redframe" 
 {
@@ -268,6 +274,8 @@
 "textAlignment" "west"
 "defaultBgColor_override" "HUDRedTeam"
 "armedBgColor_override" "HUDRedTeamSolid"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "BlueLabel" 
 {

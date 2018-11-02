@@ -146,14 +146,14 @@
 		"ScrollBarSlider.FgColor" "Gray"
 		"ScrollBarSlider.BgColor" "Blank"
 		
-		"SectionedListPanel.HeaderTextColor" "G_Highlight_text"
+		"SectionedListPanel.HeaderTextColor" "G_Highlight"
 		"SectionedListPanel.HeaderBgColor" "Blank"
 		"SectionedListPanel.DividerColor" "Black"
 		"SectionedListPanel.TextColor" "G_Highlight_text"
 		"SectionedListPanel.BrightTextColor" "G_Highlight_text"
 		"SectionedListPanel.BgColor" "TransparentLightBlack"
-		"SectionedListPanel.SelectedTextColor" "White"
-		"SectionedListPanel.SelectedBgColor" "G_Highlight"
+		"SectionedListPanel.SelectedTextColor" "ButtonFontArmed"
+		"SectionedListPanel.SelectedBgColor" "ButtonBGArmed"
 		"SectionedListPanel.OutOfFocusSelectedTextColor" "Black"
 		"SectionedListPanel.OutOfFocusSelectedBgColor" "255 255 255 32"
 		

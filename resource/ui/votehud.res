@@ -544,10 +544,10 @@
 		"settitlebarvisible"	"0"
 		"border"			"TFFatLineBorderOpaque"
 		"bgcolor_override"	"panelbg"
-		"PaintBackground"	"0"
+		"PaintBackground"	"1"
 
 		"header_font"		"ItemFontNameLarge"
-		"header_fgcolor"	"Orange"
+		"header_fgcolor"	"White"
 
 		"issue_width"		"180"		
 		"issue_font"		"ItemFontNameSmall"
@@ -572,6 +572,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"wrap"			"0"
+			"fgcolor_override" "G_Highlight"
 		}
 									
 		"VoteSetupList"
@@ -651,8 +652,8 @@
 			
 			"fgcolor_override"	"107 107 107 255"
 			"bgcolor_override"	"235 235 235 255"
-			"disabledFgColor_override" "107 107 107 255"
-			"disabledBgColor_override" "235 235 235 255"
+			"disabledFgColor_override" "107 107 107 0"
+			"disabledBgColor_override" "235 235 235 0"
 			"selectionColor_override" "235 235 235 255"
 			"selectionTextColor_override" "107 107 107 255"
 			"defaultSelectionBG2Color_override" "235 235 235 255"

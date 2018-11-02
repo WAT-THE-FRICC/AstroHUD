@@ -154,7 +154,10 @@
 			"panelBG"					"30 30 30 255"
 			"panelBGtransparent"		"30 30 30 200"
 			
-		
+		//
+		// BACKPACK ITEM HOVER INFO
+		//
+			"LoadoutItemPopupBorder_bg" "30 30 30 255"
 		
 		//
 		// PARTY MEMBER COLORS

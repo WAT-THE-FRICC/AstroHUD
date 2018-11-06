@@ -1,3 +1,4 @@
+// this file no longer does anything
 "Resource/UI/HudMedicCharge.res" 
 {
 	"ChargeMeter"

@@ -1,5 +1,6 @@
 #base "huditemeffectmeter_killstreak_bottomleft.res"
 #base "huditemeffectmeter_killstreak_bottomright.res"
+#base "huditemeffectmeter_killstreak_centeredminmode.res"
 #base "huditemeffectmeter_killstreak_underhealth.res"
 
 "Resource/UI/HudItemEffectMeter_Demoman.res" 

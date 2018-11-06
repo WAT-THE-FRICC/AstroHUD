@@ -49,8 +49,8 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "Astro50"
-"font_minmode" "Astro32"
+"font" "AstroBlur50"
+"font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
 }
 	

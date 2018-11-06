@@ -18,6 +18,8 @@
 //#base "customfonts/Lato-Black.res"
 //#base "customfonts/Lato-Bold-budHUD.res"
 //#base "customfonts/RaysHUD-Cerbetica.res"
+//#base "customfonts/codeprobold.res"
+//#base "customfonts/codeprolc-ahud.res"
 //#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
@@ -128,6 +130,16 @@
 		{
 		"font" "resource/customfonts/Roboto-Medium.ttf"
 		"name" "Roboto Medium"
+ 		}
+		"28"
+		{
+		"font" "resource/customfonts/CodeProBold.otf"
+		"name" "Code Pro Bold"
+ 		}
+		"29"
+		{
+		"font" "resource/customfonts/CodeProLC.otf"
+		"name" "Code Pro LC"
  		}
  		
  		

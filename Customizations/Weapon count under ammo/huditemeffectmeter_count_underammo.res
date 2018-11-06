@@ -55,7 +55,7 @@
 		"textAlignment" "north"
 		"dulltext" "0"
 		"brighttext" "0"
-		"font" "Secondary24"
+		"font" "SecondaryBlur24"
 		"fgcolor" "QHUDShadowCounter"
 	}
 	"ItemEffectMeterLabel"

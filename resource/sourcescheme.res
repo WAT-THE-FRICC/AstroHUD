@@ -94,8 +94,8 @@ Scheme
 		Button.BgColor					"SecondaryBG"
 		Button.ArmedTextColor			"ButtonFontArmed"
 		Button.ArmedBgColor				"ButtonBGArmed"
-		Button.DepressedTextColor		"SecondaryText"
-		Button.DepressedBgColor			"G_Highlight"
+		Button.DepressedTextColor		"ButtonFont"
+		Button.DepressedBgColor			"SecondaryBG"
 		Button.FocusBorderColor			"0 0 0 0"
 
 		CheckButton.TextColor			"NotoWhite"
@@ -149,8 +149,8 @@ Scheme
 		Menu.TextInset					"6"
 		Menu.FgColor			"White"
 		Menu.BgColor					"32 32 32 255"
-		Menu.ArmedFgColor		"White"
-		Menu.ArmedBgColor				"G_Highlight"
+		Menu.ArmedFgColor		"ButtonFontArmed"
+		Menu.ArmedBgColor				"ButtonBGArmed"
 		Menu.DividerColor		"BorderDark"
 
 		ScrollBarButton.FgColor				"SecondaryText"

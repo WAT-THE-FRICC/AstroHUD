@@ -17,7 +17,7 @@
 		// Blue: 25 100 240
 		// Yellow: 235 235 0
 		// Orange: 255 100 0
-		// Purple: 190 0 255
+		// Purple: 128 0 255
 		
 		// Black: 0 0 0
 		// White: 255 255 255
@@ -96,12 +96,12 @@
 		// SHADOWS
 		//
 			// change if you want the shadows to be darker
-			"QHUDShadow" "75 75 75 200"
+			"QHUDShadow" "0 0 0 200"
 			
 			// shadowcounter is for killstreak and weapon counters
 			// stickies and metal have it enabled thru QHUDShadow
 			// change the last value to 200 to enable
-			"QHUDShadowCounter" "75 75 75 0" 
+			"QHUDShadowCounter" "0 0 0 200" 
 		
 		//////////////////////////////
 		//			MENUS			//

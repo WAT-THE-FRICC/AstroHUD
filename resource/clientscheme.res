@@ -104,7 +104,7 @@
 		
 		"Menu.TextColor" "255 255 255 255"
 		"Menu.BgColor" "yA_MenuBG"//TransparentBlack"
-		"Menu.ArmedTextColor" "White"
+		"Menu.ArmedTextColor" "ButtonFontArmed"// weirdly this controls the combobox too
 		"Menu.ArmedBgColor" "G_Highlight"
 		"Menu.TextInset" "6"
 		

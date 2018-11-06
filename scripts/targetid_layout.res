@@ -8,7 +8,7 @@
 		"xpos" "0"
 		"ypos" "290"
 		"wide" "f0"
-		"tall" "17"//24"
+		"tall" "18"//24"
 		"priority" "40"
 	}
 	"CSecondaryTargetID" 
@@ -20,7 +20,7 @@
 		"ypos" "375"
 		"ypos_minmode" "332"
 		"wide" "f0"
-		"tall" "17"//388
+		"tall" "18"//388
 		"priority" "35"
 		"x_offset" "20"
 		"y_offset" "20"
@@ -33,7 +33,7 @@
 		"xpos" "0"
 		"ypos" "310"
 		"wide" "f0"
-		"tall" "17"
+		"tall" "18"
 		"priority" "40"
 		"x_offset" "20"
 		"y_offset" "20"

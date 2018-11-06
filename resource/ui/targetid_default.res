@@ -7,7 +7,7 @@
 		"ControlName" "CTFImagePanel"
 		"fieldName" "TargetIDBG"
 		"xpos" "0"
-		"ypos" "10"
+		"ypos" "11"
 		"zpos" "-10"
 		"wide" "f0"//
 		"tall" "7"
@@ -75,7 +75,7 @@
 		"ypos" "0"//362
 		"zpos" "-10"
 		"wide" "f0"//500
-		"tall" "10"//15
+		"tall" "11"//15
 		"autoResize" "0"
 		"pinCorner" "0"
 		"visible" "1"
@@ -176,7 +176,7 @@
 	"xpos" "0"
 	"ypos" "-1"
 	"wide" "30"
-	"tall" "11"
+	"tall" "12"
 	"visible" "1"
 	"enabled" "1"
 	"HealthBonusPosAdj" "10"

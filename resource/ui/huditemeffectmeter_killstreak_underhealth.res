@@ -42,8 +42,8 @@
 "textAlignment" "north-east"
 "dulltext" "0"
 "brighttext" "0"
-"font" "Secondary24"
-"font_minmode" "Secondary18"
+"font" "SecondaryBlur24"
+"font_minmode" "SecondaryBlur18"
 "fgcolor_override" "QHUDShadowCounter"
 }
 "KillStreakIcon"

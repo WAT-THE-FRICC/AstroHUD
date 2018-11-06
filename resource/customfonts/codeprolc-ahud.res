@@ -1,6 +1,4 @@
-// ToonHUD's Montserrat font
-
-#base "montserrat_menufonts.res"
+#base "codepro_menufonts.res"
 
 "Scheme"
 {
@@ -33,7 +31,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -44,7 +42,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -55,7 +53,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -68,7 +66,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -79,7 +77,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -90,7 +88,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -101,7 +99,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -112,7 +110,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -123,7 +121,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -134,7 +132,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
@@ -145,7 +143,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -158,7 +156,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -171,7 +169,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -184,7 +182,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -196,7 +194,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -209,7 +207,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -221,7 +219,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -233,7 +231,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -245,7 +243,7 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -257,13 +255,14 @@
 		{
 			"1"
 			{
-				"name" "Montserrat"
+				"name" "Code Pro LC"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 				"blur" "2" 
 			}
+		
 		}
     }
 }

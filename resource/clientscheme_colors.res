@@ -113,17 +113,18 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"244 67 54 255"
+			"G_Highlight" 			"245 54 64 255"
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"244 67 54 255"
+			"G_Highlight_text" 		"245 54 64 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
 			// 192 28 0 255 // dark red
 			// 193 0 55 255 // idk
+			// 80 150 255 255 // light blue, seen in Hypnotize HUD
 			
         //
 		// BUTTONS
@@ -134,11 +135,11 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "244 67 54 255"		// recommended to match "G_Highlight" above
+			"ButtonBGArmed"         "245 54 64 255"		// recommended to match "G_Highlight" above
 			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "244 67 54 255"
+			"ButtonBGSelect"        "245 54 64 255"
 			"ButtonFontSelect"      "255 255 255 255"
 			
 			
@@ -163,12 +164,12 @@
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
-			"PartyMember1" "244 67 54 255"
-			"PartyMember2" "244 67 54 220"
-			"PartyMember3" "244 67 54 195"
-			"PartyMember4" "244 67 54 170"
-			"PartyMember5" "244 67 54 145"
-			"PartyMember6" "244 67 54 120"
+			"PartyMember1" "245 54 64 255"
+			"PartyMember2" "245 54 64 220"
+			"PartyMember3" "245 54 64 195"
+			"PartyMember4" "245 54 64 170"
+			"PartyMember5" "245 54 64 145"
+			"PartyMember6" "245 54 64 120"
 			
 			// default:
 			//"PartyMember1" "124 173 255 255"
@@ -184,12 +185,12 @@
 			// note that these do not change all of the elements
 			// because some of the programming restrictions
 			
-			"BlueTeamColor"		"33 150 243 255"
-			"RedTeamColor"		"244 67 54 255"
-			"HUDBlueTeam"		"33 150 243 127"
-			"HUDRedTeam" 		"244 67 54 127"
-			"HUDBlueTeamSolid"	"33 150 243 255"
-			"HUDRedTeamSolid"	"244 67 54 255"
+			"BlueTeamColor"		"18 127 220 255"
+			"RedTeamColor"		"245 54 64 255"
+			"HUDBlueTeam"		"18 127 220 127"
+			"HUDRedTeam" 		"245 54 64 127"
+			"HUDBlueTeamSolid"	"18 127 220 255"
+			"HUDRedTeamSolid"	"245 54 64 255"
 			
 		//
 		// ITEM QUALITY COLORS

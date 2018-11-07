@@ -5,8 +5,9 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-#base "customfonts/Avenir-Black.res"
+#base "customfonts/_default_Avenir-Black.res"
 
+//#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"

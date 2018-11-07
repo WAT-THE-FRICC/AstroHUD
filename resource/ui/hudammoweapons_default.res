@@ -58,9 +58,9 @@
 "font" "AstroBlur50"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
-"xpos" "c94"
+"xpos" "c95"
 "xpos_minmode" "c74"
-"ypos" "311"//423
+"ypos" "312"//423
 "ypos_minmode" "381"
 "zpos" "5"
 "wide" "100"

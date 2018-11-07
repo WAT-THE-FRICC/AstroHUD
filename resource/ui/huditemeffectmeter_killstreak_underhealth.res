@@ -27,10 +27,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "ItemEffectMeterCountKillstreakShadow"
-"xpos" "c-164" //c-136
-"xpos_minmode" "c-139"
-"ypos" "351" //365
-"ypos_minmode" "370" 
+"xpos" "-1"
+"ypos" "-1"
 "zpos" "2"
 "wide" "50"
 "tall" "24"
@@ -45,6 +43,10 @@
 "font" "SecondaryBlur24"
 "font_minmode" "SecondaryBlur18"
 "fgcolor_override" "QHUDShadowCounter"
+
+"pin_to_sibling" "ItemEffectMeterCount"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 "KillStreakIcon"
 {

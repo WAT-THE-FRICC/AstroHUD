@@ -38,9 +38,6 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemEffectMeterCountShadow"
-		"xpos" "r134"
-		"ypos" "r24"//390
-		"ypos_minmode" "r24"
 		"zpos" "2"
 		"wide" "50"
 		"tall" "24"

@@ -116,8 +116,8 @@
 	{
 		"ControlName" "CExLabel"
 		"fieldName" "NumPipesLabelShadow"
-		"xpos" "c-24"
-		"ypos" "c26"
+		"xpos" "-1"
+		"ypos" "-1"
 		"zpos" "1"
 		"wide" "50"
 		"tall" "20"
@@ -133,6 +133,10 @@
 		"brighttext" "0"
 		"font" "SecondaryBlur24"
 		"fgcolor" "QHUDShadow"
+		
+		"pin_to_sibling" "NumPipesLabel"
+		"pin_corner_to_sibling" "TOP_LEFT"
+		"pin_to_sibling_corner" "TOP_LEFT"
 	}
 	"NoPipesPresentPanel" 
 	{

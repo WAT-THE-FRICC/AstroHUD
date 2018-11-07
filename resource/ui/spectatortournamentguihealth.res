@@ -20,7 +20,7 @@
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"SpectatorStatusHealthValue"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
@@ -30,8 +30,8 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Size 16"
-		"fgcolor"		"QHUDNormal"
+		"font"			"blah"
+		"fgcolor"		"White"
 	}
 	"PlayerStatusHealthValue2"
 	{
@@ -42,11 +42,27 @@
 		"zpos"			"5"
 		"wide"			"28"
 		"tall"			"16"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Size 16 Blur"
+		"font"			"Secondary16Blur"
 		"fgcolor"		"HealthShadow"
+	}
+	"TargetHealthBG"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"TargetHealthBG"
+		"xpos"			"2"
+		"ypos"			"0"
+		"zpos"			"1"
+		"wide"			"26"
+		"tall"			"16"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"PaintBackgroundType"	"0"
+        "textinsety" 	"99"
 	}
 }

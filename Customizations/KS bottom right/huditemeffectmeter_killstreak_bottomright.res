@@ -15,10 +15,6 @@
 }
 "ItemEffectMeterCountKillstreakShadow" 
 {
-"xpos" "r69" //c-136
-"xpos_minmode" "r69"
-"ypos" "r24" //365
-"ypos_minmode" "r24" 
 "zpos" "1"
 "wide" "50"
 "tall" "24"

@@ -37,7 +37,7 @@
 		"zpos"			"-4"
 		"wide"			"150"
 		"tall"	 		"20"	
-		"fillcolor"		"50 50 50 100"
+		"fillcolor"		"yA_hudbg"
 		"visible"		"1" //0
 		"enabled"		"1"
 		//"teambg_2"		"replay/thumbnails/newhudred"

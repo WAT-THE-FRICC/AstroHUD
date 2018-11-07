@@ -91,7 +91,15 @@
 			// build/disguise, target id,
 			// scoreboard player stats
 			"ya_HudBG"					"50 50 50 200"
-		
+			
+		//
+		// HUD highlight
+		//
+			"hud_text" 	"255 255 255 255"
+			
+			"hud_highlight" "255 255 255 255"
+			"hud_highlight_text" "0 0 0 255"
+			
 		//
 		// SHADOWS
 		//
@@ -101,7 +109,8 @@
 			// shadowcounter is for killstreak and weapon counters
 			// stickies and metal have it enabled thru QHUDShadow
 			// change the last value to 200 to enable
-			"QHUDShadowCounter" "0 0 0 200" 
+			"QHUDShadowCounter" "0 0 0 200"
+			
 		
 		//////////////////////////////
 		//			MENUS			//

@@ -75,6 +75,23 @@
 		"textAlignment"	"Left"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override" "hud_text"
+	}
+	
+	"BG3"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"BG3"
+		"xpos"			"32"
+		"ypos"			"70"
+		"zpos"			"0"
+		"wide"			"317"
+		"tall"			"18" //"68"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"1"	
+		"fillcolor" "hud_highlight_bg"
 	}
 	
 	"CancelLabel"
@@ -132,13 +149,20 @@
 		"PaintBackgroundType"	"0"
 	} 
 
-"BG2"
+	"BG2"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"BG2"
-		"xpos"			"32"
-		"ypos"			"70"
-		"zpos"			"0"
+		
+		"xpos" "0"
+		"ypos" "0"
+		"pin_to_sibling" "BG3"
+		"pin_corner_to_sibling" "TOP_LEFT"
+		"pin_to_sibling_corner" "TOP_LEFT"
+		
+		//"xpos"			"32"
+		//"ypos"			"99"// 70"
+		"zpos"			"-10"
 		"wide"			"317"
 		"tall"			"55" //"68"
 		"autoResize"	"0"
@@ -146,12 +170,6 @@
 		"visible"		"1"
 		"enabled"		"1"	
 		"fillcolor" "ya_HudBG"
-		//"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"
-		"src_corner_width"	"23"
-		"draw_corner_width"	"0"
-		"draw_corner_height" 	"0"	
-		"PaintBackgroundType"	"0"
 	}
 
 	// unused

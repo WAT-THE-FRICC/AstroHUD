@@ -85,20 +85,21 @@
 			"G_ItemMeterBorder" "0 0 0 255"
 			
 		//
-		// HUD PANEL BACKGROUND
+		// HUD TEXT AND PANEL BACKGROUND
 		//
 			// background for:
-			// build/disguise, target id,
-			// scoreboard player stats
-			"ya_HudBG"					"50 50 50 200"
+			// build/disguise, scoreboard top
+			// win panel background
+			// and everything else
+			"ya_HudBG"					"30 30 30 200"
+			"hud_text" 					"255 255 255 255"
 			
 		//
 		// HUD highlight
 		//
-			"hud_text" 	"255 255 255 255"
-			
-			"hud_highlight" "255 255 255 255"
-			"hud_highlight_text" "0 0 0 255"
+			// TargetID, scoreboard stats
+			"hud_highlight_bg" "30 30 30 200"
+			"hud_highlight_text" "255 255 255 255"
 			
 		//
 		// SHADOWS

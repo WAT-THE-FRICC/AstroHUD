@@ -10,7 +10,7 @@
 		"ypos"			"9"
 		"zpos"			"0"
 		"wide"			"248"
-		"tall"			"84"
+		"tall"			"69"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -74,6 +74,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
+		"fgcolor_override" "hud_text"
 	}
 	
 	"TitleLabelDropshadow"

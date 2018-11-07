@@ -97,7 +97,7 @@
 		//
 			"hud_text" 	"255 255 255 255"
 			
-			"hud_highlight" "255 255 255 255"
+			"hud_highlight_bg" "255 255 255 255"
 			"hud_highlight_text" "0 0 0 255"
 			
 		//

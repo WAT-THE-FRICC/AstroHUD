@@ -56,7 +56,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"255 255 255 255"//Name
+		"fgcolor_override"		"hud_text"//Name
 		"labelText"		"%disguisename%"
 		"textAlignment"	"north-west"
 	}
@@ -73,7 +73,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"255 255 255 255"//LightGray"
+		"fgcolor_override"		"hud_text"//LightGray"
 		"labelText"		"%weaponname%"
 		"textAlignment"	"north-west"	
 	}

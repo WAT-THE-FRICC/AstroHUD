@@ -16,7 +16,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "v1.3.0.1"
+	"labeltext" "v1.3.1"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "150 150 150 255"
@@ -900,15 +900,15 @@
 {
 	"ControlName" "EditablePanel"
 	"fieldname" "CallVoteButton"
-	"xpos" "0"//380"
-	"ypos" "0"//r60" //231
+	"xpos" "r220"//380"
+	"ypos" "r60" //231
 	"zpos" "11"
 	"wide" "60"
 	"tall" "60"
 	"visible" "1"
-	"pin_to_sibling" 							"TF2SettingsButton"
-	"pin_corner_to_sibling" 					"PIN_TOPLEFT"
-	"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
+	//"pin_to_sibling" 							"TF2SettingsButton"
+	//"pin_corner_to_sibling" 					"PIN_TOPLEFT"
+	//"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
 	
 	"SubButton" 
 	{

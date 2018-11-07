@@ -11,6 +11,7 @@ This HUD aims to deliver the following:
 * Aesthetically pleasing and modern
 
 Features:
+* Useful commands on main/pause menu: DemoUI, "record fix; stop", hud_reloadscheme
 * Narrow meters that do not block the view yet remain easy to read and are labeled
 * Crits/heads count right under the meters
 * Killstreak count under health

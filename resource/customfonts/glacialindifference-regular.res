@@ -1,3 +1,5 @@
+#base "glacialindifference_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 

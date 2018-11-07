@@ -1,10 +1,12 @@
-#base "glacialindifference_menufonts.res"
+// ToonHUD's Montserrat-edited font
+
+#base "Montserrat_menufonts.res"
 
 "Scheme"
 {
 	"Fonts" 
 	{
-                "Orbit36"
+        "Orbit36"
 		{
 			"1"
 			{
@@ -31,7 +33,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -42,7 +44,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -53,7 +55,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -66,7 +68,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -77,7 +79,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -88,7 +90,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -99,7 +101,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -110,7 +112,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -121,7 +123,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -132,7 +134,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
@@ -143,7 +145,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -156,7 +158,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -169,7 +171,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Bold"
+				"name" "Montserrat-edited"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -182,7 +184,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -194,7 +196,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -207,7 +209,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -219,7 +221,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -231,7 +233,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -243,7 +245,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -255,7 +257,7 @@
 		{
 			"1"
 			{
-				"name" "GlacialIndifference-Regular"
+				"name" "Montserrat-edited"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
@@ -263,6 +265,6 @@
 				"blur" "2" 
 			}
 		}
-	}
+    }
 }
 		

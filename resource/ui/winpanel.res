@@ -253,7 +253,7 @@
 		"tall"			"10"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"hud_highlight"
+		"fillcolor"		"hud_highlight_bg"
 	}
 	"WinReasonLabel"
 	{	
@@ -303,7 +303,7 @@
 		"ypos"			"r68"
 		"zpos"			"-2"
 		"wide"			"240"
-		"tall"			"65"
+		"tall"			"58"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"

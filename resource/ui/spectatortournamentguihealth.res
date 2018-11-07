@@ -30,8 +30,9 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"blah"
+		"font"			"m0refont11"
 		"fgcolor"		"White"
+		"bgcolor_override" "blank"
 	}
 	"PlayerStatusHealthValue2"
 	{
@@ -64,5 +65,7 @@
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
         "textinsety" 	"99"
+		"defaultbgcolor_override" "blank"
+		"bgcolor_override" "blank"
 	}
 }

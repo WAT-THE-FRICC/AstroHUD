@@ -9,6 +9,7 @@
 
 //#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
+//#base "customfonts/hk-grotesk.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Roboto.res"
@@ -102,17 +103,22 @@
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
-		"20"
+		"19"
+ 		{
+ 		"font" "resource/customfonts/Montserrat-Regular_edited.ttf"
+ 		"name" "Montserrat-edited"
+ 		}
+		"21"
  		{
  		"font" "resource/customfonts/Lato-Black.ttf"
  		"name" "Lato Black"
  		}
-		"21"
+		"22"
  		{
  		"font" "resource/customfonts/Lato-Bold.ttf"
  		"name" "Lato Bold"
  		}
-		"22"
+		"23"
  		{
  		"font" "resource/customfonts/Lato-Semibold.ttf"
  		"name" "Lato Semibold"
@@ -142,7 +148,21 @@
 		"font" "resource/customfonts/CodeProLC.otf"
 		"name" "Code Pro LC"
  		}
- 		
+		"30"
+		{
+		"font" "resource/customfonts/HKGrotesk-Bold.ttf"
+		"name" "HK Grotesk Bold"
+		}
+		"31"
+		{
+		"font" "resource/customfonts/HKGrotesk-Semibold.ttf"
+		"name" "HK Grotesk Semibold"
+		}
+ 		"32"
+		{
+		"font" "resource/customfonts/HKGrotesk-Medium.ttf"
+		"name" "HK Grotesk Medium"
+		}
  		
  		
 		// add your new font files here

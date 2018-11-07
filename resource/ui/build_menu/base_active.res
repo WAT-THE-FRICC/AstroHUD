@@ -74,7 +74,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"m0refont22"
+		"font"			"Secondary24"
 		//"fgcolor_override" "hud_text"
 		"xpos"			"3"
 		"ypos"			"22"

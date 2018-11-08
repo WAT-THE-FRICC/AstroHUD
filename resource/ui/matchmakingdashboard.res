@@ -296,7 +296,9 @@
 				"visible"		"1"
 				"proportionaltoparent"	"1"
 
-				"border"		"ReplayDefaultBorder"
+				"bgcolor_override" "panelbg"
+				"paintbackgroundtype" "0"
+				"border"		""//ReplayDefaultBorder"
 			}
 
 			"QueueLogoButton"

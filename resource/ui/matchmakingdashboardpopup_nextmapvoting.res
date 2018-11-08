@@ -48,8 +48,11 @@
 			"wide"			"f5"
 			"tall"			"f5"
 			"visible"		"1"
-			"PaintBackgroundType"	"2"
-			"border"		"ReplayDefaultBorder"
+			
+			"bgcolor_override" "panelbg"
+			"paintbackgroundtype" "0"
+			"border"		""//ReplayDefaultBorder"
+			
 			"proportionaltoparent"	"1"
 			"pinCorner"		"2"
 

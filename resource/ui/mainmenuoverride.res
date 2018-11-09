@@ -407,12 +407,12 @@
 		"fieldName" "TipLabel"
 		"font" "HudFontSmallBold"
 		"labelText" "%tiptext%"
-		"textAlignment" "north"
+		"textAlignment" "center"
 		"xpos" "20"
 		"ypos" "5"
 		"zpos" "2"
 		"wide" "140"
-		"tall" "30"
+		"tall" "20"
 		"autoResize" "0"
 		"pinCorner" "0"
 		"visible" "1"
@@ -422,10 +422,10 @@
 	}
 }
 
-"SteamWorkshopButton"
+"WorkshopButton"
 {
 	"ControlName"	"CExImageButton"
-	"fieldName"		"SteamWorkshopButton"
+	"fieldName"		"WorkshopButton"
 	"xpos"			"4"
 	"ypos"			"0"
 	"zpos"			"2"
@@ -456,7 +456,7 @@
 	"armedFgColor_override" "G_Highlight"
 	"depressedFgColor_override" "G_Highlight"
 	
-	"pin_to_sibling" 							"ReplayBrowserButton"
+	"pin_to_sibling" 							"ReplayButton"
 	"pin_corner_to_sibling" 					"PIN_TOPLEFT"
 	"pin_to_sibling_corner" 					"PIN_TOPRIGHT"
 	
@@ -602,10 +602,10 @@
 	"tall" "f0"
 	"visible" "0"
 }
-"ReplayBrowserButton" 
+"ReplayButton" 
 {
 	"ControlName" "CExImageButton"
-	"fieldName" "ReplayBrowserButton"
+	"fieldName" "ReplayButton"
 	"xpos" "4"
 	"ypos" "0"
 	"zpos" "2"

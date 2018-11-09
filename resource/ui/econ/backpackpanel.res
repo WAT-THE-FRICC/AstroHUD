@@ -69,6 +69,11 @@
 				"font"				"HudFontSmallestBold"
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"
+				
+				"defaultBgColor_override" "ButtonBg"
+				"armedBgColor_override" "ButtonBgArmed"
+				"depressedBgColor_override" "ButtonBgArmed"
+				"presetDepressedColorBg_override" "ButtonBgArmed"
 			}
 
 			"New"

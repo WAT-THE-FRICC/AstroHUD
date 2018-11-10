@@ -1,4 +1,4 @@
-#base "avenir-heavy_menufonts.res"
+#base "Montserrat_menufonts.res"
 
 "Scheme"
 {
@@ -31,39 +31,33 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro32"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro24"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
   
@@ -72,8 +66,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -84,8 +77,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -96,8 +88,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -108,8 +99,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -120,8 +110,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -132,8 +121,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -144,21 +132,18 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 			}
-		
 		}
 		"AstroBlur50"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -171,8 +156,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -185,8 +169,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -199,8 +182,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -212,8 +194,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -226,8 +207,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -239,8 +219,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -252,8 +231,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -265,8 +243,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -278,15 +255,13 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Renogare-Regular"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 				"blur" "2" 
 			}
-		
 		}
     }
 }

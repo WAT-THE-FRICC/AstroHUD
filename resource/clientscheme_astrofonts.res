@@ -5,24 +5,35 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-#base "customfonts/_default_Avenir-Black.res"
+#base "customfonts/_default.res"
+
+//#base "customfonts/_default_Avenir-Black.res"
 
 //#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
+
 //#base "customfonts/hk-grotesk.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Roboto.res"
+//#base "customfonts/renogare.res"
+
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
+
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
+
 //#base "customfonts/Lato-Black.res"
 //#base "customfonts/Lato-Bold-budHUD.res"
+
 //#base "customfonts/RaysHUD-Cerbetica.res"
+
 //#base "customfonts/codeprobold.res"
 //#base "customfonts/codeprolc-ahud.res"
+
 //#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
+
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
 
@@ -36,10 +47,11 @@
  	{
  		"1" "resource/tf.otf"
  		"2" "resource/tfd.otf"
- 		"3" 
+ 		
+		"3"
  		{
- 		"font" "resource/crosshairs.otf"
- 		"name" "Crosshairs"
+ 		"font" "resource/customfonts/Renogare-Regular.otf"
+ 		"name" "Renogare-Regular"
  		}
 		"5"
  		{
@@ -163,6 +175,11 @@
 		"font" "resource/customfonts/HKGrotesk-Medium.ttf"
 		"name" "HK Grotesk Medium"
 		}
+		"33"
+ 		{
+ 		"font" "resource/customfonts/Geometos.ttf"
+ 		"name" "Geometos"
+ 		}
  		
  		
 		// add your new font files here
@@ -238,5 +255,11 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
+		
+		"300" 
+ 		{
+ 		"font" "resource/crosshairs.otf"
+ 		"name" "Crosshairs"
+ 		}
  	}
  }

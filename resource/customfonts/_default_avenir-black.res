@@ -1,3 +1,4 @@
+#base "montserrat_menufonts.res"
 "Scheme"
 {
 	"Fonts" 

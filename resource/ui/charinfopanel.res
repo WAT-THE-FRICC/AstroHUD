@@ -203,7 +203,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"BACK (&Q)"
+		"labelText"		"#TF_Back"
 		"font"			"HudFontSmallBold"
 		"textAlignment"	"center"
 		"dulltext"		"0"
@@ -213,6 +213,15 @@
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
+	}
+	"HotkeyQ"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyQ"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&Q"
+		"command"		"back"
 	}
 	"NotificationsPresentPanel"
 	{

@@ -591,7 +591,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"labelText"		"Highest killstreak"
+		"labelText"		"#Winpanel_KillStreakLeader"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"

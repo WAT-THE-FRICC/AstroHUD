@@ -14,7 +14,7 @@
 		"paintborder"		"1"
 		"border"		""
 		"paintbackground"	"1"
-		"bgcolor_override"	"50 50 50 100"
+		"bgcolor_override"	"yA_hudbg"
 		
 		"model_ypos"		"10"
 		"model_center_x"	"1"

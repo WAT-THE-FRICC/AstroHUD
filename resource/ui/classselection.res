@@ -757,7 +757,7 @@
 "visible" "1"
 "enabled" "1"
 "tabPosition" "0"
-"labelText" "?"
+"labelText" "&R"
 "textAlignment" "center"
 "Command" "select 12"
 "font" "m0refont24"

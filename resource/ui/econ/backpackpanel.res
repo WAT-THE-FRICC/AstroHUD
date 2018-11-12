@@ -513,6 +513,7 @@
 			"visible"		"1"
 			"labelText"		""
 			"bgcolor_override"		"panelBG"
+		}
 	}
 	
 	"mousedragitempanel"

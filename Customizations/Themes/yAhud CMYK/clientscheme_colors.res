@@ -39,7 +39,7 @@
 		// HEALTH
 		//
 			"QHUDNormal" "255 255 255 255"
-			"QHUDOverheal" "0 157 224255"
+			"QHUDOverheal" "0 157 224 255"
 		
 		//
 		// LOW HEALTH
@@ -56,10 +56,10 @@
 		//
 		// AMMO
 		//
-			"QHUDAmmoInClip" "0 200 255 255"
-			"QHUDAmmoInReserve" "255 255 255 255"
-			"QHUDAmmoLowClip" "255 0 0 255"
-			"QHUDAmmoLowReserve" "255 49 49 255"
+			"QHUDAmmoInClip" "225 0 122 255"
+			"QHUDAmmoInReserve" "0 157 224 255"
+			"QHUDAmmoLowClip" "225 0 122 255"
+			"QHUDAmmoLowReserve" "0 157 224 255"
 			
 		//
 		// UBERCHARGE

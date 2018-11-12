@@ -1,3 +1,8 @@
+// themes
+#base "TF2theme.res"
+#base "RaysHUDtheme.res" // rayshud in-game colors included
+
+// DO NOT TOUCH
 #base "clientscheme_themes.res"
 #base "ClientScheme_astrofonts.res"
 #base "ClientScheme_borders.res"

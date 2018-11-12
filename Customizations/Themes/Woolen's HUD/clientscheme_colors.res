@@ -3,12 +3,6 @@
 // OR YOU WILL BREAK THE HUD
 //
 		
-// HUD colors customizable
-// You can customize these colors fairly easily, the first 3 numbers are the RGB values, the last one is the transparency
-// This is a decent site for finding the color you would like: http://www.colorspire.com/rgb-color-wheel/
-// You will need to restart TF2 for any changes to take effect!
-
-// "Control Name"		"R   G   B   Transparency"	//Description
 
 "Scheme"
 {
@@ -23,15 +17,11 @@
 		// Blue: 25 100 240
 		// Yellow: 235 235 0
 		// Orange: 255 100 0
-		// Purple: 128 0 255
+		// Purple: 190 0 255
 		
 		// Black: 0 0 0
 		// White: 255 255 255
 		// Gray: depending on tone, all 3 numbers should be the same.
-		
-		// for my own reference:
-		// hypnotize: 80 150 255
-		// csharp overheal: 125 225 30
 		
 		// Don't forget the last number (opacity)!
 		
@@ -42,13 +32,13 @@
 		//
 		// HEALTH
 		//
-			"QHUDNormal" "0 170 127 255"
-			"QHUDOverheal" "0 175 255 255"
+			"QHUDNormal" "0 255 0 215"
+			"QHUDOverheal" "153 225 153 255"
 		
 		//
 		// LOW HEALTH
 		//
-			"QHUDLow" "255 100 0 255"
+			"QHUDLow" "255 0 0 255"
 			"QHUDLowFlash" "0 0 0 255" // flashed during low health
 		
 			// currently not in use, change QHUDOverheal instead
@@ -60,20 +50,20 @@
 		//
 		// AMMO
 		//
-			"QHUDAmmoInClip" "255 255 255 255"
-			"QHUDAmmoInReserve" "0 170 127 255"
+			"QHUDAmmoInClip" "0 255 255 255"
+			"QHUDAmmoInReserve" "0 0 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			
 		//
 		// UBERCHARGE
 		//
-			"QHUDChargeLabel" "255 255 255 255"
+			"QHUDChargeLabel" "255 0 100 255"
 			
 			// when fully charged, and the rainbow uber option disabled,
 			// uber meter and number switches between these two numbers
-			"QHUDMedicCharge1" "61 202 53 255"
-			"QHUDMedicCharge2" "19 165 12 255"
+			"QHUDMedicCharge1" "255 0 100 255"
+			"QHUDMedicCharge2" "80 0 30 255"
 			
 		//
 		// LAST DAMAGE DONE
@@ -95,21 +85,20 @@
 			"G_ItemMeterBorder" "0 0 0 255"
 			
 		//
-		// HUD TEXT AND PANEL BACKGROUND
+		// HUD PANEL BACKGROUND
 		//
 			// background for:
-			// build/disguise, scoreboard top
-			// win panel background
-			// and everything else
+			// build/disguise, target id,
+			// scoreboard player stats
 			"ya_HudBG"					"30 30 30 200"
-			"hud_text" 					"255 255 255 255"
-			
+		
 		//
 		// HUD highlight
 		//
-			// TargetID, scoreboard stats
-			"hud_highlight_bg" "30 30 30 200"
-			"hud_highlight_text" "255 255 255 255"
+			"hud_text" 	"255 255 255 255"
+			
+			"hud_highlight_bg" "255 255 255 255"
+			"hud_highlight_text" "0 0 0 255"
 			
 		//
 		// SHADOWS
@@ -120,8 +109,7 @@
 			// shadowcounter is for killstreak and weapon counters
 			// stickies and metal have it enabled thru QHUDShadow
 			// change the last value to 200 to enable
-			"QHUDShadowCounter" "0 0 0 200"
-			
+			"QHUDShadowCounter" "0 0 0 200" 
 		
 		//////////////////////////////
 		//			MENUS			//
@@ -133,18 +121,17 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"0 170 127 255"
+			"G_Highlight" 			"255 255 255 255"
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"0 170 127 255"
+			"G_Highlight_text" 		"20 200 100 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
 			// 192 28 0 255 // dark red
 			// 193 0 55 255 // idk
-			// 80 150 255 255 // light blue, seen in Hypnotize HUD
 			
         //
 		// BUTTONS
@@ -155,12 +142,12 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "0 170 127 255"		// recommended to match "G_Highlight" above
-			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
+			"ButtonBGArmed"         "255 255 255 255"		// recommended to match "G_Highlight" above
+			"ButtonFontArmed"       "0 0 0 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "0 170 127 255"
-			"ButtonFontSelect"      "255 255 255 255"
+			"ButtonBGSelect"        "255 255 255 255"
+			"ButtonFontSelect"      "0 0 0 255"
 			
 			
 		//
@@ -184,12 +171,12 @@
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
-			"PartyMember1" "0 170 127 255"
-			"PartyMember2" "0 170 127 220"
-			"PartyMember3" "0 170 127 195"
-			"PartyMember4" "0 170 127 170"
-			"PartyMember5" "0 170 127 145"
-			"PartyMember6" "0 170 127 120"
+			"PartyMember1" "255 255 255 255"
+			"PartyMember2" "255 255 255 220"
+			"PartyMember3" "255 255 255 195"
+			"PartyMember4" "255 255 255 170"
+			"PartyMember5" "255 255 255 145"
+			"PartyMember6" "255 255 255 120"
 			
 			// default:
 			//"PartyMember1" "124 173 255 255"
@@ -207,8 +194,8 @@
 			
 			"BlueTeamColor"		"18 127 220 255"
 			"RedTeamColor"		"245 54 64 255"
-			"HUDBlueTeam"		"18 127 220 127"
-			"HUDRedTeam" 		"245 54 64 127"
+			"HUDBlueTeam"		"33 150 243 127"
+			"HUDRedTeam" 		"244 67 54 127"
 			"HUDBlueTeamSolid"	"18 127 220 255"
 			"HUDRedTeamSolid"	"245 54 64 255"
 			

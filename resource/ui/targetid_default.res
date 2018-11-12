@@ -104,9 +104,9 @@
 		"ControlName" "Label"
 		"fieldName" "TargetNameLabelFix"
 		"font" "m0refont12"
-		"xpos" "40"
-		"ypos" "-1"
-		"zpos" "1"
+		"xpos" "0"
+		"ypos" "0"
+		"zpos" "2"
 		"wide" "640"
 		"tall" "12"
 		"autoResize" "0"
@@ -119,6 +119,10 @@
 		"brighttext" "0"
 		"fgcolor" "hud_highlight_text"
 		"fgcolor_override" "hud_highlight_text"
+		
+		"pin_to_sibling" "TargetNameLabel"
+		"pin_corner_to_sibling" "TOP_LEFT"
+		"pin_sibling_to_corner" "TOP_LEFT"
 	}
 	"TargetNameLabelShadow" 
 	{

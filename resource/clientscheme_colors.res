@@ -32,6 +32,7 @@
 		// for my own reference:
 		// hypnotize: 80 150 255
 		// csharp overheal: 125 225 30
+		// old overheal: 0 175 255
 		
 		// Don't forget the last number (opacity)!
 		
@@ -43,7 +44,7 @@
 		// HEALTH
 		//
 			"QHUDNormal" "0 170 127 255"
-			"QHUDOverheal" "0 175 255 255"
+			"QHUDOverheal" "125 225 30 255"
 		
 		//
 		// LOW HEALTH

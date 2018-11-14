@@ -1,3 +1,5 @@
+#base "scoreboard_stream.res"
+
 #base "scoreboard_split.res"
 #base "scoreboard_centered.res"
 

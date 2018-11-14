@@ -1,6 +1,9 @@
 #base "crosshairs.res"
 #base "transparent_viewmodels.res"
 
+#base "killfeed_stream.res"
+#base "killfeed.res"
+
 #base "engineer_metal_underammo.res"
 #base "engineer_metal_undermeter.res"
 #base "engineer_metal.res"
@@ -402,31 +405,7 @@ HudKothTimeStatus
 "wide" "640"
 "tall" "480"
 }
-"HudDeathNotice" 
-{
-"fieldName" "HudDeathNotice"
-"visible" "1"
-"enabled" "1"
-"xpos" "r528"
-"ypos" "18"
-"wide" "500"
-"tall" "500"
-"MaxDeathNotices" "9"
-"IconScale" "0.35"
-"LineHeight" "15"
-"LineSpacing" "1"
-"CornerRadius" "0"
-"RightJustify" "1"
-"TextFont" "HudFontSmallest"
-"TeamBlue" "BlueTeamColor"
-"TeamRed" "RedTeamColor"
-"IconColor" "m0rewhite"
-"BaseBackgroundColor" "45 45 45 196" //46 43 42 196"
-"LocalBackgroundColor" "255 255 255 214"
-"font" "m0refont13"
-"fgcolor" "204 204 204 255"
-"BorderThickness" "1"
-}
+
 "HudVehicle" 
 {
 "fieldName" "HudVehicle"

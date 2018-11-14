@@ -1,0 +1,60 @@
+"Resource/UI/FreezePanel_Basic.res" 
+{
+"FreezePanelBase" 
+{
+"FreezeLabel" 
+{
+"ControlName" "Label"
+"fieldName" "FreezeLabel"
+"font" "m0refont13"
+"fgcolor" "hud_text"
+"xpos" "c-50"
+"ypos" "272"
+"zpos" "1"
+"wide" "200"
+"tall" "20"
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"labelText" "#FreezePanel_Killer"
+"textAlignment" "north-west"
+"dulltext" "0"
+"brighttext" "0"
+}
+"QHUDKillerName" 
+{
+"ControlName" "Label"
+"fieldName" "QHUDKillerName"
+"font" "m0refont14"
+"fgcolor" "hud_text"
+"xpos" "c-50"
+"ypos" "287"
+"zpos" "10"
+"wide" "216"
+"tall" "20"
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"labelText" "%killername%"
+"textAlignment" "north-west"
+}
+"NemesisSubPanel" 
+{
+"NemesisIcon" 
+{
+"ControlName" "ImagePanel"
+"fieldName" "NemesisIcon"
+"xpos" "95"
+"ypos" "-1"
+"zpos" "6"
+"wide" "0"
+"tall" "0"
+"visible" "1"
+"enabled" "1"
+"image" "../hud/leaderboard_nemesis_freezecam"
+"scaleImage" "1"
+}
+}
+}

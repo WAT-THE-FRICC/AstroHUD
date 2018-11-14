@@ -1,4 +1,5 @@
-
+#base "freezepanel_stream.res"
+#base "freezepanel_basic_killername.res"
 
 "Resource/UI/FreezePanel_Basic.res" 
 {
@@ -31,26 +32,7 @@
 "draw_corner_width" "0"
 "draw_corner_height" "0"
 }
-"FreezeLabel" 
-{
-"ControlName" "Label"
-"fieldName" "FreezeLabel"
-"font" "m0refont13"
-"fgcolor" "hud_text"
-"xpos" "c-50"
-"ypos" "272"
-"zpos" "1"
-"wide" "200"
-"tall" "20"
-"autoResize" "0"
-"pinCorner" "0"
-"visible" "1"
-"enabled" "1"
-"labelText" "#FreezePanel_Killer"
-"textAlignment" "north-west"
-"dulltext" "0"
-"brighttext" "0"
-}
+
 "FreezePanelHealth" 
 {
 "ControlName" "CTFFreezePanelHealth"
@@ -85,24 +67,7 @@
 "labelText" "%killername%"
 "textAlignment" "north-west"
 }
-"QHUDKillerName" 
-{
-"ControlName" "Label"
-"fieldName" "QHUDKillerName"
-"font" "m0refont14"
-"fgcolor" "hud_text"
-"xpos" "c-50"
-"ypos" "287"
-"zpos" "10"
-"wide" "216"
-"tall" "20"
-"autoResize" "0"
-"pinCorner" "0"
-"visible" "1"
-"enabled" "1"
-"labelText" "%killername%"
-"textAlignment" "north-west"
-}
+
 "AvatarImage" 
 {
 "ControlName" "CAvatarImagePanel"
@@ -146,20 +111,7 @@
 "draw_corner_width" "0"
 "draw_corner_height" "0"
 }
-"NemesisIcon" 
-{
-"ControlName" "ImagePanel"
-"fieldName" "NemesisIcon"
-"xpos" "95"
-"ypos" "-1"
-"zpos" "6"
-"wide" "0"
-"tall" "0"
-"visible" "1"
-"enabled" "1"
-"image" "../hud/leaderboard_nemesis_freezecam"
-"scaleImage" "1"
-}
+
 "NemesisLabel" 
 {
 "ControlName" "Label"

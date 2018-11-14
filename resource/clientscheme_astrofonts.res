@@ -46,8 +46,9 @@
  		
 		"3"
  		{
- 		"font" "resource/customfonts/Renogare-Regular.otf"
- 		"name" "Renogare-Regular"
+ 		"font" "resource/customfonts/Renogare-Numbers-Regular.ttf"
+ 		"name" "Renogare Numbers Regular"
+		//"range" "0x0029 0x0040"
  		}
 		"5"
  		{

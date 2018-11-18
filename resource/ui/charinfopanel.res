@@ -18,9 +18,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"ya_MenuBG"
-		"infocus_bgcolor_override"		"ya_MenuBG"
-		"outoffocus_bgcolor_override"	"ya_MenuBG"
+		"bgcolor_override"				"Blank"
+		"infocus_bgcolor_override"		"Blank"
+		"outoffocus_bgcolor_override"	"Blank"
 		
 		"title"			""//#CharInfoAndSetup"
 		"title_font"	"HudFontMediumBold"
@@ -44,8 +44,8 @@
 		"ypos" "-1"
 		"zpos" "-10"
 		//"wide" "0"
-		"wide" "f0"
-		"tall" "o1.0"
+		"wide" "o1.7777"
+		"tall" "f0"
 		"visible" "1"
 		"enabled" "1"
 		"image" "background"
@@ -53,13 +53,13 @@
 		//"fillcolor"		"yA_menuBG"
 		"if_wider" 
 		{
-		"wide" "f0"
-		"tall" "o1.0"
+		"wide" "o1.7777"
+		"tall" "f0"
 		}
 		"if_taller" 
 		{
-		"wide" "o1.0"
-		"tall" "f0"
+		"tall" "o1.7777"
+		"wide" "f0"
 		}
 		"SubImage" 
 		{
@@ -77,7 +77,21 @@
 			"scaleImage" "1"
 		}
 	}
-	
+	"Shade" 
+	{
+		"ControlName" "ImagePanel"
+		"fieldName" "Shade"
+		"xpos" "0"
+		"ypos" "0"//70
+		"zpos" "-9"
+		"wide" "f0"
+		"tall" "480"//340
+		"autoResize" "0"
+		"pinCorner" "0"
+		"visible" "1"
+		"enabled" "1"
+		"fillcolor" "0 0 0 127"
+	}
 	"BackgroundHeader"
 	{
 		"ControlName"	"ImagePanel"
@@ -99,15 +113,15 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-2"
-		"wide"			"0"
-		"tall"			"120"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"f0"
+		"tall"			"60"
+		"visible"		"0"
+		"enabled"		"0"
 		"pinCorner"		"0"
 		"autoResize"	"0"
 		"PaintBackgroundType"	"2"
 		"border"				"NoBorder"
-		"bgcolor_override"		"ya_MenuBG"
+		"bgcolor_override"		"yA_menuBG"
 	}
 	"BackgroundFooter"
 	{
@@ -128,17 +142,17 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundFooter2"
 		"xpos"			"0"
-		"ypos"			"r60"       //"420"
+		"ypos"			"r50"       //"420"
 		"zpos"			"1"
-		"wide"			"0"
-		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"f0"
+		"tall"			"50"
+		"visible"		"0"
+		"enabled"		"0"
 		"pinCorner"		"0"
 		"autoResize"	"0"
 		"PaintBackgroundType"	"2"
 		"border"				"NoBorder"
-		"bgcolor_override"		"panelBGtransparent"
+		"bgcolor_override"		"yA_menuBG"
 	}				
 	"FooterLine"
 	{
@@ -166,9 +180,9 @@
         "tabyindent"	"0"
 		"tabxdelta"		"0"
 		"tabwidth"		"200"
-		"tabheight"		"18"
+		"tabheight"		"22"//18"
 		"transition_time" "0"		
-		"yoffset"	"14"
+		"yoffset"	"0"//14"
 		
 		"tabskv"
 		{
@@ -193,7 +207,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"BackButton"
-		"xpos"			"20"
+		"xpos"			"cs-0.5"//20"
 		"ypos"			"r40"  //"437"
 		"zpos"			"2"
 		"wide"			"100"

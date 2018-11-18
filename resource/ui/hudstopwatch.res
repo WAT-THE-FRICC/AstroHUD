@@ -45,23 +45,34 @@
 		"ControlName"			"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
 		"xpos"				"0"
-		"ypos"				"38"	
+		"ypos"				"0"	
 		"zpos"				"1"
 		"wide"				"f0"
 		"tall"				"480"
 		"visible"			"0"
 		"enabled"			"1"
 
+		"ScoreBG"
+		{
+			"ControlName"		"CExLabel"
+			"xpos"				"c-127"
+			"ypos" 				"38"
+			"wide"				"67"
+			"tall"				"20"
+			"labelText"			""
+			"bgcolor_override"	"yA_hudbg"
+		}
+	
 		"TimePanelValue"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Regular16"
 			"fgcolor"		"255 255 255 255" //"10 12 14 255"
-			"xpos"			"c67"
-			"ypos"			"0"
+			"xpos"			"c60"
+			"ypos"			"38"
 			"zpos"			"1"
-			"wide"			"60"
+			"wide"			"67"
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
@@ -149,16 +160,7 @@
 		}
 	}
 
-	"ScoreBG"
-	{
-		"ControlName"		"CExLabel"
-		"xpos"				"c-127"
-		"ypos" 				"38"
-		"wide"				"60"
-		"tall"				"20"
-		"labelText"			""
-		"bgcolor_override"	"yA_hudbg"
-	}
+	
 	
 	"StopWatchScoreToBeat"
 	{

@@ -1,3 +1,5 @@
+#base "open-sans_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 

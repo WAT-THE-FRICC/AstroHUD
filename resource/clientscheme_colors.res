@@ -44,7 +44,7 @@
 		// HEALTH
 		//
 			"QHUDNormal" "0 170 127 255"
-			"QHUDOverheal" "125 225 30 255"
+			"QHUDOverheal" "0 175 255 255"
 		
 		//
 		// LOW HEALTH
@@ -61,8 +61,8 @@
 		//
 		// AMMO
 		//
-			"QHUDAmmoInClip" "255 255 255 255"
-			"QHUDAmmoInReserve" "0 170 127 255"
+			"QHUDAmmoInClip" "0 175 255 255"
+			"QHUDAmmoInReserve" "255 255 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			

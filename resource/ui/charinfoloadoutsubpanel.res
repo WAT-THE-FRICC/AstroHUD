@@ -1,4 +1,4 @@
-#base "charbackground.res"
+//#base "charbackground.res"
 "Resource/UI/CharInfoLoadoutSubPanel.res"
 {
 	"CharInfoLoadoutSubPanel"
@@ -39,7 +39,7 @@
 	}
 	
 	"CatalogCover"		//covers catalog number
-	{
+	{ // DEPRECATED idk what it does now
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CatalogCover"
 		"xpos"			"0"	

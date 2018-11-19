@@ -7,6 +7,7 @@
 
 #base "customfonts/_default.res"
 
+//#base "customfonts/_default_copy.res"
 //#base "customfonts/_default_Avenir-Black.res"
 
 //#base "customfonts/Avenir-Black.res"
@@ -51,25 +52,31 @@
  		}
 		"5"
  		{
+ 		"font" "resource/customfonts/Renogare-Numbers-Regular.ttf"
+ 		"name" "Renogare Numbers Regular"
+		//"range" "0x0029 0x0040"
+ 		}
+		"6"
+ 		{
  		"font" "resource/customfonts/GlacialIndifference-Regular.otf"
  		"name" "GlacialIndifference-Regular"
  		}
-		"6"
+		"7"
  		{
  		"font" "resource/customfonts/GlacialIndifference-Bold.otf"
  		"name" "GlacialIndifference-Bold"
  		}
- 		"7" 
+ 		"8" 
  		{
  		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
  		"name" "DIN 1451 Mittelschrift"
  		}
-		"8"
+		"9"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
  		"name" "Orbitron Bold"
  		}
- 		"9"
+ 		"10"
  		{
  		"font" "resource/customfonts/Orbitron-Medium.ttf"
  		"name" "Orbitron Medium"

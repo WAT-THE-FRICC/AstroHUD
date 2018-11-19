@@ -41,7 +41,7 @@
 		"ypos"			"106"
 		"wide"			"550"
 		"tall"			"30"
-		"fgcolor"		"Black"
+		"fgcolor"		"m0rewhite"
 	}
 	
 	"WaveFailHeader"
@@ -55,7 +55,7 @@
 		"ypos"			"105"
 		"wide"			"550"
 		"tall"			"30"
-		"fgcolor"		"Orange"
+		"fgcolor"		"G_Highlight"
 	}
 	
 	"HeaderDivider"
@@ -81,7 +81,7 @@
 		"ypos"			"135"
 		"wide"			"550"
 		"tall"			"30"
-		"fgcolor"		"Black"
+		"fgcolor"		"m0rewhite"
 	}
 	
 	"CollectionContainer"
@@ -104,7 +104,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"140"
-			"fgcolor"		"Black"
+			"fgcolor"		"m0rewhite"
 		}
 	
 		"CollectedLabel"
@@ -117,7 +117,7 @@
 			"xpos"			"0"
 			"ypos"			"25"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"CollectedCount"
@@ -143,7 +143,7 @@
 			"xpos"			"0"
 			"ypos"			"40"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"MissedCount"
@@ -169,7 +169,7 @@
 			"xpos"			"0"
 			"ypos"			"55"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BonusCount"
@@ -206,7 +206,7 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"wide"			"195"
-			"fgcolor"		"Black"
+			"fgcolor"		"m0rewhite"
 		}
 	
 		"YouLabel"
@@ -219,7 +219,7 @@
 			"xpos"			"120"
 			"ypos"			"15"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"TeamLabel"
@@ -232,7 +232,7 @@
 			"xpos"			"175"
 			"ypos"			"15"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BuybackLabel"
@@ -245,7 +245,7 @@
 			"xpos"			"0"
 			"ypos"			"25"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BuybackCountYou"
@@ -258,7 +258,7 @@
 			"xpos"			"120"
 			"ypos"			"25"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BuybackCountTeam"
@@ -271,7 +271,7 @@
 			"xpos"			"175"
 			"ypos"			"25"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BottleLabel"
@@ -284,7 +284,7 @@
 			"xpos"			"0"
 			"ypos"			"40"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BottleCountYou"
@@ -297,7 +297,7 @@
 			"xpos"			"120"
 			"ypos"			"40"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"BottleCountTeam"
@@ -310,7 +310,7 @@
 			"xpos"			"175"
 			"ypos"			"40"
 			"wide"			"35"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"InactiveLabel"
@@ -323,7 +323,7 @@
 			"xpos"			"0"
 			"ypos"			"55"
 			"wide"			"120"
-			"fgcolor"		"TanDarker"
+			"fgcolor"		"White"
 		}
 		
 		"InactiveCountYou"
@@ -376,7 +376,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"fillcolor" 	"yA_hudbg"
-			//"image"			"../HUD/tournament_panel_black"
+			//"image"			"../HUD/tournament_panel_m0rewhite"
 
 			"src_corner_height"	"22"				// pixels inside the image
 			"src_corner_width"	"22"

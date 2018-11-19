@@ -1,6 +1,4 @@
 #base "montserrat_menufonts.res"
-//#base "glacialindifference_menufonts.res"
-
 "Scheme"
 {
 	"Fonts" 
@@ -32,33 +30,39 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro32"
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro24"
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+				"custom"		"1" [!$WINDOWS]
 			}
 		}
   
@@ -67,7 +71,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -78,7 +83,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -89,7 +95,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -100,7 +107,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -111,7 +119,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -122,7 +131,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -133,18 +143,36 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 			}
+		
 		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		"AstroBlur50"
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -157,7 +185,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -170,7 +199,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -183,7 +213,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -195,7 +226,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -208,7 +240,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -220,7 +253,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -232,7 +266,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -244,7 +279,8 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -256,14 +292,15 @@
 		{
 			"1"
 			{
-				"name" "Renogare-Regular"
+				"name" "Renogare Numbers Regular" [!$OSX]
+				"name" "Avenir Black" [$OSX]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 				"blur" "2" 
 			}
+		
 		}
     }
 }
-		

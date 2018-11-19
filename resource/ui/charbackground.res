@@ -14,7 +14,7 @@
 		"tall" "f0"
 		"visible" "1"
 		"enabled" "1"
-		"image" "background"
+		"image" "../console/background_2fort_widescreen"
 		"scaleImage" "1"
 		//"fillcolor"		"yA_menuBG"
 		"if_wider" 

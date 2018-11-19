@@ -11,7 +11,7 @@
 		"zpos" "-200"
 		//"wide" "0"
 		"wide" "o1.7777"
-		"tall" "f0"
+		"tall" "0"
 		"visible" "1"
 		"enabled" "1"
 		"image" "background"

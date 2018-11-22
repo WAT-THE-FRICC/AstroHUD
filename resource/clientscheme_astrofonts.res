@@ -13,7 +13,6 @@
 //#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
 
-//#base "customfonts/hk-grotesk.res"
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Roboto.res"
@@ -25,8 +24,7 @@
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
 
-//#base "customfonts/Lato-Black.res"
-//#base "customfonts/Lato-Bold-budHUD.res"
+//#base "customfonts/Lato-semibold-budHUD.res"
 
 //#base "customfonts/RaysHUD-Cerbetica.res"
 
@@ -37,6 +35,10 @@
 
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
+
+// fallback, just in case any of the above do not work.
+#base "customfonts/glacialindifference_menufonts.res"
+#base "customfonts/_default.res"
 
 "Scheme" 
 {
@@ -58,8 +60,8 @@
  		}
 		"6"
  		{
- 		"font" "resource/customfonts/GlacialIndifference-Regular.otf"
- 		"name" "GlacialIndifference-Regular"
+ 		"font" "resource/customfonts/GlacialIndifference-Medium.otf"
+ 		"name" "GlacialIndifference-Medium"
  		}
 		"7"
  		{
@@ -118,16 +120,6 @@
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
-		"19"
- 		{
- 		"font" "resource/customfonts/Montserrat-Regular_edited.ttf"
- 		"name" "Montserrat-edited"
- 		}
-		"21"
- 		{
- 		"font" "resource/customfonts/Lato-Black.ttf"
- 		"name" "Lato Black"
- 		}
 		"22"
  		{
  		"font" "resource/customfonts/Lato-Bold.ttf"
@@ -163,26 +155,6 @@
 		"font" "resource/customfonts/CodeProLC.otf"
 		"name" "Code Pro LC"
  		}
-		"30"
-		{
-		"font" "resource/customfonts/HKGrotesk-Bold.ttf"
-		"name" "HK Grotesk Bold"
-		}
-		"31"
-		{
-		"font" "resource/customfonts/HKGrotesk-Semibold.ttf"
-		"name" "HK Grotesk Semibold"
-		}
- 		"32"
-		{
-		"font" "resource/customfonts/HKGrotesk-Medium.ttf"
-		"name" "HK Grotesk Medium"
-		}
-		"33"
- 		{
- 		"font" "resource/customfonts/Geometos.ttf"
- 		"name" "Geometos"
- 		}
  		
  		
 		// add your new font files here
@@ -202,7 +174,7 @@
 		
 		// DO NOT TOUCH
 		
-		"50"
+		"150"
 		{
 			"font" "resource/TF2.ttf"
 			"name" "TF2"
@@ -215,7 +187,7 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"51" 
+		"151" 
 		{
 			"font" "resource/TF2Secondary.ttf"
 			"name" "TF2 Secondary"
@@ -228,7 +200,7 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"52" 
+		"152" 
 		{
 			"font" "resource/TF2Professor.ttf"
 			"name" "TF2 Professor"
@@ -241,7 +213,7 @@
 				"range" "0x0000 0x00FF"
 			}
 		}	
-		"53" 
+		"153" 
 		{
 			"font" "resource/TF2Build.ttf"
 			"name" "TF2 Build"
@@ -256,6 +228,68 @@
 			"turkish"
 			{
 				"range" "0x0000 0xFFFF"
+			}
+		}
+		
+		"157"
+		{
+			"font"	"resource/ocra.ttf"
+			"name" "ocra"
+			"turkish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"swedish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"spanish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"romanian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"polish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"norwegian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"danish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"hungarian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"german"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"french"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"finnish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"czech"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"bulgarian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"russian"
+			{
+				"range" "0x0000 0x007E"
 			}
 		}
 

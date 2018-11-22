@@ -13,6 +13,17 @@
 			"outline" "0"
 			}
 		}
+		"Orbit108"
+		{
+			"1" 
+			{
+			"name" "Orbitron Bold"
+			"tall" "208"
+			"additive" "0"
+			"antialias" "1"
+			"outline" "0"
+			}
+		}
 		"xHair" 
 		{
 		"1" 
@@ -1215,19 +1226,6 @@
 			}
 		}
 
-		"MapVotesPercentage"
-		{
-			"1"
-			{
-				"name"	"TF2 Build"
-				"tall"	"12"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-				"dropshadow"	"1"
-			}
-		}
-		
 		"Regular38"
 		{
 			"1"
@@ -4669,7 +4667,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "36"
 			"additive" "0"
 			"antialias" "1"
@@ -4680,7 +4678,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "32"
 			"additive" "0"
 			"antialias" "1"
@@ -4691,7 +4689,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "24"
 			"additive" "0"
 			"antialias" "1"
@@ -4702,7 +4700,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "22"
 			"additive" "0"
 			"antialias" "1"
@@ -4713,7 +4711,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "18"
 			"additive" "0"
 			"antialias" "1"
@@ -4724,7 +4722,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "16"
 			"additive" "0"
 			"antialias" "1"
@@ -4735,7 +4733,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "14"
 			"additive" "0"
 			"antialias" "1"
@@ -4746,7 +4744,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "12"
 			"additive" "0"
 			"antialias" "1"
@@ -4757,7 +4755,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "11"
 			"additive" "0"
 			"antialias" "1"
@@ -4768,7 +4766,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "GlacialIndifference-Regular"
 			"tall" "10"
 			"additive" "0"
 			"antialias" "1"

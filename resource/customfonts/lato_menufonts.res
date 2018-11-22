@@ -6,8 +6,7 @@
 		{
 			"1" 
 			{
-			"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+			"name" "Lato Semibold"
 			"tall" "0"
 			"additive" "0"
 			"antialias" "1"
@@ -40,8 +39,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "8"
 		"additive" "0"
 		"antialias" "1"
@@ -52,8 +50,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"additive" "0"
 		"antialias" "1"
@@ -64,8 +61,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"additive" "0"
 		"antialias" "1"
@@ -76,8 +72,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"additive" "0"
 		"antialias" "1"
@@ -88,8 +83,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"additive" "0"
 		"antialias" "1"
@@ -101,8 +95,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"additive" "0"
 		"antialias" "1"
@@ -113,8 +106,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"additive" "0"
 		"antialias" "1"
@@ -126,8 +118,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "13"
 		"additive" "0"
 		"antialias" "1"
@@ -138,8 +129,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"additive" "0"
 		"antialias" "1"
@@ -150,8 +140,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"additive" "0"
 		"antialias" "1"
@@ -162,8 +151,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"additive" "0"
 		"antialias" "1"
@@ -175,8 +163,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"additive" "0"
 		"antialias" "1"
@@ -187,8 +174,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"additive" "0"
 		"antialias" "1"
@@ -199,8 +185,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -211,8 +196,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "21"
 		"additive" "0"
 		"antialias" "1"
@@ -223,8 +207,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "22"
 		"additive" "0"
 		"antialias" "1"
@@ -235,8 +218,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "23"
 		"additive" "0"
 		"antialias" "1"
@@ -247,8 +229,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"additive" "0"
 		"antialias" "1"
@@ -259,8 +240,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"additive" "0"
 		"antialias" "1"
@@ -272,8 +252,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "25"
 		"additive" "0"
 		"antialias" "1"
@@ -284,8 +263,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "26"
 		"additive" "0"
 		"antialias" "1"
@@ -296,8 +274,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "27"
 		"additive" "0"
 		"antialias" "1"
@@ -308,8 +285,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -320,8 +296,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "32"
 		"additive" "0"
 		"antialias" "1"
@@ -332,8 +307,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "36"
 		"additive" "0"
 		"antialias" "1"
@@ -344,8 +318,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "40"
 		"additive" "0"
 		"antialias" "1"
@@ -356,8 +329,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "52"
 		"additive" "0"
 		"antialias" "1"
@@ -368,8 +340,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "60"
 		"additive" "0"
 		"antialias" "1"
@@ -380,8 +351,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "60"
 		"additive" "0"
 		"antialias" "1"
@@ -400,7 +370,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"68"
 				"additive"		"0"
 				"antialias"	"1"
@@ -411,7 +381,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"66"
 				"additive"		"0"
 				"antialias"	"1"
@@ -422,7 +392,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"64"
 				"additive"		"0"
 				"antialias"	"1"
@@ -433,7 +403,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"62"
 				"additive"		"0"
 				"antialias"	"1"
@@ -444,7 +414,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"60"
 				"additive"		"0"
 				"antialias"	"1"
@@ -455,7 +425,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"58"
 				"additive"		"0"
 				"antialias"	"1"
@@ -466,7 +436,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"56"
 				"additive"		"0"
 				"antialias"	"1"
@@ -477,7 +447,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"54"
 				"additive"		"0"
 				"antialias"	"1"
@@ -488,7 +458,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"52"
 				"additive"		"0"
 				"antialias"	"1"
@@ -499,7 +469,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"50"
 				"additive"		"0"
 				"antialias"	"1"
@@ -510,7 +480,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"48"
 				"additive"		"0"
 				"antialias"	"1"
@@ -521,7 +491,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"46"
 				"additive"		"0"
 				"antialias"	"1"
@@ -532,7 +502,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"45"
 				"additive"		"0"
 				"antialias"	"1"
@@ -543,7 +513,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"44"
 				"additive"		"0"
 				"antialias"	"1"
@@ -554,7 +524,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"42"
 				"additive"		"0"
 				"antialias"	"1"
@@ -565,7 +535,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"41"
 				"additive"		"0"
 				"antialias"	"1"
@@ -576,7 +546,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"40"
 				"additive"		"0"
 				"antialias"	"1"
@@ -587,7 +557,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"39"
 				"additive"		"0"
 				"antialias"	"1"
@@ -598,7 +568,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"38"
 				"additive"		"0"
 				"antialias"	"1"
@@ -609,7 +579,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"37"
 				"additive"		"0"
 				"antialias"	"1"
@@ -620,7 +590,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"36"
 				"additive"		"0"
 				"antialias"	"1"
@@ -631,7 +601,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"35"
 				"additive"		"0"
 				"antialias"	"1"
@@ -642,7 +612,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"34"
 				"additive"		"0"
 				"antialias"	"1"
@@ -653,7 +623,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"33"
 				"additive"		"0"
 				"antialias"	"1"
@@ -664,7 +634,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"32"
 				"additive"		"0"
 				"antialias"	"1"
@@ -675,7 +645,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"31"
 				"additive"		"0"
 				"antialias"	"1"
@@ -686,7 +656,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"30"
 				"additive"		"0"
 				"antialias"	"1"
@@ -697,7 +667,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"29"
 				"additive"		"0"
 				"antialias"	"1"
@@ -708,7 +678,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"28"
 				"additive"		"0"
 				"antialias"	"1"
@@ -719,7 +689,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"27"
 				"additive"		"0"
 				"antialias"	"1"
@@ -730,7 +700,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"26"
 				"additive"		"0"
 				"antialias"	"1"
@@ -741,7 +711,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"26"
 				"additive"		"0"
 				"antialias"	"1"
@@ -753,7 +723,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"25"
 				"additive"		"0"
 				"antialias"	"1"
@@ -764,7 +734,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"24"
 				"additive"		"0"
 				"antialias"	"1"
@@ -775,7 +745,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -786,7 +756,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -798,7 +768,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -810,7 +780,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"22"
 				"additive"		"0"
 				"antialias"	"1"
@@ -821,7 +791,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"1"
@@ -831,7 +801,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"1"
@@ -842,7 +812,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"1"
@@ -854,7 +824,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"20"
 				"additive"		"0"
 				"antialias"	"1"
@@ -865,7 +835,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"18"
 				"additive"		"0"
 				"antialias"	"1"
@@ -876,7 +846,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"17"
 				"additive"		"0"
 				"antialias"	"1"
@@ -891,7 +861,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"16"
 				"additive"		"0"
 				"antialias"	"1"
@@ -902,7 +872,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"16"
 				"additive"		"0"
 				"antialias"	"1"
@@ -914,7 +884,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"15"
 				"additive"		"0"
 				"antialias"	"1"
@@ -925,7 +895,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"15"
 				"additive"		"0"
 				"antialias"	"1"
@@ -937,7 +907,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"additive"		"0"
 				"antialias"	"1"
@@ -948,7 +918,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"13"
 				"additive"		"0"
 				"antialias"	"1"
@@ -959,7 +929,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"13"
 				"additive"		"0"
 				"antialias"	"1"
@@ -971,7 +941,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"additive"		"0"
 				"antialias"	"1"
@@ -982,7 +952,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"additive"		"0"
 				"antialias"	"1"
@@ -994,7 +964,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"11"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1004,7 +974,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"11"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1016,7 +986,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1027,7 +997,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"9"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1038,7 +1008,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"9"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1050,7 +1020,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1061,7 +1031,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1073,7 +1043,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"7"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1084,7 +1054,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"6"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1095,7 +1065,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"68"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1106,7 +1076,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"66"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1117,7 +1087,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"64"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1128,7 +1098,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"62"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1139,7 +1109,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"60"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1150,7 +1120,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"58"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1161,7 +1131,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"56"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1172,7 +1142,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"54"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1183,7 +1153,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"52"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1194,7 +1164,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"50"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1205,7 +1175,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"48"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1216,7 +1186,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"46"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1227,7 +1197,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"44"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1238,7 +1208,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"42"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1249,31 +1219,18 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"40"
 				"additive"		"0"
 				"antialias"	"1"
 			}
 		}
 
-		"MapVotesPercentage"
-		{
-			"1"
-			{
-				"name"	"TF2 Build"
-				"tall"	"12"
-				"weight"	"500"
-				"additive"	"0"
-				"antialias"	"1"
-				"dropshadow"	"1"
-			}
-		}
-		
 		"Regular38"
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"38"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1284,7 +1241,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"36"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1295,7 +1252,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"34"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1306,7 +1263,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"32"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1317,7 +1274,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"30"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1328,7 +1285,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"28"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1339,7 +1296,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"26"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1350,7 +1307,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"25"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1361,7 +1318,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"24"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1372,7 +1329,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1383,7 +1340,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"23"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1395,7 +1352,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"22"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1406,7 +1363,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1417,7 +1374,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"0"
@@ -1429,7 +1386,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"20"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1440,7 +1397,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"19"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1451,7 +1408,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"19"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1463,7 +1420,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"18"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1474,7 +1431,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"16"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1485,7 +1442,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"16"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1497,7 +1454,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"15"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1508,7 +1465,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1519,7 +1476,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1531,7 +1488,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"13"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1542,7 +1499,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1553,7 +1510,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"12"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1565,7 +1522,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"11"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1576,7 +1533,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"11"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1588,7 +1545,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1599,7 +1556,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1611,7 +1568,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"9"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1622,7 +1579,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"9"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1634,7 +1591,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1645,7 +1602,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"8"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1657,7 +1614,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"7"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1668,7 +1625,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"7"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1680,7 +1637,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"6"
 				"additive"		"0"
 				"antialias"	"1"
@@ -1691,7 +1648,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"6"
 				"additive"		"0"
 				"antialias"	"1"
@@ -2027,7 +1984,7 @@
         {
             "1"
             {
-                "name"        "GlacialIndifference-Regular"
+                "name"        "Lato Semibold"
                 "tall"        "22"
                 "additive"        "0"
                 "antialias"    "1"
@@ -2114,8 +2071,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"additive" "0"
 		"antialias" "1"
@@ -2370,8 +2326,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_lodef" "80"
 		"weight" "500"
@@ -2382,8 +2337,7 @@
 		}
 		"2" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "32"
 		"tall_hidef" "120"
 		"weight" "500"
@@ -2393,8 +2347,7 @@
 		}
 		"3" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "44"
 		"weight" "500"
 		"additive" "0"
@@ -2403,8 +2356,7 @@
 		}
 		"4" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "48"
 		"weight" "500"
 		"additive" "0"
@@ -2413,8 +2365,7 @@
 		}
 		"5" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "52"
 		"weight" "500"
 		"additive" "0"
@@ -2426,8 +2377,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "500"
 		"additive" "0"
@@ -2439,8 +2389,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "44"
 		"tall_lodef" "52"
 		"weight" "500"
@@ -2453,8 +2402,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "35"
 		"tall_lodef" "40"
 		"weight" "500"
@@ -2466,8 +2414,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "36"
 		"tall_hidef" "48"
 		"weight" "500"
@@ -2479,8 +2426,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "30"
 		"weight" "500"
 		"additive" "0"
@@ -2491,8 +2437,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "30"
 		"weight" "500"
 		"additive" "0"
@@ -2503,8 +2448,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_lodef" "28"
 		"weight" "500"
@@ -2516,8 +2460,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "500"
 		"additive" "0"
@@ -2528,8 +2471,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "500"
 		"additive" "0"
@@ -2540,8 +2482,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"weight" "500"
 		"additive" "0"
@@ -2552,8 +2493,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"tall_hidef" "24"
 		"tall_lodef" "18"
@@ -2567,8 +2507,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"tall_hidef" "24"
 		"tall_lodef" "20"
@@ -2581,8 +2520,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"tall_lodef" "16"
 		"weight" "500"
@@ -2595,8 +2533,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"weight" "500"
 		"additive" "0"
@@ -2607,8 +2544,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "500"
 		"additive" "0"
@@ -2620,8 +2556,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "500"
 		"additive" "0"
@@ -2633,8 +2568,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -2646,8 +2580,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -2659,8 +2592,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -2671,8 +2603,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "4"
 		"weight" "500"
 		"additive" "0"
@@ -2683,8 +2614,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"weight" "500"
 		"additive" "0"
@@ -2696,8 +2626,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"weight" "500"
 		"additive" "0"
@@ -2708,8 +2637,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "0"
 		"additive" "0"
@@ -2720,8 +2648,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "0"
 		"additive" "0"
@@ -2732,8 +2659,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "6"
 		"weight" "0"
 		"additive" "0"
@@ -2744,8 +2670,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"tall_hidef" "14"
 		"tall_lodef" "16"
@@ -2758,8 +2683,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -2782,8 +2706,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"tall_hidef" "24"
 		"tall_lodef" "18"
@@ -2796,8 +2719,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"tall_hidef" "22"
 		"tall_lodef" "22"
@@ -2858,8 +2780,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"weight" "700"
 		"antialias" "1"
@@ -2869,8 +2790,7 @@
 		}
 		"2" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"weight" "700"
 		"antialias" "1"
@@ -2880,8 +2800,7 @@
 		}
 		"3" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"weight" "900"
 		"antialias" "1"
@@ -2890,8 +2809,7 @@
 		}
 		"4" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "21"
 		"weight" "900"
 		"antialias" "1"
@@ -2900,8 +2818,7 @@
 		}
 		"5" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "1000"
 		"antialias" "1"
@@ -2977,8 +2894,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -2989,8 +2905,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "500"
@@ -3002,8 +2917,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3014,8 +2928,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_hidef" "32"
 		"weight" "900"
@@ -3027,8 +2940,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"tall_hidef" "24"
 		"weight" "900"
@@ -3050,8 +2962,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"antialias" "1"
 		"weight" "500"
@@ -3061,8 +2972,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"tall_lodef" "14"
 		"antialias" "1"
@@ -3073,8 +2983,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"antialias" "1"
 		"weight" "500"
@@ -3098,8 +3007,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "28"
 		"tall_lodef" "48"
 		"tall_hidef" "48"
@@ -3113,8 +3021,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "40"
 		"tall_lodef" "48"
 		"tall_hidef" "48"
@@ -3128,8 +3035,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"tall_lodef" "36"
 		"tall_hidef" "36"
@@ -3141,8 +3047,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"tall_lodef" "32"
 		"tall_hidef" "32"
@@ -3178,8 +3083,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"tall_hidef" "12"
 		"tall_lodef" "14"
@@ -3192,8 +3096,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "500"
 		"range" "0x0000 0x007F"
@@ -3205,8 +3108,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"weight" "500"
 		"range" "0x0000 0x007F"
@@ -3218,8 +3120,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"tall_hidef" "24"
 		"tall_lodef" "24"
@@ -3233,8 +3134,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "34"
 		"tall_hidef" "38"
 		"tall_lodef" "38"
@@ -3248,8 +3148,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "52"
 		"tall_lodef" "80"
 		"range" "0x0000 0x00FF"
@@ -3259,8 +3158,7 @@
 		}
 		"2" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "72"
 		"tall_hidef" "120"
 		"range" "0x0000 0x00FF"
@@ -3270,8 +3168,7 @@
 		}
 		"3" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "100"
 		"range" "0x0000 0x00FF"
 		"weight" "400"
@@ -3280,8 +3177,7 @@
 		}
 		"4" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "140"
 		"range" "0x0000 0x00FF"
 		"weight" "400"
@@ -3290,8 +3186,7 @@
 		}
 		"5" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "180"
 		"range" "0x0000 0x00FF"
 		"weight" "400"
@@ -3303,8 +3198,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "36"
 		"weight" "500"
 		"antialias" "1"
@@ -3315,8 +3209,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "400"
 		"additive" "0"
@@ -3327,8 +3220,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"weight" "400"
 		"additive" "0"
@@ -3339,8 +3231,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "400"
 		"additive" "0"
@@ -3351,8 +3242,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"weight" "400"
 		"additive" "0"
@@ -3363,8 +3253,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "7"
 		"weight" "400"
 		"additive" "0"
@@ -3375,8 +3264,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"tall_hidef" "12"
 		"tall_lodef" "14"
@@ -3445,8 +3333,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"tall_lodef" "18"
 		"range" "0x0000 0x00FF"
@@ -3459,8 +3346,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"weight" "500"
 		"range" "0x0000 0x017F"
@@ -3472,8 +3358,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "8"
 		"weight" "500"
 		"range" "0x0000 0x017F"
@@ -3522,8 +3407,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "36"
 		"tall_lodef" "28"
 		"weight" "500"
@@ -3533,8 +3417,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "30"
 		"tall_lodef" "22"
 		"weight" "500"
@@ -3544,8 +3427,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "28"
 		"tall_lodef" "24"
 		"weight" "500"
@@ -3573,8 +3455,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "22"
 		"weight" "500"
 		}
@@ -3583,8 +3464,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"weight" "500"
 		}
@@ -3622,8 +3502,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "36"
 		"weight" "500"
 		"additive" "0"
@@ -3634,8 +3513,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "600"
 		"additive" "0"
@@ -3646,8 +3524,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"weight" "400"
 		"additive" "0"
@@ -3720,8 +3597,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "8"
 		"weight" "500"
 		"additive" "0"
@@ -3732,8 +3608,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "500"
 		"additive" "0"
@@ -3744,8 +3619,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"weight" "500"
 		"additive" "0"
@@ -3757,8 +3631,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "7"
 		"weight" "500"
 		"additive" "0"
@@ -3769,8 +3642,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "8"
 		"weight" "500"
 		"additive" "0"
@@ -3781,8 +3653,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -3793,8 +3664,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "500"
 		"additive" "0"
@@ -3805,8 +3675,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "500"
 		"blur" "3"
@@ -3875,8 +3744,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -3940,8 +3808,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"additive" "0"
@@ -3952,8 +3819,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "500"
 		"additive" "0"
@@ -3964,8 +3830,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"tall_hidef" "24"
 		"tall_lodef" "18"
@@ -3978,8 +3843,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "500"
 		"additive" "0"
@@ -3990,8 +3854,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"tall_hidef" "24"
 		"tall_lodef" "20"
@@ -4004,8 +3867,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"weight" "500"
 		"additive" "0"
@@ -4016,8 +3878,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"weight" "500"
 		"additive" "0"
@@ -4028,8 +3889,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"weight" "500"
 		"range" "0x0000 0x007F"
@@ -4041,8 +3901,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"weight" "400"
 		"additive" "0"
@@ -4053,20 +3912,18 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "53"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"
 		}
 		}
-		"GlacialIndifference-Regular44" 
+		"Lato Semibold44" 
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "44"
 		"additive" "0"
 		"antialias" "1"
@@ -4077,8 +3934,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "39"
 		"additive" "0"
 		"antialias" "1"
@@ -4089,8 +3945,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "23"
 		"additive" "0"
 		"antialias" "1"
@@ -4101,8 +3956,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -4113,8 +3967,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "13"
 		"additive" "0"
 		"antialias" "1"
@@ -4125,8 +3978,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "17"
 		"additive" "0"
 		"antialias" "1"
@@ -4148,8 +4000,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"additive" "0"
 		"antialias" "1"
@@ -4160,8 +4011,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "53"
 		"additive" "0"
 		"antialias" "1"
@@ -4172,8 +4022,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "33"
 		"additive" "0"
 		"antialias" "1"
@@ -4206,8 +4055,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "8"
 		"antialias" "1"
 		"weight" "500"
@@ -4335,7 +4183,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"20"
 				"antialias" "1"
 				"custom"		"1" [$OSX]
@@ -4347,7 +4195,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -4356,7 +4204,7 @@
 			}
 			"2"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -4365,7 +4213,7 @@
 			}
 			"3"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -4378,7 +4226,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -4388,7 +4236,7 @@
 			}
 			"2"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -4398,7 +4246,7 @@
 			}
 			"3"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -4412,7 +4260,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -4421,7 +4269,7 @@
 			}
 			"2"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -4430,7 +4278,7 @@
 			}
 			"3"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -4443,7 +4291,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -4455,7 +4303,7 @@
 		{
 			"1"
 			{
-				"name"		"GlacialIndifference-Regular"
+				"name"		"Lato Semibold"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -4467,8 +4315,7 @@
 		"1"
 		{
 		}
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"weight" "400"
 		"additive" "0"
@@ -4499,8 +4346,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -4511,8 +4357,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "30"
 		"additive" "0"
 		"antialias" "1"
@@ -4523,8 +4368,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"additive" "0"
 		"antialias" "1"
@@ -4535,8 +4379,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "10"
 		"additive" "0"
 		"antialias" "1"
@@ -4547,8 +4390,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "15"
 		"additive" "0"
 		"antialias" "1"
@@ -4559,8 +4401,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "40"
 		"additive" "0"
 		"antialias" "1"
@@ -4571,8 +4412,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "18"
 		"additive" "0"
 		"antialias" "1"
@@ -4583,8 +4423,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -4595,8 +4434,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "29"
 		"additive" "0"
 		"antialias" "1"
@@ -4607,8 +4445,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "53"
 		"additive" "0"
 		"antialias" "1"
@@ -4619,8 +4456,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "9"
 		"additive" "0"
 		"antialias" "1"
@@ -4631,8 +4467,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "33"
 		"additive" "0"
 		"antialias" "1"
@@ -4643,8 +4478,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "16"
 		"additive" "0"
 		"antialias" "1"
@@ -4655,8 +4489,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"antialias" "1"
@@ -4666,8 +4499,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"weight" "500"
 		"blur" "3"
@@ -4679,8 +4511,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "12"
 		"weight" "500"
 		"additive" "0"
@@ -4770,8 +4601,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "13"
 		"additive" "0"
 		"antialias" "1"
@@ -4782,20 +4612,18 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "50"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"
 		}
 		}
-		"GlacialIndifference-Regular11" 
+		"Lato Semibold11" 
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "11"
 		"additive" "0"
 		"antialias" "1"
@@ -4806,8 +4634,7 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "33"
 		"additive" "0"
 		"antialias" "1"
@@ -4818,20 +4645,18 @@
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "14"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"
 		}
 		}
-		"GlacialIndifference-Regular24" 
+		"Lato Semibold24" 
 		{
 		"1" 
 		{
-		"name" "Bahnschrift" [$WINDOWS]
-				"name" "DIN 1451 Mittelschrift" [!$WINDOWS]
+		"name" "Lato Semibold"
 		"tall" "24"
 		"additive" "0"
 		"antialias" "1"
@@ -4842,7 +4667,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "36"
 			"additive" "0"
 			"antialias" "1"
@@ -4853,7 +4678,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "32"
 			"additive" "0"
 			"antialias" "1"
@@ -4864,7 +4689,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "24"
 			"additive" "0"
 			"antialias" "1"
@@ -4875,7 +4700,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "22"
 			"additive" "0"
 			"antialias" "1"
@@ -4886,7 +4711,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "18"
 			"additive" "0"
 			"antialias" "1"
@@ -4897,7 +4722,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "16"
 			"additive" "0"
 			"antialias" "1"
@@ -4908,7 +4733,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "14"
 			"additive" "0"
 			"antialias" "1"
@@ -4919,7 +4744,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "12"
 			"additive" "0"
 			"antialias" "1"
@@ -4930,7 +4755,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "11"
 			"additive" "0"
 			"antialias" "1"
@@ -4941,7 +4766,7 @@
 		{
 			"1" 
 			{
-			"name" "DIN 1451 Mittelschrift"
+			"name" "Lato Semibold"
 			"tall" "10"
 			"additive" "0"
 			"antialias" "1"

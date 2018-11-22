@@ -61,8 +61,8 @@
 		//
 		// AMMO
 		//
-			"QHUDAmmoInClip" "0 175 255 255"
-			"QHUDAmmoInReserve" "255 255 255 255"
+			"QHUDAmmoInClip" "255 255 255 255"
+			"QHUDAmmoInReserve" "0 175 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			

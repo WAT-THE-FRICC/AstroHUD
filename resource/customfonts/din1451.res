@@ -1,3 +1,5 @@
+#base "din1451-mittelschrift_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 

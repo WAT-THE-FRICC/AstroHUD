@@ -1,3 +1,5 @@
+#base "lato_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 
@@ -29,7 +31,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -40,7 +42,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -51,7 +53,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -141,7 +143,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
@@ -154,7 +156,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -167,7 +169,7 @@
 		{
 			"1"
 			{
-				"name" "Lato Bold"
+				"name" "Lato Semibold"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"

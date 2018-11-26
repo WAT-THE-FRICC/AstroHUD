@@ -71,7 +71,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "50"
 				"additive" "0"
@@ -83,7 +83,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "36"
 				"additive" "0"
@@ -95,7 +95,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "24"
 				"additive" "0"
@@ -107,7 +107,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "18"
 				"additive" "0"
@@ -119,7 +119,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "15"
 				"additive" "0"
@@ -131,7 +131,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "12"
 				"additive" "0"
@@ -143,7 +143,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "11"
 				"additive" "0"
@@ -213,7 +213,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "50"
 				"additive" "0"
@@ -226,7 +226,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "36"
 				"additive" "0"
@@ -240,7 +240,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "24"
 				"additive" "0"
@@ -253,7 +253,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "18"
 				"additive" "0"
@@ -266,7 +266,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "15"
 				"additive" "0"
@@ -279,7 +279,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "12"
 				"additive" "0"
@@ -292,7 +292,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "11"
 				"additive" "0"

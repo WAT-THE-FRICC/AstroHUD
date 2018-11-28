@@ -2,7 +2,7 @@
 {
 	"CMainTargetID" 
 	{
-		"ypos" "285"
+		"ypos" "c25"
 		"zpos" "-1"
 	}
 	"CSecondaryTargetID" 

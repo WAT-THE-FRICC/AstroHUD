@@ -2,6 +2,8 @@
 #base "huditemeffectmeter_noteamcolorbg.res"
 #base "huditemeffectmeter_border.res"
 
+#base "huditemeffectmeter.res"
+
 "Resource/UI/HudItemEffectMeter_middle.res" 
 {
 "HudItemEffectMeter" 
@@ -18,48 +20,12 @@
 }
 "ItemEffectMeterLabel" 
 {
-"ControlName" "CExLabel"
-"fieldName" "ItemEffectMeterLabel"
-"xpos" "c-50"
 "ypos" "333"
-"zpos" "3"
-"wide" "100"
-"tall" "7"
-"autoResize" "1"
-"pinCorner" "2"
-"visible" "1"
-"enabled" "1"
-"tabPosition" "0"
-"labelText" "#TF_Ball"
-"textAlignment" "north-west"
-"dulltext" "0"
-"brighttext" "0"
-"font" "TFFontSmall"
-"xpos_minmode" "c-30"
 "ypos_minmode" "388"
-"wide_minmode" "60"
 }
 "ItemEffectMeter" 
 {
-"ControlName" "ContinuousProgressBar"
-"fieldName" "ItemEffectMeter"
-"font" "Default"
-"xpos" "c-50"
 "ypos" "340"
-"zpos" "2"
-"wide" "100"
-"tall" "3"
-"autoResize" "0"
-"pinCorner" "0"
-"visible" "1"
-"enabled" "1"
-"textAlignment" "north-west"
-//"bgcolor_override" "QHUDChargeMeterBG"
-"fgcolor_override" "QHUDChargeMeterFG"
-"dulltext" "0"
-"brighttext" "0"
-"xpos_minmode" "c-30"
 "ypos_minmode" "395"
-"wide_minmode" "60"
 }
 }

@@ -58,10 +58,10 @@
 "font" "AstroBlur50"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
-"xpos" "c95"
-"xpos_minmode" "c74"
-"ypos" "312"//423
-"ypos_minmode" "381"
+//"xpos" "c95"
+//"xpos_minmode" "c74"
+//"ypos" "312"//423
+//"ypos_minmode" "381"
 "zpos" "5"
 "wide" "100"
 "tall" "50"
@@ -69,6 +69,14 @@
 "enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%Ammo%"
+
+"xpos" "-2"
+"xpos_minmode" "-1"
+"ypos" "-2"
+"ypos_minmode" "-1"
+"pin_to_sibling" "AmmoInClip"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 "AmmoInReserve" 
 {
@@ -94,10 +102,10 @@
 "fieldName" "AmmoInReserveShadow"
 "font" "AstroBlur24"
 "fgcolor" "QHUDShadow"
-"xpos" "c143"
-"xpos_minmode" "c110"
-"ypos" "316"//348
-"ypos_minmode" "383"
+//"xpos" "c143"
+//"xpos_minmode" "c110"
+//"ypos" "316"//348
+//"ypos_minmode" "383"
 "zpos" "5"
 "wide" "100"
 "tall" "50"
@@ -105,6 +113,12 @@
 "enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%AmmoInReserve%"
+
+"xpos" "-1"
+"ypos" "-1"
+"pin_to_sibling" "AmmoInReserve"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 "AmmoNoClip" 
 {
@@ -132,10 +146,10 @@
 "font" "AstroBlur50"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
-"xpos" "c94"
-"xpos_minmode" "c74"
-"ypos" "311"//423
-"ypos_minmode" "381"
+//"xpos" "c94"
+//"xpos_minmode" "c74"
+//"ypos" "311"//423
+//"ypos_minmode" "381"
 "zpos" "5"
 "wide" "100"
 "tall" "50"
@@ -143,5 +157,13 @@
 "enabled" "1"
 "textAlignment" "north-west"
 "labelText" "%Ammo%"
+
+"xpos" "-2"
+"xpos_minmode" "-1"
+"ypos" "-2"
+"ypos_minmode" "-1"
+"pin_to_sibling" "AmmoNoClip"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 }

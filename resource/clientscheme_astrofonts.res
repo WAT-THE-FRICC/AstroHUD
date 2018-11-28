@@ -5,10 +5,11 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-#base "customfonts/_default.res"
 
-//#base "customfonts/_default_copy.res"
 //#base "customfonts/_default_Avenir-Black.res"
+
+#base "customfonts/_default_r.res"
+//#base "customfonts/_default_r_copy.res"
 
 //#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"

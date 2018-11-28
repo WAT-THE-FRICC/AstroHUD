@@ -2,6 +2,10 @@
 #base "huditemeffectmeter_noteamcolorbg.res"
 #base "huditemeffectmeter_border.res"
 
+#base "huditemeffectmeter_textalign_right.res"
+#base "huditemeffectmeter_textalign_center.res"
+#base "huditemeffectmeter_textalign_left.res"
+
 "Resource/UI/HudItemEffectMeter.res" 
 {
 "HudItemEffectMeter" 
@@ -31,7 +35,7 @@
 "enabled" "1"
 "tabPosition" "0"
 "labelText" "#TF_Ball"
-"textAlignment" "north-west"
+//"fgcolor_override" "100 100 100 255" // does not work
 "dulltext" "0"
 "brighttext" "0"
 "font" "TFFontSmall"

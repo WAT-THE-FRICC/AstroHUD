@@ -32,7 +32,6 @@
 		// for my own reference:
 		// hypnotize: 80 150 255
 		// csharp overheal: 125 225 30
-		// old overheal: 0 175 255
 		
 		// Don't forget the last number (opacity)!
 		
@@ -62,7 +61,9 @@
 		// AMMO
 		//
 			"QHUDAmmoInClip" "255 255 255 255"
-			"QHUDAmmoInReserve" "0 175 255 255"
+			"QHUDAmmoInReserve" "0 170 127 255"
+								// to match the color seen in the v1.3 video,
+								// use the color "0 175 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			

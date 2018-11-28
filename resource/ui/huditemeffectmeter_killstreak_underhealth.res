@@ -7,7 +7,7 @@
 "xpos" "c-165" //c-136
 "xpos_minmode" "c-140"
 "ypos" "350" //365
-"ypos_minmode" "369" 
+"ypos_minmode" "407" 
 "zpos" "2"
 "wide" "50"
 "tall" "24"
@@ -55,7 +55,7 @@
 "xpos" "c-110"//-114
 "xpos_minmode" "c-90"
 "ypos" "355"//369
-"ypos_minmode" "370"
+"ypos_minmode" "408"
 "zpos" "12"
 "wide" "16"
 "tall" "16"

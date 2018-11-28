@@ -5,4 +5,9 @@
 		"bgcolor_override" "QHUDChargeMeterBG"
 		"fgcolor_override" "QHUDChargeMeterFG"
 	}
+	"ChargeMeter"
+	{
+		"bgcolor_override" "QHUDChargeMeterBG"
+		"fgcolor_override" "QHUDChargeMeterFG"
+	}
 }

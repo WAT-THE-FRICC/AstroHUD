@@ -14,5 +14,9 @@
 "textAlignment_minmode" "north-west"
 "font_minmode" "AstroBlur50"
 }
-	
+"PlayerStatusAnchor"
+{
+	"xpos_minmode" "150"
+	"ypos_minmode" "450"
+}
 }

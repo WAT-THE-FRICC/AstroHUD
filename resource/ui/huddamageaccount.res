@@ -1,3 +1,5 @@
+#base "huddamageaccount_corner-healthammo.res"
+
 #base "huddamageaccount_aboveammo.res"
 #base "huddamageaccount_override.res"
 #base "huddamageaccount_default.res"

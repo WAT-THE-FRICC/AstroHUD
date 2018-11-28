@@ -1,18 +1,21 @@
 "Resource/UI/HudItemEffectMeter.res" 
 {
-	"ItemEffectMeterBG" 
+	"TeamBG" 
 	{
 		"ControlName" "CTFImagePanel"
-		"fieldName" "ItemEffectMeterBG"
+		"fieldName" "TeamBG"
 		"xpos" "0"
 		"ypos" "0"
-		"zpos" "0"
+		"zpos" "-1"
 		"wide" "100"
+		"wide_minmode" "60"
 		"tall" "3"
 		"visible" "1"
 		"enabled" "1"
-		"teambg_2" "replay/thumbnails/oldbg/bg_red"
-		"teambg_3" "replay/thumbnails/oldbg/bg_blu"
+		//"teambg_2" "replay/thumbnails/oldbg/bg_red"
+		//"teambg_3" "replay/thumbnails/oldbg/bg_blu"
+		"teambg_2" "../hud/misc_ammo_area_red"
+		"teambg_3" "../hud/misc_ammo_area_blue"
 		"src_corner_height" "23"
 		"src_corner_width" "23"
 		"draw_corner_width" "0"
@@ -30,5 +33,9 @@
 	"HudItemEffectMeter" 
 	{
 		"MeterBG" "0 0 0 0"
+	}
+	"ChargeMeter" 
+	{
+		"bgcolor_override" "0 0 0 0"
 	}
 }

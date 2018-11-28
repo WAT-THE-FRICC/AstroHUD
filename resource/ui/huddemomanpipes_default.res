@@ -1,3 +1,6 @@
+// import the sticky/cannon charge stuff for shields
+#base "huddemomancharge.res"
+
 // everything Demoman that's not the Eyelander
 "Resource/UI/HudDemomanPipes.res" 
 {
@@ -19,52 +22,21 @@
 "teambg_3" "../hud/misc_ammo_area_blue"
 "teambg_3_lodef" "../hud/misc_ammo_area_blue_lodef"
 }
+
+// shields
+// extends huddemomancharge.res
 "ChargeLabel" 
 {
-"ControlName" "CExLabel"
-"fieldName" "ChargeLabel"
-"xpos" "c-50"
 "ypos" "333"
-"zpos" "3"
-"wide" "100"
-"tall" "7"
-"autoResize" "1"
-"pinCorner" "2"
-"visible" "1"
-"enabled" "1"
-"tabPosition" "0"
-"labelText" "#TF_Charge"
-"textAlignment" "north-west"
-"dulltext" "0"
-"brighttext" "0"
-"font" "TFFontSmall"
-"xpos_minmode" "c-30"
 "ypos_minmode" "393"
-"wide_minmode" "60"
 }
 "ChargeMeter" 
 {
-"ControlName" "ContinuousProgressBar"
-"fieldName" "ChargeMeter"
-//"font" "m0refont10"
-"xpos" "c-50"
 "ypos" "340"
-"zpos" "2"
-"wide" "100"
-"tall" "3"
-"autoResize" "0"
-"pinCorner" "0"
-"visible" "1"
-"enabled" "1"
-"textAlignment" "north-west"
-"bgcolor_override" "QHUDChargeMeterBG"
-"fgcolor_override" "QHUDChargeMeterFG"
-"dulltext" "0"
-"brighttext" "0"
-"xpos_minmode" "c-30"
 "ypos_minmode" "400"
-"wide_minmode" "60"
 }
+
+// sticky count
 "PipesPresentPanel" 
 {
 	"ControlName" "EditablePanel"

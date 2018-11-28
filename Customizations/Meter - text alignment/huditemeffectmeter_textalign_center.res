@@ -2,10 +2,10 @@
 {
 "ItemEffectMeterLabel" 
 {
-"textAlignment" "north-west"
+"textAlignment" "north"
 }
 "ChargeLabel" 
 {
-"textAlignment" "north-west"
+"textAlignment" "north"
 }
 }

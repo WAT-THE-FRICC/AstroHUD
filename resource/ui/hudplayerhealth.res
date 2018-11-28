@@ -1,3 +1,4 @@
+#base "hudplayerhealth_corner.res"
 #base "hudplayerhealth_centeredminmode.res"
 
 #base "hudplayerhealth_boxunderhealth.res"

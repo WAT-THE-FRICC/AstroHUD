@@ -3,6 +3,12 @@
 // OR YOU WILL BREAK THE HUD
 //
 		
+// HUD colors customizable
+// You can customize these colors fairly easily, the first 3 numbers are the RGB values, the last one is the transparency
+// This is a decent site for finding the color you would like: http://www.colorspire.com/rgb-color-wheel/
+// You will need to restart TF2 for any changes to take effect!
+
+// "Control Name"		"R   G   B   Transparency"	//Description
 
 "Scheme"
 {
@@ -17,11 +23,15 @@
 		// Blue: 25 100 240
 		// Yellow: 235 235 0
 		// Orange: 255 100 0
-		// Purple: 190 0 255
+		// Purple: 128 0 255
 		
 		// Black: 0 0 0
 		// White: 255 255 255
 		// Gray: depending on tone, all 3 numbers should be the same.
+		
+		// for my own reference:
+		// hypnotize: 80 150 255
+		// csharp overheal: 125 225 30
 		
 		// Don't forget the last number (opacity)!
 		
@@ -50,15 +60,17 @@
 		//
 		// AMMO
 		//
-			"QHUDAmmoInClip" "0 200 255 255"
-			"QHUDAmmoInReserve" "255 255 255 255"
+			"QHUDAmmoInClip" "255 255 255 255"
+			"QHUDAmmoInReserve" "0 170 127 255"
+								// to match the color seen in the v1.3 video,
+								// use the color "0 175 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			
 		//
 		// UBERCHARGE
 		//
-			"QHUDChargeLabel" "0 200 255 255"
+			"QHUDChargeLabel" "255 255 255 255"
 			
 			// when fully charged, and the rainbow uber option disabled,
 			// uber meter and number switches between these two numbers
@@ -85,23 +97,33 @@
 			"G_ItemMeterBorder" "0 0 0 255"
 			
 		//
-		// HUD PANEL BACKGROUND
+		// HUD TEXT AND PANEL BACKGROUND
 		//
 			// background for:
-			// build/disguise, target id,
-			// scoreboard player stats
-			"ya_HudBG"					"50 50 50 200"
-		
+			// build/disguise, scoreboard top
+			// win panel background
+			// and everything else
+			"ya_HudBG"					"30 30 30 200"
+			"hud_text" 					"255 255 255 255"
+			
+		//
+		// HUD highlight
+		//
+			// TargetID, scoreboard stats
+			"hud_highlight_bg" "30 30 30 200"
+			"hud_highlight_text" "255 255 255 255"
+			
 		//
 		// SHADOWS
 		//
 			// change if you want the shadows to be darker
-			"QHUDShadow" "75 75 75 200"
+			"QHUDShadow" "0 0 0 200"
 			
 			// shadowcounter is for killstreak and weapon counters
 			// stickies and metal have it enabled thru QHUDShadow
 			// change the last value to 200 to enable
-			"QHUDShadowCounter" "75 75 75 0" 
+			"QHUDShadowCounter" "0 0 0 200"
+			
 		
 		//////////////////////////////
 		//			MENUS			//
@@ -113,17 +135,18 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"244 67 54 255"
+			"G_Highlight" 			"0 170 127 255"
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"244 67 54 255"
+			"G_Highlight_text" 		"0 170 127 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
 			// 192 28 0 255 // dark red
 			// 193 0 55 255 // idk
+			// 80 150 255 255 // light blue, seen in Hypnotize HUD
 			
         //
 		// BUTTONS
@@ -134,11 +157,11 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "244 67 54 255"		// recommended to match "G_Highlight" above
+			"ButtonBGArmed"         "0 170 127 255"		// recommended to match "G_Highlight" above
 			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "244 67 54 255"
+			"ButtonBGSelect"        "0 170 127 255"
 			"ButtonFontSelect"      "255 255 255 255"
 			
 			
@@ -154,18 +177,21 @@
 			"panelBG"					"30 30 30 255"
 			"panelBGtransparent"		"30 30 30 200"
 			
-		
+		//
+		// BACKPACK ITEM HOVER INFO
+		//
+			"LoadoutItemPopupBorder_bg" "30 30 30 255"
 		
 		//
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
-			"PartyMember1" "244 67 54 255"
-			"PartyMember2" "244 67 54 220"
-			"PartyMember3" "244 67 54 195"
-			"PartyMember4" "244 67 54 170"
-			"PartyMember5" "244 67 54 145"
-			"PartyMember6" "244 67 54 120"
+			"PartyMember1" "0 170 127 255"
+			"PartyMember2" "0 170 127 220"
+			"PartyMember3" "0 170 127 195"
+			"PartyMember4" "0 170 127 170"
+			"PartyMember5" "0 170 127 145"
+			"PartyMember6" "0 170 127 120"
 			
 			// default:
 			//"PartyMember1" "124 173 255 255"
@@ -181,12 +207,12 @@
 			// note that these do not change all of the elements
 			// because some of the programming restrictions
 			
-			"BlueTeamColor"		"33 150 243 255"
-			"RedTeamColor"		"244 67 54 255"
-			"HUDBlueTeam"		"33 150 243 127"
-			"HUDRedTeam" 		"244 67 54 127"
-			"HUDBlueTeamSolid"	"33 150 243 255"
-			"HUDRedTeamSolid"	"244 67 54 255"
+			"BlueTeamColor"		"18 127 220 255"
+			"RedTeamColor"		"245 54 64 255"
+			"HUDBlueTeam"		"18 127 220 127"
+			"HUDRedTeam" 		"245 54 64 127"
+			"HUDBlueTeamSolid"	"18 127 220 255"
+			"HUDRedTeamSolid"	"245 54 64 255"
 			
 		//
 		// ITEM QUALITY COLORS

@@ -7,7 +7,7 @@
 		"ControlName" "CTFImagePanel"
 		"fieldName" "TargetIDBG"
 		"xpos" "0"
-		"ypos" "10"
+		"ypos" "11"
 		"zpos" "-10"
 		"wide" "f0"//
 		"tall" "7"
@@ -71,20 +71,20 @@
 	{
 		"ControlName" "ImagePanel"
 		"fieldName" "TargetBGshade"
-		"xpos" "0"
+		"xpos" "30"
 		"ypos" "0"//362
 		"zpos" "-10"
 		"wide" "f0"//500
-		"tall" "10"//15
+		"tall" "11"//15
 		"autoResize" "0"
 		"pinCorner" "0"
 		"visible" "1"
 		"enabled" "1"
-		"fillcolor" "yA_hudbg"
+		"fillcolor" "hud_highlight_bg"
 		"textAlignment" "north-west"
 		"PaintBackgroundType" "1"
 	}
-	"TargetNameLabel" 
+	"TargetNameLabel"
 	{
 		"ControlName" "Label"
 		"fieldName" "TargetNameLabel"
@@ -92,6 +92,21 @@
 		"xpos" "40"
 		"ypos" "-1"
 		"zpos" "1"
+		"wide" "640"
+		"tall" "0"
+		"visible" "0"
+		"enabled" "1"
+		"labelText" "%targetname%"
+		"textAlignment" "north-west"
+	}
+	"TargetNameLabelFix" 
+	{
+		"ControlName" "Label"
+		"fieldName" "TargetNameLabelFix"
+		"font" "m0refont12"
+		"xpos" "0"
+		"ypos" "0"
+		"zpos" "2"
 		"wide" "640"
 		"tall" "12"
 		"autoResize" "0"
@@ -102,8 +117,12 @@
 		"textAlignment" "north-west"
 		"dulltext" "0"
 		"brighttext" "0"
-		"fgcolor" "255 255 255 255"
-		"fgcolor_override" "0 160 255 255"
+		"fgcolor" "hud_highlight_text"
+		"fgcolor_override" "hud_highlight_text"
+		
+		"pin_to_sibling" "TargetNameLabel"
+		"pin_corner_to_sibling" "TOP_LEFT"
+		"pin_sibling_to_corner" "TOP_LEFT"
 	}
 	"TargetNameLabelShadow" 
 	{
@@ -130,6 +149,7 @@
 	{
 		"ControlName" "Label"
 		"fieldName" "TargetDataLabel"
+		"font" "m0refont10"
 		"xpos" "40"
 		"ypos" "8"
 		"zpos" "1"
@@ -143,10 +163,8 @@
 		"textAlignment" "north-west"
 		"dulltext" "0"
 		"brighttext" "0"
-		//"fgcolor_override" "0 160 150 255"
-		"fgcolor" "200 0 0 255"
-		"fgcolor_override" "200 0 0 255"
-		"font" "m0refont10"
+		"fgcolor" "hud_text"
+		"fgcolor_override" "hud_text"
 	}
 	"TargetDataLabelShadow" 
 	{
@@ -176,7 +194,7 @@
 	"xpos" "0"
 	"ypos" "-1"
 	"wide" "30"
-	"tall" "11"
+	"tall" "19"
 	"visible" "1"
 	"enabled" "1"
 	"HealthBonusPosAdj" "10"
@@ -185,6 +203,23 @@
 	"TextColor" "255 255 255 255"
 	"textAlignment" "north"
 	"font" "Secondary18"
+	}
+	"TargetHealthBGFix"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TargetHealthBGFix"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-1"
+		"wide"			"30"
+		"tall"			"11"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"	"30 30 30 200"
+		"PaintBackgroundType"	"0"
+        "textinsety" 	"99"
 	}
 	
 	"AmmoIcon" 
@@ -290,6 +325,8 @@
 		"textAlignment" "North"
 		"dulltext" "0"
 		"brighttext" "0"
+		"fgcolor" "hud_highlight_text"
+		"fgcolor_override" "hud_highlight_text"
 		}
 	}
 }

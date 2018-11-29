@@ -65,7 +65,7 @@
 				"tall"			"15"
 				"autoResize"	"0"
 				"pinCorner"		"0"
-				"visible"		"1"
+				"visible"		"0"
 				"labelText"		"%playername%"
 				"textAlignment"	"west"
 				"fgcolor"		"BlackColor"
@@ -274,7 +274,9 @@
 			"wide"					"500"
 			"tall"					"180"
 	
+			"team1_player_base_y"			"c-90"
 			"team1_player_delta_x"			"52"
+			"team1_player_delta_y"			"0"
 		}		
 	}
 
@@ -297,41 +299,23 @@
 		"visible"		"0"
 		"enabled"		"0"
 	}
-	"ReinforcementsLabel"
-	{
-		"ControlName"		"CExLabel"
-		"fieldName"		"ReinforcementsLabel"
-		"xpos"			"c-150"	[$WIN32]
-		"xpos_minmode"	"c-150"
-		"xpos"			"c-150"	[$X360]
-		"ypos"			"c80"	[$WIN32]
-		"ypos_minmode"	"c80"		[$WIN32]
-		"ypos"			"c80"	[$X360]
-		"ypos_hidef"	"c80"
-		"ypos_lodef"	"c80"
-		"wide"			"300"	[$WIN32]
-		"wide_minmode"	"300"
-		"wide"			"300"	[$X360]
-		"tall"			"18"
-		"tall_hidef"	"18"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"#game_respawntime_in_secs"
-		"textAlignment"		"center"
-		"textAlignment_minmode"		"center"
-		"font"			"Size 15"
-		"font_minmode"	"Size 15"
-		
-		if_mvm
-		{
-			"xpos"			"c-200"
-			"ypos"			"c80"
-			"wide"			"400"
-			"textAlignment"		"center"
-		}
-	}
+	"ReinforcementsLabel" 
+{
+"ControlName" "CExLabel"
+"fieldName" "ReinforcementsLabel"
+"xpos" "0"
+"ypos" "66"
+"wide" "f0"
+"tall" "20"
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"labelText" "#game_respawntime_in_sec"
+"textAlignment" "center"
+"font" "m0refont20"
+"fgcolor_override" "255 255 255 255"
+}
 	"BuyBackLabel"
 	{
 		"ControlName"	"CExLabel"

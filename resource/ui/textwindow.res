@@ -15,6 +15,22 @@
 		"tabPosition"			"0"
 		"settitlebarvisible"	"0"
 	}
+	"Background"
+	{
+		"ControlName"	"EditablePanel"
+		"fieldName"		"Background"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-10"		
+		"wide"			"f0"
+		"tall"			"480"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"paintbackground"	"1"
+		"bgcolor_override"	"0 0 0 150"
+	}
 	"MainBG"
 	{
 		"ControlName"	"ImagePanel"

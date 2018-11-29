@@ -38,9 +38,8 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"ItemEffectMeterCountShadow"
-		"xpos" "c-19"
-		"ypos" "351"//390
-		"ypos_minmode" "408"
+		"xpos" "-1"
+		"ypos" "-1"//390
 		"zpos" "2"
 		"wide" "40"
 		"tall" "24"
@@ -53,8 +52,12 @@
 		"textAlignment" "north"
 		"dulltext" "0"
 		"brighttext" "0"
-		"font" "Secondary24"
+		"font" "SecondaryBlur24"
 		"fgcolor" "QHUDShadowCounter"
+		
+		"pin_to_sibling" "ItemEffectMeterCount"
+		"pin_corner_to_sibling" "TOP_LEFT"
+		"pin_to_sibling_corner" "TOP_LEFT"
 	}
 	"ItemEffectMeterLabel"
 	{

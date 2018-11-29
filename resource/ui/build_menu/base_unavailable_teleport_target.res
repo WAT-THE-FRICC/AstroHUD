@@ -19,6 +19,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override" "hud_text"
 	}
 	
 	"ItemBackground"	
@@ -97,7 +98,6 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"HudMenuNumberFont"
-		"fgcolor"		"255 255 255 255"
 		"xpos"			"3"
 		"ypos"			"48"
 		"zpos"			"1"
@@ -111,6 +111,6 @@
 		"textAlignment"	"center"
 		"dulltext"		"1"
 		"brighttext"	"0"
-		"fgcolor_override"		"255 255 255 255"
+		"fgcolor_override" "hud_text"
 	}
 }

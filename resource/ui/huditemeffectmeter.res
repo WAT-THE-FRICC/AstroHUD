@@ -2,6 +2,10 @@
 #base "huditemeffectmeter_noteamcolorbg.res"
 #base "huditemeffectmeter_border.res"
 
+#base "huditemeffectmeter_textalign_right.res"
+#base "huditemeffectmeter_textalign_center.res"
+#base "huditemeffectmeter_textalign_left.res"
+
 "Resource/UI/HudItemEffectMeter.res" 
 {
 "HudItemEffectMeter" 
@@ -31,7 +35,7 @@
 "enabled" "1"
 "tabPosition" "0"
 "labelText" "#TF_Ball"
-"textAlignment" "north-west"
+//"fgcolor_override" "100 100 100 255" // does not work
 "dulltext" "0"
 "brighttext" "0"
 "font" "TFFontSmall"
@@ -61,5 +65,23 @@
 "xpos_minmode" "c-30"
 "ypos_minmode" "405"
 "wide_minmode" "60"
+}
+"ItemEffectMeterBG" 
+{
+	"ControlName" "CTFImagePanel"
+	"fieldName" "ItemEffectMeterBG"
+	"xpos" "12"
+	"ypos" "9906"
+	"zpos" "0"
+	"wide" "0"
+	"tall" "0"
+	"visible" "0"
+	"enabled" "0"
+	"image" "../hud/misc_ammo_area_blue"
+	"scaleImage" "1"
+	"teambg_2" "../hud/misc_ammo_area_red"
+	"teambg_3" "../hud/misc_ammo_area_blue"
+	//"teambg_2_lodef" "../hud/misc_ammo_area_red_lodef"
+	//"teambg_3_lodef" "../hud/misc_ammo_area_blue_lodef"
 }
 }

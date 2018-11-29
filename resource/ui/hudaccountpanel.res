@@ -75,8 +75,8 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AccountValueShadow"
-"xpos" "21"//c-24"
-"ypos" "1"//c21"
+"xpos" "-1"//c-24"
+"ypos" "-1"//c21"
 "zpos" "1"
 "wide" "50"
 "tall" "20"
@@ -89,7 +89,11 @@
 "textAlignment" "north"
 "dulltext" "0"
 "brighttext" "0"
-"font" "Secondary24"
+"font" "SecondaryBlur24"
 "fgcolor" "QHUDShadow"
+
+"pin_to_sibling" "AccountValue"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 }

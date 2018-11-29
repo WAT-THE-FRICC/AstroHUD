@@ -42,7 +42,7 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"ahudDarkGrey"
+			"color"					"LoadoutItemPopupBorder_bg"
 			
 			"image"					"backpack_rect_mouseover_color"
 			"src_corner_height"		"32"				// pixels inside the image

@@ -94,21 +94,6 @@
 "subimage" "icon_whistle"
 }
 
-"GeneralStoreButton"
-{
-"label" ""
-"tooltip" "#MMenu_Shop"
-}
-"ReplayBrowserButton"
-{
-"label" ""
-"tooltip" "#MMenu_Tooltip_Replay"
-}
-"SteamWorkshopButton"
-{
-"label" ""
-"tooltip" "#MMenu_Tooltip_Workshop"
-}
 //"MMenu_Tooltip_Options"			"Options"
 //"MMenu_Tooltip_AdvOptions"		"Advanced Options"
 "SettingsButton"

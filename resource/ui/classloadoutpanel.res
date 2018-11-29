@@ -284,6 +284,19 @@
 			"fgcolor"		"117 107 94 255"
 			"centerwrap"	"1"
 		}
+		"bgfix" // unused
+		{
+			"ControlName"	"CExLabel"
+			"fieldName"		"mouseoveritempanel"
+			"xpos"			"0"
+			"ypos"			"0"
+			"zpos"			"0"
+			"wide"			"f0"
+			"tall"			"0"
+			"visible"		"1"
+			"labelText"		""
+			"bgcolor_override"		"panelBG"
+		}
 	}
 	
 	"PassiveAttribsLabel"

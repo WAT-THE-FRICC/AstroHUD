@@ -61,7 +61,28 @@
 "dulltext" "0"
 "brighttext" "1"
 "font" "TF2Secondary16"
-"fgcolor" "255 255 255 255"
+"fgcolor_override" "hud_text"
+"bgcolor_override" "0 0 0 0"
+}
+"mapnamebg"
+{
+"ControlName" "Label"
+"fieldName" "mapnamebg"
+"xpos" "c-120"
+"ypos" "9193"
+"zpos" "-1"
+"wide" "240"
+"tall" "19"
+"autoResize" "0"
+"pinCorner" "0"
+"visible" "1"
+"enabled" "1"
+"labelText" ""
+"textAlignment" "center"
+"dulltext" "0"
+"brighttext" "1"
+"font" "TF2Secondary16"
+"bgcolor_override" "hud_highlight"
 }
 "CancelButton" 
 {
@@ -200,6 +221,8 @@
 "command" "jointeam blue"
 "defaultBgColor_override" "Blank"
 "armedBgColor_override" "Blank"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "RedCount" 
 {
@@ -224,6 +247,8 @@
 "command" "jointeam red"
 "defaultBgColor_override" "Blank"
 "armedBgColor_override" "Blank"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "blueframe" 
 {
@@ -246,6 +271,8 @@
 "command" "jointeam blue"
 "defaultBgColor_override" "HUDBlueTeam"
 "armedBgColor_override" "HUDBlueTeamSolid"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "redframe" 
 {
@@ -268,6 +295,8 @@
 "textAlignment" "west"
 "defaultBgColor_override" "HUDRedTeam"
 "armedBgColor_override" "HUDRedTeamSolid"
+"defaultFgColor_override" "White"
+"armedFgColor_override" "White"
 }
 "BlueLabel" 
 {

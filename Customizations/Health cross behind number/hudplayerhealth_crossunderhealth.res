@@ -38,10 +38,6 @@
 	{
 		"ControlName" "CExLabel"
 		"fieldName" "PlayerStatusHealthValueShadow"
-		"xpos" "c-178"
-		"xpos_minmode" "c-147"
-		"ypos" "311" //423
-		"ypos_minmode" "381"
 		"zpos" "5"
 		"wide" "100"
 		"tall" "50"
@@ -49,8 +45,6 @@
 		"enabled" "1"
 		"labelText" "%Health%"
 		"textAlignment" "north"
-		"font" "Astro50"
-		"font_minmode" "Astro32"
 		"fgcolor" "QHUDShadow"
 	}
 	"PlayerStatusHealthBonusImage"

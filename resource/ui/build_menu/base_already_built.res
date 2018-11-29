@@ -19,6 +19,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override" "hud_text"
 	}
 
 	"ItemBackground"
@@ -43,7 +44,7 @@
 		"fieldName"		"CantBuildReason"
 		"font"			"m0refont9"
 		"xpos"			"3"
-		"ypos"			"24"
+		"ypos"			"22"
 		"zpos"			"2"
 		"wide"			"60"
 		"tall"			"18"
@@ -55,7 +56,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"255 0 0 200"
+		"fgcolor"		"0 100 200 255"
 	}	
 	"MetalIcon"	
 	{
@@ -78,7 +79,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"m0refont15"
-		"fgcolor"		"White" //"TanDarker"
+		"fgcolor_override" "hud_text"
 		"xpos"			"3"
 		"ypos"			"50"
 		"zpos"			"1"
@@ -86,8 +87,8 @@
 		"tall"			"13"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"	
 	}

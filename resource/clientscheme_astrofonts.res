@@ -5,26 +5,41 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-#base "customfonts/Avenir-Black.res"
 
+#base "customfonts/_default_Avenir-Black.res"
+
+//#base "customfonts/_default_r.res"
+//#base "customfonts/_default_r_copy.res"
+
+//#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
+
 //#base "customfonts/Open-Sans.res"
 //#base "customfonts/Montserrat.res"
 //#base "customfonts/Roboto.res"
+//#base "customfonts/renogare.res"
+
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
+
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
-//#base "customfonts/Lato-Black.res"
-//#base "customfonts/Lato-Bold-budHUD.res"
+
+//#base "customfonts/Lato-semibold-budHUD.res"
+
 //#base "customfonts/RaysHUD-Cerbetica.res"
+
+//#base "customfonts/codeprobold.res"
+//#base "customfonts/codeprolc-ahud.res"
+
 //#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
+
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
 
-// These are menu font themes
-//#base "customfonts/TF2theme.res"
-//#base "customfonts/RaysHUDtheme.res" // rayshud in-game colors included
+// fallback, just in case any of the above do not work.
+#base "customfonts/glacialindifference_menufonts.res"
+#base "customfonts/_default.res"
 
 "Scheme" 
 {
@@ -32,32 +47,39 @@
  	{
  		"1" "resource/tf.otf"
  		"2" "resource/tfd.otf"
- 		"3" 
+ 		
+		"3"
  		{
- 		"font" "resource/crosshairs.otf"
- 		"name" "Crosshairs"
+ 		"font" "resource/customfonts/Renogare-Regular.otf"
+ 		"name" "Renogare-Regular"
  		}
 		"5"
  		{
- 		"font" "resource/customfonts/GlacialIndifference-Regular.otf"
- 		"name" "GlacialIndifference-Regular"
+ 		"font" "resource/customfonts/Renogare-Numbers-Regular.ttf"
+ 		"name" "Renogare Numbers Regular"
+		//"range" "0x0029 0x0040"
  		}
 		"6"
+ 		{
+ 		"font" "resource/customfonts/GlacialIndifference-Medium.otf"
+ 		"name" "GlacialIndifference-Medium"
+ 		}
+		"7"
  		{
  		"font" "resource/customfonts/GlacialIndifference-Bold.otf"
  		"name" "GlacialIndifference-Bold"
  		}
- 		"7" 
+ 		"8" 
  		{
  		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
  		"name" "DIN 1451 Mittelschrift"
  		}
-		"8"
+		"9"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
  		"name" "Orbitron Bold"
  		}
- 		"9"
+ 		"10"
  		{
  		"font" "resource/customfonts/Orbitron-Medium.ttf"
  		"name" "Orbitron Medium"
@@ -99,17 +121,12 @@
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
-		"20"
- 		{
- 		"font" "resource/customfonts/Lato-Black.ttf"
- 		"name" "Lato Black"
- 		}
-		"21"
+		"22"
  		{
  		"font" "resource/customfonts/Lato-Bold.ttf"
  		"name" "Lato Bold"
  		}
-		"22"
+		"23"
  		{
  		"font" "resource/customfonts/Lato-Semibold.ttf"
  		"name" "Lato Semibold"
@@ -129,7 +146,16 @@
 		"font" "resource/customfonts/Roboto-Medium.ttf"
 		"name" "Roboto Medium"
  		}
- 		
+		"28"
+		{
+		"font" "resource/customfonts/CodeProBold.otf"
+		"name" "Code Pro Bold"
+ 		}
+		"29"
+		{
+		"font" "resource/customfonts/CodeProLC.otf"
+		"name" "Code Pro LC"
+ 		}
  		
  		
 		// add your new font files here
@@ -149,7 +175,7 @@
 		
 		// DO NOT TOUCH
 		
-		"50"
+		"150"
 		{
 			"font" "resource/TF2.ttf"
 			"name" "TF2"
@@ -162,7 +188,7 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"51" 
+		"151" 
 		{
 			"font" "resource/TF2Secondary.ttf"
 			"name" "TF2 Secondary"
@@ -175,7 +201,7 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
-		"52" 
+		"152" 
 		{
 			"font" "resource/TF2Professor.ttf"
 			"name" "TF2 Professor"
@@ -188,7 +214,7 @@
 				"range" "0x0000 0x00FF"
 			}
 		}	
-		"53" 
+		"153" 
 		{
 			"font" "resource/TF2Build.ttf"
 			"name" "TF2 Build"
@@ -205,5 +231,74 @@
 				"range" "0x0000 0xFFFF"
 			}
 		}
+		
+		"157"
+		{
+			"font"	"resource/ocra.ttf"
+			"name" "ocra"
+			"turkish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"swedish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"spanish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"romanian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"polish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"norwegian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"danish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"hungarian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"german"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"french"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"finnish"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"czech"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"bulgarian"
+			{
+				"range" "0x0000 0x007E"
+			}
+			"russian"
+			{
+				"range" "0x0000 0x007E"
+			}
+		}
+
+		// not in use	
+		"300" 
+ 		{
+ 		"font" "resource/crosshairs.otf"
+ 		"name" "Crosshairs"
+ 		}
  	}
  }

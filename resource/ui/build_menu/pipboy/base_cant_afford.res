@@ -56,7 +56,7 @@
 		"textAlignment"	"Center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"fgcolor"		"255 0 0 200"
+		"fgcolor"		"255 0 0 255"
 	}
 
 	"BuildingIcon"	
@@ -96,7 +96,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
 		"font"			"m0refont15"
-		"fgcolor"		"White" //"TanDarker"
+		"fgcolor"		"255 0 0 200" //"TanDarker"
 		"xpos"			"25"
 		"ypos"			"50"
 		"zpos"			"1"

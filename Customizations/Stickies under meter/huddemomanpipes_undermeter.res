@@ -116,8 +116,6 @@
 	{
 		"ControlName" "CExLabel"
 		"fieldName" "NumPipesLabelShadow"
-		"xpos" "c-24"
-		"ypos" "351"
 		"zpos" "1"
 		"wide" "50"
 		"tall" "20"
@@ -131,7 +129,7 @@
 		"textAlignment" "north"
 		"dulltext" "0"
 		"brighttext" "0"
-		"font" "Secondary24"
+		"font" "SecondaryBlur24"
 		"fgcolor" "QHUDShadow"
 	}
 	"NoPipesPresentPanel" 

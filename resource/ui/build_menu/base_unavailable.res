@@ -19,6 +19,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
+		"fgcolor_override" "hud_text"
 	}
 
 	"ItemBackground"
@@ -89,7 +90,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%metal%"
-		"textAlignment"	"center"	
+		"textAlignment"	"center"
+		"fgcolor_override" "hud_text"		
 	}
 	
 	"ModeLabel" // new in 29th april 2010 patch

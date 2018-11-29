@@ -1,3 +1,8 @@
+// themes
+#base "TF2theme.res"
+#base "RaysHUDtheme.res" // rayshud in-game colors included
+
+// DO NOT TOUCH
 #base "clientscheme_themes.res"
 #base "ClientScheme_astrofonts.res"
 #base "ClientScheme_borders.res"
@@ -104,7 +109,7 @@
 		
 		"Menu.TextColor" "255 255 255 255"
 		"Menu.BgColor" "yA_MenuBG"//TransparentBlack"
-		"Menu.ArmedTextColor" "White"
+		"Menu.ArmedTextColor" "ButtonFontArmed"// weirdly this controls the combobox too
 		"Menu.ArmedBgColor" "G_Highlight"
 		"Menu.TextInset" "6"
 		
@@ -146,14 +151,14 @@
 		"ScrollBarSlider.FgColor" "Gray"
 		"ScrollBarSlider.BgColor" "Blank"
 		
-		"SectionedListPanel.HeaderTextColor" "G_Highlight_text"
+		"SectionedListPanel.HeaderTextColor" "G_Highlight"
 		"SectionedListPanel.HeaderBgColor" "Blank"
 		"SectionedListPanel.DividerColor" "Black"
 		"SectionedListPanel.TextColor" "G_Highlight_text"
 		"SectionedListPanel.BrightTextColor" "G_Highlight_text"
 		"SectionedListPanel.BgColor" "TransparentLightBlack"
-		"SectionedListPanel.SelectedTextColor" "White"
-		"SectionedListPanel.SelectedBgColor" "G_Highlight"
+		"SectionedListPanel.SelectedTextColor" "ButtonFontArmed"
+		"SectionedListPanel.SelectedBgColor" "ButtonBGArmed"
 		"SectionedListPanel.OutOfFocusSelectedTextColor" "Black"
 		"SectionedListPanel.OutOfFocusSelectedBgColor" "255 255 255 32"
 		

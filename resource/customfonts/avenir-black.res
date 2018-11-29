@@ -1,3 +1,5 @@
+#base "avenir-heavy_menufonts.res"
+
 "Scheme"
 {
 	"Fonts" 
@@ -70,7 +72,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "50"
 				"additive" "0"
@@ -82,7 +84,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "36"
 				"additive" "0"
@@ -94,7 +96,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "24"
 				"additive" "0"
@@ -106,7 +108,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "18"
 				"additive" "0"
@@ -118,7 +120,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "15"
 				"additive" "0"
@@ -130,7 +132,7 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "12"
 				"additive" "0"
@@ -142,12 +144,162 @@
 		{
 			"1"
 			{
-				"name" "Roboto Medium" [!$OSX]
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
+			}
+		
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		"AstroBlur50"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Black" [!$OSX]
+				"name" "Avenir Black" [$OSX]
+				"tall" "50"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2"
+				"custom"		"1" [!$WINDOWS]
+			}
+		}
+		"AstroBlur32"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Black" [!$OSX]
+				"name" "Avenir Black" [$OSX]
+				"tall" "32"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2"
+				"custom"		"1" [!$WINDOWS]
+			}
+		}
+		"AstroBlur24"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Black" [!$OSX]
+				"name" "Avenir Black" [$OSX]
+				"tall" "24"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2"
+				"custom"		"1" [!$WINDOWS]
+			}
+		}
+		"SecondaryBlur50"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "50"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2"
+			}
+		}
+		"SecondaryBlur36"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "36"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2"
+				"blur" "2" 
+			}
+		}
+		"SecondaryBlur24"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "24"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2" 
+			}
+		}
+		"SecondaryBlur18"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "18"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2" 
+			}
+		}
+		"SecondaryBlur15"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "15"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2" 
+			}
+		}
+		"SecondaryBlur12"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "12"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2" 
+			}
+		}
+		"SecondaryBlur11"
+		{
+			"1"
+			{
+				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
+				"name" "Avenir Heavy" [$OSX]
+				"tall" "11"
+				"additive" "0"
+				"antialias" "1"
+				"outline" "0"
+				"blur" "2" 
 			}
 		
 		}

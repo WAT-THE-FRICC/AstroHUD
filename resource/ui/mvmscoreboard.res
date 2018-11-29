@@ -138,7 +138,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WaveStatsBg"
 		"xpos"			"c-132"//-142
-		"ypos"			"323"
+		"ypos"			"270"//323"
 		"wide"			"284"
 		"tall"			"39"
 		"visible"		"0"//1
@@ -152,7 +152,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"TotalStatsBg"
 		"xpos"			"c60"
-		"ypos"			"323"
+		"ypos"			"270"//323"
 		"wide"			"284"
 		"tall"			"39"
 		"visible"		"0"//1
@@ -180,7 +180,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"CreditStatsContainer"
 		"xpos"			"c-291"
-		"ypos"			"273"
+		"ypos"			"195"//273"
 		"wide"			"582"
 		"tall"			"96"
 		"zpos"			"1"

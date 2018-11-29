@@ -39,7 +39,7 @@
 	}
 	
 	"CatalogCover"		//covers catalog number
-	{
+	{ // DEPRECATED idk what it does now
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CatalogCover"
 		"xpos"			"0"	
@@ -1957,5 +1957,87 @@
 		"visible"		"0"
 		"proportionaltoparent"	"1"
 		"bgcolor_override"	"yA_MenuBG"
+	}
+	
+	"Hotkey1"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey1"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&1"
+		"command"		"loadout scout"
+	}
+	"Hotkey2"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey2"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&2"
+		"command"		"loadout soldier"
+	}
+	"Hotkey3"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey3"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&3"
+		"command"		"loadout pyro"
+	}
+	"Hotkey4"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey4"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&4"
+		"command"		"loadout demoman"
+	}
+	"Hotkey5"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey5"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&5"
+		"command"		"loadout heavyweapons"
+	}
+	"Hotkey6"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey6"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&6"
+		"command"		"loadout engineer"
+	}
+	"Hotkey7"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey7"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&7"
+		"command"		"loadout medic"
+	}
+	"Hotkey8"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey8"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&8"
+		"command"		"loadout sniper"
+	}
+	"Hotkey9"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"Hotkey9"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&9"
+		"command"		"loadout spy"
 	}
 }

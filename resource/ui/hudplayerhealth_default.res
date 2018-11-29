@@ -38,10 +38,10 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "PlayerStatusHealthValueShadow"
-"xpos" "c-292"
-"xpos_minmode" "c-272"
-"ypos" "311" //423
-"ypos_minmode" "381"
+"xpos" "-2"
+"xpos_minmode" "-1"
+"ypos" "-2" //423
+"ypos_minmode" "-1"
 "zpos" "5"
 "wide" "200"
 "tall" "50"
@@ -49,9 +49,13 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "Astro50"
-"font_minmode" "Astro32"
+"font" "AstroBlur50"
+"font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
+
+"pin_to_sibling" "PlayerStatusHealthValue"
+"pin_corner_to_sibling" "TOP_LEFT"
+"pin_to_sibling_corner" "TOP_LEFT"
 }
 	
 	//////////////////////////////////REMOVED STUFF//////////////////////////////////

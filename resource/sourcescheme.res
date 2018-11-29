@@ -21,7 +21,7 @@ Scheme
 		
 		
 		// rayshud	
-		"White"				"240 240 240 255"
+		"White"				"255 255 255 255"
 		"OffWhite"			"200 200 200 255"
 		"DullWhite"			"142 142 142 255"
 		"TransparentBlack"		"0 0 0 128"
@@ -33,16 +33,16 @@ Scheme
 		"RaysBlackTrans"		"32 32 32 200"
 		"RaysButtonHover"		"64 64 64 255"
 		
-		"PrimaryText"		"240 240 240 255"
-		"SecondaryText"		"240 240 240 255"
-		"AccentText"		"240 240 240 255"
+		"PrimaryText"		"255 255 255 255"
+		"SecondaryText"		"255 255 255 255"
+		"AccentText"		"255 255 255 255"
 		
 		"PrimaryBG"				"40 40 40 255"
 		"PrimaryBGOffFocus"		"50 50 50 200"
 		"SecondaryBG"			"48 48 48 255"
 		
 		
-		"NotoWhite"				"240 240 240 255"
+		"NotoWhite"				"255 255 255 255"
 		"NotoGreen"				"33 33 33 255"
 		"NotoDark"				"24 24 24 255"
 
@@ -90,12 +90,12 @@ Scheme
 		Border.Dark						"0 0 0 0"
 		Border.Selection				"0 0 0 0"default/selected button
 
-		Button.TextColor				"SecondaryText"
+		Button.TextColor				"ButtonFont"
 		Button.BgColor					"SecondaryBG"
-		Button.ArmedTextColor			"AccentText"
-		Button.ArmedBgColor				"G_Highlight"
-		Button.DepressedTextColor		"SecondaryText"
-		Button.DepressedBgColor			"G_Highlight"
+		Button.ArmedTextColor			"ButtonFontArmed"
+		Button.ArmedBgColor				"ButtonBGArmed"
+		Button.DepressedTextColor		"ButtonFont"
+		Button.DepressedBgColor			"SecondaryBG"
 		Button.FocusBorderColor			"0 0 0 0"
 
 		CheckButton.TextColor			"NotoWhite"
@@ -149,8 +149,8 @@ Scheme
 		Menu.TextInset					"6"
 		Menu.FgColor			"White"
 		Menu.BgColor					"32 32 32 255"
-		Menu.ArmedFgColor		"White"
-		Menu.ArmedBgColor				"G_Highlight"
+		Menu.ArmedFgColor		"ButtonFontArmed"
+		Menu.ArmedBgColor				"ButtonBGArmed"
 		Menu.DividerColor		"BorderDark"
 
 		ScrollBarButton.FgColor				"SecondaryText"

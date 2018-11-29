@@ -1,6 +1,8 @@
+#base "base_active.res"
+
 "Resource/UI/destroy_menu/tele_exit_active.res"
 {
-"ItemNameLabel"
+	"ItemNameLabel"
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"

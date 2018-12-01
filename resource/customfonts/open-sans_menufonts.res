@@ -275,7 +275,7 @@
 		"1" 
 		{
 		"name" "Open Sans Semibold"
-		"tall" "20"
+		"tall" "28"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"

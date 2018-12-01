@@ -286,7 +286,7 @@
 		"1" 
 		{
 		"name" "Code Pro LC"
-		"tall" "20"
+		"tall" "28"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"

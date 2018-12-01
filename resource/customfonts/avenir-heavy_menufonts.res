@@ -310,7 +310,7 @@
 		{
 		"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-		"tall" "20"
+		"tall" "28"
 		"additive" "0"
 		"antialias" "1"
 		"outline" "0"

@@ -9,9 +9,24 @@
 #base "ClientScheme_menufonts.res"
 #base "ClientScheme_colors.res"
 #base "../resource/crosshairs/crosshairscheme.res"
+//#base "ClientScheme_defaulthud.res"
 
 "Scheme" 
 {
+	BitmapFontFiles
+	{
+		// UI buttons, custom font, (256x64)
+		"Buttons"		"materials/vgui/fonts/buttons_32.vbf"
+		"ButtonsSC"		"materials/vgui/fonts/buttons_sc.vbf"
+	}
+	"Colors"
+	{
+		"MatchmakingDialogTitleColor"			"185 185 185 255"
+ 		"MatchmakingMenuItemBackground"			"45 45 45 255"
+ 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"	
+		"MatchmakingMenuItemTitleColor"			"185 185 185 255"
+		"MatchmakingMenuItemDescriptionColor"	"185 185 185 255"
+	}
 	"BaseSettings" 
 	{
 		"ReplayBrowser.BgColor" "yA_MenuBG"
@@ -238,8 +253,53 @@
 		"VguiScreenCursor" "255 208 64 255"
 
 	}
-	"BitmapFontFiles" 
+	//
+	//////////////////////// FONTS /////////////////////////////
+	//
+	// describes all the fonts
+	Fonts
 	{
-	"Buttons" "materials/vgui/fonts/buttons_32.vbf"
+		// fonts are used in order that they are listed
+		// fonts listed later in the order will only be used if they fulfill a range not already filled
+		// if a font fails to load then the subsequent fonts will replace
+		
+		
+	
+		Icons
+		{
+			"1"
+			 {
+				"name"  	"Team Fortress" // tf.ttf
+				"tall"  	"28"
+				"weight" 	"0"
+				"additive" 	"1"
+				"antialias" 	"1"
+			}
+		}
+		// this is the symbol font
+		"Marlett"
+		{
+			"1"
+			{
+				"name"		"Marlett"
+				"tall"		"20"
+				"weight"	"0"
+				"symbol"	"1"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+		"MarlettSmall"
+		{
+			"1"
+			{
+				"name"		"Marlett"
+				"tall"		"14"
+				"weight"	"0"
+				"symbol"	"1"
+				"range"		"0x0000 0x007F"	//	Basic Latin
+			}
+		}
+	
+		
 	}
 }

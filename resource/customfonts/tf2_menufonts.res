@@ -11,7 +11,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "8"
 		"additive" "0"
 		"antialias" "1"
@@ -22,7 +22,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "9"
 		"additive" "0"
 		"antialias" "1"
@@ -33,7 +33,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "10"
 		"additive" "0"
 		"antialias" "1"
@@ -44,7 +44,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "11"
 		"additive" "0"
 		"antialias" "1"
@@ -55,7 +55,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "11"
 		"additive" "0"
 		"antialias" "1"
@@ -67,7 +67,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "12"
 		"additive" "0"
 		"antialias" "1"
@@ -78,7 +78,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "12"
 		"additive" "0"
 		"antialias" "1"
@@ -90,7 +90,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "13"
 		"additive" "0"
 		"antialias" "1"
@@ -101,7 +101,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "14"
 		"additive" "0"
 		"antialias" "1"
@@ -112,7 +112,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "15"
 		"additive" "0"
 		"antialias" "1"
@@ -123,7 +123,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "15"
 		"additive" "0"
 		"antialias" "1"
@@ -135,7 +135,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "16"
 		"additive" "0"
 		"antialias" "1"
@@ -146,7 +146,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "18"
 		"additive" "0"
 		"antialias" "1"
@@ -157,7 +157,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "20"
 		"additive" "0"
 		"antialias" "1"
@@ -168,7 +168,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "21"
 		"additive" "0"
 		"antialias" "1"
@@ -179,7 +179,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "22"
 		"additive" "0"
 		"antialias" "1"
@@ -190,7 +190,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "23"
 		"additive" "0"
 		"antialias" "1"
@@ -201,7 +201,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "24"
 		"additive" "0"
 		"antialias" "1"
@@ -212,7 +212,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "24"
 		"additive" "0"
 		"antialias" "1"
@@ -224,7 +224,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "25"
 		"additive" "0"
 		"antialias" "1"
@@ -235,7 +235,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "26"
 		"additive" "0"
 		"antialias" "1"
@@ -246,7 +246,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "27"
 		"additive" "0"
 		"antialias" "1"
@@ -257,7 +257,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "28"
 		"additive" "0"
 		"antialias" "1"
@@ -268,7 +268,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "32"
 		"additive" "0"
 		"antialias" "1"
@@ -279,7 +279,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "36"
 		"additive" "0"
 		"antialias" "1"
@@ -290,7 +290,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "40"
 		"additive" "0"
 		"antialias" "1"
@@ -301,7 +301,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "52"
 		"additive" "0"
 		"antialias" "1"
@@ -312,7 +312,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "60"
 		"additive" "0"
 		"antialias" "1"
@@ -323,7 +323,7 @@ Scheme
 		{
 		"1" 
 		{
-		"name" "TF2 Build"
+		"name" "TF2 Secondary"
 		"tall" "60"
 		"additive" "0"
 		"antialias" "1"

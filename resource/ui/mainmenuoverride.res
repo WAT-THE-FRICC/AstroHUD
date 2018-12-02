@@ -1,4 +1,7 @@
-#base "mainmenubgstuff.res"
+#base "mainmenuoverride_bg_customcolor.res"
+#base "mainmenuoverride_bg_tf2.res"
+#base "mainmenuoverride_bg.res"
+
 #base "mainmenuoverride_rank.res"
 #base "mainmenuoverride_tflogoimage.res"
 
@@ -2536,21 +2539,6 @@
 {
 "image" "../console/title_team_jungle_inferno_2017_widescreen"
 }
-}
-"RankModelPanel" 
-{
-"ControlName" "CPvPRankPanel"
-"fieldName" "RankModelPanel"
-"xpos" "c9975"//cs-0.5+160"
-"ypos" "72"//cs-0.5-120"
-"zpos" "-51"
-"wide" "1000"
-"tall" "1000"
-"visible" "1"
-"proportionaltoparent" "1"
-"mouseinputenabled" "1"
-"matchgroup" "MatchGroup_Casual_12v12"
-"show_progress" "0"
 }
 "PlayLabel" 
 {

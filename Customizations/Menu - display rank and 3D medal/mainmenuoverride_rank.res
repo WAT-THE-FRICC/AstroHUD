@@ -1,26 +1,50 @@
 "Resource/UI/MainMenuOverride.res" 
 {
-"RankPanel" 
-{
-"ControlName" "CPvPRankPanel"
-"fieldName" "RankPanel"
-		"xpos"			"cs-0.5"//-89"
-		"ypos"			"0"
-		"zpos"			"0"
-		"wide"			"200"//320"
-		"tall"			"f0"
-//"xpos" "r9360"
-//"ypos" "105"
-//"zpos" "-52"
-//"wide" "320"
-//"tall" "100"
-"visible" "1"
-"proportionaltoparent" "1"
-"mouseinputenabled" "0"
-"matchgroup" "MatchGroup_Casual_12v12"
-"xp_source_notification_center_x" "-75"
-"show_model" "1"
-}
+
+
+
+
+
+
+
+
+
+"RankPanel"
+	{
+		"ControlName"	"CPvPRankPanel"
+		"fieldName"		"RankPanel"
+		"xpos"			"cs-0.5-65"
+		"ypos"			"r60-20"
+		"zpos"			"1"
+		"wide"			"320"
+		"tall"			"100"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"0"
+
+		"matchgroup"	"MatchGroup_Casual_12v12"
+
+		"show_model"	"0"
+		"show_type"		"1"
+	}
+"RankModelPanel"
+	{
+		"ControlName"	"CPvPRankPanel"
+		"fieldName"		"RankModelPanel"
+		"xpos"			"cs-0.5"
+		"ypos"			"cs-0.5-150" // 240-49
+
+		"zpos"			"1"
+		"wide"			"1000"
+		"tall"			"1000"
+		"visible"		"0"
+		"proportionaltoparent"	"1"
+		"mouseinputenabled"	"1"
+
+		"matchgroup"	"MatchGroup_Casual_12v12"
+
+		"show_progress"	"0"
+	}
 "CycleRankTypeButton"
 	{
 		"ControlName"	"CExImageButton"

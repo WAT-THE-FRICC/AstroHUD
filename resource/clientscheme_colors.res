@@ -136,6 +136,8 @@
 			// you can also customize the button colors in the section below
 			// to match this color
 			"G_Highlight" 			"0 170 127 255"
+			"TFOrange"				"0 170 127 255" // a bug in TF2 mandates some elements
+			"Orange" 				"0 170 127 255"	// to use these color names
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
@@ -298,11 +300,11 @@
 		"QuestMap_InactiveGrey" "100 100 100 255"
 		"QuestMap_BGImages" "58 58 58 255" //56 58 60 255"
 		
-		"Orange" "178 82 22 255"
+		
 		"OrangeDim" "178 82 22 120"
 		"LightOrange" "188 112 0 128"
 		"GoalOrange" "255 133 0"
-		"TFOrange" "145 73 59 255"
+		
 		"Purple" "137 69 99 255"
 		"White" "255 255 255 255" //235 235 235 255"
 		"Red" "192 28 0 140"

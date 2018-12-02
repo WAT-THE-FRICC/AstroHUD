@@ -7,7 +7,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "TF2 Build"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -18,7 +18,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "TF2 Build"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"

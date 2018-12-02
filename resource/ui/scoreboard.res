@@ -4,6 +4,7 @@
 #base "scoreboard_centered.res"
 
 #base "scoreboard_nostats.res"
+#base "scoreboard_stats_alt.res"
 #base "scoreboard_stats.res"
 
 "Resource/UI/Scoreboard.res" 
@@ -12,8 +13,8 @@
 	{
 		"ControlName" "EditablePanel"
 		"fieldName" "LocalPlayerDuelStatsPanel"
-		"xpos" "0"
-		"ypos" "350"
+		"xpos" "cs-0.5"
+		"ypos" "r53"
 		"zpos" "3"
 		"wide" "600"
 		"tall" "53"

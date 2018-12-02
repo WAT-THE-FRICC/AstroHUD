@@ -364,6 +364,7 @@
 		{
 			"offset" "0 0"
 			"color" "Blank"
+			"backgroundtype" "0"
 		}
 
 		// this is the border used for default buttons (the button that gets pressed when you hit enter)
@@ -371,12 +372,14 @@
 		{
 			"offset" "0 0"
 			"color" "Blank"
+			"backgroundtype" "0"
 		}
 
 		ButtonDepressedBorder
 		{
 			"offset" "0 0"
 			"color" "Blank"
+			"backgroundtype" "0"
 		}
 
 		ComboBoxBorder

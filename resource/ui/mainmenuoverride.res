@@ -1,4 +1,10 @@
-#base "mainmenubgstuff.res"
+#base "mainmenuoverride_bg_customcolor.res"
+#base "mainmenuoverride_bg_tf2.res"
+#base "mainmenuoverride_bg.res"
+
+#base "mainmenuoverride_rank.res"
+#base "mainmenuoverride_tflogoimage.res"
+
 "Resource/UI/MainMenuOverride.res" 
 {
 //"DashboardDimmer"
@@ -16,7 +22,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "v1.4"
+	"labeltext" "v1.4.1"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "150 150 150 255"
@@ -27,7 +33,7 @@
 	"fieldname" "TF2Logo"
 	"xpos" "c-16"//25"
 	"ypos" "80"//143"
-	"zpos" "11"
+	"zpos" "-11"
 	"wide" "180"
 	"tall" "32"
 	"visible" "1"
@@ -2498,20 +2504,6 @@
 }
 }
 
-"TFLogoImage" 
-{
-"ControlName" "ImagePanel"
-"fieldName" "TFLogoImage"
-"xpos" "9999"
-"ypos" "9999"
-"zpos" "-99"
-"wide" "256"
-"tall" "64"
-"visible" "1"
-"enabled" "1"
-"image" "../logo/new_tf2_logo"
-"scaleImage" "1"
-}
 "JungleInfernoImage" 
 {
 "ControlName" "ImagePanel"
@@ -2547,37 +2539,6 @@
 {
 "image" "../console/title_team_jungle_inferno_2017_widescreen"
 }
-}
-"RankModelPanel" 
-{
-"ControlName" "CPvPRankPanel"
-"fieldName" "RankModelPanel"
-"xpos" "c9975"//cs-0.5+160"
-"ypos" "72"//cs-0.5-120"
-"zpos" "-51"
-"wide" "1000"
-"tall" "1000"
-"visible" "1"
-"proportionaltoparent" "1"
-"mouseinputenabled" "1"
-"matchgroup" "MatchGroup_Casual_12v12"
-"show_progress" "0"
-}
-"RankPanel" 
-{
-"ControlName" "CPvPRankPanel"
-"fieldName" "RankPanel"
-"xpos" "r9360"
-"ypos" "105"
-"zpos" "-52"
-"wide" "320"
-"tall" "100"
-"visible" "1"
-"proportionaltoparent" "1"
-"mouseinputenabled" "0"
-"matchgroup" "MatchGroup_Casual_12v12"
-"xp_source_notification_center_x" "-75"
-"show_model" "1"
 }
 "PlayLabel" 
 {

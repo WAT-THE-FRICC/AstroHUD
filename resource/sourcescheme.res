@@ -2,6 +2,7 @@
 // If you wish to have it default (for ETF2L status, for example) add comment lines // to the below line.
 #base "sourcescheme_custom.res"
 #base "clientscheme_colors.res"
+#base "netgraph_font.res"
 
 // NOTE: You'll need to restart the game if you edit this file while in game.
 
@@ -385,7 +386,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lucida Console"
 				"tall"		"14"
 				"weight"	"500"
 			}
@@ -441,7 +442,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"Lucida Console Bold" [$OSX]
 				"weight"		"1500"
 				"tall"			"16" [!$OSX]
 				"tall"			"18" [$OSX]
@@ -454,7 +455,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"Lucida Console Bold" [$OSX]
 				"weight"		"1500"
 				"tall"			"18" [!$OSX]
 				"tall"			"19" [$OSX]
@@ -467,7 +468,7 @@ Scheme
 			"1"
 			{
 				"name"		"Arial" [!$OSX]
-				"name"		"Verdana" [$OSX]
+				"name"		"Lucida Console" [$OSX]
 				"weight"		"1000"
 				"tall"			"14" [!$OSX]
 				"tall"			"12" [$OSX]

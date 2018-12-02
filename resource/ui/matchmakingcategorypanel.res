@@ -85,7 +85,7 @@
 			"defaultBgColor_override"	"235 226 202 20"
 
 			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"LightOrange"
+			"armedBgColor_override"	"ButtonBGArmed"
 			"selectedBGColor_override" "Orange"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
@@ -136,7 +136,7 @@
 			"ypos"		"-1"
 			"zpos"		"10"
 			"wide"		"f0"//25"
-			"tall"		"f0"//20"
+			"tall"		"1000"//20"
 			"proportionaltoparent"	"1"
 			"labeltext"		""
 			"smallcheckimage"	"1"

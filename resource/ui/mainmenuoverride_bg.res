@@ -1,44 +1,121 @@
 "Resource/UI/MainMenuOverride.res" 
 {
-	"Background" 
+	"Background"
+	{
+		"ControlName"	"ScalableImagePanel"
+		"fieldName"		"Background"
+		"xpos"			"cs-0.5"
+		"ypos"			"0"
+		"zpos"			"-200"
+		"wide"			"o1.6"
+		"tall"			"f0"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			""
+		"scaleImage"	"1"
+		"proportionaltoparent"	"1"
+
+		if_wider
+		{
+			"wide"			"f0"
+			"tall"			"o0.628"
+		}
+
+		if_taller
+		{
+			"wide"			"o1.6"
+			"tall"			"f0"
+		}
+		
+		if_halloween_0
+		{
+			"image"		""
+		}
+		if_halloween_1
+		{
+			"image"		""
+		}
+		if_halloween_2
+		{
+			"image"		""
+		}
+		if_halloween_3
+		{
+			"image"		""
+		}
+		if_halloween_4
+		{	
+			"image"		""
+		}
+		if_halloween_5
+		{	
+			"image"		""
+		}
+		if_fullmoon
+		{
+			"image"		""
+		}
+		if_christmas
+		{
+			"image"		""
+		}		
+	}
+	"BackgroundFix" 
 	{
 		"ControlName" "ScalableImagePanel"
 		//"ControlName" "ImagePanel"
-		"fieldName" "Background"
+		"fieldName" "BackgroundFix"
 		"xpos" "9990"
 		//"xpos" "178" //cs-0.5"
-		"ypos" "9990"
+		"ypos" "0"
 		"zpos" "-200"
 		//"wide" "0"
-		"wide" "o1.0"
-		"tall" "f0"
+		"wide" "o1.7777"
+		"tall" "0"
 		"visible" "1"
 		"enabled" "1"
-		"image" "background_30-30-30"
+		"image" "background"
 		"scaleImage" "1"
 		//"fillcolor"		"yA_menuBG"
 		"if_wider" 
 		{
-		"wide" "f0"
-		"tall" "o1.0"
+		"wide" "o1.7777"
+		"tall" "f0"
 		}
 		"if_taller" 
 		{
-		"wide" "o1.0"
-		"tall" "f0"
+		"tall" "o1.7777"
+		"wide" "f0"
 		}
+	}
+	"Shade" 
+	{
+		"ControlName" "ImagePanel"
+		"fieldName" "Shade"
+		"xpos" "0"
+		"ypos" "0"//70
+		"zpos" "-198"
+		"wide" "f0"
+		"tall" "480"//340
+		"autoResize" "0"
+		"pinCorner" "0"
+		"visible" "1"
+		"enabled" "1"
+		"fillcolor" "0 0 0 127"
 	}
 	"CustomBG"
 	{
 		"ControlName" "EditablePanel"
 		"fieldname" "CustomBG"
-		"xpos" "0"
-		"ypos" "0"//r55"
+		
+		"xpos" "9990"
+		"ypos" "9990"//r55"
+		
 		"zpos" "-199"
 		"wide" "f0"
 		"tall" "480"
 		"visible" "1"
-		"PaintBackgroundType" "2"
+		"PaintBackgroundType" "0"
 		"SubButton" 
 		{
 			"ControlName" "CExImageButton"
@@ -65,11 +142,9 @@
 			"border_armed" ""
 			"paintbackground" "1"
 			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "G_Highlight"
-			"depressedFgColor_override" "G_Highlight"
-			"defaultBgcolor_override" "yA_menuBG"
-			"armedBgcolor_override" "yA_menuBG"
-			"depressedBgcolor_override" "yA_menuBG"
+			"armedBgColor_override" "yA_menuBG"
+			"depressedBgColor_override" "yA_menuBG"
+			"defaultbgcolor_override" "yA_menuBG"
 			"bgcolor_override" "yA_menuBG"
 			"image_drawcolor" "117 107 94 255"
 			"image_armedcolor" "235 226 202 255"

@@ -64,7 +64,7 @@
 		"labelText"		"%button_token%"
 		"textinsetx"	"4"
 		"use_proportional_insets" "1"
-		"font"			"m0refont24"
+		"font"			"HudFontMediumBold"
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"

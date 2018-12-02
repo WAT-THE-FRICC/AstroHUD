@@ -8,32 +8,44 @@
 
 #base "customfonts/_default_Avenir-Black.res"
 
+// remove double slashes to activate, if you designated a custom font
+//#base "customfonts/_custom.res"
+
+// a free font that looks like Avenir
 //#base "customfonts/_default_r.res"
-//#base "customfonts/_default_r_copy.res"
+//#base "customfonts/_default_r_copy.res" // edited non-bold version
 
 //#base "customfonts/Avenir-Black.res"
 //#base "customfonts/Avenir-Heavy.res"
 
-//#base "customfonts/Open-Sans.res"
-//#base "customfonts/Montserrat.res"
+//#base "customfonts/Open-Sans.res" // looks like notoHUD
+//#base "customfonts/Montserrat.res" // from ToonHUD
 //#base "customfonts/Roboto.res"
 //#base "customfonts/renogare.res"
+//#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
 
 //#base "customfonts/Bahnschrift-Win10only.res"
 //#base "customfonts/DIN1451.res"
 
+// looks like Futura
 //#base "customfonts/GlacialIndifference-Regular.res"
 //#base "customfonts/GlacialIndifference-Bold.res"
 
+//
+// Fonts from other HUDs
+//
+
+// BudHUD
 //#base "customfonts/Lato-semibold-budHUD.res"
 
+// RaysHUD
 //#base "customfonts/RaysHUD-Cerbetica.res"
 
+// ahud
 //#base "customfonts/codeprobold.res"
 //#base "customfonts/codeprolc-ahud.res"
 
-//#base "customfonts/Orbitron.res" // same as "astrohud" menu title. sci-fi font
-
+// Default HUD fonts
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
 

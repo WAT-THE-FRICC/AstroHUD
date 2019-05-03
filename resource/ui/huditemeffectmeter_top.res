@@ -20,12 +20,12 @@
 }
 "ItemEffectMeterLabel" 
 {
-"ypos" "323"
+"ypos" "318"
 "ypos_minmode" "378"
 }
 "ItemEffectMeter" 
 {
-"ypos" "330"
+"ypos" "325"
 "ypos_minmode" "385"
 }
 }

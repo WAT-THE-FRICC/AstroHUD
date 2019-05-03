@@ -5,7 +5,7 @@
 "ControlName" "CExLabel"
 "fieldName" "ChargeLabel"
 "xpos" "c93"
-"ypos" "310"//407
+"ypos" "314"//407
 "xpos_minmode" "c75"
 "ypos_minmode" "380"
 "zpos" "3"
@@ -20,11 +20,11 @@
 "textAlignment" "north-west"
 "dulltext" "0"
 "brighttext" "0"
-"font" "Astro50"
+"font" "Astro40"
 "font_minmode" "Astro32"
 "fgcolor" "QHUDChargeLabel"
 }
-"ChargeLabelShadow"
+"ChargeLabelShadow" //does not display properly
 {
 "ControlName" "CExLabel"
 "fieldName" "ChargeLabelShadow"
@@ -126,7 +126,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"c-60"
-		"ypos"			"340"
+		"ypos"			"332"
 		"ypos_minmode"	"395"
 		"zpos"			"2"
 		"wide"			"120"

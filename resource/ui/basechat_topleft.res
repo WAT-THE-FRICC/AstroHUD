@@ -11,7 +11,7 @@
 		"ypos" 			"0" //225 // TLC
 		//"ypos_minmode" 	"r114" // TLC
 		"zpos" 			"9"
-		"wide"			"300"
+		"wide"			"225"
 		//"wide_minmode"	"268"
 		"tall" 			"150"
 		//"tall_minmode" 	"114"
@@ -30,7 +30,7 @@
 		"enabled" 				"1"
 		"xpos" 					"5"
 		"ypos" 					"395"
-		"wide"					"300"
+		"wide"					"225"
 		//"wide_minmode" 			"258"
 		"tall" 					"2"
 		"PaintBackgroundType" 	"0"
@@ -65,7 +65,7 @@
 		"fieldName" 	"HudChatHistory"
 		"xpos" 			"0"
 		"ypos" 			"10"
-		"wide"			"300"
+		"wide"			"225"
 		//"wide_minmode" 	"230"
 		"tall" 			"140"
 		"wrap" 			"1"
@@ -75,7 +75,7 @@
 		"enabled" 		"1"
 		"labelText" 	""
 		"textAlignment" "south-west"
-		"font" 			"DefaultVerySmall"
+		"font" 			"DefaultVerySmall" //seems to have no effect
 		"maxchars" 		"-1"
 	}
 }

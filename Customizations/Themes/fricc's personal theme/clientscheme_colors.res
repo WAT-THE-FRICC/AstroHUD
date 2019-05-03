@@ -32,6 +32,7 @@
 		// for my own reference:
 		// hypnotize: 80 150 255
 		// csharp overheal: 125 225 30
+		// old overheal: 0 175 255
 		
 		// Don't forget the last number (opacity)!
 		
@@ -43,13 +44,12 @@
 		// HEALTH
 		//
 			"QHUDNormal" "255 255 255 255"
-			"QHUDOverheal" "0 170 127 255"
-			//old overheal //"0 175 255 255"
+			"QHUDOverheal" "0 175 255 255"
 		
 		//
 		// LOW HEALTH
 		//
-			"QHUDLow" "255 100 0 255"
+			"QHUDLow" "255 0 0 255"
 			"QHUDLowFlash" "0 0 0 255" // flashed during low health
 		
 			// currently not in use, change QHUDOverheal instead
@@ -62,9 +62,7 @@
 		// AMMO
 		//
 			"QHUDAmmoInClip" "255 255 255 255"
-			"QHUDAmmoInReserve" "0 170 127 255"
-								// to match the color seen in the v1.3 video,
-								// use the color "0 175 255 255"
+			"QHUDAmmoInReserve" "0 175 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
 			"QHUDAmmoLowReserve" "255 49 49 255"
 			
@@ -136,14 +134,14 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"0 170 127 255"
-			"TFOrange"				"0 170 127 255" // a bug in TF2 mandates some elements
-			"Orange" 				"0 170 127 255"	// to use these color names
+			"G_Highlight" 			"0 175 255 255"
+			"TFOrange"				"0 175 255 255" // a bug in TF2 mandates some elements
+			"Orange" 				"0 175 255 255"	// to use these color names
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"0 170 127 255"
+			"G_Highlight_text" 		"0 175 255 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
@@ -160,11 +158,11 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "0 170 127 255"		// recommended to match "G_Highlight" above
+			"ButtonBGArmed"         "0 175 255 255"		// recommended to match "G_Highlight" above
 			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "0 170 127 255"
+			"ButtonBGSelect"        "0 175 255 255"
 			"ButtonFontSelect"      "255 255 255 255"
 			
 			

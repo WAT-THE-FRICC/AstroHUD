@@ -15,42 +15,6 @@
 "HealthDeathWarning" "0.48"
 "HealthDeathWarningColor" "HUDDeathWarning"
 }
-"PlayerStatusHealthValue" 
-	{
-		"ControlName" "CExLabel"
-		"fieldName" "PlayerStatusHealthValue"
-		"xpos" "c-179"
-		"xpos_minmode" "c-148"
-		"ypos" "310" //423
-		"ypos_minmode" "380"
-		"wide" "100"
-		"tall" "50"
-		"zpos" "6"
-		"visible" "1"
-		"enabled" "1"
-		"labelText" "%Health%"
-		"textAlignment" "north"
-		"font" "Astro50"
-		"font_minmode" "Astro32"
-		"fgcolor" "QHUDNormal"
-	}
-	"PlayerStatusHealthValueShadow" 
-	{
-		"ControlName" "CExLabel"
-		"fieldName" "PlayerStatusHealthValueShadow"
-		"xpos" "c-178"
-		"xpos_minmode" "c-147"
-		"ypos" "311" //423
-		"ypos_minmode" "381"
-		"zpos" "5"
-		"wide" "100"
-		"tall" "50"
-		"visible" "1"
-		"enabled" "1"
-		"labelText" "%Health%"
-		"textAlignment" "north"
-		"fgcolor" "QHUDShadow"
-	}
 	"HealthBG"
 	{
 		"ControlName" "CExLabel"

@@ -44,7 +44,6 @@
 		//
 			"QHUDNormal" "255 255 255 255"
 			"QHUDOverheal" "0 170 127 255"
-			//old overheal //"0 175 255 255"
 		
 		//
 		// LOW HEALTH

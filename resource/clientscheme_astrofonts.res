@@ -45,6 +45,9 @@
 //#base "customfonts/codeprobold.res"
 //#base "customfonts/codeprolc-ahud.res"
 
+// yahud-fl
+//#base "customfonts/texgyreheros.res"
+
 // Default HUD fonts
 //#base "customfonts/TF2-Build.res"
 //#base "customfonts/TF2-Secondary.res"
@@ -53,9 +56,9 @@
 #base "customfonts/glacialindifference_menufonts.res"
 #base "customfonts/_default.res"
 
-"Scheme" 
+"Scheme"
 {
-"CustomFontFiles" 
+	"CustomFontFiles" 
  	{
  		"1" "resource/tf.otf"
  		"2" "resource/tfd.otf"
@@ -168,6 +171,21 @@
 		"font" "resource/customfonts/CodeProLC.otf"
 		"name" "Code Pro LC"
  		}
+		"30"
+		{
+		"font" "resource/customfonts/texgyreheros-Title.otf"
+		"name" "Title"
+		}
+		"31"
+		{
+		"font" "resource/customfonts/Text.otf"
+		"name" "Text"
+		}
+		"32"
+		{
+		"font" "resource/customfonts/Text-Caps.otf"
+		"name" "Text-Caps"
+		}
  		
  		
 		// add your new font files here

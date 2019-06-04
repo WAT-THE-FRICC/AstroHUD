@@ -31,7 +31,7 @@
 			}
 		}
 
-		"Astro50"
+		"Astro40"
 		{
 			"1"
 			{
@@ -143,7 +143,7 @@
 				"outline" "0"
 			}
 		}
-		"AstroBlur50"
+		"AstroBlur40"
 		{
 			"1"
 			{

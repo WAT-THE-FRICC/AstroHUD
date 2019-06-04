@@ -27,7 +27,7 @@
 			}
 		}
 
-		"Astro50"
+		"Astro40"
 		{
 			"1"
 			{
@@ -168,7 +168,7 @@
 		
 		
 		
-		"AstroBlur50"
+		"AstroBlur40"
 		{
 			"1"
 			{

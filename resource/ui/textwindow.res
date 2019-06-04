@@ -186,5 +186,14 @@
 		"fieldName"		"MessageTitle"
 		"visible"		"0"
 		"enabled"		"0"
+	}
+	"HotkeyE"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyE"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&E"
+		"command"		"okay"
 	}		
 }

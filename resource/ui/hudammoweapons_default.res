@@ -84,7 +84,7 @@
 "fieldName" "AmmoInReserve"
 "font" "Astro24"
 "fgcolor" "QHUDAmmoInReserve"
-"xpos" "c142"
+"xpos" "c137"
 "xpos_minmode" "c109"
 "ypos" "316"
 "ypos_minmode" "382"

@@ -22,7 +22,7 @@
 	"tall" "12"
 	"visible" "1"
 	"PaintBackgroundType" "0"
-	"labeltext" "v1.4.2b"
+	"labeltext" "v1.5.0b"
 	"font" "m0refont12"
 	"textalignment" "center"
 	"fgcolor_override" "150 150 150 255"

@@ -195,5 +195,14 @@
 		"visible"		"1"
 		"labelText"		"&E"
 		"command"		"okay"
-	}		
+	}
+	"HotkeySpace"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeySpace"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&space"
+		"command"		"okay"
+	}	
 }

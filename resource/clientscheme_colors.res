@@ -43,6 +43,7 @@
 		// HEALTH
 		//
 			"QHUDNormal" "0 170 127 255"
+			// "45 166 177 255"
 			"QHUDOverheal" "153 225 153 255"
 			//old overheal //"0 175 255 255"
 		

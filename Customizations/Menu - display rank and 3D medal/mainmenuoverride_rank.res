@@ -34,7 +34,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5-150" // 240-49
 
-		"zpos"			"1"
+		"zpos"			"-10"
 		"wide"			"1000"
 		"tall"			"1000"
 		"visible"		"0"
@@ -51,6 +51,7 @@
 		"fieldName"		"CycleRankTypeButton"
 		"xpos"			"c100"
 		"ypos"			"r45"
+		"zpos" "10"
 		"wide"			"15"
 		"tall"			"15"
 		"autoResize"	"0"

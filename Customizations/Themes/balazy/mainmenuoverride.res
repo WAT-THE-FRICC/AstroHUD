@@ -88,7 +88,7 @@
 	"wide" "500"
 	"tall" "32"
 	"visible" "1"
-	"labelText" "THE-MUTE-SPY-GAME"
+	"labelText" "THE-BALAZY-SPY-GAME"
 	"font" "Orbit32"
 	"textalignment" "center"
 	"fgcolor_override" "255 255 255 255"

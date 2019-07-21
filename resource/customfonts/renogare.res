@@ -32,7 +32,7 @@
 			"1"
 			{
 				"name" "Renogare-Regular"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -67,7 +67,7 @@
 			"1"
 			{
 				"name" "Renogare-Regular"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -144,7 +144,7 @@
 			"1"
 			{
 				"name" "Renogare-Regular"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -183,7 +183,7 @@
 			"1"
 			{
 				"name" "Renogare-Regular"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

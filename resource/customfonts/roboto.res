@@ -33,7 +33,7 @@
 			{
 				"name" "Roboto Bold" [!$OSX]
 				"name" "Roboto Bold" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -74,7 +74,7 @@
 			{
 				"name" "Roboto Medium" [!$OSX]
 				"name" "Roboto Medium" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -158,7 +158,7 @@
 			"1"
 			{
 				"name" "Roboto Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -197,7 +197,7 @@
 			"1"
 			{
 				"name" "Roboto Medium"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

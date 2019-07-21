@@ -31,7 +31,7 @@
 		
 		// for my own reference:
 		// hypnotize: 80 150 255
-		// csharp overheal: 125 225 30 //128 216 36 255
+		// csharp overheal: 125 225 30
 		
 		// Don't forget the last number (opacity)!
 		
@@ -42,28 +42,27 @@
 		//
 		// HEALTH
 		//
-			"QHUDNormal" "0 170 127 255"
-			// "45 166 177 255"
-			"QHUDOverheal" "153 225 153 255"
+			"QHUDNormal" "255 255 255 255"
+			"QHUDOverheal" "81 0 241 255"
 			//old overheal //"0 175 255 255"
 		
 		//
 		// LOW HEALTH
 		//
-			"QHUDLow" "255 100 0 255"
+			"QHUDLow" "255 255 255 255"
 			"QHUDLowFlash" "0 0 0 255" // flashed during low health
 		
 			// currently not in use, change QHUDOverheal instead
 			//"QHUDOverhealBar"
 				
 			// used with "Health box behind number"
-			"QHUDLowBar" "255 49 49 153"
+			"QHUDLowBar" "240 0 132 255"
 		
 		//
 		// AMMO
 		//
 			"QHUDAmmoInClip" "255 255 255 255"
-			"QHUDAmmoInReserve" "0 170 127 255"
+			"QHUDAmmoInReserve" "200 200 200 255"
 								// to match the color seen in the v1.3 video,
 								// use the color "0 175 255 255"
 			"QHUDAmmoLowClip" "255 0 0 255"
@@ -137,14 +136,14 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"150 150 150 255"	// was 0 170 127 255
-			"TFOrange"				"150 150 150 255" // a bug in TF2 mandates some elements
-			"Orange" 				"150 150 150 255"	// to use these color names
+			"G_Highlight" 			"81 0 241 255"
+			"TFOrange"				"81 0 241 255" // a bug in TF2 mandates some elements
+			"Orange" 				"81 0 241 255"	// to use these color names
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"150 150 150 255"
+			"G_Highlight_text" 		"81 0 241 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
@@ -161,11 +160,11 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "150 150 150 255"		// recommended to match "G_Highlight" above
+			"ButtonBGArmed"         "81 0 241 255"		// recommended to match "G_Highlight" above
 			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "150 150 150 255"
+			"ButtonBGSelect"        "81 0 241 255"
 			"ButtonFontSelect"      "255 255 255 255"
 			
 			
@@ -174,28 +173,28 @@
 		//	
 			// used in-game (sv_pure)
 			// or with the "Menu background - gray" option
-			"ya_MenuBG" 				"35 35 35 255"
-			"ya_pauseBG"				"35 35 35 0"
+			"ya_MenuBG" 				"65 0 117 255"
+			"ya_pauseBG"				"65 0 117 0"
 			
 			// main menu bottom bar, some dialogs
-			"panelBG"					"30 30 30 255"
-			"panelBGtransparent"		"30 30 30 200"
+			"panelBG"					"65 0 117 255"
+			"panelBGtransparent"		"65 0 117 200"
 			
 		//
 		// BACKPACK ITEM HOVER INFO
 		//
-			"LoadoutItemPopupBorder_bg" "30 30 30 255"
+			"LoadoutItemPopupBorder_bg" "65 0 117 255"
 		
 		//
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
 			"PartyMember1" "150 150 150 255"
-			"PartyMember2" "150 150 150 255"
-			"PartyMember3" "150 150 150 255"
-			"PartyMember4" "150 150 150 255"
-			"PartyMember5" "150 150 150 255"
-			"PartyMember6" "150 150 150 255"
+			"PartyMember2" "150 150 150 220"
+			"PartyMember3" "150 150 150 195"
+			"PartyMember4" "150 150 150 170"
+			"PartyMember5" "150 150 150 145"
+			"PartyMember6" "150 150 150 120"
 			
 			// default:
 			//"PartyMember1" "124 173 255 255"

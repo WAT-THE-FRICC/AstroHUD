@@ -34,7 +34,7 @@
 			{
 				"name" "Renogare-Regular" [!$OSX]
 				"name" "Avenir Black" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -75,7 +75,7 @@
 			{
 				"name" "Renogare-Regular" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -175,7 +175,7 @@
 			{
 				"name" "Renogare-Regular" [!$OSX]
 				"name" "Avenir Black" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -217,7 +217,7 @@
 			{
 				"name" "Renogare-Regular" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

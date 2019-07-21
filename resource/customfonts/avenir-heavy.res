@@ -33,7 +33,7 @@
 			{
 				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -74,7 +74,7 @@
 			{
 				"name" "Roboto Medium" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -159,7 +159,7 @@
 			{
 				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
 				"name" "Avenir Black" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -201,7 +201,7 @@
 			{
 				"name" "Roboto Medium" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

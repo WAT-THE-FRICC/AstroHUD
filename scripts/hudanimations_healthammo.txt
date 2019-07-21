@@ -49,9 +49,10 @@ event HudHealthDyingPulse
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"		Linear 0.125 0.075
 
-	Animate PlayerStatusHealthvalue FgColor "QHUDLowFlash" linear 0.0 0.0
-	Animate PlayerStatusHealthvalue FgColor "255 255 255 255" linear 0.075 0.0
-	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.15 0.0
+	Animate PlayerStatusHealthvalue FgColor "255 255 255 255" linear 0.0 0.0 //QHUDLowFlash unused
+	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.075 0.0
+	Animate PlayerStatusHealthvalue FgColor "255 255 255 255" linear 0.15 0.0
+	Animate PlayerStatusHealthvalue FgColor "QHUDLow" linear 0.225 0.0
 	//Animate SpectatorStatusHealthvalue FgColor "QHUDLowFlash" Accel 0.0 0.0
 	//Animate SpectatorStatusHealthvalue FgColor "255 255 255 255" linear 0.075 0.0
 	////Animate SpectatorStatusHealthvalue FgColor "QHUDLow" Accel 0.0 0.0

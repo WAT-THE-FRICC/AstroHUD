@@ -5,7 +5,7 @@
 
 // ONLY HAVE ONE FONT ENABLED AT THE SAME TIME
 
-
+// COMMENT (DOUBLESLASH) THIS LINE OUT IF USING OTHER FONTS
 #base "customfonts/_default_Avenir-Black.res"
 
 // remove double slashes to activate, if you designated a custom font
@@ -47,6 +47,12 @@
 
 // yahud-fl
 //#base "customfonts/texgyreheros.res"
+
+// georgia
+//#base "customfonts/georgia_menufonts.res"
+
+// universe
+//#base "customfonts/balazy.res"
 
 // Default HUD fonts
 //#base "customfonts/TF2-Build.res"

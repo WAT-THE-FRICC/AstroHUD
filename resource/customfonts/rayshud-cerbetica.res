@@ -38,7 +38,7 @@
 			"1"
 			{
 				"name" "Cerbetica Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -73,7 +73,7 @@
 			"1"
 			{
 				"name" "Cerbetica"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -150,7 +150,7 @@
 			"1"
 			{
 				"name" "Cerbetica Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -189,7 +189,7 @@
 			"1"
 			{
 				"name" "Cerbetica"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

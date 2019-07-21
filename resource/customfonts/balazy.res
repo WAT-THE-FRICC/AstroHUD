@@ -1,4 +1,4 @@
-#base "avenir-heavy_menufonts.res"
+#base "georgia_menufonts.res"
 
 "Scheme"
 {
@@ -8,7 +8,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "Georgia"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -19,7 +19,7 @@
 		{
 			"1"
 			{
-				"name" "Orbitron Bold"
+				"name" "Georgia"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -31,39 +31,33 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro32"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
 		"Astro24"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
-				"custom"		"1" [!$WINDOWS]
 			}
 		}
   
@@ -72,9 +66,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
-				"tall" "40"
+				"name" "Georgia"
+				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -84,8 +77,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -96,8 +88,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -108,8 +99,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -120,8 +110,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -132,8 +121,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -144,36 +132,18 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
 			}
-		
 		}
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		"AstroBlur40"
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
@@ -186,8 +156,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "32"
 				"additive" "0"
 				"antialias" "1"
@@ -200,8 +169,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Black" [!$OSX]
-				"name" "Avenir Black" [$OSX]
+				"name" "Georgia"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -214,9 +182,8 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
-				"tall" "40"
+				"name" "Georgia"
+				"tall" "50"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -227,8 +194,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "36"
 				"additive" "0"
 				"antialias" "1"
@@ -241,8 +207,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "24"
 				"additive" "0"
 				"antialias" "1"
@@ -254,8 +219,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "18"
 				"additive" "0"
 				"antialias" "1"
@@ -267,8 +231,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "15"
 				"additive" "0"
 				"antialias" "1"
@@ -280,8 +243,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "12"
 				"additive" "0"
 				"antialias" "1"
@@ -293,8 +255,7 @@
 		{
 			"1"
 			{
-				"name" "AvenirLTStd-Heavy-edited" [!$OSX]
-				"name" "Avenir Heavy" [$OSX]
+				"name" "Georgia"
 				"tall" "11"
 				"additive" "0"
 				"antialias" "1"
@@ -303,6 +264,6 @@
 			}
 		
 		}
-    }
+	}
 }
 		

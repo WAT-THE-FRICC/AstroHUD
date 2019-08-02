@@ -80,21 +80,24 @@
  		"name" "Renogare Numbers Regular"
 		//"range" "0x0029 0x0040"
  		}
+		
 		"6"
  		{
- 		"font" "resource/customfonts/GlacialIndifference-Medium.otf"
- 		"name" "GlacialIndifference-Medium"
+ 		"font" "resource/customfonts/GlacialIndifference-Regular.otf"
+ 		"name" "GlacialIndifference-Regular"
  		}
 		"7"
  		{
  		"font" "resource/customfonts/GlacialIndifference-Bold.otf"
  		"name" "GlacialIndifference-Bold"
  		}
+		
  		"8" 
  		{
  		"font" "resource/customfonts/DIN 1451 Mittelschrift.otf"
  		"name" "DIN 1451 Mittelschrift"
  		}
+		
 		"9"
  		{
  		"font" "resource/customfonts/Orbitron-Bold.ttf"
@@ -105,6 +108,7 @@
  		"font" "resource/customfonts/Orbitron-Medium.ttf"
  		"name" "Orbitron Medium"
  		}
+		
 		"11"
  		{
  		"font" "resource/customfonts/AvenirLTStd-Heavy-edited.otf"
@@ -115,6 +119,7 @@
  		"font" "resource/customfonts/AvenirLTStd-Black.ttf"
  		"name" "AvenirLTStd-Black"
  		}
+		
  		"15"
  		{
  		"font" "resource/customfonts/Cerbetica.ttf" [!$OSX]
@@ -127,6 +132,7 @@
 		"font" "resource/customfonts/Cerbetica_mac.ttf" [$OSX]
  		"name" "Cerbetica Bold"
  		}
+		
  		"17"
  		{
  		"font" "resource/customfonts/OpenSans-Semibold.ttf"
@@ -137,11 +143,13 @@
  		"font" "resource/customfonts/OpenSans-Bold.ttf"
  		"name" "Open Sans Bold"
  		}
+		
 		"19"
  		{
  		"font" "resource/customfonts/Montserrat.ttf"
  		"name" "Montserrat"
  		}
+		
 		"22"
  		{
  		"font" "resource/customfonts/Lato-Bold.ttf"
@@ -152,11 +160,13 @@
  		"font" "resource/customfonts/Lato-Semibold.ttf"
  		"name" "Lato Semibold"
  		}
+		
  		"25"
  		{
  		"font" "resource/customfonts/ToonHUD Hemi Head.ttf"
  		"name" "ToonHUDHemiHeadRg-BoldItalic"
  		}
+		
 		"26"
 		{
 		"font" "resource/customfonts/Roboto-Bold.ttf"
@@ -167,6 +177,7 @@
 		"font" "resource/customfonts/Roboto-Medium.ttf"
 		"name" "Roboto Medium"
  		}
+		
 		"28"
 		{
 		"font" "resource/customfonts/CodeProBold.otf"
@@ -177,6 +188,7 @@
 		"font" "resource/customfonts/CodeProLC.otf"
 		"name" "Code Pro LC"
  		}
+		
 		"30"
 		{
 		"font" "resource/customfonts/texgyreheros-Title.otf"
@@ -192,7 +204,12 @@
 		"font" "resource/customfonts/Text-Caps.otf"
 		"name" "Text-Caps"
 		}
- 		
+		
+ 		"33"
+ 		{
+ 		"font" "resource/customfonts/GlacialIndifference-Medium.otf"
+ 		"name" "GlacialIndifference-Medium"
+ 		}
  		
 		// add your new font files here
 		// with a number larger than the preceding

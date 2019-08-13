@@ -41,6 +41,12 @@
 		"command" "engine hud_reloadscheme"
 		"subimage" "glyph_tv"
 	}
+	"MinmodeButton"
+	{
+		"label" "cl_hud_minmode"
+		"command" "engine toggle cl_hud_minmode"
+		"subimage" "glyph_tv"
+	}
 	"RecordFixButton"
 	{
 		"label" "record fix;"

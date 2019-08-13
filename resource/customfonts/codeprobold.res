@@ -27,12 +27,12 @@
 			}
 		}
 
-		"Astro50"
+		"Astro40"
 		{
 			"1"
 			{
 				"name" "Code Pro Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -67,7 +67,7 @@
 			"1"
 			{
 				"name" "Code Pro LC"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

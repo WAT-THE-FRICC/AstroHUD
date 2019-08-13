@@ -284,4 +284,23 @@
 "pinCorner" "0"
 		}
 	}	
+	
+	"HotkeyE"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeyE"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&E"
+		"command"		"continue"
+	}
+	"HotkeySpace"
+	{
+		"ControlName"	"CExButton"
+		"fieldName"		"HotkeySpace"
+		"xpos"			"r0"
+		"visible"		"1"
+		"labelText"		"&space"
+		"command"		"continue"
+	}
 }

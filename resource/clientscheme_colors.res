@@ -31,7 +31,7 @@
 		
 		// for my own reference:
 		// hypnotize: 80 150 255
-		// csharp overheal: 125 225 30
+		// csharp overheal: 125 225 30 //128 216 36 255
 		
 		// Don't forget the last number (opacity)!
 		
@@ -43,7 +43,9 @@
 		// HEALTH
 		//
 			"QHUDNormal" "0 170 127 255"
-			"QHUDOverheal" "0 175 255 255"
+			// "45 166 177 255"
+			"QHUDOverheal" "153 225 153 255"
+			//old overheal //"0 175 255 255"
 		
 		//
 		// LOW HEALTH
@@ -135,14 +137,14 @@
 			// This color value controls the color theme of the HUD
 			// you can also customize the button colors in the section below
 			// to match this color
-			"G_Highlight" 			"0 170 127 255"
-			"TFOrange"				"0 170 127 255" // a bug in TF2 mandates some elements
-			"Orange" 				"0 170 127 255"	// to use these color names
+			"G_Highlight" 			"150 150 150 255"	// was 0 170 127 255
+			"TFOrange"				"150 150 150 255" // a bug in TF2 mandates some elements
+			"Orange" 				"150 150 150 255"	// to use these color names
 			
 			// This controls the "Items" menu buttons
 			// and some title text elements
 			// Best to match G_Highlight
-			"G_Highlight_text" 		"0 170 127 255"
+			"G_Highlight_text" 		"150 150 150 255"
 			
 			// example colors
 			// 25 100 240 255 // blue
@@ -159,11 +161,11 @@
 			"ButtonFont"            "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// mouse hover
-			"ButtonBGArmed"         "0 170 127 255"		// recommended to match "G_Highlight" above
+			"ButtonBGArmed"         "150 150 150 255"		// recommended to match "G_Highlight" above
 			"ButtonFontArmed"       "255 255 255 255"	// text color. Recommended to be either white or black
 			
 			// idk what these do, set it the same as the armed
-			"ButtonBGSelect"        "0 170 127 255"
+			"ButtonBGSelect"        "150 150 150 255"
 			"ButtonFontSelect"      "255 255 255 255"
 			
 			
@@ -188,12 +190,12 @@
 		// PARTY MEMBER COLORS
 		// on the top bar
 		//
-			"PartyMember1" "0 170 127 255"
-			"PartyMember2" "0 170 127 220"
-			"PartyMember3" "0 170 127 195"
-			"PartyMember4" "0 170 127 170"
-			"PartyMember5" "0 170 127 145"
-			"PartyMember6" "0 170 127 120"
+			"PartyMember1" "150 150 150 255"
+			"PartyMember2" "150 150 150 255"
+			"PartyMember3" "150 150 150 255"
+			"PartyMember4" "150 150 150 255"
+			"PartyMember5" "150 150 150 255"
+			"PartyMember6" "150 150 150 255"
 			
 			// default:
 			//"PartyMember1" "124 173 255 255"

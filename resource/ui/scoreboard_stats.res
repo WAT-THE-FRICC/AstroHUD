@@ -45,7 +45,7 @@
 "ypos" "430" //345"
 "zpos" "0"
 "wide" "500"
-"tall" "50"
+"tall" "55"
 //"tall" "80"
 "autoResize" "0"
 "pinCorner" "0"

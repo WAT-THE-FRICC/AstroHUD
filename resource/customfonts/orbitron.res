@@ -31,12 +31,12 @@
 			}
 		}
 
-		"Astro50"
+		"Astro40"
 		{
 			"1"
 			{
 				"name" "Orbitron Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -71,7 +71,7 @@
 			"1"
 			{
 				"name" "Orbitron Medium"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -143,12 +143,12 @@
 				"outline" "0"
 			}
 		}
-		"AstroBlur50"
+		"AstroBlur40"
 		{
 			"1"
 			{
 				"name" "Orbitron Bold"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -187,7 +187,7 @@
 			"1"
 			{
 				"name" "Orbitron Medium"
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"

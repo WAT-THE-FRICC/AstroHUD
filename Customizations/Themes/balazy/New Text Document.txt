@@ -1,0 +1,5 @@
+1. health box
+2. enable font mutebad and georgia_menufonts
+3. install menu customization
+4. copy clientscheme
+epic slope stab

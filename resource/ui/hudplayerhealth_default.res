@@ -21,7 +21,7 @@
 "fieldName" "PlayerStatusHealthValue"
 "xpos" "c-293"
 "xpos_minmode" "c-273"
-"ypos" "310" //423
+"ypos" "314" //423
 "ypos_minmode" "380"
 "zpos" "6"
 "wide" "200"
@@ -30,7 +30,7 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "Astro50"
+"font" "Astro40"
 "font_minmode" "Astro32"
 "fgcolor" "QHUDNormal"
 }
@@ -49,7 +49,7 @@
 "enabled" "1"
 "labelText" "%Health%"
 "textAlignment" "north-east"
-"font" "AstroBlur50"
+"font" "AstroBlur40"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
 

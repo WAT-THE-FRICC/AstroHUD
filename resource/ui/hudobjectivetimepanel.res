@@ -16,8 +16,8 @@
 		"tall"			"33"
 		"tall_minmode"	"23"
 		"tall_lodef"	"38"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_blue_bg"	
 		"scaleImage"		"1"	
 
@@ -111,7 +111,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -175,7 +175,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -239,7 +239,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -304,7 +304,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"	
 
@@ -369,7 +369,7 @@
 		"tall"			"20"
 		"tall_minmode"	"0"
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/objectives_timepanel_suddendeath"	
 		"scaleImage"		"1"
 		

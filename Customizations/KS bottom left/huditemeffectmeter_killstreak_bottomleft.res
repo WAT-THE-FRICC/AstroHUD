@@ -2,8 +2,8 @@
 {
 "ItemEffectMeterCountKillstreak" 
 {
-"xpos" "50" //c-136
-"xpos_minmode" "50"
+"xpos" "45" //c-136
+"xpos_minmode" "45"
 "ypos" "r25" //365
 "ypos_minmode" "r25" 
 "zpos" "2"
@@ -26,8 +26,8 @@
 {
 "ControlName" "ImagePanel"
 "fieldName" "KillStreakIcon"
-"xpos" "100"//-114
-"xpos_minmode" "100"
+"xpos" "95"//-114
+"xpos_minmode" "95"
 "ypos" "r20"//369
 "ypos_minmode" "r20"
 "zpos" "12"

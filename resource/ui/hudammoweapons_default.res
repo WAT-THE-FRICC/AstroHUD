@@ -36,12 +36,12 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInClip"
-"font" "Astro50"
+"font" "Astro40"
 "font_minmode" "Astro32"
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c93"
 "xpos_minmode" "c73"
-"ypos" "310"//423
+"ypos" "314"//423
 "ypos_minmode" "380"
 "zpos" "6"
 "wide" "150"
@@ -55,7 +55,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoInClipShadow"
-"font" "AstroBlur50"
+"font" "AstroBlur40"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
 //"xpos" "c95"
@@ -84,9 +84,9 @@
 "fieldName" "AmmoInReserve"
 "font" "Astro24"
 "fgcolor" "QHUDAmmoInReserve"
-"xpos" "c142"
+"xpos" "c137"
 "xpos_minmode" "c109"
-"ypos" "315"
+"ypos" "316"
 "ypos_minmode" "382"
 "zpos" "8"
 "wide" "100"
@@ -124,12 +124,12 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmonoClip"
-"font" "Astro50"
+"font" "Astro40"
 "font_minmode" "Astro32"
 "fgcolor" "QHUDAmmoInClip"
 "xpos" "c93"
 "xpos_minmode" "c73"
-"ypos" "310"//423
+"ypos" "314"//423
 "ypos_minmode" "380"
 "zpos" "6"
 "wide" "100"
@@ -143,7 +143,7 @@
 {
 "ControlName" "CExLabel"
 "fieldName" "AmmoNoClipshadow"
-"font" "AstroBlur50"
+"font" "AstroBlur40"
 "font_minmode" "AstroBlur32"
 "fgcolor" "QHUDShadow"
 //"xpos" "c94"

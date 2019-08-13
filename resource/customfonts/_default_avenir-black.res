@@ -28,13 +28,13 @@
 			}
 		}
 
-		"Astro50"
+		"Astro40"
 		{
 			"1"
 			{
 				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Black" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -69,13 +69,13 @@
 		}
   
   // controls itemeffectmetercount font
-		"Secondary50"
+		"Secondary40"
 		{
 			"1"
 			{
 				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -169,13 +169,13 @@
 		
 		
 		
-		"AstroBlur50"
+		"AstroBlur40"
 		{
 			"1"
 			{
 				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Black" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
@@ -211,13 +211,13 @@
 				"custom"		"1" [!$WINDOWS]
 			}
 		}
-		"SecondaryBlur50"
+		"SecondaryBlur40"
 		{
 			"1"
 			{
 				"name" "AvenirLTStd-Black" [!$OSX]
 				"name" "Avenir Heavy" [$OSX]
-				"tall" "50"
+				"tall" "40"
 				"additive" "0"
 				"antialias" "1"
 				"outline" "0"
